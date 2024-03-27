@@ -52,4 +52,6 @@
       
 </table>
 
-
+| Versão | Alteração | Responsável | Revisor | Data |
+| - | - | - | - | - |
+| 1.0 | Criação da página de documentação | Caio Mesquita Vieira | - | 25/03 |
