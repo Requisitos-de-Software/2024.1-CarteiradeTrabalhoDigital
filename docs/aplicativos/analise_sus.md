@@ -19,7 +19,7 @@ Ideia dada pela membro: Iago Passaglia Pereira
  O Meu SUS Digital, é uma solução de Saúde Digital que visa facilitar o acesso às informações em saúde, promovendo a continuidade do cuidado, a transparência e a segurança dos dados.
 
   - **Site:** [Meu SUS Digital](https://www.gov.br/saude/pt-br/composicao/seidigi/meu-sus-digital#:~:text=O%20Meu%20SUS%20Digital%2C%20antigo,e%20a%20seguran%C3%A7a%20dos%20dados.)
-  - **Comunidade ou empresa que o desenvolveu:** O GIMP é desenvolvido pela comunidade open-source e é mantido pelo Projeto GIMP.
+  - **Comunidade ou empresa que o desenvolveu:** O Meu SUS Digital é desenvolvido pelo Governo Federal.
   - **Termos de uso:** [Termo de uso do Meu SUS Digital](https://meususdigital.saude.gov.br/perfil/politica-privacidade)
   - **Público alvo:**  Cidadãos Brasileiro
  
