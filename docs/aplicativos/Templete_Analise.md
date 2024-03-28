@@ -59,7 +59,7 @@
 | :-------------:     | :------------------------------------------------: | :--------------: | 
 | Breno Alexandre     | - | - | 
 | Bruno Cunha         | - | - | 
-| Iago Passaglia      | - | - | 
+| Iago Passaglia      | Meu SUS Digital | - | 
 | Larissa Stefane     | - | - | 
 | Luana de Lima       | - | - | 
 | Pedro Augusto       | - | - | 
@@ -71,4 +71,5 @@
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criaçao do documento | Larissa Stéfane | - | 28/03/2023
+| 1.0 | Adição app Meu SUS Digital | Iago Passaglia | - | 28/03/2023
     
