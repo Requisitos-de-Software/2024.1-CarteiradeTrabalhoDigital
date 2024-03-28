@@ -40,3 +40,9 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
+
+## Histórico de versão
+
+| Versão | Alteração           | Responsável | Revisor | Data      |
+| -      | -                   | -           | -       | -         |
+| 1.0    | Criação do documento| Breno       | -       | 28/03/2024|
