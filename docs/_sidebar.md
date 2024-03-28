@@ -2,6 +2,7 @@
 
 * Reuniões
   - [Reunião 01](reunioes/ata01.md)
+  - [Reunião 02](reunioes/ata02.md)
 
 
 * Planejamento 
