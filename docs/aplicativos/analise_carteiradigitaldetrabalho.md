@@ -10,8 +10,8 @@ Motivos para escolher
 Motivos para não escolher
 Histórico de versão
 
+APRESENTAÇÃO
 
-    
 A Carteira de Trabalho e Previdência Social (CTPS) é o documento que 
 registra a vida profissional do trabalhador e garante o acesso aos 
 direitos trabalhistas previstos em lei. A carteira de trabalho será 
@@ -25,7 +25,7 @@ Comunidade ou empresa que o desenvolveu:DataPrev.
 Termos de uso: Termo de uso do Governo Federal.
 Público alvo:  Trabalhadores em regime de CLT no Brasil.
 
-Motivos para escolher
+MOTIVOS PARA ESCOLHER
 
 Software do Governo Federal da República Federativa do Brasil: A Carteira de Trabalho Digital atende ao requisito de
  ser um aplicativo do governo.
@@ -38,8 +38,8 @@ Comunidade ativa: .
 Pode ser instalado em qualquer celular: A Carteira Digital de Trabalho funciona em qualquer sistema operacional e é gratuito.
 
 
-Motivos para não escolher
+MOTIVOS PARA NÃO ESCOLHER.
 
-IPor ser oficial do Estado Brasileiro, os dados ali contidos são mantidos em segredo.
+Por ser oficial do Estado Brasileiro, os dados ali contidos são mantidos em segredo.
 Complexidade: Por ser um aplicativo com muito conteúdo e informação, pode ser difícil realizar a engenharia reversa.
 Suporte técnico limitado: Por ser desenvolvido pela DataPrev, pode ser difícil tirar dúvida ou conseguir uma informação específica durante o projeto
