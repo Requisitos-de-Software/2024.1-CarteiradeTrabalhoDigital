@@ -26,7 +26,7 @@ A seleção das ferramentas adequadas desempenhou um papel fundamental no desenv
 
 | Ferramenta            | Descrição                                                                                                     |
 |-----------------------|---------------------------------------------------------------------------------------------------------------|
-| Comunicação           | Utilizamos o Slack para comunicação instantânea entre os membros da equipe, facilitando a troca de informações e o acompanhamento do progresso do projeto.   |
+| Comunicação           | Utilizamos o Teams para comunicação instantânea entre os membros da equipe, facilitando a troca de informações e o acompanhamento do progresso do projeto.   |
 | Gestão de Código      | Optamos pelo Git como sistema de controle de versão, aliado ao GitHub para hospedagem e colaboração em código-fonte. Isso proporcionou um ambiente colaborativo para o desenvolvimento do software. |
 | Design                | Para o design de interfaces de usuário, utilizamos o Figma, uma ferramenta robusta que permitiu a criação e colaboração em wireframes e protótipos de forma eficiente. |
 | Documentação          | Utilizamos o Markdown para escrever a documentação do projeto de forma clara e estruturada, facilitando a compreensão e manutenção das informações. |
