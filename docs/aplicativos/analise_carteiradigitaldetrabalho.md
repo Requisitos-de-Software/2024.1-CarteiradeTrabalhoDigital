@@ -41,6 +41,10 @@ Observação: para modificações é necessário um processo um pouco burocráti
 Comunidade ativa: .
 Pode ser instalado em qualquer celular: A Carteira Digital de Trabalho funciona em qualquer sistema operacional e é gratuito.
 
+HISTÓRICO DE VERSÃO
+VERSÃO  |ALTERAÇÃO           |RESPONSÁVEL   |REVISOR  |DATA
+1.0     |Carteira de Trabalho| |Bruno Araújo|  -      |28/03/2024.
+
 
 MOTIVOS PARA NÃO ESCOLHER.
 
