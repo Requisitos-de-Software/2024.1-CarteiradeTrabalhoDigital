@@ -7,5 +7,5 @@
 * Planejamento 
   - [Heatmap]()
   - [Cronograma]()
-  - [Ferramentas utilizadas]()
+  - [Ferramentas utilizadas](planejamento/ferramentas.md)
 
