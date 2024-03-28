@@ -18,3 +18,4 @@
   - [Análise do Signal](aplicativos/analise_Signal.md)
   - [Análise do Telegram](aplicativos/analise_Telegram.md)
   - [Análise do Guardiões da Saúde](aplicativos/analise_Guardioes.md)
+  - [Análise Carteira de Trabalho DIgital](aplicativos/analise_carteiradigitaldetrabalho.md)
