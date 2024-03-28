@@ -79,6 +79,7 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 0, onde cada i
 | Issue 10 | Revisar a motivação da escolha do app (cada uma das análises) | | |
 | Issue 11 | Adicionar referências bibliográficas em todos os documentos | Todos os que fizeram documentos | |
 | Issue 12 | Fazer o cronograma do que foi feito até agora| | |
+| Issue 13 | Ler o termo de uso do app escolhido para verificar se pode ser utilizado na matéria. Mostrar que pode| | |
 
 
 <p align="center"> Tabela 3. Issues Sprint 0 </p>
