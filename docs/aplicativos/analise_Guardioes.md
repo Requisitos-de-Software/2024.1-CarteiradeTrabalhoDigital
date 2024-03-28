@@ -33,6 +33,6 @@ Ideia dada pela membro: Pedro Augusto Dourado Izarias.
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 3.4.0 | Criação do documento| Pedro Augusto Dourado Izarias | - | 28/03/2024|
+| 1.0 | Criação do documento| Pedro Augusto Dourado Izarias | - | 28/03/2024|
 
     
