@@ -6,9 +6,13 @@ Ideia dada pela membro: Bruno Cunha Vasconcelos de Araújo.
 Sumário
 
 Apresentação
+
 Motivos para escolher
+
 Motivos para não escolher
+
 Histórico de versão
+
 
 APRESENTAÇÃO
 
