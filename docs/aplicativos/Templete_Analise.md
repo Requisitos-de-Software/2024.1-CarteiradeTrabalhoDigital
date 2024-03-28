@@ -55,25 +55,26 @@
 
   A tabela 1 a seguir apresenta as escolhas de cada integrante junto com o link que leva à sua análise.
 
-  | Nome              | Aplicativo                                              | Análise    | 
-| :-------------:     | :------------------------------------------------: | :--------------: | 
-| Breno Alexandre     | - | - | 
-| Bruno Cunha         | - | - | 
-| Iago Passaglia      | Meu SUS Digital | [Análise do Sus](analise_sus.md) | 
-| Larissa Stefane     | GIMP | [Análise do GIMP](analise_GIMP.md) | 
-| Larissa Stefane     | Openreads | [Análise do Openreads](analise_Openreads.md) | 
-| Luana de Lima       | - | - | 
-| Pedro Augusto       | - | - | 
+| Nome                | Aplicativo      | Análise                                      | 
+| :-------------:     | :-------------: | :------------------------------------------: | 
+| Breno Alexandre     | Signal          | [Análise do Signal](analise_Signal.md)       | 
+| Bruno Cunha         | -               | -                                            | 
+| Iago Passaglia      | Meu SUS Digital | [Análise do Sus](analise_sus.md)             | 
+| Larissa Stefane     | GIMP            | [Análise do GIMP](analise_GIMP.md)           | 
+| Larissa Stefane     | Openreads       | [Análise do Openreads](analise_Openreads.md) | 
+| Luana de Lima       | -               | -                                            | 
+| Pedro Augusto       | -               | -                                            | 
 
   
 
 ## Histórico de versão:
 
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 | Criaçao do documento | Larissa Stéfane | - | 28/03/2023 |
-| 2.0 | Adição app Meu SUS Digital | Iago Passaglia | - | 28/03/2023 |
-| 2.0 | Adição app GIMP e OPenreads| Larissa Stéfane | - | 28/03/2023 |
+| Versão | Alteração                  | Responsável     | Revisor | Data       |
+| -      | -                          | -               | -       | -          |
+| 1.0    | Criaçao do documento       | Larissa Stéfane | -       | 28/03/2023 |
+| 2.0    | Adição app Meu SUS Digital | Iago Passaglia  | -       | 28/03/2023 |
+| 2.0    | Adição app GIMP e OPenreads| Larissa Stéfane | -       | 28/03/2023 |
+| 1.0    | Adição app Signal          | Larissa Stéfane | -       | 28/03/2023 |
 
 
     
