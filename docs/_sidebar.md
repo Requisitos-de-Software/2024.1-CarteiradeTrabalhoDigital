@@ -15,5 +15,6 @@
   - [Análise do GIMP](aplicativos/analise_GIMP.md)
   - [Análise do Openreads](aplicativos/analise_Openreads.md)
   - [Análise do Sus](aplicativos/analise_sus.md)
+  - [Análise do Signal](aplicativos/analise_Signal.md)
   - [Análise do Telegram](aplicativos/analise_Telegram.md)
 
