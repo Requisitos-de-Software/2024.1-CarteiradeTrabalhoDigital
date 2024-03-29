@@ -51,3 +51,9 @@
         </td>
       
 </table>
+
+## Histórico de versão
+
+| Versão | Alteração | Responsável | Revisor | Data |
+| - | - | - | - | - |
+| 1.0 | Criação do documento| Caio Mesquita | - | 27/03/2024|
