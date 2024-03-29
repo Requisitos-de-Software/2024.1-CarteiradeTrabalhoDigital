@@ -38,7 +38,7 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 | D4 | Definir um padrão para o cronograma |
 | D5 | Precisamos melhorar a interface do gitpages |
 | D6 | Todos conseguiram entregar as suas tarefas definidas na reunião anterior? |
-| D7 | Quando será a gravação da reunião da apresentação? |
+| D7 | Quando será próxima reunião? |
 
 
 <p align="center"> Tabela 1. Dúvidas </p>
