@@ -3,7 +3,7 @@
 Ideia dada pela membro: Breno Alexandre Soares Garcia.
 
 ## Sumário
-* [Apresentação](#Apresentação)
+* [Apresentação](#Signal)
 * [Motivos para escolher](#Motivos-para-escolher)
 * [Motivos para não escolher](#Motivos-para-não-escolher)
 * [Histórico de versão](#Histórico-de-versão)
