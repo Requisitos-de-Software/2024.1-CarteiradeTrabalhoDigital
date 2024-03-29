@@ -36,6 +36,24 @@
   |   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/2560px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png" style="width:25vw"/>   | [MoodleAprender](https://aprender3.unb.br)| Plataforma utilizada pela UnB para controle das disciplinas. | Será utilizada como forma de acesso aos conteúdos disponibilizados pelo professor.|
   |     <img src="https://mir-s3-cdn-cf.behance.net/user/276/62942e1055160197.61249c3dd0fe7.png" style="width:25vw"/>    | [Uxpressia](https://uxpressia.com/?gs2id=CjsaCQiAqsitBhDlARIsAGMR1RixghUQjuWARa8LoLw9WNnE2i9HzhshG2-dyV_IS3ok6UH048kqGIMaAlbLEALw_wcB&ource=vaneadssgaolpo&edium=vasasdneraukilop2&ampaign=ganikolopare3da&ontent=ikoloete&via=sergei&erm=bananaterjikulop&gad_source=1&gclid=EAIaIQobChMIluCI_buXhQMVPQ2tBh15zwUgEAAYASAAEgKV__D_BwE) | É uma plataforma online para entender as necessidades dos usuários ao criar mapas de empatia, personas e jornadas do usuário. | Será utilizada pela equipe no processo de criação de personas e de encenação. | 
 
+## Referências bibliográficas:
+
+   1. GitHub. Disponível em: [Github](https://github.com/explore). Acesso em: 
+   2. WhatsApp. Disponível em: [Whatsapp](https://www.whatsapp.com/?lang=pt_BR) . Acesso em: 27 de março 2024.
+   3. Microsoft Teams. Disponível em: [Teams](https://www.microsoft.com/pt-br/microsoft-teams/log-in) . Acesso em: 27 de março 2024.
+   4. Draw.io. Disponível em: [Drawio](https://www.drawio.com/) . Acesso em: 27 de março 2024.
+   5. Infogram. Disponível em: [Infogram](https://infogram.com/pt) . Acesso em: 27 de março 2024.
+   6. YouTube. Disponível em:  [Youtube](https://www.youtube.com/). Acesso em: 27 de março 2024.
+   7. LibreOffice. Disponível em: [LibraOficie](https://pt-br.libreoffice.org/) . Acesso em: 27 de março 2024.
+   8. Google Scholar. Disponível em: [GoogleScholar](https://scholar.google.com/) . Acesso em: 27 de março 2024.
+   9. Google Planilhas. Disponível em: [Google_planilhas](https://workspace.google.com/intl/pt-BR/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-bkws-all-all-trial-p-dr-1707806-LUAC0015142&utm_content=text-ad-none-any-DEV_c-CRE_666219606651-ADGP_Hybrid+%7C+BKWS+-+PHR+%7C+Txt-Top-Workspace-KWID_43700063633056023-kwd-880352506558&utm_term=KW_ferramenta%20google-ST_ferramenta+google&gad_source=1&gclid=EAIaIQobChMI7NHRhOyVhQMVSkFIAB2EMAQFEAAYASAAEgLKqfD_BwE&gclsrc=aw.ds) . Acesso em: 27 de março 2024.
+   10. Universidade de Brasília. Minha Biblioteca. Disponível em: [Minha biblioteca – UnB](https://minhabcedigital.bce.unb.br/Login.aspx?ReturnUrl=%2f) . Acesso em: 27 de março 2024..
+   11. MkDocs. Disponível em: [MkDocks](https://www.mkdocs.org/) . Acesso em: 27 de março 2024.
+   12. Figma. Disponível em:  [Figma](https://www.figma.com/) . Acesso em: 27 de março 2024.
+   13. Google Forms. Disponível em: [Google forms](https://workspace.google.com/intl/pt-BR/lp/forms/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-bkws-all-all-trial-e-dr-1707806-LUAC0011908&utm_content=text-ad-none-any-DEV_c-CRE_666246535618-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt-Forms-KWID_43700057676889044-kwd-10647024857&utm_term=KW_google%20forms-ST_google%20forms&gad_source=1&gclid=EAIaIQobChMIuaL4lu2VhQMV6EBIAB0Btg3aEAAYASAAEgLXU_D_BwE&gclsrc=aw.ds)  . Acesso em: 27 de março 2024. .
+   14. Moodle. Aprender. Disponível em: [MoodleAprender](https://aprender3.unb.br) . Acesso em: 28 de março 2024.
+   15. Kdenlive. Disponível em:  [Kdenlive](https://kdenlive.org/) . Acesso em: 28 de março 2024.
+   16. Uxpressia. Disponível em: [Uxpressia](https://uxpressia.com/?gs2id=CjsaCQiAqsitBhDlARIsAGMR1RixghUQjuWARa8LoLw9WNnE2i9HzhshG2-dyV_IS3ok6UH048kqGIMaAlbLEALw_wcB&ource=vaneadssgaolpo&edium=vasasdneraukilop2&ampaign=ganikolopare3da&ontent=ikoloete&via=sergei&erm=bananaterjikulop&gad_source=1&gclid=EAIaIQobChMIluCI_buXhQMVPQ2tBh15zwUgEAAYASAAEgKV__D_BwE) . Acesso em: 28 de março 2024.
 
  ## Histórico de versões:
  
