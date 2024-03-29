@@ -6,8 +6,8 @@
 
 - **Data:** 28/04/2024
 - **Horário de início previsto:** 20:00.
-- **Horário de início:** 
-- **Duração:** 
+- **Horário de início:**  20:28
+- **Duração:** 1 hora e 6 minutos
 - **Local:** Teams 
 - **Link da reunião:** 
 
@@ -33,7 +33,7 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 | Identificador (Dn) | Tema |
 | - | - |
 | D1 | O que será feito em relação a metodologia? Apresentaremos a visão de usuário alvo e os requisitos prévios que o app teve ter? | 
-| D2 | Precisamos criar um documento sobre o headmap|
+| D2 | Precisamos criar um documento sobre o heatmap|
 | D3 | Decidir o app (Ponto principal da runião) |
 | D4 | Definir um padrão para o cronograma |
 | D5 | Precisamos melhorar a interface do gitpages |
@@ -49,13 +49,13 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 
 | Identificador (Dn) | Decisão |
 | - | - |
-| D1 |  | 
-| D2 |  |
-| D3 |  |
-| D4 |  |
-| D5 |  |
-| D6 |  |
-| D7 |  |
+| D1 | Este ponto será discutido mais no futuro, pois faz parte apenas da entrega 2.| 
+| D2 | Bruno e Iago cuidarão da documentação do heatmap. |
+| D3 | Ficamos entre dois aplicativos: Guardiões da Saúde e GIMP. Guardiões da saúde foi o campião. |
+| D4 | Breno está cuidando do cronograma.|
+| D5 | Vamos analisar melhor o protótipo do design agora que sabemos qual aplicativo vamos usar. |
+| D6 | No geral, sim. |
+| D7 | No sábado ou no domingo, ainda não está com um horário definido.|
 
 <p align="center"> Tabela 2. Dúvidas </p>
 
@@ -67,18 +67,18 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 0, onde cada i
 
 | Identificador (Issue n) | Issue | Integrante(s) responsável(eis) | Data de entrega |
 | - | - | - | - |
-| Issue 1 | Realizar a Ata da reunião  | Larissa Stéfane | 31/03|
+| Issue 1 | Realizar a Ata da reunião  | Larissa Stéfane |   |
 | Issue 2 | Trabalhar no gitpage | Caio Mesquita Vieira |  |
-| Issue 3 | Criar a documentação do headmap |  Bruno e Iago | |
+| Issue 3 | Criar a documentação do heatmap |  Bruno e Iago | |
 | Issue 4 | Atualizar o readme de apresentação | Caio Mesquita | |
-| Issue 5 | Organizar o cronograma de acordo com o padrão definido | Breno | |
+| Issue 5 | Organizar o cronograma de acordo com o padrão definido | Breno Alexandre | |
 | Issue 6 | Iniciar o estudo das licitações (Introdução com base no app escolhido) | Caio Mesquita | |
 | Issue 7 | Responsável por fazer e por revisar o rich picture do app | Pedro e Iago | |
 | Issue 8 | Responsável por revisar as ferramentas | Luana | |
-| Issue 9 | Responsável por revisar o estudo das termo uso | Pedro | |
-| Issue 10 | Revisar a motivação da escolha do app (cada uma das análises) | Larissa | |
+| Issue 9 | Responsável por revisar o estudo das termo uso | Pedro Augusto| |
+| Issue 10 | Revisar a motivação da escolha do app (cada uma das análises) | Larissa Stéfane | |
 | Issue 11 | Adicionar referências bibliográficas em todos os documentos | Todos os que fizeram documentos | |
-| Issue 12 | Fazer o cronograma do que foi feito até agora| Breno | |
+| Issue 12 | Fazer o cronograma do que foi feito até agora| Breno Alexandre | |
 
 
 <p align="center"> Tabela 3. Issues Sprint 0 </p>
