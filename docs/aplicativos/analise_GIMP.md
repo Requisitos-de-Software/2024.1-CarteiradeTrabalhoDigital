@@ -6,6 +6,7 @@ Ideia dada pela membro: Larissa Stéfane Barboza Santos.
 * [Apresentação](#Apresentação)
 * [Motivos para escolher](#Motivos-para-escolher)
 * [Motivos para não escolher](#Motivos-para-não-escolher)
+* [Referência Bibliográfica](Referência-Bibliográfica)
 * [Histórico de versão](#Histórico-de-versão)
 
 ## GIMP (GNU Image Manipulation Program)
@@ -36,6 +37,10 @@ Ideia dada pela membro: Larissa Stéfane Barboza Santos.
   1. **Internacional:** Documentação inteiramente em inglês.
   2. **Complexidade:** Por ser um aplicativo com muito conteúdo e informação, pode ser difícil realizar a engenharia reversa.
   3. **Suporte técnico limitado:** Como o GIMP é mantido pela comunidade, pode ser difícil tirar dúvida ou conseguir uma informação específica durante o projeto
+
+## Referência Bibliográfica
+
+GIMP. Disponível em: [GIMP](https://www.gimp.org/). Acesso em: 28 de março.
 
 ## Histórico de versão
 
