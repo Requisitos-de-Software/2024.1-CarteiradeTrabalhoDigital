@@ -58,12 +58,12 @@
 | Nome                | Aplicativo      | Análise                                      | 
 | :-------------:     | :-------------: | :------------------------------------------: | 
 | Breno Alexandre     | Signal          | [Análise do Signal](analise_Signal.md)       | 
-| Bruno Cunha         | -               | -                                            | 
+| Bruno Cunha         | Carteira digital | [Análise da Carteira Digital](analise_carteiradigitaldetrabalho.md) | 
 | Iago Passaglia      | Meu SUS Digital | [Análise do Sus](analise_sus.md)             | 
 | Larissa Stefane     | GIMP            | [Análise do GIMP](analise_GIMP.md)           | 
 | Larissa Stefane     | Openreads       | [Análise do Openreads](analise_Openreads.md) | 
 | Luana de Lima       | -               | -                                            | 
-| Pedro Augusto       | -               | -                                            | 
+| Pedro Augusto       | Guardiões da Saúde | [Análise do Guardiões](analise_Guardioes.md)                                           | 
 
   
 
