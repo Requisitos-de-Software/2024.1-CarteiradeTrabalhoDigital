@@ -67,19 +67,18 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 0, onde cada i
 
 | Identificador (Issue n) | Issue | Integrante(s) responsável(eis) | Data de entrega |
 | - | - | - | - |
-| Issue 1 | Realizar a Ata da reunião  | Larissa Stéfane | |
+| Issue 1 | Realizar a Ata da reunião  | Larissa Stéfane | 31/03|
 | Issue 2 | Trabalhar no gitpage | Caio Mesquita Vieira |  |
-| Issue 3 | Criar a documentação do headmap |  | |
-| Issue 4 | Atualizar o readme de apresentação |  | |
-| Issue 5 | Organizar o cronograma de acordo com o padrão definido |  | |
-| Issue 6 | Iniciar o estudo das licitações (Introdução com base no app escolhido) | | |
-| Issue 7 | Responsável por fazer e por revisar o rich picture do app | | |
-| Issue 8 | Responsável por revisar as ferramentas | | |
-| Issue 9 | Responsável por revisar o estudo das licitações | | |
-| Issue 10 | Revisar a motivação da escolha do app (cada uma das análises) | | |
+| Issue 3 | Criar a documentação do headmap |  Bruno e Iago | |
+| Issue 4 | Atualizar o readme de apresentação | Caio Mesquita | |
+| Issue 5 | Organizar o cronograma de acordo com o padrão definido | Breno | |
+| Issue 6 | Iniciar o estudo das licitações (Introdução com base no app escolhido) | Caio Mesquita | |
+| Issue 7 | Responsável por fazer e por revisar o rich picture do app | Pedro e Iago | |
+| Issue 8 | Responsável por revisar as ferramentas | Luana | |
+| Issue 9 | Responsável por revisar o estudo das termo uso | Pedro | |
+| Issue 10 | Revisar a motivação da escolha do app (cada uma das análises) | Larissa | |
 | Issue 11 | Adicionar referências bibliográficas em todos os documentos | Todos os que fizeram documentos | |
-| Issue 12 | Fazer o cronograma do que foi feito até agora| | |
-| Issue 13 | Ler o termo de uso do app escolhido para verificar se pode ser utilizado na matéria. Mostrar que pode| | |
+| Issue 12 | Fazer o cronograma do que foi feito até agora| Breno | |
 
 
 <p align="center"> Tabela 3. Issues Sprint 0 </p>
