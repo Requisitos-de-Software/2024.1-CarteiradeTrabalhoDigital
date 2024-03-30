@@ -11,7 +11,7 @@
 ## Documento:
 
   |  |
-  |  <img src="" style="width:25vw"/> | 
+  |  <img src="rich_picture.jpg" style="width:25vw"/> | 
   |  |
 
 ## Referências bibliográficas:
