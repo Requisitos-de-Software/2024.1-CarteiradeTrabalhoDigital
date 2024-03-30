@@ -6,6 +6,7 @@ Ideia dada pela membro: Breno Alexandre Soares Garcia.
 * [Apresentação](#Signal)
 * [Motivos para escolher](#Motivos-para-escolher)
 * [Motivos para não escolher](#Motivos-para-não-escolher)
+* [Referências](#Referências)
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Signal
@@ -35,8 +36,13 @@ novos recursos.
   1. **Internacional:** Documentação inteiramente em inglês.
   2. **Complexidade:** Por ser um aplicativo com muito conteúdo e informação, pode ser difícil realizar a engenharia reversa.
 
+## Referências
+
+Signal. 2013. Disponível em: https://signal.org/pt_BR/. Acesso em: 29 mar. 2024.
+
 ## Histórico de versão
 
-| Versão | Alteração           | Responsável | Revisor | Data      |
-| -      | -                   | -           | -       | -         |
-| 1.0    | Criação do documento| Breno       | -       | 28/03/2024|
+| Versão | Alteração              | Responsável | Revisor | Data       |
+| -      | -                      | -           | -       | -          |
+| 1.0    | Criação do documento   | Breno       | -       | 28/03/2024 |
+| 2.0    | Adição das referências | Breno       | -       | 29/03/2024 |
