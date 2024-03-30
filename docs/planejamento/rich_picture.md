@@ -10,8 +10,14 @@
 
 ## Documento:
 
+  <center>
+  <img alt="Rich Picture Guardiões da saúde" src="assets/rich_picture.jpg" width="600">
+
+  <font size="2"><p style="text-align: center">Imagem 1: Rich Picture.</p></font>
+  <font size="2"><p style="text-align: center">Fonte: [Pedro Augusto](https://github.com/Izarias).</p></font>
+
+  <center>
   
-   <img src="rich_picture.jpg"/> 
   
 
 ## Referências bibliográficas:
@@ -21,5 +27,5 @@
  
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento| Pedro Augusto | - | 30/03/2024|
+| 1.0 | Criação do documento| Pedro Augusto | Caio Mesquita | 30/03/2024|
   

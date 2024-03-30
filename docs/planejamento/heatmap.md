@@ -9,7 +9,13 @@ Neste documento, apresentamos o processo e os resultados obtidos através da an�
 - Os heatmaps individuais foram então combinados para gerar um heatmap geral, que representa a disponibilidade agregada de todo o grupo.
 
 ## Heatmap de Disponibilidade
+
+<center>
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-GuardioesDaSaude/69cadef806b297ea29574016b3e8c14ee63b7467/docs/assets/imagem_2024-03-30_102818917.png" style="width:auto"/>
+
+<font size="2"><p style="text-align: center">Imagem 1: Heatmap.</p></font>
+  <font size="2"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
+<center>
 
 
 ## Resultados
