@@ -28,6 +28,8 @@ Ideia dada pela membro: Pedro Augusto Dourado Izarias.
 
   1. **Simplicidade:** Aplicativo não tem tantas funcionalidades.
 
+## Termo de uso
+[Aqui](https://proepi.org.br/p889/) podemos encontrar os termos de uso do aplicativo Guardiões da Saúde.
 
 ## Histórico de versão
 
