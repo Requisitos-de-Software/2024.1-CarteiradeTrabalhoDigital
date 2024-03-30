@@ -10,9 +10,9 @@
 
 ## Documento:
 
-  |  |
-  |  <img src="rich_picture.jpg" style="width:25vw"/> | 
-  |  |
+  
+   <img src="rich_picture.jpg"/> 
+  
 
 ## Referências bibliográficas:
   1. Monk, A., & Howard, S. (1998). The Rich Picture: A Tool for Reasoning About Work Context. Interactions, March-April 1998, 22-30. 
