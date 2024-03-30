@@ -41,8 +41,44 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
 
+## Entrega 2 - Elicitação
+### Planejado
+
+Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
+
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento do Projeto</p></font>
+
+| Atividade                                                                              | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
+| -------------------------------------------------------------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
+| Criação de personas e pesquisa de perfis de usuários                                   | Início: 03/04 <br> Fim: 05/04 | Todos              | Início: 06/04 <br> Fim: 06/04 | Todos            |
+| Entedimento das técnicas de elicitação de requisitos e quais serão usadas no projeto   | Início: 03/04 <br> Fim: 04/04 | Todos              | Início: 05/04 <br> Fim: 05/04 | Todos            |
+| Brainstorm para elicitação de requisitos                                               | Início: 03/04 <br> Fim: 04/04 | Todos              | Início: 05/04 <br> Fim: 05/04 | Todos            |
+| Introspecção para elicitação de requisitos                                             | Início: 03/04 <br> Fim: 04/04 | Todos              | Início: 05/04 <br> Fim: 05/04 | Todos            |
+| Entrevista para elicitação de requisitos                                               | Início: 03/04 <br> Fim: 04/04 | Todos              | Início: 05/04 <br> Fim: 05/04 | Todos            |
+| Entendimento das técnicas de priorização de requisitos e quais serão usadas no projeto | Início: 03/04 <br> Fim: 04/04 | Todos              | Início: 05/04 <br> Fim: 05/04 | Todos            |
+| Priorização dos requisitos levantados usando as técnicas "insira aqui"                 | Início: 03/04 <br> Fim: 04/04 | Todos              | Início: 05/04 <br> Fim: 05/04 | Todos            |
+| Observação para elicitação de requisitos                                               | Início: 03/04 <br> Fim: 04/04 | Todos              | Início: 05/04 <br> Fim: 05/04 | Todos            |
+| Gravação da Apresentação e Entrega                                                     | Início: 03/04 <br> Fim: 04/04 | Todos              | Início: 05/04 <br> Fim: 05/04 | Todos            |
+| Correção pós apresentação                                                              | Início: 03/04 <br> Fim: 16/04 | Todos              | Início: 17/04 <br> Fim: 17/04 | Todos            |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
+
+### Executado
+
+Na Tabela 4, está explicitado o cronograma executado das atividades da segunda entrega.
+
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento do Projeto</p></font>
+| Atividade                                            | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
+| ---------------------------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
+| Criação de personas e pesquisa de perfis de usuários | Início: 03/04 <br> Fim: 04/04 | Todos              | Início: 05/04 <br> Fim: 05/04 | Pedro            |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
+
 ## Histórico de versão
 
-| Versão | Alteração           | Responsável | Revisor | Data      |
-| -      | -                   | -           | -       | -         |
-| 1.0    | Criação do documento| Breno       | -       | 28/03/2024|
+| Versão | Alteração            | Responsável | Revisor | Data      |
+| -      | -                    | -           | -       | -         |
+| 1.0    | Criação do documento | Breno       | -       | 28/03/2024|
+| 2.0    |                      | Breno       | -       | 30/03/2024|
