@@ -9,6 +9,7 @@
   - [Heatmap](planejamento/heatmap.md)
   - [Cronograma](planejamento/Cronograma.md)
   - [Ferramentas utilizadas](planejamento/ferramentas.md)
+  - [Rich Picture](planejamento/rich_picture.md)
   * Aplicativos
     - [Templete da análise](planejamento/aplicativos/Templete_Analise.md)
     - [Análise do GIMP](planejamento/aplicativos/analise_GIMP.md)
