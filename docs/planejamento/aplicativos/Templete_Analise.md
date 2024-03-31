@@ -62,7 +62,7 @@
 | Iago Passaglia      | Meu SUS Digital | [Análise do Sus](analise_sus.md)             | 
 | Larissa Stefane     | GIMP            | [Análise do GIMP](analise_GIMP.md)           | 
 | Larissa Stefane     | Openreads       | [Análise do Openreads](analise_Openreads.md) | 
-| Luana de Lima       | -               | -                                            | 
+| Luana de Lima       | MozilaFirefox   | [Análise do Firefox](analise_MozilaFireFox.md)|                                         | 
 | Pedro Augusto       | Guardiões da Saúde | [Análise do Guardiões](analise_Guardioes.md)                                           | 
 
   
@@ -71,10 +71,10 @@
 
 | Versão | Alteração                  | Responsável     | Revisor | Data       |
 | -      | -                          | -               | -       | -          |
-| 1.0    | Criaçao do documento       | Larissa Stéfane | -       | 28/03/2023 |
-| 2.0    | Adição app Meu SUS Digital | Iago Passaglia  | -       | 28/03/2023 |
-| 2.0    | Adição app GIMP e OPenreads| Larissa Stéfane | -       | 28/03/2023 |
-| 1.0    | Adição app Signal          | Larissa Stéfane | -       | 28/03/2023 |
+| 1.0    | Criaçao do documento       | Larissa Stéfane | Larissa Stéfane  | 28/03/2023 |
+| 2.0    | Adição app Meu SUS Digital | Iago Passaglia  | Larissa Stéfane  | 28/03/2023 |
+| 2.0    | Adição app GIMP e OPenreads| Larissa Stéfane | Larissa Stéfane | 28/03/2023 |
+| 1.0    | Adição app Signal          | Breno Alexandre |  Larissa Stéfane | 28/03/2023 |
 
 
     
