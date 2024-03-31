@@ -10,7 +10,13 @@ Ideia dada pela membro: Pedro Augusto Dourado Izarias.
 
 ## Guardiões da Saúde
 
- O aplicativo Guardiões da Saúde é um sistema de acompanhamento de estado de saúde e de divulgação de informações de noticias relacionadas a saúde utilizado pela comunidade das Universidades Públicas do Brasil e comunidade em geral.
+<div align="center">
+    <img src="https://pbs.twimg.com/profile_images/1270545909223436288/wJF4tcEo_400x400.jpg" style="width:25vw"/>
+    <p> Figura 1: Logo Guardiões</p> 
+</div>
+
+
+ O aplicativo Guardiões da Saúde é um sistema de acompanhamento de estado de saúde e de divulgação de informações de noticias relacionadas a esse tema utilizado pela comunidade das Universidades Públicas do Brasil e pela população em geral.
 
   - **Site:** [Guardiões](https://linktr.ee/guardioesdasaude)
   - **Comunidade ou empresa que o desenvolveu:** O Guardioes é desenvolvido pela comunidade ProEpi.
@@ -18,9 +24,9 @@ Ideia dada pela membro: Pedro Augusto Dourado Izarias.
  
 ## Motivos para escolher  
 
-  1. **Software Open Source:** O Guardiões da Saúde atende ao requisito de ser um aplicativo open-source, permitindo acesso ao código-fonte e às suas personalizações. Diversos usuários podem fazer puglins que melhoram o software.
+  1. **Software Open Source:** O Guardiões da Saúde atende ao requisito de ser um aplicativo open-source, permitindo acesso ao código-fonte e às suas personalizações. 
   2. **Um peso para o nosso currículo:** O Guardioes da Saúde é um aplicativo amplamente utilizado na nossa comunidade da UnB e da FGA e tem grande importancia no ambito da saúde.
-  3. **Tem permissão e facilidade para fazer a engenharia reversa:**  Como software open-source, o Guardiões da Saúde permite a engenharia reversa e modificações conforme necessário. Observação: Claro que para fazer modificações é necessário um processo um pouco burocrático.
+  3. **Tem permissão e facilidade para fazer a engenharia reversa:**  Como software open-source, o Guardiões da Saúde permite a engenharia reversa e modificações conforme necessário. 
   4. **Comunidade ativa:** Existe uma comunidade ativa de usuários e de desenvolvedores do Guardiões da Saúde, o que pode facilita o contato com pessoas que ajudaram a desenvolver essa ferramenta.
   5. **Pode ser instalado em qualquer aparelho:** Está disponível para sistemas apple e android.
 
@@ -35,6 +41,6 @@ Ideia dada pela membro: Pedro Augusto Dourado Izarias.
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento| Pedro Augusto Dourado Izarias | - | 28/03/2024|
+| 1.0 | Criação do documento| Pedro Augusto Dourado Izarias | Larissa Stéfane | 28/03/2024|
 
     
