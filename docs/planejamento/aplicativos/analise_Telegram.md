@@ -4,6 +4,7 @@ Ideia dada pela membro: Caio Mesquita Vieira
 * [Apresentação](#Apresentação)
 * [Motivos para escolher](#Motivos-para-escolher)
 * [Motivos para não escolher](#Motivos-para-não-escolher)
+* [Referências](#Referências)
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Telegram
@@ -24,8 +25,11 @@ O Telegram é um aplicativo onde o seu maior foco é a transmissão de mensagens
 
   1. **Complexidade:** É um aplicativo que pode vir a ser complexo de se analisar dependendo da função em que trabalhamos em cima
 
+## Referências
+
+Telegram. Disponível [Aqui](https://telegram.org). Acesso em 28 de março.
 ## Histórico de versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento| Caio Mesquita | - | 28/03/2024|
+| 1.0 | Criação do documento| Caio Mesquita | Larissa Stéfane | 28/03/2024|
