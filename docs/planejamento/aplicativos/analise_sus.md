@@ -6,6 +6,7 @@ Ideia dada pela membro: Iago Passaglia Pereira
 * [Apresentação](#Apresentação)
 * [Motivos para escolher](#Motivos-para-escolher)
 * [Motivos para não escolher](#Motivos-para-não-escolher)
+* [Referências](#Referências)
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Meu SUS Digital
@@ -29,8 +30,13 @@ Ideia dada pela membro: Iago Passaglia Pereira
   2. **Quantidade de recursos:** O app em questão tem uma boa quantidade de recursos, permitindo que tenhamos uma diversidade na hora de analisar o app
   3. **Entrevistas:**  É simples encontrar um usuário do app para que sejam realizadas as entrevistas
 
+## Referências
+
+Meu Sus Digital. Disponível [aqui](https://www.gov.br/saude/pt-br/composicao/seidigi/meu-sus-digital#:~:text=O%20Meu%20SUS%20Digital%2C%20antigo,e%20a%20seguran%C3%A7a%20dos%20dados.). Acessado em 28 de março 2024.
+
+
 ## Histórico de versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento | Iago Passaglia pereira | - | 28/03/2024|
+| 1.0 | Criação do documento | Iago Passaglia pereira | Larissa Stéfane | 28/03/2024|
