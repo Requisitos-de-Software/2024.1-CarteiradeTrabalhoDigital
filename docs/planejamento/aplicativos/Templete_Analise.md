@@ -62,7 +62,7 @@
 | Iago Passaglia      | Meu SUS Digital | [Análise do Sus](analise_sus.md)             | 
 | Larissa Stefane     | GIMP            | [Análise do GIMP](analise_GIMP.md)           | 
 | Larissa Stefane     | Openreads       | [Análise do Openreads](analise_Openreads.md) | 
-| Luana de Lima       | MozilaFirefox   | [Análise do Firefox](analise_MozilaFireFox.md)|                                         | 
+| Luana de Lima       | MozilaFirefox   | [Análise do Firefox](analise_MozillaFireFox.md)|                                         | 
 | Pedro Augusto       | Guardiões da Saúde | [Análise do Guardiões](analise_Guardioes.md)                                           | 
 
   
