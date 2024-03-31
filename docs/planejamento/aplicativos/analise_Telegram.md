@@ -8,6 +8,10 @@ Ideia dada pela membro: Caio Mesquita Vieira
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Telegram
+<div align="center">
+    <img src="https://blog.cancaonova.com/metanoia/files/2023/04/Ilustra%C3%A7%C3%A3o-Telegram-Logo-PNG.png" style="width:25vw"/>
+    <p> Figura 1: Logo Telegram</p> 
+</div>
 
 O Telegram é um aplicativo onde o seu maior foco é a transmissão de mensagens, por meio de chats privados, grupos de interação e também por meio de canais de transmissão com grande capacidade de participantes. Há a possiblidade de enviar diversos tipos de arquivo pelo telegram, como imagens, videos, documentos e etc.
 
