@@ -51,5 +51,5 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 | Versão | Alteração             | Responsável | Revisor | Data      |
 | -      | -                     | -           | -       | -         |
-| 1.0    | Criação do documento  | Breno       | Larissa | 28/03/2024|
-| 2.0    | Adição dos executados | Breno       | Larissa | 30/03/2024|
+| 1.0    | Criação do documento  | Breno       | Larissa Stéfane | 28/03/2024|
+| 2.0    | Adição dos executados | Breno       | Larissa Stéfane | 30/03/2024|
