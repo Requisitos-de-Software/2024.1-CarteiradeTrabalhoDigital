@@ -6,6 +6,7 @@ Ideia dada pela membro: Pedro Augusto Dourado Izarias.
 * [Apresentação](#Apresentação)
 * [Motivos para escolher](#Motivos-para-escolher)
 * [Motivos para não escolher](#Motivos-para-não-escolher)
+* [Referências](#Referências)
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Guardiões da Saúde
@@ -35,7 +36,9 @@ Ideia dada pela membro: Pedro Augusto Dourado Izarias.
 
   1. **Simplicidade:** Aplicativo não tem tantas funcionalidades.
 
+## Referências:
 
+Guardiões da Saúde. Disponível em: [Guardiões](https://linktr.ee/guardioesdasaude). Acesso em: 28 de março.
 ## Histórico de versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
