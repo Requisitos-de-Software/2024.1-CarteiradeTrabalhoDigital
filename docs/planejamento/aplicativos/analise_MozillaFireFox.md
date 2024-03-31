@@ -24,9 +24,9 @@ Ideia dada pelo membro: Luana de Lima Medeiros
  
 ## Motivos para escolher
 
-  1. **Open Source e Gratuito** O Mozilla Firefox atende ao requisito de ser open source, , permitindo acesso ao código-fonte e às suas personalizações. Diversos usuários podem fazer puglins que melhoram o software.
-  2. **Tem permissão e facilidade para fazer a engenharia reversa:** Como software open-source, o Guardiões da Saúde permite a engenharia reversa e modificações conforme necessário. Observação: Claro que para fazer modificações é necessário um processo um pouco burocrático.
-  3. **Entrevistas:**  É simples encontrar um usuário do app para que sejam realizadas as entrevistas
+  1. **Open Source e Gratuito** O Mozilla Firefox atende ao requisito de ser open source, permitindo acesso ao código-fonte e às suas personalizações.
+  2. **Tem permissão e facilidade para fazer a engenharia reversa:** Como software open-source, permite a engenharia reversa e modificações conforme o necessário.
+  3. **Entrevistas:**  É simples encontrar um usuário do app para que sejam realizadas as entrevistas.
 
 ## Motivos para não escolher
 
@@ -36,4 +36,4 @@ Ideia dada pelo membro: Luana de Lima Medeiros
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento | Luana Medeiros | - | 29/03/2024|
+| 1.0 | Criação do documento | Luana Medeiros | Larissa Stéfane | 29/03/2024|
