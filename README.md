@@ -1,10 +1,19 @@
-# 2024.1-Grupo02
+# 2024.1-Grupo02: Guardiões da saúde!
 
-## :earth_americas: Sobre o projeto
-   Este repositório é dedicado ao projeto de Requisitos de Software desenvolvido pelo grupo 2 da turma do professor André Barros de Sales.
+## :earth_americas: Quem somos:
 
-## :smile: Contribuidores
-<center>
+  <div align="center">
+  <img src="Midia/logoEquipe.png">
+  
+   Figura 1: Logo da equipe criado [Aqui](https://www.designevo.com/).
+</div>
+
+Somos uma equipe que faz parte da disciplina de Requisitos de Software ministrada pelo professor André de Sales Barros na Universidade de Brasília (UnB). 
+
+Com entusiasmo e dedicação, o nosso grupo planeja realizar um projeto  que se debruça sobre a análise dos requisitos necessários para o aplicativo “Guardiões da Saúde” .
+## 👨‍🎓: Contribuidores
+
+
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td align="center">
@@ -22,7 +31,7 @@
        <td align="center">
             <a href="https://github.com/caiomesvie">
                 <img style="border-radius: 50%;" src="https://github.com/caiomesvie.png" width="150px;"/>
-                <h5 class="text-center"> Caio Mesquita Vieira <br> Matrícula: 222024283</h5>
+                <h5 class="text-center"> Caio Mesquita Vieira <br> Matrícula: 222024283 <br> Github: caiomesvie</h5>
             </a>
         </td>
       <td align="center">
