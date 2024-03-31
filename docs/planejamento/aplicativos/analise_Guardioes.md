@@ -21,6 +21,7 @@ Ideia dada pela membro: Pedro Augusto Dourado Izarias.
   - **Site:** [Guardiões](https://linktr.ee/guardioesdasaude)
   - **Comunidade ou empresa que o desenvolveu:** O Guardioes é desenvolvido pela comunidade ProEpi.
   - **Público alvo:**  Docentes e discentes da Universidade de Brasília ou público em geral.
+  - **Termo de uso:** [Aqui](https://proepi.org.br/p889/) podemos encontrar os termos de uso do aplicativo Guardiões da Saúde.
  
 ## Motivos para escolher  
 
@@ -34,8 +35,6 @@ Ideia dada pela membro: Pedro Augusto Dourado Izarias.
 
   1. **Simplicidade:** Aplicativo não tem tantas funcionalidades.
 
-## Termo de uso
-[Aqui](https://proepi.org.br/p889/) podemos encontrar os termos de uso do aplicativo Guardiões da Saúde.
 
 ## Histórico de versão
 
