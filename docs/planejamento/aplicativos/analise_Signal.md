@@ -44,5 +44,5 @@ Signal. 2013. Disponível em: https://signal.org/pt_BR/. Acesso em: 29 mar. 2024
 
 | Versão | Alteração              | Responsável | Revisor | Data       |
 | -      | -                      | -           | -       | -          |
-| 1.0    | Criação do documento   | Breno       | -       | 28/03/2024 |
-| 2.0    | Adição das referências | Breno       | -       | 29/03/2024 |
+| 1.0    | Criação do documento   | Breno       | Larissa Stéfane       | 28/03/2024 |
+| 2.0    | Adição das referências | Breno       | Larissa Stéfane       | 29/03/2024 |
