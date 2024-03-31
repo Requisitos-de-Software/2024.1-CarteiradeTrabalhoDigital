@@ -6,6 +6,7 @@ Ideia dada pelo membro: Luana de Lima Medeiros
 * [Apresentação](#Apresentação)
 * [Motivos para escolher](#Motivos-para-escolher)
 * [Motivos para não escolher](#Motivos-para-não-escolher)
+* [Referências](#Referências)
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Mozilla FireFox
@@ -31,6 +32,10 @@ Ideia dada pelo membro: Luana de Lima Medeiros
 ## Motivos para não escolher
 
   1. **Simplicidade:**  Aplicativo não tem tantas funcionalidades.
+
+## Referências:
+
+MozilaFireFox. Disponível em: [FireFox](https://www.mozilla.org/pt-BR/firefox/new/). Acesso em: 29 de março.
      
 ## Histórico de versão
 
