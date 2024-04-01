@@ -76,6 +76,7 @@ A equipe se propõe a analisar os requisitos desse aplicativo, desde a coleta e 
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criaçao da base | Larissa Stéfane | Caio | 25/10/2023
-| 2.0 | Atualização do readme | Larissa Stéfane  | - | 31/10/2023
+| 1.0 | Criaçao da base | Larissa Stéfane | Caio Mesquita| 25/03/2024
+| 2.0 | Passagem para o gitpage | Caio Mesquita | Bruno Cunha | 26/03/2024
+| 3.0 | Atualização do readme | Larissa Stéfane  | - | 31/03/2024
 
