@@ -3,7 +3,7 @@
 ## :earth_americas: Quem somos:
 
   <div align="center">
-  <img src="Midia/logoEquipe.png">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-GuardioesDaSaude/main/Midia/logoEquipe.png">
   
    Figura 1: Logo da equipe criado [Aqui](https://www.designevo.com/).
 </div>
