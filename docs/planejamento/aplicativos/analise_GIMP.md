@@ -45,4 +45,4 @@ GIMP. Disponível em: [GIMP](https://www.gimp.org/). Acesso em: 28 de março.
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento| Larissa Stéfane | - | 28/03/2024|
+| 1.0 | Criação do documento| Larissa Stéfane | Bruno Araújo| 28/03/2024|
