@@ -19,7 +19,7 @@
     - [Análise do Signal](planejamento/aplicativos/analise_Signal.md)
     - [Análise do Telegram](planejamento/aplicativos/analise_Telegram.md)
     - [Análise Carteira de Trabalho Digital](planejamento/aplicativos/analise_carteiradigitaldetrabalho.md)
-    - [Análise do Guardiões da Saúde](planejamento/aplicativos/analise_Guardioes.md)
+    - [Guardiões da Saúde (Aplicativo escolhido)](planejamento/aplicativos/analise_Guardioes.md)
 
 * Pré-Rastreabilidade
   - [Rich Picture](planejamento/rich_picture.md)
