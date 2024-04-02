@@ -75,7 +75,7 @@
 | 2.1    | Adição app Meu SUS Digital | Iago Passaglia  | Larissa Stéfane  | 28/03/2024 |
 | 2.2    | Adição app GIMP e OPenreads| Larissa Stéfane | Larissa Stéfane | 28/03/2024 |
 | 2.3    | Adição app Signal          | Breno Alexandre |  Larissa Stéfane | 28/03/2024 |
-| 2.4    | Correção de erro em links  | Caio Mesquita   |                  | 01/04/2024 |
+| 2.4    | Correção de erro em links  | Caio Mesquita   | Bruno Araújo     | 01/04/2024 |
 
 
 
