@@ -16,7 +16,7 @@
   <font size="2"><p style="text-align: center">Imagem 1: Rich Picture.</p></font>
   <font size="2"><p style="text-align: center">Fonte: [Pedro Augusto](https://github.com/Izarias).</p></font>
 
-  <center>
+  </center>
   
   
 

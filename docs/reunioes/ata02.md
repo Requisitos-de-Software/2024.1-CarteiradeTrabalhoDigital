@@ -2,6 +2,19 @@
 
 ## Ata da reunião do dia 28/04
 
+## Vídeo da Reunião
+
+## Vídeo da Reunião
+
+<center>
+
+<iframe width="697" height="392" src="https://www.youtube.com/embed/uzfsqMq4BIg?list=PL8iuGQf0VOAG6vZcaa15KTLHQfrdyMldr" title="Reunião 02 Requisitos g02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Reunião 02**
+
+**Fonte:** [Caio Mesquita](https://github.com/Caiomesvie)
+</center>
+
 ## 1. Data, Horário, Duração e Local
 
 - **Data:** 28/04/2024
@@ -9,7 +22,7 @@
 - **Horário de início:**  20:28
 - **Duração:** 1 hora e 6 minutos
 - **Local:** Teams 
-- **Link da reunião:** 
+- **Link da reunião:** [aqui](https://youtu.be/uzfsqMq4BIg?list=PL8iuGQf0VOAG6vZcaa15KTLHQfrdyMldr)
 
 ## 2. Participantes
 

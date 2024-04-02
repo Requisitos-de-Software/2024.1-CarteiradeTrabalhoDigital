@@ -1,7 +1,6 @@
 # Cronograma
 
-## Descrição
-
+## Introdução
 O cronograma da equipe visa organizar todas as tarefas que serão realizadas de acordo com as datas descritas para a entrega e apresentação do 
 projeto presentes no plano de ensino da disciplina de Requisitos de Software para o primeiro semestre de 2024. Os cronogramas executados serão 
 atualizados com o tempo.

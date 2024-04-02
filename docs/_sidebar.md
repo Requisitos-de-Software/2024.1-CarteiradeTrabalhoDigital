@@ -1,11 +1,11 @@
 * [Home](/)
 
+* Apresentações
+  - [apresentação 01](/apresentacoes/apresentacao01.md)
+
 * Reuniões
   - [Reunião 01](reunioes/ata01.md)
   - [Reunião 02](reunioes/ata02.md)
-
-* Apresentações
-  - [apresentação 01](/apresentacoes/apresentacao01.md)
 
 * Planejamento 
   - [Heatmap](planejamento/heatmap.md)

@@ -43,7 +43,7 @@ Por ser oficial do Estado Brasileiro, os dados ali contidos são mantidos em seg
 Complexidade: Por ser um aplicativo com muito conteúdo e informação, pode ser difícil realizar a engenharia reversa.
 Suporte técnico limitado: Por ser desenvolvido pela DataPrev, pode ser difícil tirar dúvida ou conseguir uma informação específica durante o projeto
 
-## HISTÓRICO DE VERSÃO
+## Histórico de versão
 | Versão | Alteração                  | Responsável     | Revisor | Data       |
 | -      | -                          | -               | -       | -          |
 | 1.0    | Criaçao do documento       | Bruno Araújo    |Caio Mesquita  | 28/03/2024 |
