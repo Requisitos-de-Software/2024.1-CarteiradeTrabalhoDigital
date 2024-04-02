@@ -71,8 +71,8 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
 | Estudo sobre a técnica "Workshops" | 01/04/2024 | 05/04/2024 |  A definir            | A definir             | 05/04/2024 - 07/04/2024 |
 | Definir um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?  | 01/04/2024 | 05/04/2024 | A deinir                                   | A definir             | 05/04/2024 - 07/04/2024 |
 | Definição das técnicas de elicitação que serão usadas | 08/04/2024 | 08/04/2024 | Todos                                  | Todos             | 08/04/2024 - 08/04/2024 |
-| Aplicação de 'x' técnicas de elicitação escolhidas    | 08/04/2024 | 12/04/2024 | A definir                               | Leonardo, Guilherme, Lucas, Davi                 | 12/04/2024 - 16/04/2024 |
-| Aplicação de 'x' técnicas de elicitação escolhidas    | 08/04/2024 | 12/04/2024 | A definir                               | Leonardo, Guilherme, Lucas, Davi                 | 12/04/2024 - 16/04/2024 |
+| Aplicação de 'x' técnicas de elicitação escolhidas    | 08/04/2024 | 12/04/2024 | A definir                               | A definir                 | 12/04/2024 - 16/04/2024 |
+| Aplicação de 'x' técnicas de elicitação escolhidas    | 08/04/2024 | 12/04/2024 | A definir                               | A definir                | 12/04/2024 - 16/04/2024 |
 | Definição e criação de personas                    | 08/04/2024 | 12/04/2024 | Larissa Stéfane                              | A definir                  | 12/04/2024 - 14/04/2024 |
 | Estudo sobre a técnica de priorização "First thing First"| 08/04/2024 | 12/04/2024 |  Larissa Stéfane            | A definir             | 12/04/2024 - 14/04/2024 |
 | Estudo sobre a técnica de priorização " ROI"| 08/04/2024 | 12/04/2024 |  A definir            | A definir             | 12/04/2024 - 14/04/2024 |
