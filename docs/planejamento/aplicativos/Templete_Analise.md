@@ -57,13 +57,13 @@
 
 | Nome                | Aplicativo      | Análise                                      | 
 | :-------------:     | :-------------: | :------------------------------------------: | 
-| Breno Alexandre     | Signal          | [Análise do Signal](analise_Signal.md)       | 
-| Bruno Cunha         | Carteira digital | [Análise da Carteira Digital](analise_carteiradigitaldetrabalho.md) | 
-| Iago Passaglia      | Meu SUS Digital | [Análise do Sus](analise_sus.md)             | 
-| Larissa Stefane     | GIMP            | [Análise do GIMP](analise_GIMP.md)           | 
-| Larissa Stefane     | Openreads       | [Análise do Openreads](analise_Openreads.md) | 
-| Luana de Lima       | MozilaFirefox   | [Análise do Firefox](analise_MozillaFireFox.md)|                                         | 
-| Pedro Augusto       | Guardiões da Saúde | [Análise do Guardiões](analise_Guardioes.md)                                           | 
+| Breno Alexandre     | Signal          | [Análise do Signal](/planejamento/aplicativos/analise_Signal)       | 
+| Bruno Cunha         | Carteira digital | [Análise da Carteira Digital](/planejamento/aplicativos/analise_carteiradigitaldetrabalho.md) | 
+| Iago Passaglia      | Meu SUS Digital | [Análise do Sus](/planejamento/aplicativos/analise_sus.md)             | 
+| Larissa Stefane     | GIMP            | [Análise do GIMP](/planejamento/aplicativos/analise_GIMP.md)           | 
+| Larissa Stefane     | Openreads       | [Análise do Openreads](/planejamento/aplicativos/analise_Openreads.md) | 
+| Luana de Lima       | MozilaFirefox   | [Análise do Firefox](/planejamento/aplicativos/analise_MozillaFireFox.md)|                                         | 
+| Pedro Augusto       | Guardiões da Saúde | [Análise do Guardiões](/planejamento/aplicativos/analise_Guardioes.md)                                           | 
 
   
 
@@ -71,10 +71,13 @@
 
 | Versão | Alteração                  | Responsável     | Revisor | Data       |
 | -      | -                          | -               | -       | -          |
-| 1.0    | Criaçao do documento       | Larissa Stéfane | Larissa Stéfane  | 28/03/2023 |
-| 2.0    | Adição app Meu SUS Digital | Iago Passaglia  | Larissa Stéfane  | 28/03/2023 |
-| 2.0    | Adição app GIMP e OPenreads| Larissa Stéfane | Larissa Stéfane | 28/03/2023 |
-| 1.0    | Adição app Signal          | Breno Alexandre |  Larissa Stéfane | 28/03/2023 |
+| 1.0    | Criaçao do documento       | Larissa Stéfane | Larissa Stéfane  | 28/03/2024 |
+| 2.1    | Adição app Meu SUS Digital | Iago Passaglia  | Larissa Stéfane  | 28/03/2024 |
+| 2.2    | Adição app GIMP e OPenreads| Larissa Stéfane | Larissa Stéfane | 28/03/2024 |
+| 2.3    | Adição app Signal          | Breno Alexandre |  Larissa Stéfane | 28/03/2024 |
+| 2.4    | Correção de erro em links  | Caio Mesquita   |                  | 01/04/2024 |
+
+
 
 
     

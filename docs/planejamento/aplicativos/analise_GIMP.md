@@ -16,7 +16,6 @@ Ideia dada pela membro: Larissa Stéfane Barboza Santos.
     <p> Figura 1: Logo GIMP</p> 
 </div>
 
-
  O GIMP é uma ferramenta de manipulação de imagens e de edição gráfica, disponível como software de código aberto. Com base nisso, esse aplicativo oferece uma ampla gama de recursos para criação e para edição de imagens, incluindo pintura, retoque, conversão de formatos de imagem, entre outros.
 
   - **Site:** [GIMP](https://www.gimp.org/)
