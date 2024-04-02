@@ -6,7 +6,7 @@ Ideia dada pela membro: Larissa Stéfane Barboza Santos.
 * [Apresentação](#Apresentação)
 * [Motivos para escolher](#Motivos-para-escolher)
 * [Motivos para não escolher](#Motivos-para-não-escolher)
-* [Referência Bibliográfica](Referência-Bibliográfica)
+* [Referência Bibliográfica](#Referência-Bibliográfica)
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Openreads
@@ -45,4 +45,4 @@ O OpenReads é um aplicativo de listas de leitura que permite aos usuários orga
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento| Larissa Stéfane | - | 28/03/2024|
+| 1.0 | Criação do documento| Larissa Stéfane | Caio Mesquita| 28/03/2024|
