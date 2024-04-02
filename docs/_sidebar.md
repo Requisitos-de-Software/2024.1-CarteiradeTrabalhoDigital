@@ -11,7 +11,6 @@
   - [Heatmap](planejamento/heatmap.md)
   - [Cronograma](planejamento/Cronograma.md)
   - [Ferramentas utilizadas](planejamento/ferramentas.md)
-  - [Rich Picture](planejamento/rich_picture.md)
   * Aplicativos
     - [Templete da análise](planejamento/aplicativos/Templete_Analise.md)
     - [Análise do GIMP](planejamento/aplicativos/analise_GIMP.md)
@@ -21,3 +20,6 @@
     - [Análise do Telegram](planejamento/aplicativos/analise_Telegram.md)
     - [Análise Carteira de Trabalho Digital](planejamento/aplicativos/analise_carteiradigitaldetrabalho.md)
     - [Análise do Guardiões da Saúde](planejamento/aplicativos/analise_Guardioes.md)
+
+* Pré-Rastreabilidade
+  - [Rich Picture](planejamento/rich_picture.md)
