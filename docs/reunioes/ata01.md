@@ -82,6 +82,6 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 0, onde cada i
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criando da base da Ata da Reunião | Larissa Stéfane Barboza Santos | - | 25/03 |
-| 1.1 | Atualiação da ata | Larissa Stéfane Barboza Santos |-| 26/03 |
+| 1.0 | Criando da base da Ata da Reunião | Larissa Stéfane Barboza Santos | Iago Passaglia Pereira | 25/03 |
+| 1.1 | Atualiação da ata | Larissa Stéfane Barboza Santos |Iago Passaglia Pereira | 26/03 |
 
