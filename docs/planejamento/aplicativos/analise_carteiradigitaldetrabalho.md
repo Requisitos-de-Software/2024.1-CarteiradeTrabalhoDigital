@@ -6,6 +6,7 @@ Ideia dada pela membro: Bruno Cunha Vasconcelos de Araújo.
 * [Apresentação](#Apresentação)
 * [Motivos para escolher](#motivos-pra-escolher)
 * [Motivos para não escolher](#motivos-para-não-escolher)
+* [Referência Bibliográfica](Referência-Bibliográfica)
 * [Histórico de versão](#histórico-de-versão)
 
 
@@ -36,6 +37,10 @@ Observação: para modificações é necessário um processo um pouco burocráti
 Comunidade ativa: .
 Pode ser instalado em qualquer celular: A Carteira Digital de Trabalho funciona em qualquer sistema operacional e é gratuito.
 
+
+## Referência Bibliográfica
+
+Disponível em: https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho. Acesso em 28 de março de 2024.
 
 ## Motivos para não escolher
 
