@@ -1,6 +1,6 @@
 # Análise do aplicativo: Carteira de Trabalho Digital
 
-## Ideia dada pela membro: Bruno Cunha Vasconcelos de Araújo.
+Ideia dada pela membro: Bruno Cunha Vasconcelos de Araújo.
 
 
 * [Apresentação](#Apresentação)
