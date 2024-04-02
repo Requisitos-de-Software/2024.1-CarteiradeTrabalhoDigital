@@ -49,4 +49,4 @@ A git page possui?  | Sim/Não/Incompleto
 
 | Versão | Alteração                  | Responsável     | Revisor | Data       |
 | -      | -                          | -               | -       | -          |
-| 1.0    | Criaçao do documento       | Caio Mesquita   |         | 01/04/2024 |
+| 1.0    | Criaçao do documento       | Caio Mesquita   | Bruno Araújo| 01/04/2024 |
