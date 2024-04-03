@@ -1,8 +1,6 @@
-# Reunião 02
+# Reunião 03
 
-## Ata da reunião do dia 28/04
-
-## Vídeo da Reunião
+## Ata da reunião do dia 02/04
 
 ## Vídeo da Reunião
 
@@ -19,8 +17,8 @@
 
 - **Data:** 02/04/2024
 - **Horário de início previsto:** 20:30.
-- **Horário de início:**  a definir
-- **Duração:** a definir
+- **Horário de início:**  20:40
+- **Duração:** 26min 48s
 - **Local:** Teams 
 - **Link da reunião:** [aqui](https://youtu.be/uzfsqMq4BIg?list=PL8iuGQf0VOAG6vZcaa15KTLHQfrdyMldr)
 
@@ -45,7 +43,7 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 
 | Identificador (Dn) | Tema |
 | - | - |
-| D1 | O que precisamos preparar para a seunda entrega? | 
+| D1 | O que precisamos preparar para a segunda entrega? | 
 | D2 | O que precisa ser melhorado no nosso GitHub?|
 | D3 | Discutir sobre observações feitas pelo professor para outros grupos |
 
@@ -58,15 +56,11 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 
 | Identificador (Dn) | Decisão |
 | - | - |
-| D1 | Este ponto será discutido mais no futuro, pois faz parte apenas da entrega 2.| 
-| D2 | Bruno e Iago cuidarão da documentação do heatmap. |
-| D3 | Ficamos entre dois aplicativos: Guardiões da Saúde e GIMP. Guardiões da saúde foi o campião. |
-| D4 | Breno está cuidando do cronograma.|
-| D5 | Vamos analisar melhor o protótipo do design agora que sabemos qual aplicativo vamos usar. |
-| D6 | No geral, sim. |
-| D7 | No sábado ou no domingo, ainda não está com um horário definido.|
+| D1 | As informações estão presentes no documento "Cronograma".| 
+| D2 | Melhorias no cronograma, Planejamento mais detalhado, Padronizar melhor cada documento e consertar erros em geral.|
+| D3 | Foram discutidos as observações e definidas as tarefas para melhoria do projeto. |
 
-<p align="center"> Tabela 2. Dúvidas </p>
+<p align="center"> Tabela 2. Decisões </p>
 
 ## 5. Decisões:
 
@@ -76,20 +70,16 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint atual, onde ca
 
 | Identificador (Issue n) | Issue | Integrante(s) responsável(eis) | Data de entrega |
 | - | - | - | - |
-| Issue 1 | Realizar a Ata da reunião  | Larissa Stéfane |   |
-| Issue 2 | Trabalhar no gitpage | Caio Mesquita Vieira |  |
-| Issue 3 | Criar a documentação do heatmap |  Bruno e Iago | |
-| Issue 4 | Atualizar o readme de apresentação | Caio Mesquita | |
-| Issue 5 | Organizar o cronograma de acordo com o padrão definido | Breno Alexandre | |
-| Issue 6 | Iniciar o estudo dos termos do app escolhido| Caio Mesquita | |
-| Issue 7 | Responsável por fazer e por revisar o rich picture do app | Pedro e Iago | |
-| Issue 8 | Responsável por revisar as ferramentas | Luana | |
-| Issue 9 | Revisar a motivação da escolha do app (cada uma das análises) | Larissa Stéfane | |
-| Issue 10 | Adicionar referências bibliográficas em todos os documentos | Todos os que fizeram documentos | |
-| Issue 11 | Fazer o cronograma do que foi feito até agora| Breno Alexandre | |
+| Issue 1 | Realizar a Ata da reunião  | Iago Passaglia |   |
+| Issue 2 | Refatorar erros no gitpage | Caio Mesquita Vieira |  |
+| Issue 3 | Corrigir a documentação do heatmap (referências bibliográficas | Iago | |
+| Issue 4 | Corrigir o cronograma de acordo com o padrão definido | Breno Alexandre, Luana e Larissa | |
+| Issue 5 | Inserir introdução em todos os documentos que estão sem| Todos | |
+| Issue 6 | Referenciar figuras e tabelas nos textos em todos os documentos que estão sem| Todos | |
+| Issue 7 | Corrigir bibliografias| Todos | |
+| Issue 7 | Documentar corretamente metodologias | Larissa | |
 
-
-<p align="center"> Tabela 3. Issues Sprint 0 </p>
+<p align="center"> Tabela 3. Issues</p>
 
 
 ## Ata da reunião do dia 02/04
@@ -111,3 +101,4 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint atual, onde ca
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação da base da Ata da Reunião | Iago Passaglia Pereira | - | 02/04 |
+| 1.1 | Adição das issues e demais informações da reunião | Iago Passaglia Pereira | - | 02/04 |
