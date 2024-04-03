@@ -91,5 +91,6 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
 | Versão | Alteração             | Responsável | Revisor | Data      |
 | -      | -                     | -           | -       | -         |
 | 1.0    | Criação do documento  | Breno       | Larissa Stéfane | 28/03/2024|
-| 2.0    | Adição dos executados | Breno       | Larissa Stéfane | 30/03/2024|
-| 2.0    | Planejamento da entrega 2| Larissa Stéfane       | | 01/04/2024|
+| 1.1    | Adição dos executados | Breno       | Larissa Stéfane | 30/03/2024|
+| 1.2    | Planejamento da entrega 2| Larissa Stéfane | Iago Passaglia | 01/04/2024|
+| 1.3    | Correçao de versionamento | Iago Passaglia | - | 02/04/2024 |
