@@ -100,4 +100,4 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 0, onde cada i
 | - | - | - | - | - |
 | 1.0 | Criação da base da Ata da Reunião | Larissa Stéfane Barboza Santos | Luana Medeiros | 28/03 |
 | 1.1 | Atualização da ata | Larissa Stéfane Barboza Santos | Luana Medeiros | 28/03 |
-| 1.2 | Correção de erros da ata | Luana Medeiros | - | 02/04 |
+| 1.2 | Correção de erros da ata | Luana Medeiros | Iago Passaglia | 02/04 |
