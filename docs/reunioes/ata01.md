@@ -1,6 +1,6 @@
 # Reunião 01
 
-## Ata da reunião do dia 26/04
+## Ata da reunião do dia 26/03
 
 ## Vídeo da Reunião
 
@@ -14,7 +14,7 @@
 
 ## 1. Data, Horário, Duração e Local
 
-- **Data:** 26/04/2024
+- **Data:** 26/03/2024
 - **Horário de início previsto:** 20:00.
 - **Horário de início:** 20:38
 - **Duração:** 19 minutos e 18 segundos.
@@ -59,13 +59,13 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 | D2 | Os integrantes do grupo irão investigar as opçõe de aplicativos. |
 | D3 | O cronograma será baseado de acordo com as datas de entrega das tarefas definidas pelo cronograma da disciplina.  |
 | D4 | A próxima reunião será no dia 28 de março às 21:00. |
-<p align="center"> Tabela 2. Dúvidas </p>
+<p align="center"> Tabela 2. Decisões </p>
 
 ## 5. Decisões:
 
-Neste tópico, são lincadas as tarefas a serem realizadas na semana e quem será os seus responsáveis.
+Neste tópico, são listadas as tarefas a serem realizadas na semana e quem será os seus responsáveis.
 
-Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 0, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
+Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
 
 | Identificador (Issue n) | Issue | Integrante(s) responsável(eis) |
 | - | - | - |
@@ -84,4 +84,5 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 0, onde cada i
 | - | - | - | - | - |
 | 1.0 | Criando da base da Ata da Reunião | Larissa Stéfane Barboza Santos | Iago Passaglia Pereira | 25/03 |
 | 1.1 | Atualiação da ata | Larissa Stéfane Barboza Santos |Iago Passaglia Pereira | 26/03 |
+| 1.2 | Correções de erros da ata | Iago Passaglia Pereira | - | 02/04 |
 
