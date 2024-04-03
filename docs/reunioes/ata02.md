@@ -1,8 +1,7 @@
 # Reunião 02
 
-## Ata da reunião do dia 28/04
+## Ata da reunião do dia 28/03
 
-## Vídeo da Reunião
 
 ## Vídeo da Reunião
 
@@ -17,7 +16,7 @@
 
 ## 1. Data, Horário, Duração e Local
 
-- **Data:** 28/04/2024
+- **Data:** 28/03/2024
 - **Horário de início previsto:** 20:00.
 - **Horário de início:**  20:28
 - **Duração:** 1 hora e 6 minutos
@@ -64,7 +63,7 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 | - | - |
 | D1 | Este ponto será discutido mais no futuro, pois faz parte apenas da entrega 2.| 
 | D2 | Bruno e Iago cuidarão da documentação do heatmap. |
-| D3 | Ficamos entre dois aplicativos: Guardiões da Saúde e GIMP. Guardiões da saúde foi o campião. |
+| D3 | Ficamos entre dois aplicativos: Guardiões da Saúde e GIMP. Guardiões da saúde foi o campeão. |
 | D4 | Breno está cuidando do cronograma.|
 | D5 | Vamos analisar melhor o protótipo do design agora que sabemos qual aplicativo vamos usar. |
 | D6 | No geral, sim. |
@@ -80,17 +79,17 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 0, onde cada i
 
 | Identificador (Issue n) | Issue | Integrante(s) responsável(eis) | Data de entrega |
 | - | - | - | - |
-| Issue 1 | Realizar a Ata da reunião  | Larissa Stéfane |   |
+| Issue 1 | Realizar a Ata da reunião  | Larissa Stéfane | 28/03 |
 | Issue 2 | Trabalhar no gitpage | Caio Mesquita Vieira |  |
-| Issue 3 | Criar a documentação do heatmap |  Bruno e Iago | |
-| Issue 4 | Atualizar o readme de apresentação | Caio Mesquita | |
-| Issue 5 | Organizar o cronograma de acordo com o padrão definido | Breno Alexandre | |
+| Issue 3 | Criar a documentação do heatmap |  Bruno e Iago | 29/03 |
+| Issue 4 | Atualizar o readme de apresentação | Caio Mesquita | 31/03 |
+| Issue 5 | Organizar o cronograma de acordo com o padrão definido | Breno Alexandre | 30/03 |
 | Issue 6 | Iniciar o estudo dos termos do app escolhido| Caio Mesquita | |
-| Issue 7 | Responsável por fazer e por revisar o rich picture do app | Pedro e Iago | |
-| Issue 8 | Responsável por revisar as ferramentas | Luana | |
-| Issue 9 | Revisar a motivação da escolha do app (cada uma das análises) | Larissa Stéfane | |
+| Issue 7 | Responsável por fazer e por revisar o rich picture do app | Pedro e Iago | 30/03 |
+| Issue 8 | Responsável por revisar as ferramentas | Luana | 31/03 |
+| Issue 9 | Revisar a motivação da escolha do app (cada uma das análises) | Larissa Stéfane | 28/03 |
 | Issue 10 | Adicionar referências bibliográficas em todos os documentos | Todos os que fizeram documentos | |
-| Issue 11 | Fazer o cronograma do que foi feito até agora| Breno Alexandre | |
+| Issue 11 | Fazer o cronograma do que foi feito até agora| Breno Alexandre | 30/03 |
 
 
 <p align="center"> Tabela 3. Issues Sprint 0 </p>
@@ -99,5 +98,6 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 0, onde cada i
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação da base da Ata da Reunião | Larissa Stéfane Barboza Santos | - | 28/03 |
-| 1.1 | Atualização da ata | Larissa Stéfane Barboza Santos |-| 28/03 |
+| 1.0 | Criação da base da Ata da Reunião | Larissa Stéfane Barboza Santos | Luana Medeiros | 28/03 |
+| 1.1 | Atualização da ata | Larissa Stéfane Barboza Santos | Luana Medeiros | 28/03 |
+| 1.2 | Correção de erros da ata | Luana Medeiros | - | 02/04 |
