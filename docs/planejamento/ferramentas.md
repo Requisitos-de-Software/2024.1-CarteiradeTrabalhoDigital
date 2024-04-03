@@ -60,5 +60,6 @@
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação do documento| Larissa Stéfane | Luana Medeiros | 28/03/2024|
-| 2.0 | Adição e modificação de algumas ferramentas| Larissa Stéfane | Luana Medeiros | 31/03/2024|
+| 1.1 | Adição e modificação de algumas ferramentas| Larissa Stéfane | Luana Medeiros | 31/03/2024|
+| 1.2 | Correçao de versionamento | Iago Passaglia | - | 02/04/2024 |
   
