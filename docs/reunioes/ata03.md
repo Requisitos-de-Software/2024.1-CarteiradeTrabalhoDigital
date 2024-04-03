@@ -78,6 +78,7 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint atual, onde ca
 | Issue 6 | Referenciar figuras e tabelas nos textos em todos os documentos que estão sem| Todos | |
 | Issue 7 | Corrigir bibliografias| Todos | |
 | Issue 7 | Documentar corretamente metodologias | Larissa | |
+| Issue 8 | Padronizar versionamento de todos os documentos | Iago | |
 
 <p align="center"> Tabela 3. Issues</p>
 
