@@ -32,17 +32,16 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento do Projeto</p></font>
 
-| Atividade                          | Período de desenvolvimento    | Responsáveis       | Periodo de Revisão             | Revisores      |
-| ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
-| Selecionar site                    | Início: 26/03 <br> Fim: 28/03 | Todos              | Início: 29/03 <br> Fim: 29/03 | Caio             |
-| Documentar Equipe                  | Início: 26/03 <br> Fim: 28/03 | Larissa            | Início: 29/03 <br> Fim: 29/03 | Luana            |
-| Realização do cronograma           | Início: 28/03 <br> Fim: 30/03 | Breno              | Início: 29/03 <br> Fim: 29/03 | Larissa          |
-| Implementar Git Page               | Início: 26/03 <br> Fim: 29/03 | Caio               | Início: 29/03 <br> Fim: 29/03 | Breno            |
-| Selecionar ferramentas do projeto  | Início: 26/03 <br> Fim: 28/03 | Larissa e Luana    | Início: 29/03 <br> Fim: 29/03 | Bruno            |
-| Criação do Rich Picture            | Início: 29/03 <br> Fim: 30/03 | Pedro              | Início: 30/03 <br> Fim: 30/03 | Iago             |
-| Gravar apresentação                | Início: 30/03 <br> Fim: 30/03 | Todos              | Início: 30/03 <br> Fim: 31/03 | Todos            |
-| Correção pós apresentação          | Início: 30/03 <br> Fim: 31/03 | Todos              | Início: 01/04 <br> Fim: 01/04 | Todos            |
-
+| *Atividade*                       | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
+| --------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
+| Selecionar app                    | 26/03/2024 | 28/03/2024 | Todos              | Caio             | 29/03/2024 - 29/03/2024 |
+| Documentar Equipe                 | 26/03/2024 | 28/03/2024 | Larissa            | Luana            | 29/03/2024 - 29/03/2024 |
+| Realização do cronograma          | 28/03/2024 | 30/03/2024 | Breno              | Larissa          | 29/03/2024 - 29/03/2024 |
+| Implementar Git Page              | 26/03/2024 | 29/03/2024 | Caio               | Breno            | 29/03/2024 - 29/03/2024 |
+| Selecionar ferramentas do projeto | 26/03/2024 | 28/03/2024 | Larissa e Luana    | Bruno            | 29/03/2024 - 29/03/2024 |
+| Criação do Rich Picture           | 29/03/2024 | 30/03/2024 | Pedro              | Iago             | 30/03/2024 - 30/03/2024 |
+| Gravar apresentação               | 30/03/2024 | 30/03/2024 | Todos              | Todos            | 30/03/2024 - 31/03/2024 |
+| Correção pós apresentação         | 30/03/2024 | 31/03/2024 | Todos              | Todos            | 01/04/2024 - 01/04/2024 |
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
 
@@ -51,7 +50,6 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 ### Planejado
 
 Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
-
 
 | *Atividade*                                                                                                                            | *Início*   | *Fim*      | *Responsáveis*  | *Revisores* | *Periodo de Revisão*    |
 |----------------------------------------------------------------------------------------------------------------------------------------|------------|------------|-----------------|-------------|-------------------------|
@@ -83,7 +81,7 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
 | Descrever a participação do cliente e/ou persona no processo de priorização                                                            | 12/04/2024 | 16/04/2024 | A definir       | A definir   | 16/04/2024 - 16/04/2024 |
 | Ajustes finais da entrega 2                                                                                                            | 16/04/2024 | 17/04/2024 | Todos           | Todos       | 16/04/2024              |
 
-
+<font size="3"><p style="text-align: center">Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme).</p></font>
 
 ## Histórico de versão
 
