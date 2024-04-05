@@ -80,6 +80,7 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
 | Definição das técnicas de priorização que serão usadas                                                                                 | 16/04/2024 | 16/04/2024 | Todos           | Todos       | 16/04/2024 - 16/04/2024 |
 | Descrever a participação do cliente e/ou persona no processo de priorização                                                            | 12/04/2024 | 16/04/2024 | A definir       | A definir   | 16/04/2024 - 16/04/2024 |
 | Ajustes finais da entrega 2                                                                                                            | 16/04/2024 | 17/04/2024 | Todos           | Todos       | 16/04/2024 -            |
+
 <font size="3"><p style="text-align: center">Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme).</p></font>
 
 ## Histórico de versão
