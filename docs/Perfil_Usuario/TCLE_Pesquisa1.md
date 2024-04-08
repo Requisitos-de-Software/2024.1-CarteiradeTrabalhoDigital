@@ -37,7 +37,7 @@ Ao concordar em participar deste estudo, você tem o direito de retirar seu cons
 ## Contato e esclarecimentos
 Para esclarecimento de dúvidas ou informações adicionais sobre este estudo, você pode entrar em contato com o Pesquisador Responsável através dos seguintes meios:
     • Mensagem por meio de uma issue no grithub: Requisitos-de-Software/2024.1-GuardioesDaSaude.
-    • Email: larissa.stefane@aluno.unb.br ou luanalm02@gmail.com
+    • Email: larissa.stefane@aluno.unb.br ou medeiros.luana@aluno.unb.br
 
 ## Consentimento
 Ao avançar na pesquisa, você está declarando ter lido este documento, compreendido seus direitos e aceitado participar de forma voluntária. Novamente, você tem o direito de cancelar sua participação a qualquer momento, sem sofrer qualquer repercussão adversa.
@@ -47,7 +47,7 @@ Se concordar com os termos acima e desejar participar, por favor, continue com a
 Atenciosamente, equipe 2.
 
 ## Conclusão
-Este Termo de Consentimento pretende garantir a transparência e a clareza sobre os objetivos, procedimentos e direitos dos participantes nesta pesquisa. Portanto, ao fornecer as informações necessárias de forma precisa e compreensível, é bucado buscado assegurar a participação consciente dos voluntários.
+Este Termo de Consentimento pretende garantir a transparência e a clareza sobre os objetivos, procedimentos e direitos dos participantes nesta pesquisa. Portanto, ao fornecer as informações necessárias de forma precisa e compreensível, é buscado assegurar a participação consciente dos voluntários.
 
 ## Referências Bibliográficas
 
@@ -59,4 +59,4 @@ Centro universitário salesiano de São Paulo
 ##  Histórico de Versão
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criando do documento | Larissa Stéfane Barboza Santos |  - | 08/04/2024|
+| 1.0 | Criador do documento | Larissa Stéfane Barboza Santos |  Luana Medeiros | 08/04/2024|
