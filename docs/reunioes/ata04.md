@@ -100,4 +100,4 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint atual, onde ca
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação da base da Ata da Reunião | Bruno Araújo | - | 02/04 |
+| 1.0 | Criação da base da Ata da Reunião | Bruno Araújo | Breno Alexandre | 02/04 |
