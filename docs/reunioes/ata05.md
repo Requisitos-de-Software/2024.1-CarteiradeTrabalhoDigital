@@ -44,14 +44,30 @@ Os presentes na reunião foram:
 
 As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tema tem o seu identificador Dn para rastreabilidade.
 
-| Identificador (Dn) | Tema |
-| - | - |
-| D1 | O que precisamos preparar para a segunda entrega? | 
-| D2 | O que precisa ser melhorado no nosso GitHub?|
-| D3 | Discutir sobre observações feitas pelo professor para outros grupos |
-
+| Identificador (Dn) | Tema                                                                                                             |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| D1                 | Definir app (provavelmente CTD)                                                                                  |
+| D2                 | Conseguir termos de uso do app e versionar                                                                       |
+| D3                 | Definir usuários do app                                                                                          |
+| D4                 | Template dos métodos de elicitações (cada um faz de um ou dois e na quinta a gente faz a escolha das principais) |
+| D5                 | Template das técnicas (cada um faz de um ou dois e na quinta a gente faz a escolha das principais)               |
+| D6                 | Discutir sobre a ideia de fazer rodízio de issues                                                                |
+| D7                 | Revisar cronograma: detalhar, colocar nome de todos e não "todos", colapsar tabelas                              |
+| D8                 | Revisar gitpage: contraste de cores e talvez ajudar a colapsar tabelas no cronograma                             |
+| D9                 | Revisar vídeos no youtube: Arrumar títulos e deixar não listados                                                 |
+| D10                | Revisar artefatos no geral                                                                                       |
 
 <p align="center"> Tabela 1. Dúvidas </p>
+
+### **D10:**
+* Padronização de numeração ou não nos artefatos
+* Consertar referências
+* Legenda apenas em baixo da figura
+* Citar de legenda nos textos
+* Nomear como figura e não imagem
+* Citar opções de escolhas nos artefatos
+* Printar menus de clique direito
+
 
 ## 4. Conclusões: 
 
@@ -59,9 +75,7 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 
 | Identificador (Dn) | Decisão |
 | - | - |
-| D1 | As informações estão presentes no documento "Cronograma".| 
-| D2 | Melhorias no cronograma, Planejamento mais detalhado, Padronizar melhor cada documento e consertar erros em geral.|
-| D3 | Foram discutidos as observações e definidas as tarefas para melhoria do projeto. |
+| D1 |  |
 
 <p align="center"> Tabela 2. Decisões </p>
 
@@ -73,7 +87,7 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint atual, onde ca
 
 | Identificador (Issue n) | Issue | Integrante(s) responsável(eis) | Data de entrega |
 | - | - | - | - |
-| Issue 1 | Realizar a Ata da reunião  | Breno Alexandre |   |
+| Issue 1 | Realizar a Ata da reunião  | Breno Alexandre | 09/04/2024 |
 
 
 <p align="center"> Tabela 3. Issues</p>
