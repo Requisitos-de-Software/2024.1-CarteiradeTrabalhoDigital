@@ -19,8 +19,8 @@ web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></if
 
 - **Data:** 09/04/2024
 - **Horário de início previsto:** 21:00.
-- **Horário de início:**
-- **Duração:**
+- **Horário de início:** 21:04
+- **Duração:** 22 minutos e 40 segundos
 - **Local:** Teams 
 - **Link da reunião:** [aqui]()
 
