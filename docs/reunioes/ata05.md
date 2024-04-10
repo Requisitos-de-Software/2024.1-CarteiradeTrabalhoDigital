@@ -43,19 +43,18 @@ Os presentes na reunião foram:
 
 As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tema tem o seu identificador Dn para rastreabilidade.
 
-| Identificador (Dn) | Tema                                                                                                             |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------- |
-| D1                 | Definir app (provavelmente CTD)                                                                                  |
-| D2                 | Refazer a logo do app (provavelmente CTD)                                                                        |
-| D3                 | Conseguir termos de uso do app e versionar                                                                       |
-| D4                 | Definir usuários do app                                                                                          |
-| D5                 | Template dos métodos de elicitações (cada um faz de um ou dois e na quinta a gente faz a escolha das principais) |
-| D6                 | Template das técnicas (cada um faz de um ou dois e na quinta a gente faz a escolha das principais)               |
-| D7                 | Discutir sobre a ideia de fazer rodízio de issues                                                                |
-| D8                 | Revisar cronograma: detalhar, colocar nome de todos e não "todos", colapsar tabelas                              |
-| D9                 | Revisar gitpage: contraste de cores e talvez ajudar a colapsar tabelas no cronograma                             |
-| D10                | Revisar vídeos no youtube: Arrumar títulos e deixar não listados                                                 |
-| D11                | Revisar artefatos no geral                                                                                       |
+| Identificador (Dn) | Tema                                                                                                              |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| D1                 | Definir app (provavelmente CTD)                                                                                   |
+| D2                 | Refazer a logo do app (provavelmente CTD)                                                                         |
+| D3                 | Conseguir termos de uso do app e versionar                                                                        |
+| D4                 | Definir usuários do app                                                                                           |
+| D6                 | Template das técnicas de elicitações (cada um faz de um ou dois e na quinta a gente faz a escolha das principais) |
+| D7                 | Discutir sobre a ideia de fazer rodízio de issues                                                                 |
+| D8                 | Revisar cronograma: detalhar, colocar nome de todos e não "todos", colapsar tabelas                               |
+| D9                 | Revisar gitpage: contraste de cores e talvez ajudar a colapsar tabelas no cronograma                              |
+| D10                | Revisar vídeos no youtube: Arrumar títulos e deixar não listados                                                  |
+| D11                | Revisar artefatos no geral                                                                                        |
 
 <p align="center"> Tabela 1. Dúvidas </p>
 
@@ -77,6 +76,20 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 | Identificador (Dn) | Decisão |
 | - | - |
 | D1 |  |
+
+definido ctd
+rodizio aceito
+
+banner do ctd com cor ciano - caio e bruno
+Conseguir termos de uso do app e versionar - luana
+definir perfil de usuario - bruno e iago
+apresentação sobre o app - Larissa e pedro
+template de tecnicas - larissa
+revisar cronograma - iago e caio
+gitpage - pedro
+youtube e ata - caio
+alterar descrição do projeto - larissa
+revisar artefatos - breno e bruno
 
 <p align="center"> Tabela 2. Decisões </p>
 
