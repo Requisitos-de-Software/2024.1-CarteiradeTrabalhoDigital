@@ -5,7 +5,7 @@
 * [O que é Priorização?](#O-que-é-Priorização?)
 * [Por Que a Priorização é Essencial?](#Por-Que-a-Priorização-é-Essencial?)
 * [Método de análise](#Método-de-análise)
-* [Técnicas de Priorização Estudas](#Técnicas-de-Elicitação-Estudas)
+* [Técnicas de Priorização Estudas](#Técnicas-de-Priorização-Estudas)
 * [Templete](#Template)
 * [Conclusão](#Conclusão)
 * [Bibliografia](#Bibliografia)
