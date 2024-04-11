@@ -31,10 +31,13 @@ Portanto, ao priorizar os requisitos de forma eficaz, as equipes de desenvolvime
 ## Por Que a Priorização é Essencial?
 
 Em um mundo de recursos limitados, a priorização de requisitos se torna uma ferramenta fundamental para o sucesso e eficiência de um projeto. Sendo assim, ao definir quais necessidades serão atendidas primeiro, a equipe garante que:
-      - **O projeto atenda às necessidades mais importantes dos stakeholders**: Ao priorizar as necessidades mais críticas, é garantido que o projeto esteja alinhado com as expectativas dos stakeholders.
-      - **Os recursos sejam utilizados de forma eficiente**: Ao focar nas necessidades mais importantes, é evitado o desperdício de tempo, de esforço e de dinheiro.
-      - **O cronograma do projeto seja cumprido**: Ao definir uma ordem clara para o desenvolvimento das funcionalidades, a equipe aumenta as chances de cumprir o cronograma do projeto e entregar o produto final dentro do prazo previsto.
-      - **O risco de falhas seja reduzido**: Ao identificar e priorizar os requisitos de risco, a equipe pode tomar medidas preventivas para evitar problemas futuros.
+ - **O projeto atenda às necessidades mais importantes dos stakeholders**: Ao priorizar as necessidades mais críticas, é garantido que o projeto esteja alinhado com as expectativas dos stakeholders.
+      
+- **Os recursos sejam utilizados de forma eficiente**: Ao focar nas necessidades mais importantes, é evitado o desperdício de tempo, de esforço e de dinheiro.
+      
+- **O cronograma do projeto seja cumprido**: Ao definir uma ordem clara para o desenvolvimento das funcionalidades, a equipe aumenta as chances de cumprir o cronograma do projeto e entregar o produto final dentro do prazo previsto.
+     
+- **O risco de falhas seja reduzido**: Ao identificar e priorizar os requisitos de risco, a equipe pode tomar medidas preventivas para evitar problemas futuros.
 
 ## Método de análise: 
 
