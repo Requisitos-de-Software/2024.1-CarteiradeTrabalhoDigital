@@ -48,7 +48,7 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 | D1                 | Definir app (provavelmente CTD)                                                                                   |
 | D2                 | Refazer a logo do app (provavelmente CTD)                                                                         |
 | D3                 | Conseguir termos de uso do app e versionar                                                                        |
-| D4                 | Definir usuários do app                                                                                           |
+| D4                 | Definir perfil de usuário do app                                                                                  |
 | D5                 | Template das técnicas de elicitações (cada um faz de um ou dois e na quinta a gente faz a escolha das principais) |
 | D6                 | Discutir sobre a ideia de fazer rodízio de issues (para dividir melhor o trabalho entre a equipe)                 |
 | D7                 | Revisar cronograma: detalhar, colocar nome de todos e não "todos", colapsar tabelas                               |
@@ -91,7 +91,7 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 | Issue 1                 | Realizar a Ata da reunião                                                         | Breno Alexandre                | 09/04/2024      |
 | Issue 2                 | Criar logo e banner do projeto                                                    | Caio e Bruno                   | 11/04/2024      |
 | Issue 3                 | Conseguir termos de uso do app e versionar                                        | Luana Medeiros                 | 11/04/2024      |
-| Issue 4                 | Definir perfil de usuário                                                         | Bruno e Iago                   | 11/04/2024      |
+| Issue 4                 | Definir perfil de usuário do app                                                  | Bruno e Iago                   | 11/04/2024      |
 | Issue 5                 | Reescrever a apresentação sobre o app                                             | Larissa e Pedro                | 11/04/2024      |
 | Issue 6                 | Criar o template de técnicas de Elicitação de Requisitos (para a equipe elaborar) | Larissa Stéfane                | 11/04/2024      |
 | Issue 7                 | Revisar o cronograma                                                              | Iago e Caio                    | 11/04/2024      |
