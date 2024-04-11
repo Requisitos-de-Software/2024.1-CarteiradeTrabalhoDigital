@@ -2,7 +2,7 @@
 
 ## Sumário
 * [Introdução](#Introdução)
-* [O que é Elicitação?](#O-que-é-Elicitação?)
+* [O que é Elicitação](#O-que-é-Elicitação)
 * [Por que a Elicitação é essencial?](#Por-que-a-Elicitação-é-essencial?)
 * [Método de análise](#Método-de-análise)
 * [Técnicas de Elicitação Estudas](#Técnicas-de-Elicitação-Estudas)
@@ -17,7 +17,7 @@ A elicitação e as suas técnicas são uma parte essencial para o desenvolvimen
 
 Com isso, ao longo do documento, serão discutidas diversas abordagens de elicitação, incluindo suas vantagens, limitações e cenários ideais de aplicação, visando capacitar a equipe a conduzir um processo eficaz e eficiente da análise de requisitos.
 
-## O que é Elicitação?
+## O que é Elicitação
 
 Conforme o livro “Engenharia de Requisitos”, de Sheila Reinehr, a elicitação se refere à etapa de investigação dos requisitos, ou seja, é o momento em que a equipe técnica precisa compreender o que deve ser feito. Desse modo, é durante essa etapa que é realizada a extração, a análise e a documentação das necessidades e expectativas dos stakeholders, que podem ser os usuários, clientes, patrocinadores ou equipe de desenvolvimento. 
 
