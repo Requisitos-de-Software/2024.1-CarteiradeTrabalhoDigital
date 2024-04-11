@@ -30,7 +30,7 @@ Para explicar sobre a importância da elicitação de requisitos, pode-se fazer 
 - **As necessidades dos stakeholders sejam compreendidas com clareza**: A essência do projeto reside nas necessidades dos stakeholders (investidores ou usuários do projeto). Assim, através da elicitação, a equipe garante que a bússola esteja apontada na direção correta e evita desvios e frustrações.
 
 - **Falhas no projeto sejam prevenidas**: Sem elicitação, lacunas nas informações dominam o projeto, o que pode provocar falhas, atrasos e até mesmo ao abandono do projeto.
-- **Analogia**: Um projeto sem elicitação é como um quebra-cabeça sem peças.
+    - **Analogia**: Um projeto sem elicitação é como um quebra-cabeça sem peças.
 
 - **O projeto tenha uma qualidade melhor**: Uma elicitação bem-sucedida é a chave para um produto final que atenda às expectativas dos stakeholders e supere as suas necessidades.
 
