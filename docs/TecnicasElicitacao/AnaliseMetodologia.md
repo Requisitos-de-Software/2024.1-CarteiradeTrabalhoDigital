@@ -3,7 +3,7 @@
 ## Sumário
 * [Introdução](#Introdução)
 * [O que é Elicitação](#O-que-é-Elicitação)
-* [Por que a Elicitação é essencial?](#Por-que-a-Elicitação-é-essencial?)
+* [Porque a Elicitação é essencial](#Porque-a-Elicitação-é-essencial)
 * [Método de análise](#Método-de-análise)
 * [Técnicas de Elicitação Estudas](#Técnicas-de-Elicitação-Estudas)
 * [Template](#Template)
