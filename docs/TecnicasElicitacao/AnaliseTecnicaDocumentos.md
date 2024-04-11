@@ -66,10 +66,10 @@ Portanto, foi possível analisar e verificar a análise de documentos como uma t
 
 ## Bibliografia
 
-    1. Reinehr, Sheila. **Engenharia de requisitos **. Revisão técnica por Marco Antônio Paludo. Porto Alegre. Editora SAGAH, [s.d.]. Disponível em < https://integrada.minhabiblioteca.com.br/reader/books/9786556900674/pageid/0 > Acesso em 11 de abril de 2024.
-    2. **Análise de Documentos**. Disponível em < https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-analise-de-documentos > Acessado em 11 de abril de 2024.
-    3. **Técnicas para levantamento de Requisitos**. Disponível em < https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151 > Acesso em 11 de abril de 2024.
-    4. Vazquez, Carlos Eduardo; Simões, Guilherme Siqueira. **Engenharia de Requisitos: software orientado ao negócio**. Editora Brasport, 2016.
+1. Reinehr, Sheila. **Engenharia de requisitos **. Revisão técnica por Marco Antônio Paludo. Porto Alegre. Editora SAGAH, [s.d.]. Disponível em < https://integrada.minhabiblioteca.com.br/reader/books/9786556900674/pageid/0 > Acesso em 11 de abril de 2024.
+2. **Análise de Documentos**. Disponível em < https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-analise-de-documentos > Acessado em 11 de abril de 2024.
+3. **Técnicas para levantamento de Requisitos**. Disponível em < https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151 > Acesso em 11 de abril de 2024.
+4. Vazquez, Carlos Eduardo; Simões, Guilherme Siqueira. **Engenharia de Requisitos: software orientado ao negócio**. Editora Brasport, 2016.
 
 ## Histórico de versão
 
