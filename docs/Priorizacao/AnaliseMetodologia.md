@@ -56,7 +56,7 @@ A tabela 1 apresenta as técnicas de priorização que foram estudadas pela equi
 | MoSCoW | Breno Alexandre |
 | 100 $ | Bruno Cunha |
 | ROI | Iago Passaglia |
-| First thing First | Larissa Stéfane |
+| Ordenação e classificação de pares | Larissa Stéfane |
 | QFD | Luana Lima|
 | TQM | Pedro Augusto |
 
