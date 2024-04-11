@@ -44,11 +44,12 @@ Em um mundo de recursos limitados, a priorização de requisitos se torna uma fe
 Para realizar priorizações ideias, é necessário utilizar técnicas que ajudam a entender melhor e que se adaptam ao projeto a ser realizado. Com base nisso, a metodologia de análise e decisão das técnicas de priorização foi implementada de forma cooperativa pela equipe. 
 Cada membro foi responsável por estudar e avaliar um tipo de priorização. A tabela 1 apresenta as que foram estudadas por cada integrante.
 Após a conclusão dos estudos, a equipe se reuniu para apresentar os pontos de cada tipo e escolheu quais são as ideias para o contexto do projeto. 
+
+
 ## Técnicas de Priorização Estudas
 
 A tabela 1 apresenta as técnicas de priorização que foram estudadas pela equipe.
 
-Tabela 1: Técnicas de priorização estudas.
 
 | Técnica de Elicitação | Responsável |
 | -------------------- | ------------------ | 
@@ -59,7 +60,7 @@ Tabela 1: Técnicas de priorização estudas.
 | QFD | Luana Lima|
 | TQM | Pedro Augusto |
 
-Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+**Tabela 1**: Técnicas de priorização estudas. **Fonte**: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 
 ## Templete
