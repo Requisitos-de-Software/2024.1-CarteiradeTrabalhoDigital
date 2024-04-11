@@ -7,12 +7,12 @@
 <center>
 
 <iframe width="697" height="392" src="" 
-title="Reunião 02 Requisitos g02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; 
+title="Reunião 05 Requisitos g02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; 
 web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Reunião 05**
 
-**Fonte:** [Breno Alexandre](https://github.com/brenoalexandre0)
+**Fonte:** [Caio Mesquita](https://github.com/caiomesvie)
 </center>
 
 ## 1. Data, Horário, Duração e Local
@@ -49,23 +49,22 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 | D2                 | Refazer a logo do app (provavelmente CTD)                                                                         |
 | D3                 | Conseguir termos de uso do app e versionar                                                                        |
 | D4                 | Definir usuários do app                                                                                           |
-| D6                 | Template das técnicas de elicitações (cada um faz de um ou dois e na quinta a gente faz a escolha das principais) |
-| D7                 | Discutir sobre a ideia de fazer rodízio de issues                                                                 |
-| D8                 | Revisar cronograma: detalhar, colocar nome de todos e não "todos", colapsar tabelas                               |
-| D9                 | Revisar gitpage: contraste de cores e talvez ajudar a colapsar tabelas no cronograma                              |
-| D10                | Revisar vídeos no youtube: Arrumar títulos e deixar não listados                                                  |
-| D11                | Revisar artefatos no geral                                                                                        |
+| D5                 | Template das técnicas de elicitações (cada um faz de um ou dois e na quinta a gente faz a escolha das principais) |
+| D6                 | Discutir sobre a ideia de fazer rodízio de issues (para dividir melhor o trabalho entre a equipe)                 |
+| D7                 | Revisar cronograma: detalhar, colocar nome de todos e não "todos", colapsar tabelas                               |
+| D8                 | Revisar gitpage: contraste de cores e talvez ajudar a colapsar tabelas no cronograma                              |
+| D9                 | Revisar vídeos no youtube: Arrumar títulos e deixar não listados                                                  |
+| D10                | Revisar artefatos no geral                                                                                        |
 
 <p align="center"> Tabela 1. Dúvidas </p>
 
-### **D11:**
+### **D10:**
 * Padronização de numeração ou não nos artefatos
-* Consertar referências
+* Padronização de referências
 * Legenda apenas em baixo da figura
-* Citar de legenda nos textos
+* Citar legendas nos textos
 * Nomear como figura e não imagem
 * Citar opções de escolhas nos artefatos
-* Printar menus de clique direito
 * Alterar descrição do projeto
 
 
@@ -73,23 +72,10 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 
 De acordo com o tema discutido, é definido o que foi decidido. Esses pontos podem ser encontrados de acordo com a tabela 2.
 
-| Identificador (Dn) | Decisão |
-| - | - |
-| D1 |  |
-
-definido ctd
-rodizio aceito
-
-banner do ctd com cor ciano - caio e bruno
-Conseguir termos de uso do app e versionar - luana
-definir perfil de usuario - bruno e iago
-apresentação sobre o app - Larissa e pedro
-template de tecnicas - larissa
-revisar cronograma - iago e caio
-gitpage - pedro
-youtube e ata - caio
-alterar descrição do projeto - larissa
-revisar artefatos - breno e bruno
+| Identificador (Dn) | Decisão                                                              |
+| ------------------ | -------------------------------------------------------------------- |
+| D1                 | Foi escolhido pela equipe o app do CTD(Carteira de Trabalho Digital) |
+| D2                 | Foi aceito pela equipe o rodízio de issues                           |
 
 <p align="center"> Tabela 2. Decisões </p>
 
@@ -97,18 +83,27 @@ revisar artefatos - breno e bruno
 
 Neste tópico, são listadas as tarefas a serem realizadas na semana e quem será os seus responsáveis.
 
-Dessa forma, estão descritas na Tabela 2 as issues para a Sprint atual, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
+Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
 
-| Identificador (Issue n) | Issue | Integrante(s) responsável(eis) | Data de entrega |
-| - | - | - | - |
-| Issue 1 | Realizar a Ata da reunião  | Breno Alexandre | 09/04/2024 |
-
+| Identificador (Issue n) | Issue                                                                             | Integrante(s) responsável(eis) | Data de entrega |
+| ----------------------- | --------------------------------------------------------------------------------- | ------------------------------ | --------------- |
+| Issue 1                 | Realizar a Ata da reunião                                                         | Breno Alexandre                | 09/04/2024      |
+| Issue 2                 | Criar logo e banner do projeto                                                    | Caio e Bruno                   | 11/04/2024      |
+| Issue 3                 | Conseguir termos de uso do app e versionar                                        | Luana Medeiros                 | 11/04/2024      |
+| Issue 4                 | Definir perfil de usuário                                                         | Bruno e Iago                   | 11/04/2024      |
+| Issue 5                 | Reescrever a apresentação sobre o app                                             | Larissa e Pedro                | 11/04/2024      |
+| Issue 6                 | Criar o template de técnicas de Elicitação de Requisitos (para a equipe elaborar) | Larissa Stéfane                | 11/04/2024      |
+| Issue 7                 | Revisar o cronograma                                                              | Iago e Caio                    | 11/04/2024      |
+| Issue 8                 | Revisar o gitpage                                                                 | Pedro Augusto                  | 11/04/2024      |
+| Issue 9                 | Revisar os vídeos no youtube e colocar os links nas atas                          | Caio Mesquita                  | 11/04/2024      |
+| Issue 10                | Revisar os vídeos no youtube e colocar os links nas atas                          | Caio Mesquita                  | 11/04/2024      |
+| Issue 11                | Revisar os artefatos do projeto                                                   | Breno e Bruno                  | 11/04/2024      |
 
 <p align="center"> Tabela 3. Issues</p>
 
 
 ## 6. Histórico de Versão
 
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 | Criação da base da Ata da Reunião | Breno Alexandre | - | 09/04/2024 |
+| Versão | Alteração                         | Responsável     | Revisor | Data       |
+| ------ | --------------------------------- | --------------- | ------- | ---------- |
+| 1.0    | Criação da base da Ata da Reunião | Breno Alexandre | -       | 09/04/2024 |
