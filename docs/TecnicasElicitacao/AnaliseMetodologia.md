@@ -23,7 +23,7 @@ Conforme o livro “Engenharia de Requisitos”, de Sheila Reinehr, a elicitaç�
 
 Uma observação fundamental quando se fala de elicitação é que não é necessário ter todos os requisitos extensivamente detalhados no início do projeto. Em equipes ágeis, os requisitos podem emergir em diversos momentos, compondo o product backlog. No entanto, é importante ter em mente que alguns requisitos, quando descobertos muito tardiamente no ciclo de vida de um projeto, podem implicar grande quantidade de retrabalho e custos adicionais.
 
-## Por que a Elicitação é essencial?
+## Porque a Elicitação é essencial
 
 Para explicar sobre a importância da elicitação de requisitos, pode-se fazer uma analogia de um navio zarpando sem bússola ou mapa. Da mesma forma, sem a elicitação de requisitos, o projeto navega à deriva, sem um rumo definido e com alto risco de naufrágio. Por isso essa etapa é fundamental. Ela garante que: 
 
