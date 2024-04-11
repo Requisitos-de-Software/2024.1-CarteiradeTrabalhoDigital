@@ -6,7 +6,7 @@
 * [Por que a Elicitação é essencial?](#Por-que-a-Elicitação-é-essencial?)
 * [Método de análise](#Método-de-análise)
 * [Técnicas de Elicitação Estudas](#Técnicas-de-Elicitação-Estudas)
-* [Templete](#Templete)
+* [Template](#Template)
 * [Conclusão](#Conclusão)
 * [Bibliografia](#Bibliografia)
 * [Histórico de versão](#Histórico-de-versão)
@@ -64,7 +64,7 @@ A tabela 1 apresenta as técnicas de elicitação que foram estudas pela equipe.
 **Fonte**: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 
-## Templete
+## Template
 
 Abaixo, no código 1, há um templete do formato que os documentos dos estudos das análises das técnicas de elicitação devem ter.
 
