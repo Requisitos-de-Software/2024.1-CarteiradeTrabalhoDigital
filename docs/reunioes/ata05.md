@@ -76,6 +76,7 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 | ------------------ | -------------------------------------------------------------------- |
 | D1                 | Foi escolhido pela equipe o app do CTD(Carteira de Trabalho Digital) |
 | D2                 | Foi aceito pela equipe o rodízio de issues                           |
+| D3                 | Foi definido tarefas para todos os membros                           |
 
 <p align="center"> Tabela 2. Decisões </p>
 
