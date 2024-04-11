@@ -66,24 +66,25 @@ Abaixo, no código 1, há um templete do formato que os documentos dos estudos d
 Código 1: Templete.
 
 
-- ## Nome da técnica:
+            - ## Nome da técnica:
 
-- ## Introdução.
+            - ## Introdução.
 
-- ## Apresentação da técnica
+            - ## Apresentação da técnica
 
-- ## Como realizar
+            - ## Como realizar
 
-- ## Pontos positivos
+            - ## Pontos positivos
 
-- ## Pontos negativos
+            - ## Pontos negativos
 
-- ## Relação da técnica com o aplicativo escolhido (motivos para usar ou não usar no caso específico)
+            - ## Relação da técnica com o aplicativo escolhido (motivos para usar ou não usar no caso específico)
 
-- ## Conclusão
+            - ## Conclusão
 
-- ## Referências bibliográficas;
-- ## Histórico de versão
+            - ## Referências bibliográficas;
+            
+            - ## Histórico de versão
 
 Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
