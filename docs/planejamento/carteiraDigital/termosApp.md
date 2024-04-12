@@ -54,6 +54,6 @@ Se você ainda tiver alguma dúvida sobre a Política de Privacidade da CTPS Dig
 
  ## Histórico de versões:
  
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 | Criação do documento| Pedro Augusto | - | 12/04/2024|
+| Versão | Alteração            | Responsável   | Revisor         | Data       |
+| ------ | -------------------- | ------------- | --------------- | ---------- |
+| 1.0    | Criação do documento | Pedro Augusto | Breno Alexandre | 12/04/2024 |
