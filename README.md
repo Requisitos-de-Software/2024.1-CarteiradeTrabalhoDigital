@@ -1,6 +1,6 @@
-# 2024.1-Grupo02: Guardiões da saúde!
+# 2024.1-Grupo02: Carteira de Trabalho Digital!
 
-## :earth_americas: Quem somos:
+## Quem somos:
 
   <div align="center">
   <img src="Midia/logoEquipe.png">
@@ -10,8 +10,8 @@
 
 Somos uma equipe que faz parte da disciplina de Requisitos de Software ministrada pelo professor André de Sales Barros na Universidade de Brasília (UnB). 
 
-Com entusiasmo e dedicação, o nosso grupo planeja realizar um projeto  que se debruça sobre a análise dos requisitos necessários para o aplicativo “Guardiões da Saúde” .
-## 👨‍🎓: Contribuidores
+Com entusiasmo e dedicação, o nosso grupo planeja realizar um projeto  que se debruça sobre a análise dos requisitos necessários para o aplicativo “Carteira de Trabalho Digital” .
+## Contribuidores
 
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
@@ -60,19 +60,19 @@ Com entusiasmo e dedicação, o nosso grupo planeja realizar um projeto  que se 
       
 </table>
 
-## 📘: Sobre o projeto:
+## Sobre o projeto:
 
  <div align="center">
-  <img src="https://www.ifnmg.edu.br/arquivos/2022/Reitoria/guardioes_da_saude.jpg">
+  <img src="https://seeklogo.com/images/B/brasao-da-republica-do-brasil-logo-F668D19105-seeklogo.com.png">
   
-   Figura 1: Imagem retirada [Aqui](https://www.ifnmg.edu.br/arquivos/2022/Reitoria/guardioes_da_saude.jpg).
+   Figura 1: Imagem retirada [Aqui](https://seeklogo.com/vector-logo/263322/brasao-da-republica-do-brasil).
 </div>
 
-O projeto da equipe consiste em um estudo sobre o aplicativo "Guardiões da Saúde", cujo o objetivo principal é monitorar e armazenar dados de saúde de forma personalizada para cada usuário e assim, fornecer estatística sobre a comunidade. 
+O projeto da equipe consiste em um estudo sobre o aplicativo "Carteira de Trabalho Digital", uma plataforma desenvolvida pelo governo brasileiro para facilitar o acesso e gerenciamento das informações trabalhistas dos cidadãos. Por meio dela, é possível consultar dados como vínculos empregatícios, salários, benefícios, além de possibilitar a emissão digital da carteira de trabalho.
 
 A equipe se propõe a analisar os requisitos desse aplicativo, desde a coleta e armazenamento de dados até a interface do usuário e as funcionalidades de análise.
 
-## 📑: Históricos de Versões:
+## Históricos de Versões:
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
@@ -80,4 +80,5 @@ A equipe se propõe a analisar os requisitos desse aplicativo, desde a coleta e 
 | 1.1 | Passagem para o gitpage | Caio Mesquita | Bruno Cunha | 26/03/2024 |
 | 1.2 | Atualização do readme | Larissa Stéfane  | Iago Passaglia | 31/03/2024 |
 | 1.3 | Correçao de versionamento | Iago Passaglia | Pedro Augusto | 02/04/2024 |
+| 1.4 | Mudança de aplicativo | Pedro Augusto | - | 04/04/2024 |
 
