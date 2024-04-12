@@ -29,7 +29,7 @@ A **Carteira de Trabalho Digital** emerge como um marco na trajetória da burocr
 
  <center>
   **Figura 2**: Site Sigaa
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/sigaa2.png">
+  <img src="https://bpofolhadepagamento.com.br/wp-content/uploads/2022/02/carteira-de-trabalho-digital_mcamgo_abr_240620211818-7.jpg">
    Fonte: Site do SIGAA  
  </center>
 
