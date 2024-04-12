@@ -35,14 +35,15 @@ Antes de realizar o questionário, é necessário já ter as seguintes informaç
 
 Após conseguir as informações acima, então o questionário é realizado com os seguintes passos:
 
-1. O estilo do questionário é escolhido: Pode ser com questões fechadas, abertas ou mistas.
+1. O termo de consentimento é elaborado.
+2. O estilo do questionário é escolhido: Pode ser com questões fechadas, abertas ou mistas.
 
-2. As perguntas são formuladas conforme os objetivos e com o público-alvo.
-3. O questionário é distribuído para a maior quantidade de pessoas possível e pode ser feito online, por exemplo, por aplicativos ou e-mail.
+3. As perguntas são formuladas conforme os objetivos e com o público-alvo.
+4. O questionário é distribuído para a maior quantidade de pessoas possível e pode ser feito online, por exemplo, por aplicativos ou e-mail.
 
-4. Os dados e informações coletadas são analisadas.
+5. Os dados e informações coletadas são analisadas.
 
-5. Os dados são validados: É garantida a confiabilidade e consistência das informações adquiridas.
+6. Os dados são validados: É garantida a confiabilidade e consistência das informações adquiridas.
 
 
 ## Pontos Positivos
