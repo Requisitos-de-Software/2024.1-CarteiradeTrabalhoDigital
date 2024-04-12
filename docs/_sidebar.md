@@ -24,6 +24,7 @@
     - [Guardiões da Saúde](planejamento/aplicativos/analise_Guardioes.md)
     - [Carteira de Trabalho Digital (Aplicativo escolhido)](planejamento/aplicativos/analise_carteiradigitaldetrabalho.md)
   * Carteira de Trabalho Digital
+    - [Sobre o aplicativo](planejamento/carteiraDigital/sobreCarteiraDigital.md)
     - [Política de Privacidade](planejamento/carteiraDigital/termosApp.md)
 * Pré-Rastreabilidade
   - [Rich Picture](planejamento/rich_picture.md)
