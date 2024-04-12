@@ -15,14 +15,15 @@
   - [Cronograma](planejamento/Cronograma.md)
   - [Ferramentas utilizadas](planejamento/ferramentas.md)
   * Aplicativos
-    - [Templete da análise](planejamento/aplicativos/Templete_Analise.md)
-    - [Análise do GIMP](planejamento/aplicativos/analise_GIMP.md)
-    - [Análise do Openreads](planejamento/aplicativos/analise_Openreads.md)
-    - [Análise do Sus](planejamento/aplicativos/analise_sus.md)
-    - [Análise do Signal](planejamento/aplicativos/analise_Signal.md)
-    - [Análise do Telegram](planejamento/aplicativos/analise_Telegram.md)
-    - [Análise Carteira de Trabalho Digital](planejamento/aplicativos/analise_carteiradigitaldetrabalho.md)
-    - [Guardiões da Saúde (Aplicativo escolhido)](planejamento/aplicativos/analise_Guardioes.md)
-
+    - [Template da análise](planejamento/aplicativos/Templete_Analise.md)
+    - [GIMP](planejamento/aplicativos/analise_GIMP.md)
+    - [Openreads](planejamento/aplicativos/analise_Openreads.md)
+    - [Sus](planejamento/aplicativos/analise_sus.md)
+    - [Signal](planejamento/aplicativos/analise_Signal.md)
+    - [Telegram](planejamento/aplicativos/analise_Telegram.md)
+    - [Guardiões da Saúde](planejamento/aplicativos/analise_Guardioes.md)
+    - [Carteira de Trabalho Digital (Aplicativo escolhido)](planejamento/aplicativos/analise_carteiradigitaldetrabalho.md)
+  * Carteira de Trabalho Digital
+    - [Política de Privacidade](planejamento/carteiraDigital/termosApp.md)
 * Pré-Rastreabilidade
   - [Rich Picture](planejamento/rich_picture.md)
