@@ -105,4 +105,4 @@ Portanto, a partir da compreensão do conceito de elicitação e de sua relevân
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criaçao do documento | Larissa Stéfane | - | 11/04/2024 |
+| 1.0 | Criaçao do documento | Larissa Stéfane | -- | 11/04/2024 |
