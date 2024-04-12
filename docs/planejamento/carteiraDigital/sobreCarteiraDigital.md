@@ -1,4 +1,4 @@
-## SIGAA
+## Carteira Digital de Trabalho
 
 ## Sumário
 * [Introdução](#Introdução)
