@@ -18,7 +18,7 @@ No contexto da era digital, as instituições governamentais têm buscado maneir
 
  <center> 
   **Imagem 1**: Telas do aplicativo
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/assets/TelaCTPS.png">
+  <img src="https://bpofolhadepagamento.com.br/wp-content/uploads/2022/02/carteira-de-trabalho-digital_mcamgo_abr_240620211818-7.jpg">
   Fonte: Site do sisponto.com.br 
  </center>
 
@@ -26,10 +26,9 @@ No contexto da era digital, as instituições governamentais têm buscado maneir
 A **Carteira de Trabalho Digital** emerge como um marco na trajetória da burocracia brasileira, representando uma transição do analógico para o digital. Criada com a promulgação da Lei nº 13.874/2019, conhecida como a Lei da Liberdade Econômica, e desenvolvida pelo Governo Federal em parceria com a Dataprev, a Carteira de Trabalho Digital foi oficialmente lançada em 2017. Seu principal propósito é simplificar e agilizar os procedimentos relacionados ao registro de empregos e à gestão dos direitos trabalhistas.
 
 ## Objetivos e Funcionalidades
-
  <center>
   **Figura 2**: Site Sigaa
-  <img src="https://bpofolhadepagamento.com.br/wp-content/uploads/2022/02/carteira-de-trabalho-digital_mcamgo_abr_240620211818-7.jpg">
+  <img src="https://assessoriaverbo.com.br/wp-content/uploads/2019/11/Design-sem-nome-5-930x620.png">
    Fonte: Site do SIGAA  
  </center>
 
