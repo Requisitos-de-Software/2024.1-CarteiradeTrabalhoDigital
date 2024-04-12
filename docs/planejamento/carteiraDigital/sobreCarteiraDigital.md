@@ -26,9 +26,9 @@ A **Carteira de Trabalho Digital** emerge como um marco na trajetória da burocr
 
 ## Objetivos e Funcionalidades
  <center>
-  **Figura 2**: Site Sigaa
+  **Figura 2**: Tela inicial do aplicativo
   <img src="https://assessoriaverbo.com.br/wp-content/uploads/2019/11/Design-sem-nome-5-930x620.png">
-   Fonte: Site do SIGAA  
+   Fonte: assessoriaverbo.com.br
  </center>
 
 Ao substituir a versão em papel, a Carteira de Trabalho Digital oferece uma série de benefícios significativos. Primeiramente, ela proporciona maior acessibilidade, permitindo que os trabalhadores consultem suas informações trabalhistas a qualquer momento e de qualquer lugar, por meio de dispositivos eletrônicos conectados à internet. Essa praticidade elimina a necessidade de deslocamentos físicos até postos de atendimento, economizando tempo e recursos.
