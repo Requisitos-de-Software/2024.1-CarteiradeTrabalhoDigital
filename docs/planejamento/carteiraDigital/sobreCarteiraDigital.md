@@ -2,7 +2,7 @@
 
 ## Sumário
 * [Introdução](#Introdução)
-* [O que é a CTPS?](#O-que-e-a-CTPS?)
+* [O que é a CTPS?](#O-que-é-a-CTPS?)
 * [Objetivos e Funcionalidades](#Objetivos-e-Funcionalidades)
 * [Conclusão](#Conclusão)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
