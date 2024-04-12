@@ -73,7 +73,7 @@ Para esclarecimento de dúvidas ou informações adicionais sobre este estudo, v
 • Mensagem por meio de uma issue no grithub: 2024.1-CarteiradeTrabalhoDigital
 
 
-• Email: larissa.stefane@aluno.unb.br ou
+• Email: larissa.stefane@aluno.unb.br ou breno.garcia@aluno.unb.br
 
 
 ## Consentimento
