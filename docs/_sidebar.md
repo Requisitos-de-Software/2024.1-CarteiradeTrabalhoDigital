@@ -6,6 +6,9 @@
 * Reuniões
   - [Reunião 01](reunioes/ata01.md)
   - [Reunião 02](reunioes/ata02.md)
+  - [Reunião 03](reunioes/ata03.md)
+  - [Reunião 04](reunioes/ata04.md)
+  - [Reunião 05](reunioes/ata05.md)
 
 * Planejamento 
   - [Heatmap](planejamento/heatmap.md)

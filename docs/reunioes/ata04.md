@@ -4,14 +4,7 @@
 
 ## Vídeo da Reunião
 
-<center>
-
-<iframe width="697" height="392" src="https://www.youtube.com/embed/uzfsqMq4BIg?list=PL8iuGQf0VOAG6vZcaa15KTLHQfrdyMldr" title="Reunião 02 Requisitos g02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-**Reunião 04**
-
-**Fonte:** [Caio Mesquita](https://github.com/Caiomesvie)
-</center>
+**Esta Reunião não foi realizada por meio de videoconferência**
 
 ## 1. Data, Horário, Duração e Local
 
@@ -19,9 +12,7 @@
 - **Horário de início previsto:** 21:00.
 - **Horário de início:**  20:40
 - **Duração:** 26min 48s
-- **Local:** Teams 
-- **Link da reunião:** [aqui](https://youtu.be/uzfsqMq4BIg?list=PL8iuGQf0VOAG6vZcaa15KTLHQfrdyMldr)
-
+- **Local:** WhatsApp
 ## 2. Participantes
 
 Os presentes na reunião foram:
