@@ -5,7 +5,7 @@
 * [O que é a CTPS?](#O-que-é-a-CTPS?)
 * [Objetivos e Funcionalidades](#Objetivos-e-Funcionalidades)
 * [Conclusão](#Conclusão)
-* [Referências Bibliográficas](#Referências-Bibliográficas)
+* [Bibliografia](#Bibliografia)
 * [Histórico de versão](#Histórico-de-versão)
 
 
@@ -18,7 +18,7 @@ No contexto da era digital, as instituições governamentais têm buscado maneir
  <center> 
   **Imagem 1**: Telas do aplicativo
   <img src="https://bpofolhadepagamento.com.br/wp-content/uploads/2022/02/carteira-de-trabalho-digital_mcamgo_abr_240620211818-7.jpg">
-  Fonte: Site do sisponto.com.br 
+  Fonte: Site bpofolhadepagamento.com.br
  </center>
 
 
@@ -28,7 +28,7 @@ A **Carteira de Trabalho Digital** emerge como um marco na trajetória da burocr
  <center>
   **Figura 2**: Tela inicial do aplicativo
   <img src="https://assessoriaverbo.com.br/wp-content/uploads/2019/11/Design-sem-nome-5-930x620.png">
-   Fonte: assessoriaverbo.com.br
+   Fonte: Site assessoriaverbo.com.br
  </center>
 
 Ao substituir a versão em papel, a Carteira de Trabalho Digital oferece uma série de benefícios significativos. Primeiramente, ela proporciona maior acessibilidade, permitindo que os trabalhadores consultem suas informações trabalhistas a qualquer momento e de qualquer lugar, por meio de dispositivos eletrônicos conectados à internet. Essa praticidade elimina a necessidade de deslocamentos físicos até postos de atendimento, economizando tempo e recursos.
