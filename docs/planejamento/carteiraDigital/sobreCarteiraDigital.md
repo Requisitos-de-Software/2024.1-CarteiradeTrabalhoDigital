@@ -64,7 +64,7 @@ No entanto, para maximizar sua utilidade e promover uma experiência mais fluida
 
 ## Bibliografia
 
-1. **Introdução ao SIGAA** . Disponível em < https://sigaa-manual-discente.readthedocs.io/pt/latest/SIGAA.html > Acessado em 4 e 5 de abril de 2024.
+1. **Agência Brasil explica: carteira de trabalho digital** . Disponível em < https://agenciabrasil.ebc.com.br/geral/noticia/2021-06/agencia-brasil-explica-carteira-de-trabalho-digital > Acessado em 12 de abril de 2024.
 
 
 ## Histórico de versão:
