@@ -6,7 +6,7 @@
 * [Como Realizar](#Como-Realizar)
 * [Pontos Positivos](#Pontos-Positivos)
 * [Pontos Negativos](#Pontos-Negativos)
-* [Questionários e o Aplicativo](#Questionários-e-o-Aplicativo)
+* [Motivos para usar ou não usar no caso específico](#Motivos-para-usar-ou-não-usar-no-caso-específico)
 * [Conclusão](#Conclusão)
 * [Bibliografia](#Bibliografia)
 * [Histórico de versão](#Histórico-de-versão)
@@ -50,7 +50,7 @@ ou serviços mais confiáveis, consistentes e satisfatórios para os clientes.
 A complexidade é um ponto negativo, o TQM envolve uma série de conceitos e metodologias que podem ser complexos de entender e implementar
 efetivamente em toda a organização.
 
-- ## Relação da técnica com o aplicativo escolhido (motivos para usar ou não usar no caso específico)
+- ## Motivos para usar ou não usar no caso específico
 A técnica Total Quality Management, é uma abordagem mais abrangente e não foca apenas na priorização de processos do desenvolvimento. Sendo 
 assim, tendo em mente a complexidade da técnica e seu foco exclusivo em qualidade, não se demonstra uma opção viável para o projeto em 
 questão, que necessidade de outras vantagens como a facilidade e rapidez.
