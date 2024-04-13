@@ -6,14 +6,15 @@
 
 **Esta Reunião não foi realizada por meio de videoconferência**
 
-## 1. Data, Horário, Duração e Local
+## Data, Horário, Duração e Local
 
 - **Data:** 04/04/2024
 - **Horário de início previsto:** 21:00.
 - **Horário de início:**  20:40
 - **Duração:** 26min 48s
 - **Local:** WhatsApp
-## 2. Participantes
+
+## Participantes
 
 Os presentes na reunião foram:
 
@@ -23,7 +24,7 @@ Os presentes na reunião foram:
 - Iago Passaglia Perereia
 - Pedro Augusto Dourado Izarias
 
-## 3. Pontos de Discussão Importantes
+## Pontos de Discussão Importantes
 
 - **Objetivo:** Analisar e discutir melhorias para o projeto
 
@@ -40,7 +41,7 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 
 <p align="center"> Tabela 1. Dúvidas </p>
 
-## 4. Conclusões: 
+## Conclusões: 
 
 De acordo com o tema discutido, é definido o que foi decidido. Esses pontos podem ser encontrados de acordo com a tabela 2.
 
@@ -52,7 +53,7 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 
 <p align="center"> Tabela 2. Decisões </p>
 
-## 5. Decisões:
+## Decisões:
 
 Neste tópico, são listadas as tarefas a serem realizadas na semana e quem será os seus responsáveis.
 
@@ -92,3 +93,4 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint atual, onde ca
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação da base da Ata da Reunião | Bruno Araújo | Breno Alexandre | 02/04 |
+| 1.1 | Correção do formato | Larissa Stéfane | Breno Alexandre | 12/04 |
