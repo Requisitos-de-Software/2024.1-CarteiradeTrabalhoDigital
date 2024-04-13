@@ -1,5 +1,5 @@
 
-# Técnica Etnografia
+# Técnica de Etnografia
 
 ## Sumário
 * [Introdução](#Introdução)
