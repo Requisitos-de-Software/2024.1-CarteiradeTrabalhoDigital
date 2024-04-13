@@ -14,7 +14,7 @@
 
 ## Introdução
 
-Este documento propõe uma análise da técnica de storytelling como método de elicitação de requisitos, explorando sua viabilidade e eficácia na captura das necessidades essenciais para o projeto em questão. Nesse contexto, busca-se avaliar se a abordagem de storytelling é apropriada para orientar a equipe no estudo dos requisitos do aplicativo da Carteira de Trabalho Digital. 
+Este documento propõe uma análise da técnica de storytelling como método de elicitação de requisitos ao explorar a sua viabilidade e eficácia na captura das necessidades essenciais para o projeto em questão. Nesse contexto, busca-se avaliar se a abordagem de storytelling é apropriada para orientar a equipe no estudo dos requisitos do aplicativo da Carteira de Trabalho Digital. 
 
 ## Apresentação da Técnica
 
