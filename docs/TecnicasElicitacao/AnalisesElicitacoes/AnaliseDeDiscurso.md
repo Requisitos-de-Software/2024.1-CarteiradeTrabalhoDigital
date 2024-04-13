@@ -6,7 +6,7 @@
 * [Como Realizar](#Como-Realizar)
 * [Pontos Positivos](#Pontos-Positivos)
 * [Pontos Negativos](#Pontos-Negativos)
-* [Questionários e o Aplicativo](#Questionários-e-o-Aplicativo)
+* [Motivos para usar ou não usar no caso específico](#Motivos-para-usar-ou-não-usar-no-caso-específico)
 * [Conclusão](#Conclusão)
 * [Bibliografia](#Bibliografia)
 * [Histórico de versão](#Histórico-de-versão)
