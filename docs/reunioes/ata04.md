@@ -65,17 +65,17 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint atual, onde ca
 
 <p align="center"> Tabela 3. Issues. </p>
 
-| Identificador (Issue n) | Issue | Integrante(s) responsável(eis) | Data de entrega |
-| - | - | - | - |
-| Issue 1 | Realizar a Ata da reunião  | Iago Passaglia |   |
-| Issue 2 | Refatorar erros no gitpage | Caio Mesquita Vieira |  |
-| Issue 3 | Corrigir a documentação do heatmap (referências bibliográficas | Iago | |
-| Issue 4 | Corrigir o cronograma de acordo com o padrão definido | Breno Alexandre, Luana e Larissa | |
-| Issue 5 | Inserir introdução em todos os documentos que estão sem| Todos | |
-| Issue 6 | Referenciar figuras e tabelas nos textos em todos os documentos que estão sem| Todos | |
-| Issue 7 | Corrigir bibliografias| Todos | |
-| Issue 7 | Documentar corretamente metodologias | Larissa | |
-| Issue 8 | Padronizar versionamento de todos os documentos | Iago | |
+| Identificador (Issue n) | Issue | Integrante(s) responsável(eis) |
+| - | - | - |
+| Issue 1 | Realizar a Ata da reunião  | Iago Passaglia |   
+| Issue 2 | Refatorar erros no gitpage | Caio Mesquita Vieira |  
+| Issue 3 | Corrigir a documentação do heatmap (referências bibliográficas | Iago | 
+| Issue 4 | Corrigir o cronograma de acordo com o padrão definido | Breno Alexandre, Luana e Larissa | 
+| Issue 5 | Inserir introdução em todos os documentos que estão sem| Todos | 
+| Issue 6 | Referenciar figuras e tabelas nos textos em todos os documentos que estão sem| Todos | 
+| Issue 7 | Corrigir bibliografias| Todos | 
+| Issue 7 | Documentar corretamente metodologias | Larissa | 
+| Issue 8 | Padronizar versionamento de todos os documentos | Iago | 
 
 <p align="center"> **Fonte:** Bruno Araújo </p>
 
