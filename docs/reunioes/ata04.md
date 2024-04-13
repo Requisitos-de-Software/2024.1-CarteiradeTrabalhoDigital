@@ -22,6 +22,7 @@ Os presentes na reunião foram:
 - Bruno Cunha Vasconcelos de Araujo
 - Caio Mesquita Vieira
 - Iago Passaglia Perereia
+- Larissa Stéfane Barboza Santos
 - Pedro Augusto Dourado Izarias
 
 ## Pontos de Discussão Importantes
@@ -32,18 +33,21 @@ Os presentes na reunião foram:
 
 As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tema tem o seu identificador Dn para rastreabilidade.
 
+<p align="center"> Tabela 1. Dúvidas </p>
+
 | Identificador (Dn) | Tema |
 | - | - |
 | D1 | O que precisamos preparar para a segunda entrega? | 
 | D2 | O que precisa ser melhorado no nosso GitHub?|
 | D3 | Discutir sobre observações feitas pelo professor para outros grupos |
 
-
-<p align="center"> Tabela 1. Dúvidas </p>
+<p align="center"> **Fonte:** Bruno Araújo </p>
 
 ## Conclusões: 
 
 De acordo com o tema discutido, é definido o que foi decidido. Esses pontos podem ser encontrados de acordo com a tabela 2.
+
+<p align="center"> Tabela 2. Decisões </p>
 
 | Identificador (Dn) | Decisão |
 | - | - |
@@ -51,13 +55,15 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 | D2 | Melhorias no cronograma, Planejamento mais detalhado, Padronizar melhor cada documento e consertar erros em geral.|
 | D3 | Foram discutidos as observações e definidas as tarefas para melhoria do projeto. |
 
-<p align="center"> Tabela 2. Decisões </p>
+<p align="center"> **Fonte:** Bruno Araújo </p>
 
 ## Decisões:
 
 Neste tópico, são listadas as tarefas a serem realizadas na semana e quem será os seus responsáveis.
 
 Dessa forma, estão descritas na Tabela 2 as issues para a Sprint atual, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
+
+<p align="center"> Tabela 3. Issues. </p>
 
 | Identificador (Issue n) | Issue | Integrante(s) responsável(eis) | Data de entrega |
 | - | - | - | - |
@@ -71,21 +77,8 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint atual, onde ca
 | Issue 7 | Documentar corretamente metodologias | Larissa | |
 | Issue 8 | Padronizar versionamento de todos os documentos | Iago | |
 
-<p align="center"> Tabela 3. Issues</p>
+<p align="center"> **Fonte:** Bruno Araújo </p>
 
-
-## Ata da reunião do dia 02/04
-
-## Vídeo da Reunião
-
-<center>
-
-<iframe width="697" height="392" src="https://www.youtube.com/embed/uzfsqMq4BIg?list=PL8iuGQf0VOAG6vZcaa15KTLHQfrdyMldr" title="Reunião 02 Requisitos g02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-**Reunião 04**
-
-**Fonte:** [Caio Mesquita](https://github.com/Caiomesvie)
-</center>
 
 
 ## 6. Histórico de Versão
