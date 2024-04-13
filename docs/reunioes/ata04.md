@@ -41,7 +41,7 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 | D2 | O que precisa ser melhorado no nosso GitHub?|
 | D3 | Discutir sobre observações feitas pelo professor para outros grupos |
 
-<p align="center"> **Fonte:** Bruno Araújo </p>
+<p align="center"> Fonte: Bruno Araújo </p>
 
 ## Conclusões: 
 
@@ -55,7 +55,7 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 | D2 | Melhorias no cronograma, Planejamento mais detalhado, Padronizar melhor cada documento e consertar erros em geral.|
 | D3 | Foram discutidos as observações e definidas as tarefas para melhoria do projeto. |
 
-<p align="center"> **Fonte:** Bruno Araújo </p>
+<p align="center"> Fonte: Bruno Araújo </p>
 
 ## Decisões:
 
@@ -77,7 +77,7 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint atual, onde ca
 | Issue 7 | Documentar corretamente metodologias | Larissa | 
 | Issue 8 | Padronizar versionamento de todos os documentos | Iago | 
 
-<p align="center"> **Fonte:** Bruno Araújo </p>
+<p align="center"> Fonte: Bruno Araújo </p>
 
 
 
