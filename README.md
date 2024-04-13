@@ -10,7 +10,7 @@
 
 Somos uma equipe que faz parte da disciplina de Requisitos de Software ministrada pelo professor André de Sales Barros na Universidade de Brasília (UnB). 
 
-Com entusiasmo e dedicação, o nosso grupo planeja realizar um projeto  que se debruça sobre a análise dos requisitos necessários para o aplicativo “Carteira de Trabalho Digital” .
+Com dedicação, o nosso grupo planeja realizar um projeto que se debruça sobre a análise dos requisitos necessários para o aplicativo “Carteira de Trabalho Digital” .
 ## Contribuidores
 
 <table style="margin-left: auto; margin-right: auto;">
@@ -80,5 +80,5 @@ A equipe se propõe a analisar os requisitos desse aplicativo, desde a coleta e 
 | 1.1 | Passagem para o gitpage | Caio Mesquita | Bruno Cunha | 26/03/2024 |
 | 1.2 | Atualização do readme | Larissa Stéfane  | Iago Passaglia | 31/03/2024 |
 | 1.3 | Correçao de versionamento | Iago Passaglia | Pedro Augusto | 02/04/2024 |
-| 1.4 | Mudança de aplicativo | Pedro Augusto | - | 04/04/2024 |
+| 1.4 | Mudança de aplicativo | Pedro Augusto | Larissa Stéfane | 04/04/2024 |
 
