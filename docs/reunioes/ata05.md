@@ -13,7 +13,7 @@
 **Fonte:** [Caio Mesquita](https://github.com/caiomesvie)
 </center>
 
-## 1. Data, Horário, Duração e Local
+## Data, Horário, Duração e Local
 
 - **Data:** 09/04/2024
 - **Horário de início previsto:** 21:00.
@@ -22,7 +22,7 @@
 - **Local:** Teams 
 - **Link da reunião:** [aqui](https://www.youtube.com/watch?v=DnWkrJU0tEo)
 
-## 2. Participantes
+## Participantes
 
 Os presentes na reunião foram:
 
@@ -33,13 +33,15 @@ Os presentes na reunião foram:
 - Larissa Stéfane Barboza Santos
 - Pedro Augusto Dourado Izarias
 
-## 3. Pontos de Discussão Importantes
+## Pontos de Discussão Importantes
 
 - **Objetivo:** Analisar e discutir melhorias para o projeto
 
 - **Dúvidas e discussões:**
 
 As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tema tem o seu identificador Dn para rastreabilidade.
+
+<p align="center"> Tabela 1. Dúvidas </p>
 
 | Identificador (Dn) | Tema                                                                                                              |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------- |
@@ -54,7 +56,7 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 | D9                 | Revisar vídeos no youtube: Arrumar títulos e deixar não listados                                                  |
 | D10                | Revisar artefatos no geral                                                                                        |
 
-<p align="center"> Tabela 1. Dúvidas </p>
+Fonte: [Breno Alexandre](https://github.com/brenoalexandre0)
 
 ### **D10:**
 * Padronização de numeração ou não nos artefatos
@@ -66,9 +68,11 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 * Alterar descrição do projeto
 
 
-## 4. Conclusões: 
+## Conclusões: 
 
 De acordo com o tema discutido, é definido o que foi decidido. Esses pontos podem ser encontrados de acordo com a tabela 2.
+
+<p align="center"> Tabela 2. Decisões </p>
 
 | Identificador (Dn) | Decisão                                                              |
 | ------------------ | -------------------------------------------------------------------- |
@@ -76,13 +80,15 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 | D2                 | Foi aceito pela equipe o rodízio de issues                           |
 | D3                 | Foi definido tarefas para todos os membros                           |
 
-<p align="center"> Tabela 2. Decisões </p>
+Fonte: [Breno Alexandre](https://github.com/brenoalexandre0)
 
-## 5. Decisões:
+## Decisões:
 
 Neste tópico, são listadas as tarefas a serem realizadas na semana e quem será os seus responsáveis.
 
 Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
+
+<p align="center"> Tabela 3. Issues</p>
 
 | Identificador (Issue n) | Issue                                                                             | Integrante(s) responsável(eis) | Data de entrega |
 | ----------------------- | --------------------------------------------------------------------------------- | ------------------------------ | --------------- |
@@ -98,11 +104,11 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 | Issue 10                | Revisar os vídeos no youtube e colocar os links nas atas                          | Caio Mesquita                  | 11/04/2024      |
 | Issue 11                | Revisar os artefatos do projeto                                                   | Breno e Bruno                  | 11/04/2024      |
 
-<p align="center"> Tabela 3. Issues</p>
+Fonte: [Breno Alexandre](https://github.com/brenoalexandre0)
 
 
-## 6. Histórico de Versão
+## Histórico de Versão
 
 | Versão | Alteração                         | Responsável     | Revisor | Data       |
 | ------ | --------------------------------- | --------------- | ------- | ---------- |
-| 1.0    | Criação da base da Ata da Reunião | Breno Alexandre | -       | 09/04/2024 |
+| 1.0    | Criação da base da Ata da Reunião | Breno Alexandre | Larissa Stéfane       | 09/04/2024 |
