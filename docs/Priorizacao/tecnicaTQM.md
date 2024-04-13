@@ -30,6 +30,7 @@ os sintomas, o foco está em entender por que os problemas ocorrem. Isso ajuda a
 fundamentais que afetam a qualidade.
 
 Métodos de Priorização: Existem várias ferramentas e métodos de priorização utilizados no TQM. Alguns incluem:
+
 Matriz de Priorização: Uma matriz que classifica os problemas com base em seu impacto na qualidade versus sua frequência ou gravidade.
 Análise Pareto: A regra de Pareto afirma que cerca de 80% dos problemas vêm de 20% das causas. Portanto, prioriza-se abordar as principais 
 causas (os 20%) que têm o maior impacto.
