@@ -18,9 +18,11 @@ Este documento propõe uma análise da técnica de storytelling como método de 
 
 ## Apresentação da Técnica
 
-A técnica de elicitação de storytelling, também conhecida com história de usuário, é uma abordagem que se baseia na arte de contar histórias para capturar e compreender os requisitos de um projeto. Elas capturam o “quem”, “o quê” e “por quê” de um requisito de uma forma concisa e simples. Sendo assim, pode servir como uma substituição ou complemento a questionários, ou a entrevistas estruturadas, uma vez que o storytelling permite que os stakeholders expressem suas necessidades, desafios e experiências por meio de narrativas. 
+A técnica de elicitação de storytelling, também conhecida com história de usuário, é uma abordagem que se baseia na arte de contar histórias para capturar e compreender os requisitos de um projeto. Elas capturam o “quem”, “o quê” e “por quê” de um requisito de uma forma concisa e simples. Sendo assim, pode servir como complemento a questionários, ou a entrevistas estruturadas, uma vez que o storytelling permite que os stakeholders expressem suas necessidades, desafios e experiências por meio de narrativas. 
 
-Desse modo, essas histórias podem oferecer insights sobre as expectativas dos usuários, seus ambientes de trabalho, problemas enfrentados e soluções desejadas. Ao ouvir e analisar essas histórias, a equipe pode identificar padrões, tendências e prioridades que ajudam a orientar o design e o desenvolvimento do produto de forma mais centrada no usuário.
+Storytelling geralmente concentra-se em três linhas de pesquisas distintas: Geração, Interação ou Visualização das histórias (POZZER, 2005). Desse modo, essas histórias podem oferecer insights sobre as expectativas dos usuários, seus ambientes de trabalho, problemas enfrentados e soluções desejadas. Ao ouvir e analisar essas histórias, a equipe pode identificar padrões, tendências e prioridades que ajudam a orientar o design e o desenvolvimento do produto de forma mais centrada no usuário.
+
+Portanto, Storytelling é um novo paradigma de entretenimento digital que está avançando a passos largos com a criação de técnicas e ferramentas que permitem que histórias interativas possam ser criadas, visualizadas e guiadas com o auxílio do computador (POZZER, 2005).
 
 
 ## Como Realizar
