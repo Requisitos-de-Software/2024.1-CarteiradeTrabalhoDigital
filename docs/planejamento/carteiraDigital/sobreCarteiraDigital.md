@@ -70,5 +70,5 @@ No entanto, para maximizar sua utilidade e promover uma experiência mais fluida
 ## Histórico de versão:
 | Versão | Alteração                                                       | Responsável     | Revisor         | Data       |
 | ------ | --------------------------------------------------------------- | --------------- | --------------- | ---------- | 
-| 1.0    | Criação do documento         | Pedro Augusto | - | 12/04/2024 |
+| 1.0    | Criação do documento         | Pedro Augusto | Bruno Araújo | 12/04/2024 |
 
