@@ -22,7 +22,7 @@ No contexto da era digital, as instituições governamentais têm buscado maneir
  </center>
 
 
-A **Carteira de Trabalho Digital** emerge como um marco na trajetória da burocracia brasileira, representando uma transição do analógico para o digital. Criada com a promulgação da Lei nº 13.874/2019, conhecida como a Lei da Liberdade Econômica, e desenvolvida pelo Governo Federal em parceria com a Dataprev, a Carteira de Trabalho Digital foi oficialmente lançada em 2017. Seu principal propósito é simplificar e agilizar os procedimentos relacionados ao registro de empregos e à gestão dos direitos trabalhistas.
+A **Carteira de Trabalho Digital** surge como um marco na trajetória da burocratização dos serviços governo, representando uma transição do analógico para o digital. Criada com a promulgação da Lei nº 13.874/2019, conhecida como a Lei da Liberdade Econômica, e desenvolvida pelo Governo Federal em parceria com a Dataprev, a Carteira de Trabalho Digital foi oficialmente lançada em 2017. Seu principal propósito é simplificar e agilizar os procedimentos relacionados ao registro de empregos e à gestão dos direitos trabalhistas.
 
 ## Objetivos e Funcionalidades
  <center>
@@ -33,34 +33,31 @@ A **Carteira de Trabalho Digital** emerge como um marco na trajetória da burocr
 
 Ao substituir a versão em papel, a Carteira de Trabalho Digital oferece uma série de benefícios significativos. Primeiramente, ela proporciona maior acessibilidade, permitindo que os trabalhadores consultem suas informações trabalhistas a qualquer momento e de qualquer lugar, por meio de dispositivos eletrônicos conectados à internet. Essa praticidade elimina a necessidade de deslocamentos físicos até postos de atendimento, economizando tempo e recursos.
 
-Com suas variadas funcionalidades integradas, o SIGAA se destaca como uma ferramenta essencial para a gestão acadêmica, promovendo uma experiência mais fluida e colaborativa dentro das instituições de ensino. 
-
 Com base nisso, o CTPS possui como **principais objetivos**:
 
-- Facilitar o acesso às informações trabalhistas
-- Modernizar os processos de registro e gestão de empregos
-- Reduzir a burocracia e os custos administrativos
-- Promover a proteção dos direitos trabalhistas
-- Estimular a inclusão digital
+- Facilitar o acesso às informações trabalhistas.
+- Modernizar os processos de registro e gestão de empregos.
+- Reduzir a burocracia e os custos administrativos.
+- Promover a proteção dos direitos trabalhistas.
+- Estimular a inclusão digital.
   
 Para realizar esses objetivos, a Carteira de Trabalho Digital possui um conjunto de **funcionalidades**. Algumas delas são:
 
-- Consulta de informações trabalhistas
-- Registro de contratos de trabalho
-- Solicitação de Seguro-Desemprego
-- Acompanhamento do andamento do seguro-desemprego
-- Recebimento de notificações e alertas
-- Validação de informações
-- Geração de Contracheque Digital
-- Consulta ao FGTS (Fundo de Garantia do Tempo de Serviço)
-- Agendamento de atendimentos
-- Atendimento virtual
+- Consulta de informações trabalhistas.
+- Registro de contratos de trabalho.
+- Solicitação de Seguro-Desemprego.
+- Acompanhamento do andamento do seguro-desemprego.
+- Recebimento de notificações e alertas.
+- Validação de informações.
+- Geração de Contracheque Digital.
+- Consulta ao FGTS (Fundo de Garantia do Tempo de Serviço).
+- Agendamento de atendimentos.
+- Atendimento virtual.
 
 
 ## Conclusão
-Em suma, o SIGAA representa uma ferramenta essencial no contexto acadêmico de muitas universidades ao proporcionar uma ampla gama de funcionalidades. Desse modo, seu papel central se reflete na facilidade de acesso e na integração eficiente entre alunos, professores e demais membros da comunidade acadêmica.
 
-No entanto, para maximizar sua utilidade e promover uma experiência mais fluida e inclusiva, são necessárias melhorias na usabilidade e na acessibilidade da plataforma, o que será trabalhado no projeto. 
+Em suma, a transição da carteira de trabalho física para o formato digital trouxe consigo uma série de benefícios significativos tanto para os trabalhadores quanto para as instituições. Ao simplificar processos, reduzir custos administrativos e oferecer maior acessibilidade e segurança aos dados, a carteira de trabalho digital não apenas acompanha a evolução tecnológica, mas também promove uma experiência mais eficiente e transparente para todos os envolvidos,contribuindo para a construção de uma sociedade mais conectada e inclusiva.
 
 ## Bibliografia
 
