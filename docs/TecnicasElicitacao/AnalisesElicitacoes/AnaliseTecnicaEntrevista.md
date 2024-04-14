@@ -8,6 +8,7 @@
 - [Pontos Negativos](#Pontos-Negativos)
 - [Conclusão](#Conclusão)
 - [Referências](#Referências)
+- [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
 
