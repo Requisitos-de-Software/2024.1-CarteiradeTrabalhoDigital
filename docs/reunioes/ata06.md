@@ -80,7 +80,7 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint atual, onde ca
 | Issue 5 | Realizar técnica de elicitação de questionário| Larissa Stéfane e Breno Alexandre | 16/04/2024 |
 | Issue 6 | Realizar técnica de elicitação de storytelling | Larissa Stéfane | 16/04/2024 |
 | Issue 7 | Realizar técnica de elicitação de entrevistas | Bruno Araújo | 16/04/2024 |
-| Issue 8 | Realizar técnica de elicitação de ??? | ??? | 16/04/2024 |
+| Issue 8 | Realizar técnica de elicitação de análise de documentos | Larissa Stéfane | 16/04/2024 |
 | Issue 9 | Realizar técnica de elicitação de ??? | ??? | 16/04/2024 |
 | Issue 10 | Realizar priorização com quadrante  | Larissa Stéfane e Breno Alexandre  | 16/04/2024 |
 | Issue 11 | Realizar priorização com ???  | ??? | 16/04/2024 |
