@@ -16,6 +16,8 @@ Caso vídeo não esteja disponível, acessar por meio deste [link](https://youtu
 
 ## Avaliação da entrega
 
+Segue os tópicos de avaliação da apresentação do projeto na Tabela 1.
+
 <p align="center"> Tabela 1 - Objetivos entrega 01 </p>
 
 A git page possui?  | Sim/Não/Incompleto
@@ -42,7 +44,7 @@ A git page possui?  | Sim/Não/Incompleto
 
 ## Histórico de versão
 
-| Versão | Alteração                                                | Responsável     | Revisor      | Data       |
-| ------ | -------------------------------------------------------- | --------------- | ------------ | ---------- |
-| 1.0    | Criação do documento                                     | Caio Mesquita   | Bruno Araújo | 01/04/2024 |
-| 1.1    | Correção de erros ortográficos e padronização na legenda | Breno Alexandre | Bruno Araújo | 14/04/2024 |
+| Versão | Alteração                                                                 | Responsável     | Revisor      | Data       |
+| ------ | ------------------------------------------------------------------------- | --------------- | ------------ | ---------- |
+| 1.0    | Criação do documento                                                      | Caio Mesquita   | Bruno Araújo | 01/04/2024 |
+| 1.1    | Correção de erros ortográficos, citação de Tabela padronização na legenda | Breno Alexandre | Bruno Araújo | 14/04/2024 |
