@@ -47,4 +47,4 @@ uso no projeto.
 ## Histórico de versão
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criaçao e elaboração do documento | Pedro Augusto | - | 13/04/2024 |
+| 1.0 | Criaçao e elaboração do documento | Pedro Augusto | Bruno Araújo| 13/04/2024 |
