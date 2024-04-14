@@ -1,22 +1,22 @@
 # Apresentação 01 
 
 ## Introdução
-Neste documento está contido o vídeo de apresentação da primeira entrega da matéria de Requisitos e o checklist do que está em conforme com a entrega
+Neste documento está contido o vídeo de apresentação da primeira entrega da matéria de Requisitos de Software e o checklist do que está em conforme com a entrega.
 
 ## Vídeo da apresentação
 
 <iframe width="697" height="392" src="https://www.youtube.com/embed/VV7DhPEaTw4?list=PL8iuGQf0VOAG6vZcaa15KTLHQfrdyMldr" title="Requisitos de software Apresentação 01 - grupo 02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<center>
-
 **Apresentação 01**
 
-**Fonte:** [Caio Mesquita](https://github.com/Caiomesvie)
+**Fonte:** [Caio Mesquita](https://github.com/Caiomesvie).
 
-Caso vídeo não esteja disponível, acessar por meio deste [link](https://youtu.be/VV7DhPEaTw4?list=PL8iuGQf0VOAG6vZcaa15KTLHQfrdyMldr)
-</center>
+Caso vídeo não esteja disponível, acessar por meio deste [link](https://youtu.be/VV7DhPEaTw4?list=PL8iuGQf0VOAG6vZcaa15KTLHQfrdyMldr).
+
 
 ## Avaliação da entrega
+
+<p align="center"> Tabela 1 - Objetivos entrega 01 </p>
 
 A git page possui?  | Sim/Não/Incompleto
 --------- | ------
@@ -37,16 +37,12 @@ A git page possui?  | Sim/Não/Incompleto
 15 - Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo. | SIM
 16 - Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina | SIM
 
-<center>
-
-**Tabela 1 - Objetivos entrega 01**
-
 **Fonte:** [Caio Mesquita](https://github.com/Caiomesvie)
 
-</center>
 
 ## Histórico de versão
 
-| Versão | Alteração                  | Responsável     | Revisor | Data       |
-| -      | -                          | -               | -       | -          |
-| 1.0    | Criaçao do documento       | Caio Mesquita   | Bruno Araújo| 01/04/2024 |
+| Versão | Alteração                                                | Responsável     | Revisor      | Data       |
+| ------ | -------------------------------------------------------- | --------------- | ------------ | ---------- |
+| 1.0    | Criação do documento                                     | Caio Mesquita   | Bruno Araújo | 01/04/2024 |
+| 1.1    | Correção de erros ortográficos e padronização na legenda | Breno Alexandre | Bruno Araújo | 14/04/2024 |
