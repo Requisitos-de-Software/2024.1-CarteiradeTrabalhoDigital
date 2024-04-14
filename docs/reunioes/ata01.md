@@ -10,7 +10,7 @@
 
 **Fonte:** [Caio Mesquita](https://github.com/Caiomesvie).
 
-## 1. Data, Horário, Duração e Local
+## Data, Horário, Duração e Local
 
 - **Data:** 26/03/2024.
 - **Horário de início previsto:** 20:00.
@@ -19,7 +19,7 @@
 - **Local:** Teams.
 - **Link da reunião:** [aqui](https://youtu.be/fKfjFxpYb0c?list=PL8iuGQf0VOAG6vZcaa15KTLHQfrdyMldr).
 
-## 2. Participantes
+## Participantes
 
 Os presentes na reunião foram:
 
@@ -30,7 +30,7 @@ Os presentes na reunião foram:
 - Larissa Stefane Barboza Santos
 - Pedro Augusto Dourado Izarias
 
-## 3. Pontos de Discussão Importantes
+## Pontos de Discussão Importantes
 
 - **Objetivo:** Planejar sobre como será a dinâmica do grupo durante o projeto e discutir sobre o site alvo.
 
@@ -49,7 +49,7 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-## 4. Conclusões: 
+## Conclusões: 
 
 De acordo com o tema discutido, é definido o que foi decidido. Esses pontos podem ser encontrados de acordo com a tabela 2.
 
@@ -64,7 +64,7 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-## 5. Decisões:
+## Decisões:
 
 Neste tópico, são listadas as tarefas a serem realizadas na semana e quem será os seus responsáveis.
 
@@ -83,7 +83,7 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-## 6. Histórico de Versão
+## Histórico de Versão
 
 | Versão | Alteração                                                                  | Responsável     | Revisor         | Data       |
 | ------ | -------------------------------------------------------------------------- | --------------- | --------------- | ---------- |
