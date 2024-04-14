@@ -72,22 +72,22 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 
 <p align="center"> Tabela 3: Issues Sprint 0. </p>
 
-| Identificador (Issue n) | Issue                                    | Integrante(s) responsável(eis)                   |
-| ----------------------- | ---------------------------------------- | ------------------------------------------------ |
-| Issue 1                 | Realizar a Ata da reunião                | Larissa Stéfane                                  |
-| Issue 2                 | Criar o gitpage                          | Caio Mesquita                                    | 
-| Issue 3                 | Enviar sugestões de sites com argumentos | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro |
-| Issue 4                 | Encontrar sugestões de ferramentas       | Larissa Stéfane e Luana Medeiros                 |
-| Issue 5                 | Encontrar sugestões de metodologias      | Bruno Cunha e Iago Passaglia                     |
-| Issue 6                 | Definir o responsável pelo Rich Picture  | Pedro Augusto                                    |
+| Identificador (Issue n) | Issue                                    | Integrante(s) responsável(eis)                   | Data de entrega |
+| ----------------------- | ---------------------------------------- | ------------------------------------------------ | --------------- |
+| Issue 1                 | Realizar a Ata da reunião                | Larissa Stéfane                                  | 25/03/2024      |
+| Issue 2                 | Definir o responsável pelo Rich Picture  | Pedro Augusto                                    | 25/03/2024      |
+| Issue 3                 | Criar o gitpage                          | Caio Mesquita                                    | 26/03/2024      |
+| Issue 4                 | Encontrar sugestões de ferramentas       | Larissa Stéfane e Luana Medeiros                 | 26/03/2024      |
+| Issue 5                 | Encontrar sugestões de metodologias      | Bruno Cunha e Iago Passaglia                     | 26/03/2024      |
+| Issue 6                 | Enviar sugestões de sites com argumentos | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 28/03/2024      |
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 ## Histórico de Versão
 
-| Versão | Alteração                                                                                                    | Responsável     | Revisor         | Data       |
-| ------ | ------------------------------------------------------------------------------------------------------------ | --------------- | --------------- | ---------- |
-| 1.0    | Criando da base da Ata da Reunião                                                                            | Larissa Stéfane | Iago Passaglia  | 25/03/2024 |
-| 1.1    | Atualiação da ata                                                                                            | Larissa Stéfane | Iago Passaglia  | 26/03/2024 |
-| 1.2    | Correções de erros da ata                                                                                    | Iago Passaglia  | Breno Alexandre | 02/04/2024 |
-| 1.3    | Correções ortográficas, adição de fontes, remoção de numeração de tópicos e padronização de legendas e nomes | Breno Alexandre | Bruno Araújo    | 14/04/2024 |
+| Versão | Alteração                                                                                                                               | Responsável     | Revisor         | Data       |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criando da base da Ata da Reunião                                                                                                       | Larissa Stéfane | Iago Passaglia  | 25/03/2024 |
+| 1.1    | Atualiação da ata                                                                                                                       | Larissa Stéfane | Iago Passaglia  | 26/03/2024 |
+| 1.2    | Correções de erros da ata                                                                                                               | Iago Passaglia  | Breno Alexandre | 02/04/2024 |
+| 1.3    | Correções ortográficas, adição de fontes, remoção de numeração de tópicos, padronização de legendas e nomes e adição de data nas issues | Breno Alexandre | Bruno Araújo    | 14/04/2024 |
