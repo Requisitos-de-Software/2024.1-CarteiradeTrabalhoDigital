@@ -16,7 +16,7 @@
    <font size="2"><p style="text-align: center">Fonte: [Pedro Augusto](https://github.com/Izarias).</p></font>
   </center>
 
-## Referências bibliográficas
+## Bibliografia
 - Monk, A., & Howard, S. (1998). The Rich Picture: A Tool for Reasoning About Work Context. Interactions, March-April 1998, 22-30. 
   
  ## Histórico de versões:
@@ -24,4 +24,4 @@
 | Versão | Alteração                                                                                                    | Responsável     | Revisor         | Data       |
 | ------ | ------------------------------------------------------------------------------------------------------------ | --------------- | --------------- | ---------- |
 | 1.0    | Criação do documento                                                                                         | Pedro Augusto   | Caio Mesquita   | 30/03/2024 |
-| 1.1    | Correções ortográficas e padronização de legendas                                                            | Breno Alexandre | Bruno Araújo    | 14/04/2024 |
+| 1.1    | Correções ortográficas e padronização de legendas e de referências                                           | Breno Alexandre | Bruno Araújo    | 14/04/2024 |
