@@ -43,9 +43,9 @@ mesma natureza, é uma abordagem demorada e custosa, demandando muito cuidado e 
 Apesar dos desafios, a etnografia pode ser uma ferramenta poderosa para a elicitação de requisitos, especialmente em projetos que exigem uma compreensão aprofundada das necessidades dos usuários e dos contextos nos quais os sistemas serão utilizados.
 
 ## Referências
-1. **Elicitação de Requisitos: Levantamento de requisitos e técnicas de Elicitação**.Disponível em < https://www.devmedia.com.br/elicitacao-de-requisitos-levantamento-de-requisitos-e-tecnicas-de-elicitacao/31872 > Acesso em 13 de abril de 2024.
+- **Elicitação de Requisitos: Levantamento de requisitos e técnicas de Elicitação**.Disponível em < https://www.devmedia.com.br/elicitacao-de-requisitos-levantamento-de-requisitos-e-tecnicas-de-elicitacao/31872 > Acesso em 13 de abril de 2024.
 
-2. **Etnografia no levantamento de requisitos no desenvolvimento de Software**.Disponível em < https://medium.com/teck-like-girls/etnografia-no-levantamento-de-requisitos-no-desenvolvimento-de-software-ee4f6e448024/ > Acesso em 13 de abril de 2024.
+- **Etnografia no levantamento de requisitos no desenvolvimento de Software**.Disponível em < https://medium.com/teck-like-girls/etnografia-no-levantamento-de-requisitos-no-desenvolvimento-de-software-ee4f6e448024/ > Acesso em 13 de abril de 2024.
 
 ## Histórico de versão
 | Versão | Alteração | Responsável | Revisor | Data |
