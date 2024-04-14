@@ -4,22 +4,20 @@
 
 ## Vídeo da Reunião
 
-<center>
 <iframe width="697" height="392" src="https://www.youtube.com/embed/fKfjFxpYb0c?list=PL8iuGQf0VOAG6vZcaa15KTLHQfrdyMldr" title="Reunião 01 requisitos g02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Reunião 01**
 
-**Fonte:** [Caio Mesquita](https://github.com/Caiomesvie)
-</center>
+**Fonte:** [Caio Mesquita](https://github.com/Caiomesvie).
 
 ## 1. Data, Horário, Duração e Local
 
-- **Data:** 26/03/2024
+- **Data:** 26/03/2024.
 - **Horário de início previsto:** 20:00.
-- **Horário de início:** 20:38
+- **Horário de início:** 20:38.
 - **Duração:** 19 minutos e 18 segundos.
-- **Local:** Teams 
-- **Link da reunião:** [aqui](https://youtu.be/fKfjFxpYb0c?list=PL8iuGQf0VOAG6vZcaa15KTLHQfrdyMldr)
+- **Local:** Teams.
+- **Link da reunião:** [aqui](https://youtu.be/fKfjFxpYb0c?list=PL8iuGQf0VOAG6vZcaa15KTLHQfrdyMldr).
 
 ## 2. Participantes
 
@@ -40,26 +38,31 @@ Os presentes na reunião foram:
 
 As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tema tem o seu identificador Dn para rastreabilidade.
 
-| Identificador (Dn) | Tema |
-| - | - |
-| D1 | Como a equipe irá se organizar? | 
-| D2 | Qual será a base do site do projeto? |
-| D3 | Elaboração inicial do cronograma |
-| D4 | Quando será a próxima reunião? |
-
 <p align="center"> Tabela 1. Dúvidas </p>
+
+| Identificador (Dn) | Tema                                 |
+| ------------------ | ------------------------------------ |
+| D1                 | Como a equipe irá se organizar?      | 
+| D2                 | Qual será a base do site do projeto? |
+| D3                 | Elaboração inicial do cronograma     |
+| D4                 | Quando será a próxima reunião?       |
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 ## 4. Conclusões: 
 
 De acordo com o tema discutido, é definido o que foi decidido. Esses pontos podem ser encontrados de acordo com a tabela 2.
 
-| Identificador (Dn) | Decisão |
-| - | - |
-| D1 | Uma ou duas reuniões semanais pelo teams e discurssões sobre o desenvolvimento do projeto via whatzapp.| 
-| D2 | Os integrantes do grupo irão investigar as opçõe de aplicativos. |
-| D3 | O cronograma será baseado de acordo com as datas de entrega das tarefas definidas pelo cronograma da disciplina.  |
-| D4 | A próxima reunião será no dia 28 de março às 21:00. |
 <p align="center"> Tabela 2. Decisões </p>
+
+| Identificador (Dn) | Decisão                                                                                                            |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| D1                 | Uma ou duas reuniões semanais pelo teams e discurssões sobre o desenvolvimento do projeto via whatzapp.            | 
+| D2                 | Os integrantes do grupo irão investigar as opçõe de aplicativos.                                                   |
+| D3                 | O cronograma será baseado de acordo com as datas de entrega das tarefas definidas pelo cronograma da disciplina.   |
+| D4                 | A próxima reunião será no dia 28 de março às 21:00.                                                                |
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 ## 5. Decisões:
 
@@ -67,22 +70,24 @@ Neste tópico, são listadas as tarefas a serem realizadas na semana e quem ser�
 
 Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
 
-| Identificador (Issue n) | Issue | Integrante(s) responsável(eis) |
-| - | - | - |
-| Issue 1 | Realizar a Ata da reunião  | Larissa Stéfane |
-| Issue 2 | Criar o gitpage | Caio Mesquita Vieira | 
-| Issue 3 | Enviar sugestões de sites com argumentos | Todos |
-| Issue 4 | Encontrar sugestões de ferramentas | Larissa Stéfane e Luana de Lima |
-| Issue 5 | Encontrar sugestões de metodologias | Bruno Cunha e Iago Passaglia |
-| Issue 6 | Definir o responsável pelo rich Picture | Pedro Augusto|
-
 <p align="center"> Tabela 3. Issues Sprint 0 </p>
+
+| Identificador (Issue n) | Issue                                    | Integrante(s) responsável(eis)                   |
+| ----------------------- | ---------------------------------------- | ------------------------------------------------ |
+| Issue 1                 | Realizar a Ata da reunião                | Larissa Stéfane                                  |
+| Issue 2                 | Criar o gitpage                          | Caio Mesquita                                    | 
+| Issue 3                 | Enviar sugestões de sites com argumentos | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro |
+| Issue 4                 | Encontrar sugestões de ferramentas       | Larissa Stéfane e Luana Medeiros                 |
+| Issue 5                 | Encontrar sugestões de metodologias      | Bruno Cunha e Iago Passaglia                     |
+| Issue 6                 | Definir o responsável pelo Rich Picture  | Pedro Augusto                                    |
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 ## 6. Histórico de Versão
 
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 | Criando da base da Ata da Reunião | Larissa Stéfane Barboza Santos | Iago Passaglia Pereira | 25/03 |
-| 1.1 | Atualiação da ata | Larissa Stéfane Barboza Santos |Iago Passaglia Pereira | 26/03 |
-| 1.2 | Correções de erros da ata | Iago Passaglia Pereira | - | 02/04 |
-
+| Versão | Alteração                                                                  | Responsável                            | Revisor         | Data       |
+| ------ | -------------------------------------------------------------------------- | -------------------------------------- | --------------- | ---------- |
+| 1.0    | Criando da base da Ata da Reunião                                          | Larissa Stéfane                        | Iago Passaglia  | 25/03/2024 |
+| 1.1    | Atualiação da ata                                                          | Larissa Stéfane                        | Iago Passaglia  | 26/03/2024 |
+| 1.2    | Correções de erros da ata                                                  | Iago Passaglia                         | Breno Alexandre | 02/04/2024 |
+| 1.3    | Correções ortográficas, adição de fontes, padronização de legendas e nomes | Breno Alexandre                        | Bruno Araújo    | 14/04/2024 |
