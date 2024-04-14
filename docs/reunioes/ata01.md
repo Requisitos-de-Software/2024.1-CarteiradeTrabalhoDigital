@@ -85,9 +85,9 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 
 ## Histórico de Versão
 
-| Versão | Alteração                                                                  | Responsável     | Revisor         | Data       |
-| ------ | -------------------------------------------------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criando da base da Ata da Reunião                                          | Larissa Stéfane | Iago Passaglia  | 25/03/2024 |
-| 1.1    | Atualiação da ata                                                          | Larissa Stéfane | Iago Passaglia  | 26/03/2024 |
-| 1.2    | Correções de erros da ata                                                  | Iago Passaglia  | Breno Alexandre | 02/04/2024 |
-| 1.3    | Correções ortográficas, adição de fontes, padronização de legendas e nomes | Breno Alexandre | Bruno Araújo    | 14/04/2024 |
+| Versão | Alteração                                                                                                    | Responsável     | Revisor         | Data       |
+| ------ | ------------------------------------------------------------------------------------------------------------ | --------------- | --------------- | ---------- |
+| 1.0    | Criando da base da Ata da Reunião                                                                            | Larissa Stéfane | Iago Passaglia  | 25/03/2024 |
+| 1.1    | Atualiação da ata                                                                                            | Larissa Stéfane | Iago Passaglia  | 26/03/2024 |
+| 1.2    | Correções de erros da ata                                                                                    | Iago Passaglia  | Breno Alexandre | 02/04/2024 |
+| 1.3    | Correções ortográficas, adição de fontes, remoção de numeração de tópicos e padronização de legendas e nomes | Breno Alexandre | Bruno Araújo    | 14/04/2024 |
