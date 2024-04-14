@@ -8,7 +8,7 @@
 * [Pontos Negativos](#Pontos-Negativos)
 * [Motivos para usar ou não usar no caso específico](#Motivos-para-usar-ou-não-usar-no-caso-específico)
 * [Conclusão](#Conclusão)
-* [Bibliografia](#Bibliografia)
+* [Referências](#Referências)
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
@@ -39,7 +39,7 @@ analistas, inviabilizando de certa forma seu uso no projeto.
 Ao aplicar a análise de discurso na elicitação de requisitos, as equipes de desenvolvimento podem obter uma compreensão mais profunda e holística das demandas dos stakeholders, permitindo a criação de soluções mais eficazes e alinhadas com as verdadeiras necessidades do usuário. Porém, o contato pessoal com os stakeholders do aplicativo é fundamental para utilização da técnica em questão, dificultando seu
 uso no projeto.
 
-## Referências bibliográficas
+## Referências
 1. **Elicitação de Requisitos: Levantamento de requisitos e técnicas de Elicitação**.Disponível em < https://www.devmedia.com.br/elicitacao-de-requisitos-levantamento-de-requisitos-e-tecnicas-de-elicitacao/31872 > Acesso em 13 de abril de 2024.
 
 2. **Análise de discurso**.Disponível em < https://yellow.netlify.app/elicitacao/requisitos/analise_discurso/ > Acesso em 13 de abril de 2024.
