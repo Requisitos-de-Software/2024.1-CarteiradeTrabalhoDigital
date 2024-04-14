@@ -1,4 +1,4 @@
-# Execução do Storytelling
+# Elicitação por Storytelling
 
 ## Sumário
 * [Introdução](#Introdução)
