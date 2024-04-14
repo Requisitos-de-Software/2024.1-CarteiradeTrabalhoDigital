@@ -8,7 +8,7 @@
 * [Pontos Negativos](#Pontos-Negativos)
 * [Motivos para usar ou não usar no caso específico](#Motivos-para-usar-ou-não-usar-no-caso-específico)
 * [Conclusão](#Conclusão)
-* [Bibliografia](#Bibliografia)
+* [Rerefências](#Referências)
 * [Histórico de versão](#Histórico-de-versão)
   
 ## Introdução:
