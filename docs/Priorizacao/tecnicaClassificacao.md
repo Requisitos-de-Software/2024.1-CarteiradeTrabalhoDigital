@@ -66,4 +66,4 @@ A técnica "Ordenação e classificação" é uma ferramenta útil para prioriza
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criaçao e elaboração do documento | Larissa Stéfane | - | 11/04/2024 |
+| 1.0 | Criaçao e elaboração do documento | Larissa Stéfane | Bruno Araújo | 11/04/2024 |
