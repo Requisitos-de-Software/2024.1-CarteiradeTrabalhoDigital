@@ -40,9 +40,9 @@ Ao aplicar a análise de discurso na elicitação de requisitos, as equipes de d
 uso no projeto.
 
 ## Referências
-1. **Elicitação de Requisitos: Levantamento de requisitos e técnicas de Elicitação**.Disponível em < https://www.devmedia.com.br/elicitacao-de-requisitos-levantamento-de-requisitos-e-tecnicas-de-elicitacao/31872 > Acesso em 13 de abril de 2024.
+- **Elicitação de Requisitos: Levantamento de requisitos e técnicas de Elicitação**.Disponível em < https://www.devmedia.com.br/elicitacao-de-requisitos-levantamento-de-requisitos-e-tecnicas-de-elicitacao/31872 > Acesso em 13 de abril de 2024.
 
-2. **Análise de discurso**.Disponível em < https://yellow.netlify.app/elicitacao/requisitos/analise_discurso/ > Acesso em 13 de abril de 2024.
+- **Análise de discurso**.Disponível em < https://yellow.netlify.app/elicitacao/requisitos/analise_discurso/ > Acesso em 13 de abril de 2024.
 
 ## Histórico de versão
 | Versão | Alteração | Responsável | Revisor | Data |
