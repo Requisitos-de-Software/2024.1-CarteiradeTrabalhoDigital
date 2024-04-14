@@ -428,4 +428,4 @@ Conclusão do documento na imagem 32:
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e execução do storytelling | Larissa Stéfane | -  | 13/04 |
+| 1.0 | Criação e execução do storytelling | Larissa Stéfane | Breno Alexandre  | 13/04 |
