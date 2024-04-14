@@ -73,7 +73,7 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 ## Decisões:
 
 Neste tópico, são lincadas as tarefas a serem realizadas na semana e quem será os seus responsáveis.
-Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 0, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
+Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
 
 <p align="center"> Tabela 3: Issues Sprint 0. </p>
 
