@@ -8,7 +8,7 @@
 * [Pontos Negativos](#Pontos-Negativos)
 * [Questionários e o Aplicativo](#Questionários-e-o-Aplicativo)
 * [Conclusão](#Conclusão)
-* [Bibliografia](#Bibliografia)
+* [Referências](#Referências)
 * [Histórico de versão](#Histórico-de-versão)
 
 
@@ -64,7 +64,7 @@ Para o grupo, tendo como base o aplicativo Carteira de Trabalho Digital, a anál
 
 Portanto, foi possível analisar e verificar a análise de documentos como uma técnica de elicitação para o desenvolvimento do projeto sobre o aplicativo da Carteira de Trabalho Digital. Com isso, a análise do documento pode ser um dos meios de elicitação utilizados, contudo, também ficou evidente a importância de complementar a análise de documentos com outras técnicas de elicitação para garantir uma compreensão completa e precisa dos requisitos.
 
-## Bibliografia
+## Referências
 
 1. Reinehr, Sheila. **Engenharia de requisitos **. Revisão técnica por Marco Antônio Paludo. Porto Alegre. Editora SAGAH, [s.d.]. Disponível em < https://integrada.minhabiblioteca.com.br/reader/books/9786556900674/pageid/0 > Acesso em 11 de abril de 2024.
 2. **Análise de Documentos**. Disponível em < https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-analise-de-documentos > Acessado em 11 de abril de 2024.
