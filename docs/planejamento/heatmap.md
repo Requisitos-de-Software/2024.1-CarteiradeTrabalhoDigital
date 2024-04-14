@@ -11,12 +11,10 @@ Neste documento, apresentamos o processo e os resultados obtidos através da an�
 ## Heatmap de Disponibilidade
 
 <center>
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-GuardioesDaSaude/69cadef806b297ea29574016b3e8c14ee63b7467/docs/assets/imagem_2024-03-30_102818917.png" style="width:auto"/>
-
 <font size="2"><p style="text-align: center">Imagem 1: Heatmap.</p></font>
-  <font size="2"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-GuardioesDaSaude/69cadef806b297ea29574016b3e8c14ee63b7467/docs/assets/imagem_2024-03-30_102818917.png" style="width:auto"/>
+<font size="2"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
 <center>
-
 
 ## Resultados
 O heatmap resultante nos proporcionou uma visão clara dos horários em que a maioria dos membros do grupo está disponível para reuniões. Identificamos os períodos de maior e menor disponibilidade ao longo da semana, o que nos permitiu planejar as reuniões de acordo com os horários mais convenientes para a maioria dos membros.
@@ -30,6 +28,7 @@ A utilização do heatmap de disponibilidade para reuniões se mostrou uma ferra
 
  ## Histórico de versões:
  
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 | Criação do documento| Bruno Araújo | Iago Passaglia | 30/03/2024|
+| Versão | Alteração                                                                                                    | Responsável     | Revisor         | Data       |
+| ------ | ------------------------------------------------------------------------------------------------------------ | --------------- | --------------- | ---------- |
+| 1.0    | Criação do documento                                                                                         | Bruno Araújo    | Iago Passaglia  | 30/03/2024 |
+| 1.1    | Correções ortográficas e de fontes e padronização de legendas                                                | Breno Alexandre | Bruno Araújo    | 14/04/2024 |
