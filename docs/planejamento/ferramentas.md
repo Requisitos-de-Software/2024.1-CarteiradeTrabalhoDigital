@@ -40,9 +40,9 @@
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-## Referências
+## Bibliografia
 
-- GitHub. Disponível em: [Github](https://github.com/explore). Acesso em: 
+- GitHub. Disponível em: [Github](https://github.com/explore). Acesso em: 27 de março 2024.
 - WhatsApp. Disponível em: [Whatsapp](https://www.whatsapp.com/?lang=pt_BR) . Acesso em: 27 de março 2024.
 - Microsoft Teams. Disponível em: [Teams](https://www.microsoft.com/pt-br/microsoft-teams/log-in) . Acesso em: 27 de março 2024.
 - Draw.io. Disponível em: [Drawio](https://www.drawio.com/) . Acesso em: 27 de março 2024.
