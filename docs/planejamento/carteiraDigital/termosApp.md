@@ -48,7 +48,7 @@ Acesso.gov.br: Solução tecnológica que possibilita o acesso único a serviço
 **Fale conosco**
 Se você ainda tiver alguma dúvida sobre a Política de Privacidade da CTPS Digital, ou se quiser saber mais sobre como atualizar suas informações, entre em contato pela central 158.
 
-## Referências:
+## Bibliografia:
 
 - Ministério do Trabalho e Emprego. Disponível em: [Portal Emprega Brasil](https://empregabrasil.mte.gov.br/politica-de-privacidade/). Acesso em: 12/04/2024
 
