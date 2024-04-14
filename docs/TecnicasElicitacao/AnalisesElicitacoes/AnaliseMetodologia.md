@@ -8,7 +8,7 @@
 * [Técnicas de Elicitação Estudas](#Técnicas-de-Elicitação-Estudas)
 * [Template](#Template)
 * [Conclusão](#Conclusão)
-* [Bibliografia](#Bibliografia)
+* [Referências](#Referências)
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
