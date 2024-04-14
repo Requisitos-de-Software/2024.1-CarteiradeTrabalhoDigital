@@ -40,18 +40,18 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 
 <p align="center"> Tabela 1: Dúvidas. </p>
 
-| Identificador (Dn) | Tema                                                                                                              |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| D1                 | Definir app (provavelmente CTD)                                                                                   |
-| D2                 | Refazer a logo do app (provavelmente CTD)                                                                         |
-| D3                 | Conseguir termos de uso do app e versionar                                                                        |
-| D4                 | Definir perfil de usuário do app                                                                                  |
-| D5                 | Template das técnicas de elicitações (cada um faz de um ou dois e na quinta a gente faz a escolha das principais) |
-| D6                 | Discutir sobre a ideia de fazer rodízio de issues (para dividir melhor o trabalho entre a equipe)                 |
-| D7                 | Revisar cronograma: detalhar, colocar nome de todos e não "todos", colapsar tabelas                               |
-| D8                 | Revisar gitpage: contraste de cores e talvez ajudar a colapsar tabelas no cronograma                              |
-| D9                 | Revisar vídeos no youtube: Arrumar títulos e deixar não listados                                                  |
-| D10                | Revisar artefatos no geral                                                                                        |
+| Identificador (Dn) | Tema                                                                                                               |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| D1                 | Definir app (provavelmente CTD).                                                                                   |
+| D2                 | Refazer a logo do app (provavelmente CTD).                                                                         |
+| D3                 | Conseguir termos de uso do app e versionar.                                                                        |
+| D4                 | Definir perfil de usuário do app.                                                                                  |
+| D5                 | Template das técnicas de elicitações (cada um faz de um ou dois e na quinta a gente faz a escolha das principais). |
+| D6                 | Discutir sobre a ideia de fazer rodízio de issues (para dividir melhor o trabalho entre a equipe).                 |
+| D7                 | Revisar cronograma: detalhar, colocar nome de todos e não "todos", colapsar tabelas.                               |
+| D8                 | Revisar gitpage: contraste de cores e talvez ajudar a colapsar tabelas no cronograma.                              |
+| D9                 | Revisar vídeos no youtube: Arrumar títulos e deixar não listados.                                                  |
+| D10                | Revisar artefatos no geral.                                                                                        |
 
 **Fonte:** [Breno Alexandre](https://github.com/brenoalexandre0)
 
@@ -71,11 +71,11 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 
 <p align="center"> Tabela 2: Decisões. </p>
 
-| Identificador (Dn) | Decisão                                                              |
-| ------------------ | -------------------------------------------------------------------- |
-| D1                 | Foi escolhido pela equipe o app do CTD(Carteira de Trabalho Digital) |
-| D2                 | Foi aceito pela equipe o rodízio de issues                           |
-| D3                 | Foi definido tarefas para todos os membros                           |
+| Identificador (Dn) | Decisão                                                               |
+| ------------------ | --------------------------------------------------------------------- |
+| D1                 | Foi escolhido pela equipe o app do CTD(Carteira de Trabalho Digital). |
+| D2                 | Foi aceito pela equipe o rodízio de issues.                           |
+| D3                 | Foi definido tarefas para todos os membros.                           |
 
 **Fonte:** [Breno Alexandre](https://github.com/brenoalexandre0)
 
