@@ -68,7 +68,7 @@ A tabela 1 apresenta as técnicas de elicitação que foram estudas pela equipe.
 
 Abaixo, no código 1, há um templete do formato que os documentos dos estudos das análises das técnicas de elicitação devem ter.
 
-Código 1: Templete.
+Código 1: Template.
 
 
     - ## Nome da técnica:
@@ -95,7 +95,7 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 Portanto, a partir da compreensão do conceito de elicitação e de sua relevância no projeto, fica evidente que esta etapa de estudar as técnicas de elicitação desempenha um papel fundamental o desenvolvimento do projeto. Além disso, ao apresentar uma variedade de técnicas de elicitação que serão exploradas pela equipe, busca-se capacitar os membros do projeto a conduzir um processo de levantamento de requisitos eficaz e orientado para resultados satisfatórios.
 
-## Bibliografia
+## Referências
 
   1. DevMedia. **"Elicitação de Requisitos"**. Disponível em: https://www.devmedia.com.br/engenharia-de-requisitos-introducao-e-certificacao/28058. Acesso em: 10 de abril de 2024.
   2. Reinehr, Sheila. **Engenharia de requisitos [recurso eletrônico]**. Revisão técnica por Marco Antônio Paludo. Porto Alegre. Editora SAGAH, [s.d.].
@@ -105,4 +105,4 @@ Portanto, a partir da compreensão do conceito de elicitação e de sua relevân
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criaçao do documento | Larissa Stéfane | -- | 11/04/2024 |
+| 1.0 | Criaçao do documento | Larissa Stéfane | Bruno Araújo | 11/04/2024 |
