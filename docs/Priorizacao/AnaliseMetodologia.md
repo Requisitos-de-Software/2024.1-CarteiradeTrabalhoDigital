@@ -50,6 +50,7 @@ Após a conclusão dos estudos, a equipe se reuniu para apresentar os pontos de 
 
 A tabela 1 apresenta as técnicas de priorização que foram estudadas pela equipe.
 
+**Tabela 1**: 
 
 | Técnica de Elicitação | Responsável |
 | -------------------- | ------------------ | 
@@ -60,8 +61,7 @@ A tabela 1 apresenta as técnicas de priorização que foram estudadas pela equi
 | QFD | Luana Lima|
 | TQM | Pedro Augusto |
 
-**Tabela 1**: Técnicas de priorização estudas. **Fonte**: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
-
+**Fonte**: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 ## Templete
 
@@ -111,3 +111,4 @@ Consequentemente, ao compreender o conceito de priorização e a sua importânci
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criaçao e elaboração do documento | Larissa Stéfane | - | 11/04/2024 |
+| 1.1 | Correção de legenda da tabela |Bruno Araújo | - | 11/04/2024 |
