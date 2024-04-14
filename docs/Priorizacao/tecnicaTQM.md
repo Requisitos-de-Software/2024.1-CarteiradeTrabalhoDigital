@@ -61,7 +61,7 @@ Em resumo, a técnica de priorização TQM é fundamental para direcionar os esf
 a qualidade dos produtos ou serviços de uma organização. Ao identificar e resolver as causas raízes dos problemas mais críticos, as empresas
 podem alcançar padrões mais altos de qualidade e satisfação do cliente.
 
-## Bibliografia;
+## Referências
 1. Fundação Vanzolini. **Gestão da Qualidade Total (TQM) em Operações**. Disponível em < https://vanzolini.org.br/blog/gestao-da-qualidade-total-tqm// > Acesso em 13 de abril de 2024.
 
 2. Scielo Brasil. **O significado do tqm e modelos de implementação**. Disponível em < https://www.scielo.br/j/gp/a/j3WwCgGNPT645cMVdz8BsWL// > Acesso em 13 de abril de 2024.
