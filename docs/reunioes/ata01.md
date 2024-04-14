@@ -38,7 +38,7 @@ Os presentes na reunião foram:
 
 As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tema tem o seu identificador Dn para rastreabilidade.
 
-<p align="center"> Tabela 1. Dúvidas </p>
+<p align="center"> Tabela 1: Dúvidas. </p>
 
 | Identificador (Dn) | Tema                                 |
 | ------------------ | ------------------------------------ |
@@ -53,7 +53,7 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 
 De acordo com o tema discutido, é definido o que foi decidido. Esses pontos podem ser encontrados de acordo com a tabela 2.
 
-<p align="center"> Tabela 2. Decisões </p>
+<p align="center"> Tabela 2: Decisões. </p>
 
 | Identificador (Dn) | Decisão                                                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ |
@@ -70,7 +70,7 @@ Neste tópico, são listadas as tarefas a serem realizadas na semana e quem ser�
 
 Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
 
-<p align="center"> Tabela 3. Issues Sprint 0 </p>
+<p align="center"> Tabela 3: Issues Sprint 0. </p>
 
 | Identificador (Issue n) | Issue                                    | Integrante(s) responsável(eis)                   |
 | ----------------------- | ---------------------------------------- | ------------------------------------------------ |
