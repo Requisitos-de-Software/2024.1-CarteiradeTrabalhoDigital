@@ -8,7 +8,7 @@
 * [Pontos Negativos](#Pontos-Negativos)
 * [Questionários e o Aplicativo](#Questionários-e-o-Aplicativo)
 * [Conclusão](#Conclusão)
-* [Bibliografia](#Bibliografia)
+* [Referências](#Referências)
 * [Histórico de versão](#Histórico-de-versão)
 
 
@@ -23,7 +23,6 @@ A técnica de elicitação de storytelling, também conhecida com história de u
 Storytelling geralmente concentra-se em três linhas de pesquisas distintas: Geração, Interação ou Visualização das histórias (POZZER, 2005). Desse modo, essas histórias podem oferecer insights sobre as expectativas dos usuários, seus ambientes de trabalho, problemas enfrentados e soluções desejadas. Ao ouvir e analisar essas histórias, a equipe pode identificar padrões, tendências e prioridades que ajudam a orientar o design e o desenvolvimento do produto de forma mais centrada no usuário.
 
 Portanto, Storytelling é um novo paradigma de entretenimento digital que está avançando a passos largos com a criação de técnicas e ferramentas que permitem que histórias interativas possam ser criadas, visualizadas e guiadas com o auxílio do computador (POZZER, 2005).
-
 
 ## Como Realizar
 
@@ -60,7 +59,6 @@ Após essas informações serem coletadas, o passo a passo para desenvolver o st
 
 ## Pontos Negativos
 
-
 - **Subjetividade**: As histórias podem ser subjetivas e enviesadas, refletindo as experiências e opiniões de apenas um grupo pequeno dos usuários.
 
 - **Dificuldade de Verificação**: Diferentemente de dados quantitativos, as histórias podem ser difíceis de verificar e validar.
@@ -71,7 +69,6 @@ Após essas informações serem coletadas, o passo a passo para desenvolver o st
 
 - **Dependência de Habilidades de Comunicação**: O sucesso do storytelling depende das habilidades de comunicação de quem o desenvolve.
 
-
 ## Questionários e o Aplicativo
 
 Para a equipe, o storytelling pode oferecer uma oportunidade de se conectar emocionalmente com os casos de usuários e permite compreender as suas necessidades de forma mais holística. Além disso, essa técnica permite uma compreensão do contexto para todos e pode trazer a tona insights sobre o uso do aplicativo e os desafios enfrentados pelos usuários. No entanto, devido à sua natureza subjetiva, essa técnica requer uma abordagem crítica na análise e na interpretação dos dados obtidos.
@@ -81,8 +78,7 @@ Portanto, enquanto o storytelling pode ser uma ferramenta interativa para a elic
 
 A utilização do storytelling como técnica de elicitação é uma abordagem eficaz na obtenção de insights e requisitos essenciais para orientar o desenvolvimento do projeto sobre a carteira de trabalho digital. Com isso, por meio dessa metodologia, é possível coletar narrativas significativas dos usuários, o que proporciona uma compreensão mais profunda e imersiva de suas necessidades e expectativas. Entretanto, é importante reconhecer que o storytelling possui suas próprias limitações e, portanto, sua aplicação requer a complementação com outras técnicas de elicitação. 
 
-## Bibliografia
-
+## Referências
 
 1. **Histórias de Usuário**.Disponível em < https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-historias-de-usuario > Acesso em 11 de abril de 2024.
 
@@ -90,9 +86,8 @@ A utilização do storytelling como técnica de elicitação é uma abordagem ef
 
 3. **Storytelling**. Disponível em < https://requisitos-tinder.github.io/Tinder-2018-1/elicitacao/storytelling/ > Acesso em 11 de abril de 2024.
 
-
 ## Histórico de versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criaçao e elaboração do documento | Larissa Stéfane | - | 11/04/2024 |
+| 1.0 | Criaçao e elaboração do documento | Larissa Stéfane | Bruno Araújo | 11/04/2024 |
