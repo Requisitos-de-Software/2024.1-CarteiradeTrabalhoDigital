@@ -59,7 +59,7 @@ As entrevistas são uma ferramenta poderosa para a elicitação de requisitos, p
 
 - [Guia Retraining](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-entrev. Acessado em: 12 de abril de 2024.
 - Vazquez, C. E., Simões, G. S., & Albert, R. (2016). *Engenharia de Requisitos: Software Orientado ao Negócio*. Rio de Janeiro: Brasport.
-- 
+  
 ## Histórico de versão
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
