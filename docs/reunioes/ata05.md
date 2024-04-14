@@ -4,22 +4,19 @@
 
 ## Vídeo da Reunião
 
-<center>
-
 **Reunião 05**
 
 <iframe width="697" height="392" src="https://www.youtube.com/embed/DnWkrJU0tEo" title="Reunião 05 Requisitos g02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Fonte:** [Caio Mesquita](https://github.com/caiomesvie)
-</center>
 
 ## Data, Horário, Duração e Local
 
-- **Data:** 09/04/2024
+- **Data:** 09/04/2024.
 - **Horário de início previsto:** 21:00.
-- **Horário de início:** 21:04
-- **Duração:** 22 minutos e 40 segundos
-- **Local:** Teams 
+- **Horário de início:** 21:04.
+- **Duração:** 22 minutos e 40 segundos.
+- **Local:** Teams.
 - **Link da reunião:** [aqui](https://www.youtube.com/watch?v=DnWkrJU0tEo)
 
 ## Participantes
@@ -41,7 +38,7 @@ Os presentes na reunião foram:
 
 As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tema tem o seu identificador Dn para rastreabilidade.
 
-<p align="center"> Tabela 1. Dúvidas </p>
+<p align="center"> Tabela 1: Dúvidas. </p>
 
 | Identificador (Dn) | Tema                                                                                                              |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------- |
@@ -56,7 +53,7 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 | D9                 | Revisar vídeos no youtube: Arrumar títulos e deixar não listados                                                  |
 | D10                | Revisar artefatos no geral                                                                                        |
 
-Fonte: [Breno Alexandre](https://github.com/brenoalexandre0)
+**Fonte:** [Breno Alexandre](https://github.com/brenoalexandre0)
 
 ### **D10:**
 * Padronização de numeração ou não nos artefatos
@@ -72,7 +69,7 @@ Fonte: [Breno Alexandre](https://github.com/brenoalexandre0)
 
 De acordo com o tema discutido, é definido o que foi decidido. Esses pontos podem ser encontrados de acordo com a tabela 2.
 
-<p align="center"> Tabela 2. Decisões </p>
+<p align="center"> Tabela 2: Decisões. </p>
 
 | Identificador (Dn) | Decisão                                                              |
 | ------------------ | -------------------------------------------------------------------- |
@@ -80,7 +77,7 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 | D2                 | Foi aceito pela equipe o rodízio de issues                           |
 | D3                 | Foi definido tarefas para todos os membros                           |
 
-Fonte: [Breno Alexandre](https://github.com/brenoalexandre0)
+**Fonte:** [Breno Alexandre](https://github.com/brenoalexandre0)
 
 ## Decisões:
 
@@ -88,7 +85,7 @@ Neste tópico, são listadas as tarefas a serem realizadas na semana e quem ser�
 
 Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
 
-<p align="center"> Tabela 3. Issues</p>
+<p align="center"> Tabela 3: Issues. </p>
 
 | Identificador (Issue n) | Issue                                                                             | Integrante(s) responsável(eis) | Data de entrega |
 | ----------------------- | --------------------------------------------------------------------------------- | ------------------------------ | --------------- |
@@ -104,11 +101,12 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 | Issue 10                | Revisar os vídeos no youtube e colocar os links nas atas                          | Caio Mesquita                  | 11/04/2024      |
 | Issue 11                | Revisar os artefatos do projeto                                                   | Breno e Bruno                  | 11/04/2024      |
 
-Fonte: [Breno Alexandre](https://github.com/brenoalexandre0)
+**Fonte:** [Breno Alexandre](https://github.com/brenoalexandre0)
 
 
 ## Histórico de Versão
 
-| Versão | Alteração                         | Responsável     | Revisor | Data       |
-| ------ | --------------------------------- | --------------- | ------- | ---------- |
-| 1.0    | Criação da base da Ata da Reunião | Breno Alexandre | Larissa Stéfane       | 09/04/2024 |
+| Versão | Alteração                                                                                                    | Responsável     | Revisor         | Data       |
+| ------ | ------------------------------------------------------------------------------------------------------------ | --------------- | --------------- | ---------- |
+| 1.0    | Criação da base da Ata da Reunião                                                                            | Breno Alexandre | Larissa Stéfane | 09/04/2024 |
+| 1.1    | Correções ortográficas e de fontes, remoção de numeração de tópicos e padronização de legendas e nomes       | Breno Alexandre | Bruno Araújo    | 14/04/2024 |
