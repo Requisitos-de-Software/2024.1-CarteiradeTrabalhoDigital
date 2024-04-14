@@ -57,7 +57,7 @@ Para realizar esses objetivos, a Carteira de Trabalho Digital possui um conjunto
 
 Em suma, a transição da carteira de trabalho física para o formato digital trouxe consigo uma série de benefícios significativos tanto para os trabalhadores quanto para as instituições. Ao simplificar processos, reduzir custos administrativos e oferecer maior acessibilidade e segurança aos dados, a carteira de trabalho digital não apenas acompanha a evolução tecnológica, mas também promove uma experiência mais eficiente e transparente para todos os envolvidos,contribuindo para a construção de uma sociedade mais conectada e inclusiva.
 
-## Referências
+## Bibliografia
 - **Agência Brasil explica: carteira de trabalho digital** . Disponível em < https://agenciabrasil.ebc.com.br/geral/noticia/2021-06/agencia-brasil-explica-carteira-de-trabalho-digital > Acessado em 12 de abril de 2024.
 
 ## Histórico de versão:
