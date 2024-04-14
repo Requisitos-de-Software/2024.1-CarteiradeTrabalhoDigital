@@ -8,7 +8,7 @@
 * [Pontos Negativos](#Pontos-Negativos)
 * [Questionários e o Aplicativo](#Questionários-e-o-Aplicativo)
 * [Conclusão](#Conclusão)
-* [Bibliografia](#Bibliografia)
+* [Referências](#Referências)
 * [Histórico de versão](#Histórico-de-versão)
 
 
@@ -84,7 +84,7 @@ Portanto, enquanto os questionários podem ser uma parte útil do processo de el
 A técnica de elicitação por meio de questionários apresenta-se como uma ferramenta valiosa para a obtenção de informações e requisitos para o desenvolvimento do projeto da equipe. Com isso, através da sua aplicação, é foi possível captar dados de usuários e stakeholders envolvidos no aplicativo da Carteira de Trabalho Digital. No entanto, também é reconhecido que os questionários têm limitações inerentes. Portanto, a sua utilização exige a complementação com outras técnicas de elicitação. 
 
 
-## Bibliografia
+## Referências
 
   1. Bistene, J. P., Portugal, R. Q., Engiel, P., Alexander, E., & Prado Leite, J. C. S. **O uso de questionários para elicitação de informações sobre uma estratégia didática em Engenharia de Requisitos**. Departamento de Informática, PUC-Rio, Rio de Janeiro, RJ, Brasil. Departamento de Ciências Exatas e Tecnológicas, UESC, Ilhéus, Bahia. Disponível em < https://www.researchgate.net/profile/Roxana-Portugal-2/publication/269165813_O_uso_de_questionarios_para_elicitacao_de_informacoes_sobre_uma_estrategia_didatica_em_Engenharia_de_Requisitos/links/5483011a0cf2e5f7ceacc140/O-uso-de-questionarios-para-elicitacao-de-informacoes-sobre-uma-estrategia-didatica-em-Engenharia-de-Requisitos.pdf> . Acessado em 10 de abril de 2024.
   2. Reinehr, Sheila. **Engenharia de requisitos [recurso eletrônico]**. Revisão técnica por Marco Antônio Paludo. Porto Alegre. Editora SAGAH, [s.d.].
@@ -94,4 +94,4 @@ A técnica de elicitação por meio de questionários apresenta-se como uma ferr
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criaçao e elaboração do documento | Larissa Stéfane | - | 11/04/2024 |
+| 1.0 | Criaçao e elaboração do documento | Larissa Stéfane | Bruno Araújo | 11/04/2024 |
