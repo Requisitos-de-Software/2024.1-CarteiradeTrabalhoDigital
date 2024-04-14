@@ -8,6 +8,7 @@
 - [Pontos Negativos](#Pontos-Negativos)
 - [Conclusão](#Conclusão)
 - [Referências](#Referências)
+- [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
 Este documento explora a utilização das técnicas de entrevista em grupo como método de elicitação de requisitos para o desenvolvimento do aplicativo da Carteira de Trabalho Digital. A técnica é avaliada em termos de sua capacidade para capturar as necessidades críticas e entender melhor o ambiente de uso e as expectativas dos usuários em um formato colaborativo.
@@ -47,6 +48,7 @@ As entrevistas em grupo são uma ferramenta valiosa para a elicitação de requi
 - Diniz, S. D. J., Silva, B. S. da, Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). *Interação Humano-Computador e Experiência do Usuário*. Rio de Janeiro: Elsevier.
 
 ## Histórico de versão
+
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criaçao e elaboração do documento |Bruno Araújo | -| 14/04/2024 |
