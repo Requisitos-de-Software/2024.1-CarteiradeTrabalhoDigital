@@ -46,4 +46,4 @@
   * Execução
     - [Técnica de Entrevista](TecnicasElicitacao/AnaliseTecnicaEntrevista.md)
     - [Perfil de Usuário](TecnicasElicitacao/PerfilDeUsuario.md)
-    - [Priorização de Requisitos](TecnicasElicitacao/PriorizaçãoDeRequisitos.md)
+    - [Priorização de Requisitos](ecnicasElicitacao/PriorizaçãoDeRequisitos.md)
