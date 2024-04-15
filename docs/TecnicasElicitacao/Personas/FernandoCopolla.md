@@ -1,21 +1,21 @@
-# Apresentando Alain Delon
+# Apresentando Fernando Copolla
 
 ## Introdução
 
-Está parte do projeto apresenta uma persona criada com o intuito de fazer parte do processo e da metodologia da execução da técnica de priorização de requisitos por quadrante ou três níveis.
+Está parte do projeto apresenta uma persona criada com o intuito de fazer parte do processo e da metodologia da execução da técnica de Storytelling.
 
 ## A persona
 
-Na Figura 1, é possível observar os principais dados da persona Alain Delon:
+Na Figura 1, é possível observar os principais dados da persona Fernando Copolla:
 
 <center>
 
 
- **Figura 1**: Alain Delon
+ **Figura 1**: Fernando Copolla
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/Alain%20Delon.png">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/Fernando Copolla.png">
 
-**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+**Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
 <center>
 
