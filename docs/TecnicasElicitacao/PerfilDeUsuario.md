@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Para entender melhor os usuários da Carteira de Trabalho Digital, é crucial elaborar um perfil genérico conhecido como perfil de usuário. De acordo com Barbosa e Silva<a id="anchor_1" href="#FRM1">^1^</a>, <q>perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado</q>.
+Para entender melhor os usuários da Carteira de Trabalho Digital, é crucial elaborar um perfil genérico conhecido como perfil de usuário. De acordo com Barbosa e Silva, perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado.
 
 ## Metodologia
 
-A metodologia adotada para a aquisição de dados incluiu a aplicação de questionários e o uso de ferramentas analíticas para monitorar a interação dos usuários com o sistema atual. Os questionários foram aplicados entre __ e __ de abril de 2024, divulgados através de comunidades no WhatsApp e Telegram, e foram elaborados pelos membros do grupo, [Nome do Membro 1](https://github.com/linkdoPerfil) e [Nome do Membro 2](https://github.com/linkdoPerfil). Informações detalhadas sobre o [questionário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/elicitacao/tecnicas/questionario/) estão disponíveis na página do artefato.
+A metodologia adotada para a aquisição de dados incluiu a aplicação de questionários e o uso de ferramentas analíticas para monitorar a interação dos usuários com o sistema atual. Os questionários foram aplicados entre __ e __ de abril de 2024, divulgados através de comunidades no WhatsApp e Telegram, e foram elaborados pelos membros do grupo, [Bruno Araújo](https://github.com/brunocva) e [Iago Passaglia](https://github.com/Paxxaglia). Informações detalhadas sobre o [questionário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/elicitacao/tecnicas/questionario/) estão disponíveis na página do artefato.
 
 Definição do Perfil de Usuário para a Carteira Digital de Trabalho.
 
