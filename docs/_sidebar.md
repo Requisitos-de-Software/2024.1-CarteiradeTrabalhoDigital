@@ -30,48 +30,48 @@
 * Pré-Rastreabilidade
   - [Rich Picture](planejamento/rich_picture.md)
 
-* Perfil do Usuário
-    - [Perfil de Usuário](TecnicasElicitacao/PerfilDeUsuario.md)
-    * Personas
-        - [Alain Delon](TecnicasElicitacao/Personas/AlainDelon.md)
-        - [Ana Clara](TecnicasElicitacao/Personas/AnaClara.md)
-        - [Maria da Graça](TecnicasElicitacao/Personas/MariaDaGraca.md)
-        - [Angélica Lima](TecnicasElicitacao/Personas/AngelicaLima.md)
-        - [Breno Santos](TecnicasElicitacao/Personas/BrenoSantos.md)
-        - [Bruna Akemi](TecnicasElicitacao/Personas/BrunaAkemi.md)
-        - [Fernado Copolla](TecnicasElicitacao/Personas/FernandoCopolla.md)
-        - [Galdêncio Silveira](TecnicasElicitacao/Personas/GaldencioSilveira.md)
-        - [Iracema Carvalho](TecnicasElicitacao/Personas/IracemaCarvalho.md)
-        - [João da Silva](TecnicasElicitacao/Personas/JoaoDaSilva.md)
-        - [João Pedro Cândido](TecnicasElicitacao/Personas/JoaoPedroCandido.md)
-    
-* Técnicas de Elicitação
-  * Análise de Elicitações
-    - [Metodologia de análise](TecnicasElicitacao/AnalisesElicitacoes/AnaliseMetodologia.md)
-    - [Análise Técnica de Discurso](TecnicasElicitacao/AnalisesElicitacoes/AnaliseDeDiscurso.md)
-    - [Análise Técnica de Brainstorming](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaBrainstorming.md)
-    - [Análise Técnica de Documentos](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaDocumentos.md)
-    - [Análise Técnica Entrevista](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaEntrevista.md)
-    - [Análise Técnica Entrevista em Grupo](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaEntrevistaGrupo.md)
-    - [Análise Técnica de Etnografia](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaEtnografia.md)
-    - [Análise Técnica de Questionários](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaQuestionarios.md)
-    - [Análise Técnica de Storytelling](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaStorytelling.md)
+* Elicitação
+  - [Perfil de Usuário](Elicitacao/PerfilDeUsuario.md)
+  * Personas
+      - [Alain Delon](Elicitacao/Personas/AlainDelon.md)
+      - [Ana Clara](Elicitacao/Personas/AnaClara.md)
+      - [Maria da Graça](Elicitacao/Personas/MariaDaGraca.md)
+      - [Angélica Lima](Elicitacao/Personas/AngelicaLima.md)
+      - [Breno Santos](Elicitacao/Personas/BrenoSantos.md)
+      - [Bruna Akemi](Elicitacao/Personas/BrunaAkemi.md)
+      - [Fernado Copolla](Elicitacao/Personas/FernandoCopolla.md)
+      - [Galdêncio Silveira](Elicitacao/Personas/GaldencioSilveira.md)
+      - [Iracema Carvalho](Elicitacao/Personas/IracemaCarvalho.md)
+      - [João da Silva](Elicitacao/Personas/JoaoDaSilva.md)
+      - [João Pedro Cândido](Elicitacao/Personas/JoaoPedroCandido.md)
       
-  * Execução das Técnicas
-    - [Análise de documentos](TecnicasElicitacao/Execucao/AnaliseDocumentos.md)
-    - [Storytelling](TecnicasElicitacao/Execucao/Storytelling.md)
-    * Questionário
-        - [Termo de consentimento](TecnicasElicitacao/Execucao/Questionários/TermoConsentimento01.md)
-        - [Análise dos resultados]
-          
-* [Requisitos Elicitados](TecnicasElicitacao/RequisitosElicitados/RequisitosElicitados.md)
-
-* Priorização
-    * Análise das técnicas
-        - [Metodologia de análise](Priorizacao/AnaliseMetodologia.md)
-        - [Análise da Técnica do quadrante ou Três níveis](Priorizacao/tecnicaClassificacao.md)
-        - [Análise da Técnica do TQM](Priorizacao/tecnicaTQM.md)
-          
+  * Técnicas de Elicitação
+    * Análise de Elicitações
+      - [Metodologia de análise](Elicitacao/TecnicasElicitacao/AnalisesElicitacoes/AnaliseMetodologia.md)
+      - [Análise Técnica de Discurso](Elicitacao/TecnicasElicitacao/AnalisesElicitacoes/AnaliseDeDiscurso.md)
+      - [Análise Técnica de Brainstorming](Elicitacao/TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaBrainstorming.md)
+      - [Análise Técnica de Documentos](Elicitacao/TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaDocumentos.md)
+      - [Análise Técnica Entrevista](Elicitacao/TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaEntrevista.md)
+      - [Análise Técnica Entrevista em Grupo](Elicitacao/TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaEntrevistaGrupo.md)
+      - [Análise Técnica de Etnografia](Elicitacao/TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaEtnografia.md)
+      - [Análise Técnica de Questionários](Elicitacao/TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaQuestionarios.md)
+      - [Análise Técnica de Storytelling](Elicitacao/TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaStorytelling.md)
+        
     * Execução das Técnicas
-      - [Quadrante ou Três Níveis](Priorizacao/Execucao/QuadranteTresNiveis.md)
+      - [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md)
+      - [Storytelling](Elicitacao/TecnicasElicitacao/Execucao/Storytelling.md)
+      * Questionário
+          - [Termo de consentimento](Elicitacao/TecnicasElicitacao/Execucao/Questionários/TermoConsentimento01.md)
+          - [Análise dos resultados]()
+            
+  * [Requisitos Elicitados](Elicitacao/RequisitosElicitados.md)
+
+  * Priorização
+      * Análise das técnicas
+          - [Metodologia de análise](Priorizacao/AnaliseMetodologia.md)
+          - [Análise da Técnica do quadrante ou Três níveis](Priorizacao/tecnicaClassificacao.md)
+          - [Análise da Técnica do TQM](Priorizacao/tecnicaTQM.md)
+            
+      * Execução das Técnicas
+        - [Quadrante ou Três Níveis](Priorizacao/Execucao/QuadranteTresNiveis.md)
 
