@@ -33,4 +33,12 @@
   - [Técnica Classificação](Priorizacao/tecnicaClassificacao.md)
   - [Técnica TQM](Priorizacao/tecnicaTQM.md)
 * Técnicas de Elicitação
-  
+  * Análise de Elicitações
+    - [Análise Metodologia](TecnicasElicitacao/AnalisesElicitacoes/AnaliseMetodologia.md)
+    - [Análise de Discurso](TecnicasElicitacao/AnalisesElicitacoes/AnaliseDeDiscurso.md)
+    - [Análise de Discurso](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaBrainstorming.md)
+    - [Análise de Discurso](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaDocumentos.md)
+    - [Análise de Discurso](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaEntrevista.md)
+    - [Análise de Discurso](TecnicasElicitacao/AnalisesElicitacoes/AnaliseDeDiscurso.md)
+    - [Análise de Discurso](TecnicasElicitacao/AnalisesElicitacoes/AnaliseDeDiscurso.md)
+    - [Análise de Discurso](TecnicasElicitacao/AnalisesElicitacoes/AnaliseDeDiscurso.md)
