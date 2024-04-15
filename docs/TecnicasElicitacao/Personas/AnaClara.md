@@ -1,4 +1,4 @@
-# Apresentando Alain Delon
+# Apresentando Ana Clara
 
 ## Introdução
 
@@ -6,16 +6,16 @@ Está parte do projeto apresenta uma persona criada com o intuito de fazer parte
 
 ## A persona
 
-Na Figura 1, é possível observar os principais dados da persona Alain Delon:
+Na Figura 1, é possível observar os principais dados da persona Ana Clara:
 
 <center>
 
 
  **Figura 1**: Alain Delon
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/Alain%20Delon.png">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/Ana Clara.png">
 
-**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+**Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
 <center>
 
@@ -23,5 +23,4 @@ Na Figura 1, é possível observar os principais dados da persona Alain Delon:
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do Alain Delon | Larissa Stéfane | Luana Medeiros | 14/04/2024 |
-| 1.2 | Correção de erros ortográficos | Pedro Augusto | - | 15/04/2024 |
+| 1.0 | Criação da Persona | Pedro Augusto | - | 15/04/2024 |
