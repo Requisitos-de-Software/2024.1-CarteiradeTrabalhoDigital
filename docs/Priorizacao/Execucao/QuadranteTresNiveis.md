@@ -22,6 +22,7 @@ A priorização de requisitos por meio da técnica dos três(quatro) níveis, ou
 - Requisitos de Média Prioridade;
 - Requisitos de Baixa Prioridade;
 - Requisitos que Não Precisam Ser Realizados;
+
 Portanto, ocorreu uma análise cuidadosa de cada requisito, levando em consideração fatores como importância para o usuário, impacto no produto final e complexidade de implementação.
 
 ## Persona Utilizada
