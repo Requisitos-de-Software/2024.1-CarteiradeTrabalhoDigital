@@ -13,7 +13,7 @@ Na Figura 1, é possível observar os principais dados da persona João Pedro C�
 
  **Figura 1**: João Pedro Cândido
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/João Pedro Cândido.png">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling//João Pedro Cândido.png">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
