@@ -63,7 +63,7 @@ A tabela 1 apresenta as técnicas de priorização que foram estudadas pela equi
 
 **Fonte**: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-## Templete
+## Template
 
 Abaixo, no código 1, há um templete do formato que os documentos dos estudos das análises das técnicas de priorização devem ter.
 
