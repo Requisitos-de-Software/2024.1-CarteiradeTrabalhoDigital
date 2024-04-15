@@ -9,6 +9,7 @@
   - [Reunião 03](reunioes/ata03.md)
   - [Reunião 04](reunioes/ata04.md)
   - [Reunião 05](reunioes/ata05.md)
+  - [Reunião 06](reunioes/ata06.md)
 
 * Planejamento 
   - [Heatmap](planejamento/heatmap.md)
@@ -28,13 +29,15 @@
     - [Política de Privacidade](planejamento/carteiraDigital/termosApp.md)
 * Pré-Rastreabilidade
   - [Rich Picture](planejamento/rich_picture.md)
-* Priorização
-  - [Análise Metodologia](Priorizacao/AnaliseMetodologia.md)
-  - [Técnica Classificação](Priorizacao/tecnicaClassificacao.md)
-  - [Técnica TQM](Priorizacao/tecnicaTQM.md)
+
+* Perfil do Usuário
+    - [Perfil de Usuário](TecnicasElicitacao/PerfilDeUsuario.md)
+    * Personas
+        - [Alain Delon](TecnicasElicitacao/Personas/AlainDelon.md)
+    
 * Técnicas de Elicitação
   * Análise de Elicitações
-    - [Análise Metodologia](TecnicasElicitacao/AnalisesElicitacoes/AnaliseMetodologia.md)
+    - [Metodologia de análise](TecnicasElicitacao/AnalisesElicitacoes/AnaliseMetodologia.md)
     - [Análise Técnica de Discurso](TecnicasElicitacao/AnalisesElicitacoes/AnaliseDeDiscurso.md)
     - [Análise Técnica de Brainstorming](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaBrainstorming.md)
     - [Análise Técnica de Documentos](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaDocumentos.md)
@@ -43,7 +46,22 @@
     - [Análise Técnica de Etnografia](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaEtnografia.md)
     - [Análise Técnica de Questionários](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaQuestionarios.md)
     - [Análise Técnica de Storytelling](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaStorytelling.md)
-  * Execução
-    - [Técnica de Entrevista](TecnicasElicitacao/AnaliseTecnicaEntrevista.md)
-    - [Perfil de Usuário](TecnicasElicitacao/PerfilDeUsuario.md)
-    - [Priorização de Requisitos](ecnicasElicitacao/PriorizaçãoDeRequisitos.md)
+      
+  * Execução das Técnicas
+    - [Análise de documentos](TecnicasElicitacao/Execucao/AnaliseDocumentos.md)
+    - [Storytelling](TecnicasElicitacao/Execucao/Storytelling.md)
+    * Questionário
+        - [Termo de consentimento](TecnicasElicitacao/Execucao/Questionários/TermoConsentimento01.md)
+        - [Análise dos resultados]
+          
+* [Requisitos Elicitados](TecnicasElicitacao/RequisitosElicitados/RequisitosElicitados.md)
+
+* Priorização
+    * Análise das técnicas
+        - [Metodologia de análise](Priorizacao/AnaliseMetodologia.md)
+        - [Análise da Técnica do quadrante ou Três níveis](Priorizacao/tecnicaClassificacao.md)
+        - [Análise da Técnica do TQM](Priorizacao/tecnicaTQM.md)
+          
+    * Execução das Técnicas
+      - [Quadrante ou Três Níveis](Priorizacao/Execucao/QuadranteTresNiveis.md)
+
