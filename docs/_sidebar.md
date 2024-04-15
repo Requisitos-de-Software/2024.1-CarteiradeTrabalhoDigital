@@ -28,3 +28,9 @@
     - [Política de Privacidade](planejamento/carteiraDigital/termosApp.md)
 * Pré-Rastreabilidade
   - [Rich Picture](planejamento/rich_picture.md)
+* Priorização
+  - [Análise Metodologia](Priorizacao/AnaliseMetodologia.md)
+  - [Técnica Classificação](Priorizacao/tecnicaClassificacao.md)
+  - [Técnica TQM](Priorizacao/tecnicaTQM.md)
+* Técnicas de Elicitação
+  
