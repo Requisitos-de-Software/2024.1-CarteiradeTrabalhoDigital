@@ -83,6 +83,32 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
 
 <font size="3"><p style="text-align: center">Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme).</p></font>
 
+### Executado
+
+Na Tabela 4, está explicitado o cronograma executado das atividades da segunda entrega entrega.
+
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento do Projeto</p></font>
+
+| *Atividade*                       | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
+| --------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
+| Criação do termo de consentimento para questionário               | 11/04/2024 | 11/04/2024 | Larissa Stéfane             | Breno Alexandre           | 13/04/2024 | 13/04/2024 |
+| Criação do templete de analise das técnicas de elicitação                    | 11/04/2024 | 11/04/2024 | Larissa Stéfane             | Bruno Araújo            | 13/04/2024 | 13/04/2024 |
+| Criação do templete de analise das técnicas de priorização                   | 11/04/2024 | 11/04/2024 | Larissa Stéfane             | Bruno Araújo            | 13/04/2024 | 13/04/2024 |
+| Análise da técnica de priorização: Quadrante ou três níveis                  | 11/04/2024 | 11/04/2024 | Larissa Stéfane             | Bruno Araújo            | 13/04/2024 | 13/04/2024 |
+| Análise da técnica de elicitação: Storytelling                | 11/04/2024 | 11/04/2024 | Larissa Stéfane             | Bruno Araújo            | 13/04/2024 | 13/04/2024 |
+| Análise da técnica de elicitação: Questionários               | 11/04/2024 | 11/04/2024 | Larissa Stéfane             | Bruno Araújo            | 13/04/2024 | 13/04/2024 |
+| Análise da técnica de elicitação: Análise de Documentos               | 14/04/2024 | 14/04/2024 | Larissa Stéfane             |--          | 15/04/2024 | 15/04/2024 |
+| Execução da elicitação por storytelling              | 13/04/2024 | 13/04/2024 | Larissa Stéfane             | Breno Alexandre           | 14/04/2024 | 14/04/2024 |
+| Execução da elicitação por análise de documentos             | 13/04/2024 | 13/04/2024 | Larissa Stéfane             | Breno Alexandre           | 14/04/2024 | 14/04/2024 |
+| Execução da priorização por quadrante ou três níveis             | 15/04/2024 | 15/04/2024 | Larissa Stéfane             | --          | 16/04/2024 | 16/04/2024 |
+| Criação da persona Alain Delon             | 13/04/2024 | 13/04/2024 | Larissa Stéfane             | --          | 15/04/2024 | 15/04/2024 |
+
+
+
+<font size="3"><p style="text-align: center">Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme).</p></font>
+
+
+
 ## Histórico de versão
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
@@ -92,3 +118,4 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
 | 1.2    | Planejamento da entrega 2           | Larissa Stéfane | Iago Passaglia  | 01/04/2024 |
 | 1.3    | Correçao de versionamento           | Iago Passaglia  | Breno           | 02/04/2024 |
 | 1.4    | Refatoração para seguir novo padrão | Breno           | Luana           | 04/04/2024 |
+| 1.5    | Complementação da tabela de cronograma executado para a 2 entrega | Larissa Stéfane          | -           | 15/04/2024 |
