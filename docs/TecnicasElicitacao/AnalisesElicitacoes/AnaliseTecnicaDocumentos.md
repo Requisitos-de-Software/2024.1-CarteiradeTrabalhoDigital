@@ -75,4 +75,4 @@ Portanto, foi possível analisar e verificar a análise de documentos como uma t
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criaçao e elaboração do documento | Larissa Stéfane | - | 11/04/2024 |
+| 1.0 | Criaçao e elaboração do documento | Larissa Stéfane | Breno Alexandre | 11/04/2024 |
