@@ -34,6 +34,16 @@
     - [Perfil de Usuário](TecnicasElicitacao/PerfilDeUsuario.md)
     * Personas
         - [Alain Delon](TecnicasElicitacao/Personas/AlainDelon.md)
+        - [Ana Clara](TecnicasElicitacao/Personas/AnaClara.md)
+        - [Maria da Graça](TecnicasElicitacao/Personas/MariaDaGraca.md)
+        - [Angelica Lima](TecnicasElicitacao/Personas/AngelicaLima.md)
+        - [Breno Santos](TecnicasElicitacao/Personas/BrenoSantos.md)
+        - [Bruna Akemi](TecnicasElicitacao/Personas/BrunaAkemi.md)
+        - [Fernado Copolla](TecnicasElicitacao/Personas/FernandoCopolla.md)
+        - [Galdêncio Silveira](TecnicasElicitacao/Personas/GaldencioSilveira.md)
+        - [Iracem Carvalho](TecnicasElicitacao/Personas/IracemaCarvalho.md)
+        - [João da Silva](TecnicasElicitacao/Personas/JoaoDaSilva.md)
+        - [João Pedro Cândido](TecnicasElicitacao/Personas/JoaoPedroCandido.md)
     
 * Técnicas de Elicitação
   * Análise de Elicitações
