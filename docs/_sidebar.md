@@ -35,10 +35,15 @@
 * Técnicas de Elicitação
   * Análise de Elicitações
     - [Análise Metodologia](TecnicasElicitacao/AnalisesElicitacoes/AnaliseMetodologia.md)
-    - [Análise de Discurso](TecnicasElicitacao/AnalisesElicitacoes/AnaliseDeDiscurso.md)
-    - [Análise de Discurso](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaBrainstorming.md)
-    - [Análise de Discurso](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaDocumentos.md)
-    - [Análise de Discurso](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaEntrevista.md)
-    - [Análise de Discurso](TecnicasElicitacao/AnalisesElicitacoes/AnaliseDeDiscurso.md)
-    - [Análise de Discurso](TecnicasElicitacao/AnalisesElicitacoes/AnaliseDeDiscurso.md)
-    - [Análise de Discurso](TecnicasElicitacao/AnalisesElicitacoes/AnaliseDeDiscurso.md)
+    - [Análise Técnica de Discurso](TecnicasElicitacao/AnalisesElicitacoes/AnaliseDeDiscurso.md)
+    - [Análise Técnica de Brainstorming](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaBrainstorming.md)
+    - [Análise Técnica de Documentos](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaDocumentos.md)
+    - [Análise Técnica Entrevista](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaEntrevista.md)
+    - [Análise Técnica Entrevista em Grupo](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaEntrevistaGrupo.md)
+    - [Análise Técnica de Etnografia](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaEtnografia.md)
+    - [Análise Técnica de Questionários](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaQuestionarios.md)
+    - [Análise Técnica de Storytelling](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaStorytelling.md)
+  * Execução
+    - [Técnica de Entrevista](TecnicasElicitacao/Execucao/AnaliseTecnicaEntrevista.md)
+    - [Perfil de Usuário](TecnicasElicitacao/Execucao/PerfilDeUsuario.md)
+    - [Priorização de Requisitos](TecnicasElicitacao/Execucao/PriorizaçãoDeRequisitos.md)
