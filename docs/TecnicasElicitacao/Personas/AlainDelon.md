@@ -4,6 +4,8 @@
 
 Está parte do projeto apresenta uma persona criada com o intuito de fazer parte do processo e da metodologia da execução da técnica de priorização de requisitos por quadrante ou três níveis.
 
+## A persona
+
 Na imagem 1, é possível obser os principais dados da persona Alain Delon:
 
 <center>
