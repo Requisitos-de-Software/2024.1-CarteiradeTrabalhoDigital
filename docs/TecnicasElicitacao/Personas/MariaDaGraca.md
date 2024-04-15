@@ -13,7 +13,7 @@ Na Figura 1, é possível observar os principais dados da persona Maria da Graç
 
  **Figura 1**: Maria da Graça
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/Maria da Graça.png">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling//Maria da Graça.png">
 
 **Fonte:** [Pedro Izarias](https://github.com/Izarias)
 
