@@ -28,10 +28,10 @@ Conforme a figura 1, a maioria dos participantes é do gênero feminino, represe
 
 Após a análise das respostas, definiu-se o seguinte Perfil de Usuário para o aplicativo:
 
-- **Gênero:** Predominantemente feminino.
-- **Idade:** Entre 18 e 24 anos.
-- **Experiência:** Usuários experientes com aplicativos similares.
-- **Atitudes:** Tecnófilos, com uma predisposição positiva para o uso de novas tecnologias.
+- **Gênero:** Todos os gêneros.
+- **Idade:** Entre 18 e 75 anos.
+- **Experiência:** Trabalhadores em regime de CLT.
+- **Atitudes:** .
 - **Tarefas primárias:** Consultas de registros trabalhistas e atualizações de status de emprego.
 
 ## Referências Bibliográficas
@@ -42,4 +42,4 @@ Após a análise das respostas, definiu-se o seguinte Perfil de Usuário para o 
 
 | Versão | Descrição                     | Autor           | Data       |
 |--------|-------------------------------|-----------------|------------|
-| 1.0    | Documento inicial criado.     | [Seu Nome]      | 27-04-2023 |
+| 1.0    | Criação Perfil de Usuário     | Bruno Araújo      | 14/04/2024 |
