@@ -6,7 +6,7 @@
 * [Como Realizar](#Como-Realizar)
 * [Pontos Positivos](#Pontos-Positivos)
 * [Pontos Negativos](#Pontos-Negativos)
-* [Questionários e o Aplicativo](#Questionários-e-o-Aplicativo)
+* [Documentos e o Aplicativo](#Questionários-e-o-Aplicativo)
 * [Conclusão](#Conclusão)
 * [Referências](#Referências)
 * [Histórico de versão](#Histórico-de-versão)
@@ -57,7 +57,7 @@ O passo a passo para realizar a análise de documentos em elicitação pode ser 
 - **Dependência da Qualidade dos Documentos**: A eficácia da análise de documentos depende da qualidade e da integridade dos documentos analisados.
 - **Dificuldade em encontrar documentos**: Para projetos novos, não há muita documentação.
 
-## Questionários e o Aplicativo
+## Documentos e o Aplicativo
 Para o grupo, tendo como base o aplicativo Carteira de Trabalho Digital, a análise de documentos pode ser uma escolha adequada, desde que seja aplicada com cautela e que uma grande quantidade de documentação, seja encontrada. No entanto, também deve levar em consideração que há uma grande possibilidade de os documentos estarem desatualizados ou incompletos.
 
 ## Conclusão
