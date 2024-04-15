@@ -26,9 +26,16 @@ Esses campos são geralmente definidos como:
 - **Baixa prioridade (não urgente, não tão importante)**: Esses requisitos podem ser adiados sem causar grandes impactos nos resultados ou nos objetivos estabelecidos. 
 - **Não fazer esses(não urgente, não importante)**: Requisitos que podem ser evitados ou adiados indefinidamente sem prejudicar o andamento, ou a qualidade do projeto.
 
-Essa técnica é especialmente útil em situações onde recursos são limitados e é necessário tomar decisões sobre onde os alocar de forma eficiente. Isso porque a classificação em quadrantes permite uma visualização clara das prioridades e facilita a identificação de áreas que precisam de mais investimento ou atenção.
+Essa técnica é especialmente útil em situações onde recursos são limitados e é necessário tomar decisões sobre onde os alocar de forma eficiente. Isso porque a classificação em quadrantes permite uma visualização clara das prioridades e facilita a identificação de áreas que precisam de mais investimento ou atenção. É possível obser esse esquema melhor na imagem 1.
 
-**Observação: colar imagem.**
+<center>
+
+ **Imagem 1**: Apresentação dos quadrantes.
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/tresNIveis.png">
+
+  **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+</center>
 
 ## Como realizar:
 
