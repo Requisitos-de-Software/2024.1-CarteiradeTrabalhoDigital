@@ -1,5 +1,5 @@
 <center>
-  <img alt="Brasão Da República" src="assets/brasaofundo.png" width="2500">
+  <img alt="Brasão Da República" src="assets/LogoTransparente.png" width="3000">
 <center>
 <h1>Carteira de Trabalho Digital</h1>
 
