@@ -68,10 +68,10 @@
 
   * Priorização
       * Análise das técnicas
-          - [Metodologia de análise](Priorizacao/AnaliseMetodologia.md)
-          - [Análise da Técnica do quadrante ou Três níveis](Priorizacao/tecnicaClassificacao.md)
-          - [Análise da Técnica do TQM](Priorizacao/tecnicaTQM.md)
+          - [Metodologia de análise](Elicitacao/Priorizacao/AnaliseMetodologia.md)
+          - [Análise da Técnica do quadrante ou Três níveis](Elicitacao/Priorizacao/tecnicaClassificacao.md)
+          - [Análise da Técnica do TQM](Elicitacao/Priorizacao/tecnicaTQM.md)
             
       * Execução das Técnicas
-        - [Quadrante ou Três Níveis](Priorizacao/Execucao/QuadranteTresNiveis.md)
+        - [Quadrante ou Três Níveis](Elicitacao/Priorizacao/Execucao/QuadranteTresNiveis.md)
 
