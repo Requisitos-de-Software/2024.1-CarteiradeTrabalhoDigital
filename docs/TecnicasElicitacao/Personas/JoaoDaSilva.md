@@ -13,7 +13,7 @@ Na Figura 1, é possível observar os principais dados da persona João da Silva
 
  **Figura 1**: João da Silva
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/João da Silva.png">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/João da Silva.png">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
