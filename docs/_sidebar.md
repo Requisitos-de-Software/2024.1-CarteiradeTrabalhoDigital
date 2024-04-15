@@ -44,6 +44,6 @@
     - [Análise Técnica de Questionários](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaQuestionarios.md)
     - [Análise Técnica de Storytelling](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaStorytelling.md)
   * Execução
-    - [Técnica de Entrevista](TecnicasElicitacao/Execucao/AnaliseTecnicaEntrevista.md)
-    - [Perfil de Usuário](TecnicasElicitacao/Execucao/PerfilDeUsuario.md)
-    - [Priorização de Requisitos](TecnicasElicitacao/Execucao/PriorizaçãoDeRequisitos.md)
+    - [Técnica de Entrevista](TecnicasElicitacao/AnaliseTecnicaEntrevista.md)
+    - [Perfil de Usuário](TecnicasElicitacao/PerfilDeUsuario.md)
+    - [Priorização de Requisitos](TecnicasElicitacao/PriorizaçãoDeRequisitos.md)
