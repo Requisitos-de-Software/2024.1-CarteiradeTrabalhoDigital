@@ -13,54 +13,42 @@ A metodologia adotada para a aquisição de dados incluiu a aplicação de quest
 O questionário obteve um total de 27 respostas, todas em conformidade com o [termo de consentimento](./termo-consentimento-questionario.pdf). A análise das respostas sobre os usuários está apresentada nas figuras de 1 a 8.
 
 Conforme a figura 1, a maioria dos participantes tem idade entre 18-25 anos, o restante dos participantes se dividiram entre 26-35 e 46-65 anos.
-<div style="text-align: center;">
-**Figura 1 -** Questão 1.
 
-<img src="/docs/assets/pergunta1.png" alt="Figura 1" style="width: 100%; margin: auto;">
-
-<br>
-
-fonte: [Iago Passaglia](https://github.com/Paxxaglia)
-</div>
+ <center>
+   <font size="2"><p style="text-align: center">Figura 1 - Questão 1.</p></font>
+   <img alt="Questão 1" src="assets/pergunta1.png" width="600">
+   <font size="2"><p style="text-align: center">Fonte:  [Iago Passaglia](https://github.com/Paxxaglia).</p></font>
+  </center>
 
 Conforme a figura 2, pode-se perceber que 15 participantes eram do gênero masculino e 12 participantes eram do ênero feminino.
 
-<div style="text-align: center;">
-**Figura 2 -** Questão 2.
+<center>
+   <font size="2"><p style="text-align: center">Figura 2 - Questão 2.</p></font>
+   <img alt="Questão 1" src="assets/imagem2.png" width="600">
+   <font size="2"><p style="text-align: center">Fonte:  [Iago Passaglia](https://github.com/Paxxaglia).</p></font>
+  </center>
 
-<img src="/docs/assets/imagem2.png" alt="Pergunta 2" style="width: 100%; margin: auto;">
-<br>
-
-Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
-</div>
 <br>
 
 
 Conforme a figura 3, vemos que 12 usuários possuem ensino médio completo, 12 possuem ensino superior completo, 3 participantes possuem outro tipo de escolaridade e nenhum dos participantes se enquadravam em Ensino Fundamental Incompleto, Ensino Fundamental Completo ou Ensino Médio Incompleto.
 
-<div style="text-align: center;">
-**Figura 3 -** Questão 3.
-
-<img src="/docs/assets/imagem3.png" alt="Pergunta 3" style="width: 100%; margin: auto;">
-<br>
-
-Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
-</div>
+<center>
+   <font size="2"><p style="text-align: center">Figura 3 - Questão 3.</p></font>
+   <img alt="Questão 1" src="assets/imagem3.png" width="600">
+   <font size="2"><p style="text-align: center">Fonte:  [Iago Passaglia](https://github.com/Paxxaglia).</p></font>
+  </center>
 
 <br>
 
 
 De acordo com a figura 4, 1 usuário acessa o CTD diariamente, 1 usuário acessa semanalmente, 2 participantes acessam mensalmente, 11 usuários acessam raramente e 12 usuários nunca acessaram.
 
-<div style="text-align: center;">
-**Figura 4 -** Questão 6.
-
-<img src="/docs/assets/imagem5.png" alt="Pergunta 6" style="width: 100%; margin: auto;">
-<br>
-
-Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
-</div>
-
+<center>
+   <font size="2"><p style="text-align: center">Figura 4 - Questão 6.</p></font>
+   <img alt="Questão 1" src="assets/imagem5.png" width="600">
+   <font size="2"><p style="text-align: center">Fonte:  [Iago Passaglia](https://github.com/Paxxaglia).</p></font>
+  </center>
 
 <br>
 <br>
