@@ -79,6 +79,6 @@ A equipe se propõe a analisar os requisitos desse aplicativo, desde a coleta e 
 | 1.0 | Criaçao da base | Larissa Stéfane | Caio Mesquita| 25/03/2024 |
 | 1.1 | Passagem para o gitpage | Caio Mesquita | Bruno Cunha | 26/03/2024 |
 | 1.2 | Atualização do readme | Larissa Stéfane  | Caio Mesquita | 31/03/2024 |
-| 1.3 | Correçao de versionamento | Iago Passaglia | - | 02/04/2024 |
-| 2.0 | Reformulação do tema | Caio Mesquita | - | 12/04/2024 |
+| 1.3 | Correçao de versionamento | Iago Passaglia | Breno Alexandre | 02/04/2024 |
+| 1.4 | Reformulação do tema | Caio Mesquita | Breno Alexandre | 12/04/2024 |
 
