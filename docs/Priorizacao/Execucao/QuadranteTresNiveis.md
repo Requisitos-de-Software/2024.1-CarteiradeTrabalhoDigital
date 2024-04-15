@@ -26,9 +26,12 @@ Portanto, ocorreu uma análise cuidadosa de cada requisito, levando em considera
 
 ## Persona Utilizada
 Foi decidido que, para essa técnica de priorização, uma persona seria a ajuda baseada em um stakeholder. Desse modo, foi criado o Alain Delon,  por meio da ferramenta [UXPressia](https://uxpressia.com/).
-Para ver o perfil completo da persona clique aqui: Alain Delon
+
+Para ver o perfil completo da persona clique aqui: [Alain Delon](TecnicasElicitacao/Personas/AlainDelon.md)
+
 ### Histórico da Persona:
 Alain Delon nasceu na cidade de Gramado, no Rio Grande do Sul, onde cresceu cercado pela natureza da região. Graduou-se em Engenharia da Computação pelo renomado Instituto Tecnológico de Aeronáutica (ITA), onde desenvolveu uma sólida base técnica e habilidades analíticas. Após concluir a faculdade, decidiu dedicar um ano de sua vida como voluntário da Unicef, viajando pelo mundo e contribuindo para causas humanitárias. Ao retornar para o Brasil, uniu-se com sua melhor amiga para fundar uma empresa focada na análise de dados e de requisitos.
+
 ## Ajuda com a equipe:
 Como Alain Delon é um analista de dados com grande forte na resolução de problemas, ele resolveu se voluntariar para auxiliar a equipe na priorização e classificação dos requisitos. Desse modo, após a equipe ter elicitado os dados com as técnicas de [análise de documentos](TecnicasElicitacao/Execucao/AnaliseDocumentos.md), [storytelling](TecnicasElicitacao/Execucao/Storytelling.md) e questionário, uma reunião foi marcada na sala de reuniões da empresa de Alain, conforme mostrado no cronograma. Na reunião, Alain Delon auxiliou na classificação dos requisitos dentro dos quadrantes.
 
@@ -53,7 +56,7 @@ Tabela 1: Cronograma.
 
 Foram classificados aqui os requisitos que são considerados urgentes e importantes.
 
-Para ter acesso aos conjunto de todos os requisitos elicitados, clique me [Requisitos Elicitados]()
+Para ter acesso aos conjunto de todos os requisitos elicitados, clique me [Requisitos Elicitados](TecnicasElicitacao/RequisitosElicitados/RequisitosElicitados.md)
 
 ### Requisitos Funcionais:
 
@@ -140,5 +143,5 @@ Foram classificados aqui os requisitos que não são urgentes nem são important
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e execução da priorização de 3 níveis | Larissa Stéfane| -  |  14/04 |
+| 1.0 | Criação e execução da priorização de 3 níveis | Larissa Stéfane| -  |  15/04/2024 |
 
