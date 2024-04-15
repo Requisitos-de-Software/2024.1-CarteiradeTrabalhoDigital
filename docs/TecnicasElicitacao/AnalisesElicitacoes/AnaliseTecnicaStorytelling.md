@@ -6,7 +6,7 @@
 * [Como Realizar](#Como-Realizar)
 * [Pontos Positivos](#Pontos-Positivos)
 * [Pontos Negativos](#Pontos-Negativos)
-* [Questionários e o Aplicativo](#Questionários-e-o-Aplicativo)
+* [Storytelling e o Aplicativo](#Questionários-e-o-Aplicativo)
 * [Conclusão](#Conclusão)
 * [Referências](#Referências)
 * [Histórico de versão](#Histórico-de-versão)
@@ -69,7 +69,7 @@ Após essas informações serem coletadas, o passo a passo para desenvolver o st
 
 - **Dependência de Habilidades de Comunicação**: O sucesso do storytelling depende das habilidades de comunicação de quem o desenvolve.
 
-## Questionários e o Aplicativo
+## Storytelling e o Aplicativo
 
 Para a equipe, o storytelling pode oferecer uma oportunidade de se conectar emocionalmente com os casos de usuários e permite compreender as suas necessidades de forma mais holística. Além disso, essa técnica permite uma compreensão do contexto para todos e pode trazer a tona insights sobre o uso do aplicativo e os desafios enfrentados pelos usuários. No entanto, devido à sua natureza subjetiva, essa técnica requer uma abordagem crítica na análise e na interpretação dos dados obtidos.
 Portanto, enquanto o storytelling pode ser uma ferramenta interativa para a elicitação de requisitos, é necessário que a equipe complemente essa abordagem com outros métodos mais objetivos e estruturados, como questionários.
