@@ -23,5 +23,4 @@ Na Figura 1, é possível observar os principais dados da persona Fernando Copol
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do Alain Delon | Larissa Stéfane | Luana Medeiros | 14/04/2024 |
-| 1.2 | Correção de erros ortográficos | Pedro Augusto | - | 15/04/2024 |
+| 1.0 | Criação da persona | Pedro Augusto | - | 15/04/2024 |
