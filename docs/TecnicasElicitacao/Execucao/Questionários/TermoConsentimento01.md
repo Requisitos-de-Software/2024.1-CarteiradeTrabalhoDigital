@@ -111,4 +111,4 @@ Centro universitário salesiano de São Paulo
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e elaboração do documento | Larissa Stéfane Barboza Santos | - | 11/04/2024|
+| 1.0 | Criação e elaboração do documento | Larissa Stéfane Barboza Santos | Breno Alexandre | 11/04/2024|
