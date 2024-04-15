@@ -13,7 +13,7 @@ Na Figura 1, é possível observar os principais dados da persona Iracema Carval
 
  **Figura 1**: Iracema Carvalho
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/Iracema Carvalho.png">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/Iracema de Carvalho.png">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
