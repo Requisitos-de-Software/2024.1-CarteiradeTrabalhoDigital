@@ -25,11 +25,11 @@ Apresentação do documento na imagem 1:
 </center>
 
 
-**Observação:** Os quadrinhos foram criados com a utilização do site [pixton](https://www.pixton.com/welcome) como ferramenta.
+**Observação:** Os quadrinhos foram criados com a utilização do site [pixton¹](https://www.pixton.com/welcome) como ferramenta.
 
 ## Coleta de informações
 
-Como foi falado em [análise do storytelling](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaStorytelling.md), o primeiro passo para realizar essa técnica é entender o contexto e as situações em que os usuários encontraram dificuldades de uso. Por isso, um conjunto de informações foram coletadas diretamente dos [comentários do aplicativo na Google Play](https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR&gl=US).
+Como foi falado em [análise do storytelling](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaStorytelling.md), o primeiro passo para realizar essa técnica é entender o contexto e as situações em que os usuários encontraram dificuldades de uso. Por isso, um conjunto de informações foram coletadas diretamente dos [comentários do aplicativo na Google Play²](https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR&gl=US).
 
 Esses comentários de avaliação servirão como cartões de história, onde os usuários contam as experiências negativas que tiveram.
 
@@ -414,15 +414,17 @@ Conclusão do documento na imagem 32:
 
 ##  Bibliografia
 
-1. **Comentários Apple Sote**. Disponível em < https://apps.apple.com/br/app/carteira-de-trabalho-digital/id1295257499 > . Acesso em 12 de abril de 2024.
- 
-2. **Comentários Google Play**. Disponível em < https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR&gl=US > Acesso em 12 de abril de 2024.
+1. **Pixton**. Disponível em < https://www.pixton.com/welcome >. Acesso em 12 e 13 de abril de 2024.
 
-3.  **Conjuntura e análise do Mercado de trabalho**. Disponível em < https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/mercadodetrabalho/218241_bmt_73_nt_a1.pdf > Acesso em 12 de abril de 2024.
+2. **Comentários Google Play**. Disponível em < https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR&gl=US >. Acesso em 12 de abril de 2024.
 
-4. **Storytelling - Wiki**. Disponível em < https://requisitos-tinder.github.io/Tinder-2018-1/elicitacao/storytelling/ > Acesso em 12 de abril de 2024.
+3. **Comentários Apple Site**. Disponível em < https://apps.apple.com/br/app/carteira-de-trabalho-digital/id1295257499 >. Acesso em 12 de abril de 2024.
 
-5. **Pixton**. Disponível em < https://www.pixton.com/welcome >. Acesso em 12 e 13 de abril de 2024.
+4.  **Conjuntura e análise do Mercado de trabalho**. Disponível em < https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/mercadodetrabalho/218241_bmt_73_nt_a1.pdf >. Acesso em 12 de abril de 2024.
+
+5. **Storytelling - Wiki**. Disponível em < https://requisitos-tinder.github.io/Tinder-2018-1/elicitacao/storytelling/ >. Acesso em 12 de abril de 2024.
+
+
 
 ## Histórico de Versão
 
