@@ -16,8 +16,10 @@
 
 ## Introdução
 
+A priorização de requisitos é uma etapa crucial no processo de desenvolvimento de qualquer produto ou sistema. Com isso. neste documento, é apresentado a priorização de requisitos por meio de classificação em três níveis ou quadrantes, destacando a importância de cada requisito e fornecendo uma estrutura para orientar quais requisitos priorizar.
+
 ## Metodologia
-A priorização de requisitos por meio da técnica dos três(quatro) níveis, ou quadrantes, é uma forma de classificar e organizar os requisitos de um projeto com base em sua importância e viabilidade. Desse modo, baseando-se na [análise dessa técnica](Priorizacao/tecnicaClassificacao.md) a equipe se reuniu com uma persona especialista em análises de requisitos, que se voluntariou para auxiliar na avaliação e na classificação das informações coletadas. Durante essa reunião (fictícia), os requisitos previamente elicitados foram classificados em quatro níveis:
+A priorização de requisitos por meio da técnica dos três(quatro) níveis, ou quadrantes, é uma forma de classificar e organizar os requisitos de um projeto com base em sua importância e viabilidade. Desse modo, baseando-se na [análise dessa técnica](Elicitacao/Priorizacao/tecnicaClassificacao.md) a equipe se reuniu com uma persona especialista em análises de requisitos, que se voluntariou para auxiliar na avaliação e na classificação das informações coletadas. Durante essa reunião (fictícia), os requisitos previamente elicitados foram classificados em quatro níveis:
 - Requisitos de Alta Prioridade;
 - Requisitos de Média Prioridade;
 - Requisitos de Baixa Prioridade;
@@ -26,15 +28,28 @@ A priorização de requisitos por meio da técnica dos três(quatro) níveis, ou
 Portanto, ocorreu uma análise cuidadosa de cada requisito, levando em consideração fatores como importância para o usuário, impacto no produto final e complexidade de implementação.
 
 ## Persona Utilizada
-Foi decidido que, para essa técnica de priorização, uma persona seria a ajuda baseada em um stakeholder. Desse modo, foi criado o Alain Delon,  por meio da ferramenta [UXPressia](https://uxpressia.com/).
+Foi decidido que, para essa técnica de priorização, uma persona seria a ajuda baseada em um stakeholder. Desse modo, foi criado o Alain Delon Senna,  por meio da ferramenta [UXPressia](https://uxpressia.com/). A imagem 1 mostra uma foto da persona.
 
-Para ver o perfil completo da persona clique aqui: [Alain Delon](TecnicasElicitacao/Personas/AlainDelon.md)
+<center>
+  
+  **Imagem 1**: Alain Delon Senna
+  
+  <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/fotoAlain.png" width="130x;"/>
+
+  **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+  
+</center>
+
+
+
+
+Para ver o perfil completo da persona clique aqui: [Alain Delon Senna em Personas](Elicitacao/Personas/TodasPersonas.md)
 
 ### Histórico da Persona:
 Alain Delon nasceu na cidade de Gramado, no Rio Grande do Sul, onde cresceu cercado pela natureza da região. Graduou-se em Engenharia da Computação pelo renomado Instituto Tecnológico de Aeronáutica (ITA), onde desenvolveu uma sólida base técnica e habilidades analíticas. Após concluir a faculdade, decidiu dedicar um ano de sua vida como voluntário da Unicef, viajando pelo mundo e contribuindo para causas humanitárias. Ao retornar para o Brasil, uniu-se com sua melhor amiga para fundar uma empresa focada na análise de dados e de requisitos.
 
 ## Ajuda com a equipe:
-Como Alain Delon é um analista de dados com grande forte na resolução de problemas, ele resolveu se voluntariar para auxiliar a equipe na priorização e classificação dos requisitos. Desse modo, após a equipe ter elicitado os dados com as técnicas de [análise de documentos](TecnicasElicitacao/Execucao/AnaliseDocumentos.md), [storytelling](TecnicasElicitacao/Execucao/Storytelling.md) e questionário, uma reunião foi marcada na sala de reuniões da empresa de Alain, conforme mostrado no cronograma. Na reunião, Alain Delon auxiliou na classificação dos requisitos dentro dos quadrantes.
+Como Alain Delon é um analista de dados com grande forte na resolução de problemas, ele resolveu se voluntariar para auxiliar a equipe na priorização e classificação dos requisitos. Desse modo, após a equipe ter elicitado os dados com as técnicas de [análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) e [storytelling](Elicitacao/TecnicasElicitacao/Execucao/Storytelling.md), uma reunião foi marcada na sala de reuniões da empresa de Alain, conforme mostrado no cronograma. Na reunião, Alain Delon auxiliou na classificação dos requisitos dentro dos quadrantes.
 
 ## Cronograma
 A tabela 1 mostra como foi a organização do cronograma durante a realização da priorização.
@@ -57,7 +72,7 @@ Tabela 1: Cronograma.
 
 Foram classificados aqui os requisitos que são considerados urgentes e importantes.
 
-Para ter acesso aos conjunto de todos os requisitos elicitados, clique me [Requisitos Elicitados](TecnicasElicitacao/RequisitosElicitados/RequisitosElicitados.md)
+Para ter acesso aos conjunto de todos os requisitos elicitados, clique me [Requisitos Elicitados](Elicitacao/RequisitosElicitados.md)
 
 ### Requisitos Funcionais:
 
@@ -138,11 +153,16 @@ Foram classificados aqui os requisitos que não são urgentes nem são important
 
 ## Conclusão
 
+Ao adotar a abordagem que prioriza requisitos por meio de classificação em três níveis ou quadrantes, foi possível identificar os requisitos que têm o maior impacto nos usuários e na estrutura do aplicativo. 
+
 ## Bibliografia
 
+1. **Requisitos elicitados**. Disponível em < https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/Elicitacao/RequisitosElicitados.md > Acesso em 14 de abril de 2024.
+   
 ## Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação e execução da priorização de 3 níveis | Larissa Stéfane| Breno Alexandre  |  15/04/2024 |
+| 1.1 | Adição da introdução e da conlusão | Breno Alexandre | Larissa Stéfane  |  16/04/2024 |
 
