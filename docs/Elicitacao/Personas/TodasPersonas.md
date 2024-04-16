@@ -11,29 +11,27 @@ Na Figura 1, é possível observar os principais dados da persona Alain Delon:
 
 <center>
 
-
  **Figura 1**: Alain Delon
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/Alain%20Delon.png">
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-<center>
+</center>
 
 ## Persona: Ana Clara
 
 Na Figura 2, é possível observar os principais dados da persona primária Ana Clara:
 
 <center>
-
-
+   
  **Figura 2**: Ana Clara
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/Ana Clara.png">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
-<center>
+</center>
 
 ## Persona: Angélica Lima
 
@@ -41,14 +39,13 @@ Na Figura 3, é possível observar os principais dados da persona primária Ang�
 
 <center>
 
-
  **Figura 3**: Angélica Lima
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/Angélica Lima.png">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
-<center>
+</center>
 
 ## Persona: Breno Santos
 
@@ -56,14 +53,13 @@ Na Figura 4, é possível observar os principais dados da persona primária Bren
 
 <center>
 
-
  **Figura 4**: Breno Santos
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/Breno Santos.png">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
-<center>
+</center>
 
 ## Persona: Bruna Akemi
 
@@ -71,14 +67,13 @@ Na Figura 5, é possível observar os principais dados da persona primária Brun
 
 <center>
 
-
  **Figura 5**: Bruna Akemi
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/Bruna Akemi.png">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
-<center>
+</center>
 
 ## Persona: Fernando Copolla
 
@@ -86,14 +81,13 @@ Na Figura 6, é possível observar os principais dados da persona primária Fern
 
 <center>
 
-
  **Figura 6**: Fernando Copolla
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/Fernando Copolla.png">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
-<center>
+</center>
 
 ## Persona: Gaudêncio Silveira
 
@@ -101,14 +95,13 @@ Na Figura 7, é possível observar os principais dados da persona primária Gald
 
 <center>
 
-
  **Figura 7**: Gandêncio Silveira
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/Galdêncio Silveira.png">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
-<center>
+</center>
 
 ## Persona: Iracema Carvalho
 
@@ -116,14 +109,13 @@ Na Figura 8, é possível observar os principais dados da persona secundária Ir
 
 <center>
 
-
  **Figura 8**: Iracema Carvalho
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/Iracema de Carvalho.png">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
-<center>
+</center>
 
 ## Persona: João da Silva
 
@@ -131,14 +123,13 @@ Na Figura 9, é possível observar os principais dados da persona primária Joã
 
 <center>
 
-
  **Figura 9**: João da Silva
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/João da Silva.png">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
-<center>
+</center>
 
 ## Persona: João Pedro Cândido
 
@@ -146,14 +137,13 @@ Na Figura 10, é possível observar os principais dados da persona primária Jo�
 
 <center>
 
-
  **Figura 10**: João Pedro Cândido
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling//João Pedro Cândido.png">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
-<center>
+</center>
 
 ## Persona: Maria da Graça
 
@@ -161,14 +151,13 @@ Na Figura 11, é possível observar os principais dados da persona primária Mar
 
 <center>
 
-
  **Figura 11**: Maria da Graça
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling//Maria da Graça.png">
 
 **Fonte:** [Pedro Izarias](https://github.com/Izarias)
 
-<center>
+</center>
 
 ## Conclusão
 
