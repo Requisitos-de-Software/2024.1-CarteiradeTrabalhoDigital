@@ -24,11 +24,11 @@ Na Figura 1, é possível observar os principais dados da persona Alain Delon:
 Na Figura 2, é possível observar os principais dados da persona primária Ana Clara:
 
 <center>
-   
- **Figura 2** : Ana Clara
 
+ **Figura 2**: Ana Clara
+</center>
 
-
+<center>
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/Ana Clara.png">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
@@ -174,4 +174,4 @@ Em conclusão, o uso de personas na fase de levantamento de requisitos é fundam
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do Documento | Pedro Augusto | - | 15/04/2024 |
+| 1.0 | Criação do Documento | Pedro Augusto | Caio Mesquita | 15/04/2024 |
