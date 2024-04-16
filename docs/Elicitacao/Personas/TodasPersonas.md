@@ -15,9 +15,9 @@ Na Figura 1, é possível observar os principais dados da persona Alain Delon:
 
 <center>
 
- **Figura 1**: Alain Delon
+ **Figura 1**: Alain Delon Senna
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/Alain%20Delon.png">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/Alain%20Delon%20Senna.png">
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
