@@ -111,4 +111,4 @@ Consequentemente, ao compreender o conceito de priorização e a sua importânci
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criaçao e elaboração do documento | Larissa Stéfane | Bruno Araújo | 11/04/2024 |
-| 1.1 | Correção de legenda da tabela |Bruno Araújo | - | 11/04/2024 |
+| 1.1 | Correção de legenda da tabela |Bruno Araújo | Luana Medeiros | 11/04/2024 |
