@@ -13,11 +13,11 @@
 
 ##  Introdução
 
-Apresentação do documento na imagem 1:
+Apresentação do documento na figura 1:
 
 <center>
 
- **Imagem 1**: Quadrinho de introdução.
+ **figura 1**: Quadrinho de introdução.
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/quadrinhoIntroducao.png">
 
@@ -39,7 +39,7 @@ Abaixo, de acordo com as imagens 2,3,4,5,6,7,8 e 9, é possível visualizar algu
 
 <center>
 
- **Imagem 2**: Comentário 1
+ **Imagem 1**: Comentário 1
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/comentario1.png">
 
@@ -49,7 +49,7 @@ Abaixo, de acordo com as imagens 2,3,4,5,6,7,8 e 9, é possível visualizar algu
 
 <center>
 
- **Imagem 3**: Comentário 2
+ **Imagem 2**: Comentário 2
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/comentario2.png">
 
@@ -59,7 +59,7 @@ Abaixo, de acordo com as imagens 2,3,4,5,6,7,8 e 9, é possível visualizar algu
 
 <center>
 
- **Imagem 4**: Comentário 3
+ **Imagem 3**: Comentário 3
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/comentario3.png">
 
@@ -69,7 +69,7 @@ Abaixo, de acordo com as imagens 2,3,4,5,6,7,8 e 9, é possível visualizar algu
 
 <center>
 
- **Imagem 5**: Comentário 4
+ **Imagem 4**: Comentário 4
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/comentario4.png">
 
@@ -79,7 +79,7 @@ Abaixo, de acordo com as imagens 2,3,4,5,6,7,8 e 9, é possível visualizar algu
 
 <center>
 
- **Imagem 6**: Comentário 5
+ **Imagem 5**: Comentário 5
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/comentario5.png">
 
@@ -89,7 +89,7 @@ Abaixo, de acordo com as imagens 2,3,4,5,6,7,8 e 9, é possível visualizar algu
 
 <center>
 
- **Imagem 7**: Comentário 6
+ **Imagem 6**: Comentário 6
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/comentario6.png">
 
@@ -99,7 +99,7 @@ Abaixo, de acordo com as imagens 2,3,4,5,6,7,8 e 9, é possível visualizar algu
 
 <center>
 
- **Imagem 8**: Comentário 7
+ **Imagem 7**: Comentário 7
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/comentario7.png">
 
@@ -109,7 +109,7 @@ Abaixo, de acordo com as imagens 2,3,4,5,6,7,8 e 9, é possível visualizar algu
 
 <center>
 
- **Imagem 9**: Comentário 8
+ **Imagem 8**: Comentário 8
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/comentario8.png">
 
@@ -123,7 +123,7 @@ Abaixo, de acordo com as imagens 10 e 11 é possível visualizar mais alguns cas
 
 <center>
 
- **Imagem 10**: Comentário 9
+ **Imagem 9**: Comentário 9
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/comentario9.png">
 
@@ -133,7 +133,7 @@ Abaixo, de acordo com as imagens 10 e 11 é possível visualizar mais alguns cas
 
 <center>
 
- **Imagem 11**: Comentário 10
+ **Imagem 10**: Comentário 10
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/comentario10.png">
 
@@ -149,7 +149,7 @@ Assim, para manter um padrão em relação ao gênero das pessoas que estão no 
 
 Ainda em relação à  [Conjuntura e Análise do Mercado de trabalho](https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/mercadodetrabalho/218241_bmt_73_nt_a1.pdf), foi mostrado que há uma redução na chance de participar da força de trabalho, à medida que a idade aumenta. Desse modo, entre as personas utilizadas, 4 serão jovens adultos, 4 serão adultos e 2 serão idosos.
 
-Para a realização das histórias em quadrinho, muitas das personas criadas foram convertidas como personagens de cartoon para as histórias em quadrinhos a seguir. Elas estão apresentadas das tabelas 1 a 10 por meio das imagens 1 a 10, com as fotos das personas, e das figuras 12 a 21 com a representação delas em quadringos.
+Para a realização das histórias em quadrinho, muitas das personas criadas foram convertidas como personagens de cartoon para as histórias em quadrinhos a seguir. Elas estão apresentadas das tabelas 1 a 10 por meio das imagens 11 a 20, com as fotos das personas, e das figuras 2 a 11 com a representação delas em quadringos.
 
 Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresentando as personas](Elicitacao/Personas/TodasPersonas.md)
 
@@ -158,13 +158,13 @@ Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresen
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td align="center">
-                <h5 class="text-center"> Imagem 1: João Pedro Candido </h5>
+                <h5 class="text-center"> Imagem 11: João Pedro Candido </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/foto10.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Pedro Augusto  </h5>
             </a>
         </td>
         <td align="center">
-                <h5 class="text-center"> Figura 12: João Pedro em quadrinhos </h5>
+                <h5 class="text-center"> Figura 2: João Pedro em quadrinhos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/usu%C3%A1rio1.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Larissa Stéfane  </h5>
             </a>
@@ -178,13 +178,13 @@ Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresen
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td align="center">
-                <h5 class="text-center"> Imagem 2: Galdêncio Silveira </h5>
+                <h5 class="text-center"> Imagem 12: Galdêncio Silveira </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/foto7.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Pedro Augusto  </h5>
             </a>
         </td>
         <td align="center">
-                <h5 class="text-center"> Figura 13: Galdêncio Silveira em quadrinhos </h5>
+                <h5 class="text-center"> Figura 3: Galdêncio Silveira em quadrinhos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/usu%C3%A1rio2.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Larissa Stéfane  </h5>
             </a>
@@ -198,13 +198,13 @@ Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresen
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td align="center">
-                <h5 class="text-center"> Imagem 3: Angélica Lima </h5>
+                <h5 class="text-center"> Imagem 13: Angélica Lima </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/foto3.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Pedro Augusto  </h5>
             </a>
         </td>
         <td align="center">
-                <h5 class="text-center"> Figura 14: Angélica Lima em quadrinhos </h5>
+                <h5 class="text-center"> Figura 4: Angélica Lima em quadrinhos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/usu%C3%A1rio3.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Larissa Stéfane  </h5>
             </a>
@@ -218,13 +218,13 @@ Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresen
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td align="center">
-                <h5 class="text-center"> Imagem 4: João da Silva </h5>
+                <h5 class="text-center"> Imagem 14: João da Silva </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/foto9.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Pedro Augusto  </h5>
             </a>
         </td>
         <td align="center">
-                <h5 class="text-center"> Figura 15: João da Silva em quadrinhos </h5>
+                <h5 class="text-center"> Figura 5: João da Silva em quadrinhos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/usuario4.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Larissa Stéfane  </h5>
             </a>
@@ -238,13 +238,13 @@ Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresen
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td align="center">
-                <h5 class="text-center"> Imagem 5: Iracema Carvalho </h5>
+                <h5 class="text-center"> Imagem 15: Iracema Carvalho </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/foto8.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Pedro Augusto  </h5>
             </a>
         </td>
         <td align="center">
-                <h5 class="text-center"> Figura 16: Iracema Carvalho em quadrinhos </h5>
+                <h5 class="text-center"> Figura 6: Iracema Carvalho em quadrinhos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/usu%C3%A1rio5.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Larissa Stéfane  </h5>
             </a>
@@ -258,13 +258,13 @@ Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresen
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td align="center">
-                <h5 class="text-center"> Imagem 6:  Breno Santos </h5>
+                <h5 class="text-center"> Imagem 16:  Breno Santos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/foto4.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Pedro Augusto  </h5>
             </a>
         </td>
         <td align="center">
-                <h5 class="text-center"> Figura 17:  Breno Santos em quadrinhos </h5>
+                <h5 class="text-center"> Figura 7:  Breno Santos em quadrinhos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/usuario6.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Larissa Stéfane  </h5>
             </a>
@@ -278,13 +278,13 @@ Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresen
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td align="center">
-                <h5 class="text-center"> Imagem 7: Bruna Akemi </h5>
+                <h5 class="text-center"> Imagem 17: Bruna Akemi </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/foto5.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Pedro Augusto  </h5>
             </a>
         </td>
         <td align="center">
-                <h5 class="text-center"> Figura 18: Bruna Akemi em quadrinhos </h5>
+                <h5 class="text-center"> Figura 8: Bruna Akemi em quadrinhos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/usu%C3%A1rio7.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Larissa Stéfane  </h5>
             </a>
@@ -298,13 +298,13 @@ Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresen
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td align="center">
-                <h5 class="text-center"> Imagem 8: Fernando Copolla </h5>
+                <h5 class="text-center"> Imagem 18: Fernando Copolla </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/foto6.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Pedro Augusto  </h5>
             </a>
         </td>
         <td align="center">
-                <h5 class="text-center"> Figura 19: Fernando Copolla em quadrinhos </h5>
+                <h5 class="text-center"> Figura 9: Fernando Copolla em quadrinhos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/usuario8.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Larissa Stéfane  </h5>
             </a>
@@ -318,13 +318,13 @@ Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresen
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td align="center">
-                <h5 class="text-center"> Imagem 9:  Maria da Graça </h5>
+                <h5 class="text-center"> Imagem 19:  Maria da Graça </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/foto2.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Pedro Augusto  </h5>
             </a>
         </td>
         <td align="center">
-                <h5 class="text-center"> Figura 20:  Maria da Graça em quadrinhos </h5>
+                <h5 class="text-center"> Figura 10:  Maria da Graça em quadrinhos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/usu%C3%A1rio9.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Larissa Stéfane  </h5>
             </a>
@@ -344,7 +344,7 @@ Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresen
             </a>
         </td>
         <td align="center">
-                <h5 class="text-center"> Figura 21: Ana Clara em quadrinhos </h5>
+                <h5 class="text-center"> Figura 11: Ana Clara em quadrinhos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/usu%C3%A1rio10.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Larissa Stéfane  </h5>
             </a>
@@ -358,11 +358,11 @@ Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresen
 
 ### Caso 1: Quando o aplicativo é recusado por empresas.
 
-A imagem 22 mostra o caso:
+A figura 12 mostra o caso:
 
 <center>
 
- **Imagem 22**: Quadrinho 01
+ **figura 12**: Quadrinho 01
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/quadrinho1.png">
 
@@ -374,11 +374,11 @@ A imagem 22 mostra o caso:
 
 ### Caso 2: Erro para abrir o aplicativo.
 
-A imagem 23 mostra o caso:
+A figura 13 mostra o caso:
 
 <center>
 
- **Imagem 23**: Quadrinho 02
+ **figura 13**: Quadrinho 02
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/quadrinho2.png">
 
@@ -390,11 +390,11 @@ A imagem 23 mostra o caso:
 
 ### Caso 3: Informações erradas e inconsistentes. 
 
-A imagem 24 mostra o caso:
+A figura 14 mostra o caso:
 
 <center>
 
- **Imagem 24**: Quadrinho 03
+ **figura 14**: Quadrinho 03
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/quadrinho3.png">
 
@@ -405,11 +405,11 @@ A imagem 24 mostra o caso:
 
 ### Caso 4: Informações diferentes das disponibilizadas pelo site. 
 
-A imagem 25 mostra o caso:
+A figura 15 mostra o caso:
 
 <center>
 
- **Imagem 25**: Quadrinho 04
+ **figura 15**: Quadrinho 04
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/quadrinho4.png">
 
@@ -420,11 +420,11 @@ A imagem 25 mostra o caso:
 
 ### Caso 5: Dificuldade para atualizar dados e muita burocracia.
 
-A imagem 26 mostra o caso:
+A figura 16 mostra o caso:
 
 <center>
 
- **Imagem 26**: Quadrinho 05
+ **figura 16**: Quadrinho 05
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/quadrinho5.png">
 
@@ -436,11 +436,11 @@ A imagem 26 mostra o caso:
 
 ### Caso 6: Falta de informações essenciais.
 
-A imagem 27 mostra o caso:
+A figura 17 mostra o caso:
 
 <center>
 
- **Imagem 27**: Quadrinho 06
+ **figura 17**: Quadrinho 06
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/quadrinho6.png">
 
@@ -452,11 +452,11 @@ A imagem 27 mostra o caso:
 
 ### Caso 7: Problemas com a biometria ou identificação facial.
 
-A imagem 28 mostra o caso:
+A figura 18 mostra o caso:
 
 <center>
 
- **Imagem 28**: Quadrinho 07
+ **figura 18**: Quadrinho 07
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/quadrinho7.png">
 
@@ -468,11 +468,11 @@ A imagem 28 mostra o caso:
 
 ### Caso 8: Alarmes falsos ou notificações erradas.
 
-A imagem 29 mostra o caso:
+A figura 19 mostra o caso:
 
 <center>
 
- **Imagem 29**: Quadrinho 08
+ **figura 19**: Quadrinho 08
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/quadrinho8.png">
 
@@ -484,11 +484,11 @@ A imagem 29 mostra o caso:
 
 ### Caso 9: O aplicativo não está disponível para todos os tipos de sistemas operacionais.
 
-A imagem 30 mostra o caso:
+A figura 20  mostra o caso:
 
 <center>
 
- **Imagem 30**: Quadrinho 09
+ **figura 20**: Quadrinho 09
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/quadrinho9.png">
 
@@ -499,11 +499,11 @@ A imagem 30 mostra o caso:
 
 ### Caso 10: Informações e dados desatualizados.
 
-A imagem 31 mostra o caso:
+A figura 21 mostra o caso:
 
 <center>
 
- **Imagem 31**: Quadrinho 10
+ **figura 21**: Quadrinho 10
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/quadrinho10.png">
 
