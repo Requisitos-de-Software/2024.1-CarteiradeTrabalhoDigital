@@ -24,4 +24,4 @@ Na Figura 1, é possível observar os principais dados da persona Alain Delon:
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação do Alain Delon | Larissa Stéfane | Luana Medeiros | 14/04/2024 |
-| 1.2 | Correção de erros ortográficos | Pedro Augusto | - | 15/04/2024 |
+| 1.1 | Correção de erros ortográficos | Pedro Augusto | Breno Alexandre | 15/04/2024 |
