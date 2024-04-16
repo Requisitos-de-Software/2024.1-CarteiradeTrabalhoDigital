@@ -149,80 +149,210 @@ Assim, para manter um padrão em relação ao gênero das pessoas que estão no 
 
 Ainda em relação à  [Conjuntura e Análise do Mercado de trabalho](https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/mercadodetrabalho/218241_bmt_73_nt_a1.pdf), foi mostrado que há uma redução na chance de participar da força de trabalho, à medida que a idade aumenta. Desse modo, entre as personas utilizadas, 4 serão jovens adultos, 4 serão adultos e 2 serão idosos.
 
-As personas foram criadas como personagens de cartoon para as histórias. Elas estão apresentadas na tabela 1 por meio das imagens 12 a 21:
+Para a realização das histórias em quadrinho, muitas das personas criadas foram convertidas como personagens de cartoon para as histórias em quadrinhos a seguir. Elas estão apresentadas das tabelas 1 a 10 por meio das imagens 1 a 10, com as fotos das personas, e das figuras 12 a 21 com a representação delas em quadringos.
 
-**Tabela 1**: Apresentando as personas utilizadas
+Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresentando as personas]()
+
+**Tabela 1**: Apresentando a persona João Pedro Cândido.
 
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td align="center">
-                <h5 class="text-center"> Imagem 12: Usuário 1: Jovem 1 </h5>
+                <h5 class="text-center"> Imagem 1: João Pedro Candido </h5>
+                <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/foto10.png" width="160px;"/>
+                <h5 class="text-center"> Fonte: Pedro Augusto  </h5>
+            </a>
+        </td>
+        <td align="center">
+                <h5 class="text-center"> Figura 12: João Pedro em quadrinhos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/usu%C3%A1rio1.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Larissa Stéfane  </h5>
             </a>
         </td>
+</table>
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+**Tabela 2**: Apresentando a persona Galdêncio Silveira.
+
+<table style="margin-left: auto; margin-right: auto;">
+    <tr>
         <td align="center">
-                <h5 class="text-center"> Imagem 13: Usuário 2: Idoso 1 </h5>
+                <h5 class="text-center"> Imagem 2: Galdêncio Silveira </h5>
+                <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/foto7.png" width="160px;"/>
+                <h5 class="text-center"> Fonte: Pedro Augusto  </h5>
+            </a>
+        </td>
+        <td align="center">
+                <h5 class="text-center"> Figura 13: Galdêncio Silveira em quadrinhos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/usu%C3%A1rio2.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Larissa Stéfane  </h5>
             </a>
         </td>
+</table>
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+**Tabela 3**: Apresentando a persona Angélica Lima.
+
+<table style="margin-left: auto; margin-right: auto;">
+    <tr>
         <td align="center">
-                <h5 class="text-center"> Imagem 14: Usuário 3: Mulher 1 </h5>
+                <h5 class="text-center"> Imagem 3: Angélica Lima </h5>
+                <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/foto3.png" width="160px;"/>
+                <h5 class="text-center"> Fonte: Pedro Augusto  </h5>
+            </a>
+        </td>
+        <td align="center">
+                <h5 class="text-center"> Figura 14: Angélica Lima em quadrinhos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/usu%C3%A1rio3.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Larissa Stéfane  </h5>
             </a>
         </td>
-         <td align="center">
-                <h5 class="text-center"> Imagem 15: Usuário 4: Homem 1 </h5>
+</table>
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+**Tabela 4**: Apresentando a persona João da Silva.
+
+<table style="margin-left: auto; margin-right: auto;">
+    <tr>
+        <td align="center">
+                <h5 class="text-center"> Imagem 4: João da Silva </h5>
+                <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/foto9.png" width="160px;"/>
+                <h5 class="text-center"> Fonte: Pedro Augusto  </h5>
+            </a>
+        </td>
+        <td align="center">
+                <h5 class="text-center"> Figura 15: João da Silva em quadrinhos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/usuario4.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Larissa Stéfane  </h5>
             </a>
         </td>
-      <td align="center">
-                <h5 class="text-center"> Imagem 16: Usuário 5: Idosa 1 </h5>
+</table>
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+**Tabela 5**: Apresentando a persona Iracema Carvalho.
+
+<table style="margin-left: auto; margin-right: auto;">
+    <tr>
+        <td align="center">
+                <h5 class="text-center"> Imagem 5: Iracema Carvalho </h5>
+                <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/foto8.png" width="160px;"/>
+                <h5 class="text-center"> Fonte: Pedro Augusto  </h5>
+            </a>
+        </td>
+        <td align="center">
+                <h5 class="text-center"> Figura 16: Iracema Carvalho em quadrinhos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/usu%C3%A1rio5.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Larissa Stéfane  </h5>
             </a>
         </td>
 </table>
 
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme) 
+
+**Tabela 6**: Apresentando a persona  Breno Santos.
+
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td align="center">
-                <h5 class="text-center"> Imagem 17: Usuário 6: Jovem 2 </h5>
+                <h5 class="text-center"> Imagem 6:  Breno Santos </h5>
+                <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/foto4.png" width="160px;"/>
+                <h5 class="text-center"> Fonte: Pedro Augusto  </h5>
+            </a>
+        </td>
+        <td align="center">
+                <h5 class="text-center"> Figura 17:  Breno Santos em quadrinhos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/usuario6.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Larissa Stéfane  </h5>
             </a>
         </td>
+</table>
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+**Tabela 7**: Apresentando a persona Bruna Akemi.
+
+<table style="margin-left: auto; margin-right: auto;">
+    <tr>
         <td align="center">
-                <h5 class="text-center"> Imagem 18: Usuário 7: Jovem 3 </h5>
+                <h5 class="text-center"> Imagem 7: Bruna Akemi </h5>
+                <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/foto5.png" width="160px;"/>
+                <h5 class="text-center"> Fonte: Pedro Augusto  </h5>
+            </a>
+        </td>
+        <td align="center">
+                <h5 class="text-center"> Figura 18: Bruna Akemi em quadrinhos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/usu%C3%A1rio7.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Larissa Stéfane  </h5>
             </a>
         </td>
+</table>
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+**Tabela 8**: Apresentando a persona Fernando Copolla.
+
+<table style="margin-left: auto; margin-right: auto;">
+    <tr>
         <td align="center">
-                <h5 class="text-center"> Imagem 19: Usuário 8: Homem 2 </h5>
+                <h5 class="text-center"> Imagem 8: Fernando Copolla </h5>
+                <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/foto6.png" width="160px;"/>
+                <h5 class="text-center"> Fonte: Pedro Augusto  </h5>
+            </a>
+        </td>
+        <td align="center">
+                <h5 class="text-center"> Figura 19: Fernando Copolla em quadrinhos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/usuario8.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Larissa Stéfane  </h5>
             </a>
         </td>
-         <td align="center">
-                <h5 class="text-center"> Imagem 20: Usuário 9: Mulher 2 </h5>
+</table>
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+**Tabela 9**: Apresentando a persona  Maria da Graça.
+
+<table style="margin-left: auto; margin-right: auto;">
+    <tr>
+        <td align="center">
+                <h5 class="text-center"> Imagem 9:  Maria da Graça </h5>
+                <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/foto2.png" width="160px;"/>
+                <h5 class="text-center"> Fonte: Pedro Augusto  </h5>
+            </a>
+        </td>
+        <td align="center">
+                <h5 class="text-center"> Figura 20:  Maria da Graça em quadrinhos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/usu%C3%A1rio9.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Larissa Stéfane  </h5>
             </a>
         </td>
+</table>
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+**Tabela 10**: Apresentando a persona Ana Clara.
+
+<table style="margin-left: auto; margin-right: auto;">
+    <tr>
         <td align="center">
-                <h5 class="text-center"> Imagem 21: Usuário 10: Jovem 4 </h5>
+                <h5 class="text-center"> Imagem 10: Ana Clara </h5>
+                <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/foto1.png" width="160px;"/>
+                <h5 class="text-center"> Fonte: Pedro Augusto  </h5>
+            </a>
+        </td>
+        <td align="center">
+                <h5 class="text-center"> Figura 21: Ana Clara em quadrinhos </h5>
                 <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/usu%C3%A1rio10.png" width="160px;"/>
                 <h5 class="text-center"> Fonte: Larissa Stéfane  </h5>
             </a>
         </td>
-      
 </table>
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
 
 ## Histórias em quadrinhos
 
