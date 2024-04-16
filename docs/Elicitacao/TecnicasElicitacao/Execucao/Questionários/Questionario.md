@@ -19,6 +19,8 @@ Prossegue a análise dos dados que o grupo coletou por meio de um questionário 
 preenchido pelos participantes.
 O questionário obteve 35 respostas no período em que ficou disponível (entre 14/04/23 e 15/04/23) e apresentava 16 perguntas.
 
+<details>
+  <summary> ### Perguntas </summary>
 <center>
 <font size="2"><p style="text-align: center"> Figura 1: Pergunta nº 1. </p></font>
 <img alt="pergunta 1" src="assets/imagens_questionario/pergunta1_questionario.jpeg" width="600">
@@ -140,7 +142,7 @@ Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
 
 Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
  
- </center>
+</center>
 
 <center>
 <font size="2"><p style="text-align: center"> Figura 16: Pergunta nº 16. </p></font>
@@ -151,6 +153,25 @@ Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
 
 Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
 </center>
+</details>
+
+## Requisitos Elicitados
+
+Nas Tabelas 1 e 2 estão disponibilizados os requisitos funcionais e não funcionais elicitados por meio do questionário realizado com os usuários do aplicativo. Esses requisitos foram coletados e categorizados para melhor compreensão e análise dos envolvidos no projeto. Através desse resultado, será possível realizar a priorização de requisitos do aplicativo.
+
+Legenda:
+
+- RFx: Requisito Funcional nºx
+- RNFx: Requisito Não-Funcional nºx
+- Qx: Requisito nºx elicitado pelo questionário
+
+### Requisitos Funcionais
+
+<font size="2"><p style="text-align: center"> Figura 16: Pergunta nº 16. </p></font>
+
+| Identificação do Requisito | Requisito | Técnica de Elicitação | Implementação |
+|-----------------------------|-----------|-----------------------|---------------|
+| F1                          | Apresentar dados pessoais com orientações e links para correção | Análise de documentos | Sim |
 
  ## Histórico de versões:
  
