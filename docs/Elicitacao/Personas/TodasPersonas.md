@@ -9,7 +9,7 @@ Está parte do projeto apresenta as personas criadas com o intuito de fazer part
 
 Na Figura 1, é possível observar os principais dados da persona Alain Delon:
 
-<div style="text-align: center;">
+<center>
 
  **Figura 1**: Alain Delon
 
@@ -17,7 +17,7 @@ Na Figura 1, é possível observar os principais dados da persona Alain Delon:
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-</div>
+</center>
 
 ## Persona: Ana Clara
 
