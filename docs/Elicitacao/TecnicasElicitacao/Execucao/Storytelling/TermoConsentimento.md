@@ -7,17 +7,25 @@
 
 * [Introdução](#Introdução)
 
+* [Termo de Consentimento](#Termo-de-Consentimento)
+
 * [Apresentação](#Apresentação)
 
 * [Delineamento](#Delineamento)
 
 * [Riscos e Benefícios](#Riscos-e-Benefícios)
 
-* [Direitos](#Direitos)
+* [Término do Tratamento dos Dados](#Término-do-Tratamento-dos-Dados)
+
+* [Direitos do Titular](#Direitos-do-Titular)
 
 * [Contato e esclarecimentos](#Contato-e-esclarecimentos)
 
 * [Consentimento](#Consentimento)
+
+* [Direito de Revogação do Consentimento](Direito-de-Revogação-do-Consentimento)
+
+* [Considerações](Considerações)
 
 * [Conclusão](#Conclusão)
 
@@ -29,9 +37,9 @@
 
 Este documento tem como intuito apresentar o Termo de Consentimento para os usuários que se voluntariarem a participar da entrevista de storytelling realizada pela equipe. Essa entrevista por storytelling visa elicitar requisitos do aplicativo Carteira de Trabalho Digital por meio das necessidades apresentadas pelos usuários e mostrar quais expectativas sobre o aplicativo.
 
-## Termo de Consentimento para Tratamento de Dados
+## Termo de Consentimento
 
-Este documento visa registrar a manifestação livre, informada e inequívoca pela qual o Titular (ou seu Representante Legal) concorda com o tratamento de seus dados pessoais para finalidade específica, em conformidade com a Lei nº 13.709 – Lei Geral de Proteção de Dados Pessoais (LGPD).
+Este documento visa registrar a manifestação livre, informada e inequívoca pela qual o Titular (ou seu Representante Legal) concorda com o tratamento de seus dados pessoais para finalidade específica.
 
 ## Apresentação
 
@@ -54,7 +62,7 @@ A equipe 2 poderá manter e tratar os dados pessoais do Titular durante todo o p
 
 O Titular poderá solicitar via e-mail ou correspondência ao Controlador, a qualquer momento, que sejam eliminados os dados pessoais não anonimizados do Titular. O Titular fica ciente de que poderá ser inviável ao Controlador continuar o fornecimento de  produtos ou serviços ao Titular a partir da eliminação dos dados pessoais.
 
-## Direitos
+## Direitos do Titular
 
 O Titular dos dados tem direito a confirmação da existência de tratamento, acesso, correção de informações imprecisas, anonimização, portabilidade para outro provedor, eliminação de dados desnecessários, informação sobre compartilhamento, a opção de recusar consentimento e suas consequências, bem como a revogação do consentimento concedido. 
 
@@ -72,7 +80,7 @@ Ao avançar na pesquisa, você está declarando ter lido este documento, compree
 
 ## Direito de Revogação do Consentimento
 
-Por fim, ressalta-se que o Titular tem o direito de desistir de sua participação a qualquer momento, sem sofrer qualquer repercussão adversa, podendo ser revogado pelo próprio participante, a qualquer momento, mediante solicitação via e-mail ou correspondência ao Controlador.
+Por fim, ressalta-se que o Entrevistado tem o direito de desistir de sua participação a qualquer momento, sem sofrer qualquer repercussão adversa, podendo ser revogado pelo próprio participante, a qualquer momento, mediante solicitação via e-mail ou correspondência ao Controlador.
 
 ## Considerações
 
