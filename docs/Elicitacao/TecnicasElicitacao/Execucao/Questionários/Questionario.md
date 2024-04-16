@@ -139,7 +139,8 @@ Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
 <font size="2"><p style="text-align: center"> 
 
 Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
-</center>
+ 
+ </center>
 
 <center>
 <font size="2"><p style="text-align: center"> Figura 16: Pergunta nº 16. </p></font>
