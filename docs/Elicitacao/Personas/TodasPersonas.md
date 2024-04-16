@@ -25,7 +25,7 @@ Na Figura 2, é possível observar os principais dados da persona primária Ana 
 
 <center>
    
- **Figura 2**: Ana Clara
+ **Figura 2** : Ana Clara
 
 
 
