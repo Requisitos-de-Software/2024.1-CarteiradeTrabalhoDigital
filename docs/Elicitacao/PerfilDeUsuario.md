@@ -95,4 +95,4 @@ Após a análise das respostas, definiu-se o seguinte Perfil de Usuário para o 
 | Versão | Descrição                     | Autor           | Data       |
 |--------|-------------------------------|-----------------|------------|
 | 1.0    | Criação do documento, introdução e metodologia | Bruno Araújo  | Iago Passaglia | 14/04/2024 |
-| 1.1    | Análise do questionário e definição do perfil de usuário   | Iago Passaglia | - | 14/04/2024 |
+| 1.1    | Análise do questionário e definição do perfil de usuário   | Iago Passaglia | Bruno Araújo | 14/04/2024 |
