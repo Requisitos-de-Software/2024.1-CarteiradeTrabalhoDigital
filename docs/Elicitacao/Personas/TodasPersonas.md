@@ -3,7 +3,7 @@
 
 ## Introdução
 
-Está parte do projeto apresenta as personas criadas com o intuito de fazer parte do processo e da metodologia da execução da técnica de priorização de requisitos por quadrante ou três níveis, assim como a técnica de storytelling. As personas podem ser do tipo primária, secundária e anti-persona, sendo cada uma dessas classificações, importantes para as nuances de cada técnica.
+Está parte do projeto apresenta as personas criadas com o intuito de fazer parte do processo e da metodologia da execução da técnica de priorização de requisitos por quadrante ou três níveis, assim como a técnica de storytelling. As personas podem ser do tipo primária, secundária e anti-persona, sendo cada uma dessas classificações, importantes para as nuances de cada técnica. Também se prezou pela pluralidade e diversidade na escolha das personas, sendo em idade, gênero e raça.
 
 ## Persona: Alain Delon
 
@@ -173,6 +173,8 @@ Na Figura 11, é possível observar os principais dados da persona Maria da Gra�
 ## Conclusão
 
 Em conclusão, o uso de personas na fase de levantamento de requisitos é fundamental para o sucesso de um projeto de desenvolvimento de software. As personas oferecem uma representação vívida e focada dos usuários finais, permitindo que os analistas e designers entendam melhor suas necessidades, objetivos e desafios.
+
+## Conclusão
 
 ## Histórico de Versão
 
