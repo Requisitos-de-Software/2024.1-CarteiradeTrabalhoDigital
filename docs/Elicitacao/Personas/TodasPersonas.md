@@ -7,7 +7,7 @@ Está parte do projeto apresenta as personas criadas com o intuito de fazer part
 
 ## Metodologia
 
-As personas foram desenvolvidas com base nos perfis de usuário criados. No total, há 11 personas no conjunto, sendo 10 principais e 1 secundária. Esse número foi selecionado porque está dentro da faixa recomendada por Cooper e Baxter (entre 3 e 12 personas) e oferece uma diversidade adequada para facilitar as metodologias subsequentes, permitindo explorar uma ampla gama de requisitos distintos.
+As personas foram desenvolvidas com base nos [perfis de usuário](docs/Elicitacao/PerfilDeUsuario.md) criados. No total, há 11 personas no conjunto, sendo 10 principais e 1 secundária. Esse número foi selecionado porque está dentro da faixa recomendada por Cooper e Baxter (entre 3 e 12 personas) e oferece uma diversidade adequada para facilitar as metodologias subsequentes, permitindo explorar uma ampla gama de requisitos distintos.
 
 ## Persona: Alain Delon
 
