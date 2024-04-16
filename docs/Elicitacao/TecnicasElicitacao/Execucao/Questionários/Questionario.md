@@ -17,8 +17,7 @@ Digital (CTD).
 
 Prossegue a análise dos dados que o grupo coletou por meio de um questionário online, e nele foi apresentado um [termo de consentimento](./TermoConsentimento01.md) que 
 preenchido pelos participantes.
-O questionário obteve 35 respostas no período em que ficou disponível (entre 14/04/23 e 15/04/23) e apresentava 16 perguntas, divididas em dois fluxos, 
-a depender da resposta da pergunta 6: um fluxo de pessoas que nunca utilizaram o aplicativo e outro fluxo de quem já o utilizou.
+O questionário obteve 35 respostas no período em que ficou disponível (entre 14/04/23 e 15/04/23) e apresentava 16 perguntas.
 
 <center>
 <font size="2"><p style="text-align: center">Figura 1: Pergunta nº 12 do questionário.</p></font>
