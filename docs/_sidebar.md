@@ -53,6 +53,8 @@
       * Questionário
           - [Termo de consentimento](Elicitacao/TecnicasElicitacao/Execucao/Questionários/TermoConsentimento01.md)
           - [Análise dos resultados](Elicitacao/TecnicasElicitacao/Execucao/Questionários/Questionario.md)
+      * Storytelling
+          - [Termo de consentimento](Elicitacao/TecnicasElicitacao/Execucao/Storytelling/TermoConsentimento.md)
             
   * [Requisitos Elicitados](Elicitacao/RequisitosElicitados.md)
 
