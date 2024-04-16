@@ -27,7 +27,6 @@ Na Figura 2, é possível observar os principais dados da persona primária Ana 
    
  **Figura 2**: Ana Clara
 
-
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/Ana Clara.png">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
