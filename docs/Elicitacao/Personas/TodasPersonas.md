@@ -174,8 +174,11 @@ Na Figura 11, é possível observar os principais dados da persona Maria da Gra�
 
 Em conclusão, o uso de personas na fase de levantamento de requisitos é fundamental para o sucesso de um projeto de desenvolvimento de software. As personas oferecem uma representação vívida e focada dos usuários finais, permitindo que os analistas e designers entendam melhor suas necessidades, objetivos e desafios.
 
-## Conclusão
+##  Bibliografia
 
+1. **Personas**. Disponível em <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-personas > Acesso em 15 de abril de 2024.
+2. **Personas**. Disponível em <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-personas > Acesso em 15 de abril de 2024.
+   
 ## Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
