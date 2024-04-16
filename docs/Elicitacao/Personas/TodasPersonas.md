@@ -9,13 +9,15 @@ Está parte do projeto apresenta as personas criadas com o intuito de fazer part
 
 Na Figura 1, é possível observar os principais dados da persona Alain Delon:
 
+<div style="text-align: center;">
 
- <center>**Figura 1**: Alain Delon</center>
+ **Figura 1**: Alain Delon
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling/Alain%20Delon.png">
 
-<center>**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)</center>
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+</div>
 
 ## Persona: Ana Clara
 
