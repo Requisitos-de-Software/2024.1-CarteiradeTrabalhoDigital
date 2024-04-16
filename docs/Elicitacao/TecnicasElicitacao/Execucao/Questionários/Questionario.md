@@ -20,7 +20,7 @@ preenchido pelos participantes.
 O questionário obteve 35 respostas no período em que ficou disponível (entre 14/04/23 e 15/04/23) e apresentava 16 perguntas.
 
 <details>
-  <summary> ### Perguntas </summary>
+  <summary><b> Perguntas </b></summary>
 <center>
 <font size="2"><p style="text-align: center"> Figura 1: Pergunta nº 1. </p></font>
 <img alt="pergunta 1" src="assets/imagens_questionario/pergunta1_questionario.jpeg" width="600">
@@ -157,24 +157,48 @@ Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
 
 ## Requisitos Elicitados
 
-Nas Tabelas 1 e 2 estão disponibilizados os requisitos funcionais e não funcionais elicitados por meio do questionário realizado com os usuários do aplicativo. Esses requisitos foram coletados e categorizados para melhor compreensão e análise dos envolvidos no projeto. Através desse resultado, será possível realizar a priorização de requisitos do aplicativo.
+Por meio do questionário foram elicitados requisitos funcionais e não funcionais. Estes requisitos serão utilizados para realizar a priorização de requisitos do aplicativo do CTD. 
+Segue nas tabelas 1 e 2 os requisitos funcionais e não funcionais respectivamente.
 
 Legenda:
-
-- RFx: Requisito Funcional nºx
-- RNFx: Requisito Não-Funcional nºx
+- Fx: Requisito Funcional nºx
+- NFx: Requisito Não-Funcional nºx
 - Qx: Requisito nºx elicitado pelo questionário
 
-### Requisitos Funcionais
+<details>
+  <summary><b> Requisitos Funcionais </b></summary>
+<center>
 
-<font size="2"><p style="text-align: center"> Figura 16: Pergunta nº 16. </p></font>
+<font size="2"><p style="text-align: center"> Tabela 1: Requisitos funcionais. </p></font>
 
-| Identificação do Requisito | Requisito | Técnica de Elicitação | Implementação |
-|-----------------------------|-----------|-----------------------|---------------|
-| F1                          | Apresentar dados pessoais com orientações e links para correção | Análise de documentos | Sim |
+| ID | Requisito                                                       | Questão | Implementação |
+| -- | --------------------------------------------------------------- | ------- | ------------- |
+| F1 |  | Q1 | Sim |
+
+<font size="2"><p style="text-align: center">
+Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
+</center>
+</details>
+
+
+<details>
+  <summary><b> Requisitos Não Funcionais </b></summary>
+<center>
+
+<font size="2"><p style="text-align: center"> Tabela 2: Requisitos não funcionais. </p></font>
+
+| ID  | Requisito                                                       | Questão | Implementação |
+| --- | --------------------------------------------------------------- | ------- | ------------- |
+| NF1 |  | Q1 | Sim |
+
+<font size="2"><p style="text-align: center">
+Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
+</center>
+</details>
+
 
  ## Histórico de versões:
- 
+
 | Versão | Alteração            | Responsável     | Revisor         | Data       |
 | ------ | -------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do documento | Breno Alexandre | Caio Mesquita| 16/04/2024 |
+| 1.0    | Criação do documento | Breno Alexandre | Caio Mesquita   | 16/04/2024 |
