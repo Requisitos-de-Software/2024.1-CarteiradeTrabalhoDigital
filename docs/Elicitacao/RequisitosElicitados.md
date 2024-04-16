@@ -113,4 +113,4 @@ Ao longo deste documento, foram apresentados os requisitos elicitados do aplicat
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e execução do requisitos elicitados | Larissa Stéfane | - |  14/04/2024 |
+| 1.0 | Criação e execução do requisitos elicitados | Larissa Stéfane | Breno Alexandre |  14/04/2024 |
