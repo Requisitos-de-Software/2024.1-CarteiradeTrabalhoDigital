@@ -76,7 +76,7 @@
 | 1.2    | Adição app GIMP e OPenreads| Larissa Stéfane | Larissa Stéfane | 28/03/2024 |
 | 1.3    | Adição app Signal          | Breno Alexandre |  Larissa Stéfane | 28/03/2024 |
 | 1.4    | Correção de erro em links  | Caio Mesquita   | Bruno Araújo     | 01/04/2024 |
-| 1.5    | Correção de versionamento  | Iago Passaglia | - | 02/04/2024 |
+| 1.5    | Correção de versionamento  | Iago Passaglia | Luana Medeiros | 02/04/2024 |
 
 
 

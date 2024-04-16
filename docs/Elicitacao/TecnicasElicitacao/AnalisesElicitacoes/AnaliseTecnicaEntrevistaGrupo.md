@@ -51,4 +51,4 @@ As entrevistas em grupo são uma ferramenta valiosa para a elicitação de requi
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criaçao e elaboração do documento |Bruno Araújo | -| 14/04/2024 |
+| 1.0 | Criaçao e elaboração do documento |Bruno Araújo | Luana Medeiros | 14/04/2024 |

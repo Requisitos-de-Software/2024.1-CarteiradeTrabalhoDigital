@@ -144,5 +144,5 @@ Foram classificados aqui os requisitos que não são urgentes nem são important
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e execução da priorização de 3 níveis | Larissa Stéfane| -  |  15/04/2024 |
+| 1.0 | Criação e execução da priorização de 3 níveis | Larissa Stéfane| Breno Alexandre  |  15/04/2024 |
 

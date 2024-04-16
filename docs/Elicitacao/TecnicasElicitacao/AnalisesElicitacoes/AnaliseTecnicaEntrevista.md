@@ -64,4 +64,4 @@ As entrevistas são uma ferramenta poderosa para a elicitação de requisitos, p
 ## Histórico de versão
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e elaboração do documento | Bruno Araújo | - | 13/04/2024 |
+| 1.0 | Criação e elaboração do documento | Bruno Araújo | Luana Medeiros | 13/04/2024 |
