@@ -5,6 +5,10 @@
 
 Está parte do projeto apresenta as personas criadas com o intuito de fazer parte do processo e da metodologia da execução da técnica de priorização de requisitos por quadrante ou três níveis, assim como a técnica de storytelling. As personas podem ser do tipo primária, secundária e anti-persona, sendo cada uma dessas classificações, importantes para as nuances de cada técnica. Também se prezou pela pluralidade e diversidade na escolha das personas, sendo em idade, gênero e raça.
 
+## Metodologia
+
+As personas foram desenvolvidas com base nos [perfis de usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/PerfilDeUsuario) criados. No total, há 11 personas no conjunto, sendo 10 principais e 1 secundária. Esse número foi selecionado porque está dentro da faixa recomendada por Cooper e Baxter (entre 3 e 12 personas) e oferece uma diversidade adequada para facilitar as metodologias subsequentes, permitindo explorar uma ampla gama de requisitos distintos.
+
 ## Persona: Alain Delon
 
 Na Figura 1, é possível observar os principais dados da persona Alain Delon:
