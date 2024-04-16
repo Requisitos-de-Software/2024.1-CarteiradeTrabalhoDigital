@@ -103,6 +103,18 @@ O questionário obteve 35 respostas no período em que ficou disponível (entre 
 <font size="2"><p style="text-align: center"> Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
 </center>
 
+<center>
+<font size="2"><p style="text-align: center"> Figura 15: Pergunta nº 15. </p></font>
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagens_questionario/pergunta15_questionario.jpeg">
+<font size="2"><p style="text-align: center"> Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
+</center>
+
+<center>
+<font size="2"><p style="text-align: center"> Figura 16: Pergunta nº 16. </p></font>
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagens_questionario/pergunta16_questionario.jpeg">
+<font size="2"><p style="text-align: center"> Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
+</center>
+
  ## Histórico de versões:
  
 | Versão | Alteração            | Responsável     | Revisor         | Data       |
