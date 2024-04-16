@@ -86,15 +86,15 @@ Na Tabela 4, está explicitado o cronograma executado das atividades da segunda 
 | Definir técnicas de elicitação que serão usadas| 11/04/2024 | 11/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 11/04/2024 - 11/04/2024 |
 | Aplicação de 4 técnicas de elicitação escolhidas    | 14/04/2024 | 14/04/2024 | Breno e Larissa | A definir   | 14/04/2024 - 16/04/2024 |
 | Aplicação de 3 técnicas de priorização escolhidas   | 14/04/2024 | 14/04/2024 | Caio e Larissa  | A definir   | 14/04/2024 - 16/04/2024 |
-| Definição e criação de personas                     | 14/04/2024 | 15/04/2024 | Larissa Stéfane | A definir   | 15/04/2024 - 15/04/2024 |
-| Estudo sobre as técnicas de priorização             | 11/04/2024 | 14/04/2024 | Larissa Stéfane | A definir   | 12/04/2024 - 14/04/2024 |
+| Definição e criação de personas                     | 14/04/2024 | 15/04/2024 | Pedro e Larissa | A definir   | 15/04/2024 - 15/04/2024 |
+| Estudo sobre as técnicas de priorização             | 11/04/2024 | 14/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 12/04/2024 - 14/04/2024 |
 | Definir técnicas de priorização que serão usadas    | 14/04/2024 | 14/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 14/04/2024 - 16/04/2024 |
 | Descrever a participação do cliente e/ou persona no processo de priorização | 14/04/2024 | 16/04/2024 | Caio e Larissa | A definir   | 16/04/2024 - 16/04/2024 |
 | Ajustes finais da entrega 2                         | 16/04/2024 | 17/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 16/04/2024 - 16/04/2024 |
 
 
 
-<font size="3"><p style="text-align: center">Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
 
 
