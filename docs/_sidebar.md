@@ -32,8 +32,7 @@
 
 * Elicitação
   - [Perfil de Usuário](Elicitacao/PerfilDeUsuario.md)
-  * Personas
-      - [Todas as Personas](Elicitacao/Personas/TodasPersonas.md)
+  - [Personas](Elicitacao/Personas/TodasPersonas.md)
       
   * Técnicas de Elicitação
     * Análise de Elicitações
@@ -50,9 +49,10 @@
     * Execução das Técnicas
       - [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md)
       - [Storytelling](Elicitacao/TecnicasElicitacao/Execucao/Storytelling.md)
+      - [Introspecção](Elicitacao/TecnicasElicitacao/Execucao/Introspeccao.md)
       * Questionário
           - [Termo de consentimento](Elicitacao/TecnicasElicitacao/Execucao/Questionários/TermoConsentimento01.md)
-          - [Análise dos resultados](Elicitacao/TecnicasElicitacao/Execucao/Questionários/ResultadoQuestionarios.md)
+          - [Análise dos resultados](Elicitacao/TecnicasElicitacao/Execucao/Questionários/Questionario.md)
             
   * [Requisitos Elicitados](Elicitacao/RequisitosElicitados.md)
 
@@ -64,4 +64,6 @@
             
       * Execução das Técnicas
         - [Quadrante ou Três Níveis](Elicitacao/Priorizacao/Execucao/QuadranteTresNiveis.md)
+        - [First Things First](Elicitacao/Priorizacao/Execucao/FirstThingsFirst.md)
+        - [MoSCoW](Elicitacao/Priorizacao/Execucao/MoSCoW.md)
 
