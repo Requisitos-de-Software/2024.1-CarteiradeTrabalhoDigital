@@ -20,14 +20,91 @@ preenchido pelos participantes.
 O questionário obteve 35 respostas no período em que ficou disponível (entre 14/04/23 e 15/04/23) e apresentava 16 perguntas.
 
 <center>
-<font size="2"><p style="text-align: center">Figura 1: Pergunta nº 12 do questionário.</p></font>
-<img src="docs/assets/imagens_questionario/pergunta1_questionario.jpeg" style="width:auto"/>
-<font size="2"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
+<font size="2"><p style="text-align: center"> Figura 1: Pergunta nº 1. </p></font>
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagens_questionario/pergunta1_questionario.jpeg">
+<font size="2"><p style="text-align: center"> Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
 </center>
 
+<center>
+<font size="2"><p style="text-align: center"> Figura 2: Pergunta nº 2. </p></font>
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagens_questionario/pergunta2_questionario.jpeg">
+<font size="2"><p style="text-align: center"> Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
+</center>
+
+<center>
+<font size="2"><p style="text-align: center"> Figura 3: Pergunta nº 3. </p></font>
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagens_questionario/pergunta3_questionario.jpeg">
+<font size="2"><p style="text-align: center"> Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
+</center>
+
+<center>
+<font size="2"><p style="text-align: center"> Figura 4: Pergunta nº 4. </p></font>
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagens_questionario/pergunta4_questionario.jpeg">
+<font size="2"><p style="text-align: center"> Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
+</center>
+
+<center>
+<font size="2"><p style="text-align: center"> Figura 5: Pergunta nº 5. </p></font>
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagens_questionario/pergunta5_questionario.jpeg">
+<font size="2"><p style="text-align: center"> Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
+</center>
+
+<center>
+<font size="2"><p style="text-align: center"> Figura 6: Pergunta nº 6. </p></font>
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagens_questionario/pergunta6_questionario.jpeg">
+<font size="2"><p style="text-align: center"> Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
+</center>
+
+<center>
+<font size="2"><p style="text-align: center"> Figura 7: Pergunta nº 7. </p></font>
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagens_questionario/pergunta7_questionario.jpeg">
+<font size="2"><p style="text-align: center"> Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
+</center>
+
+<center>
+<font size="2"><p style="text-align: center"> Figura 8: Pergunta nº 8. </p></font>
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagens_questionario/pergunta8_questionario.jpeg">
+<font size="2"><p style="text-align: center"> Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
+</center>
+
+<center>
+<font size="2"><p style="text-align: center"> Figura 9: Pergunta nº 9. </p></font>
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagens_questionario/pergunta9_questionario.jpeg">
+<font size="2"><p style="text-align: center"> Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
+</center>
+
+<center>
+<font size="2"><p style="text-align: center"> Figura 10: Pergunta nº 10. </p></font>
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagens_questionario/pergunta10_questionario.jpeg">
+<font size="2"><p style="text-align: center"> Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
+</center>
+
+<center>
+<font size="2"><p style="text-align: center"> Figura 11: Pergunta nº 11. </p></font>
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagens_questionario/pergunta11_questionario.jpeg">
+<font size="2"><p style="text-align: center"> Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
+</center>
+
+<center>
+<font size="2"><p style="text-align: center"> Figura 12: Pergunta nº 12. </p></font>
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagens_questionario/pergunta12_questionario.jpeg">
+<font size="2"><p style="text-align: center"> Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
+</center>
+
+<center>
+<font size="2"><p style="text-align: center"> Figura 13: Pergunta nº 13. </p></font>
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagens_questionario/pergunta13_questionario.jpeg">
+<font size="2"><p style="text-align: center"> Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
+</center>
+
+<center>
+<font size="2"><p style="text-align: center"> Figura 14: Pergunta nº 14. </p></font>
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagens_questionario/pergunta14_questionario.jpeg">
+<font size="2"><p style="text-align: center"> Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
+</center>
 
  ## Histórico de versões:
  
-| Versão | Alteração                                                                                                    | Responsável     | Revisor         | Data       |
-| ------ | ------------------------------------------------------------------------------------------------------------ | --------------- | --------------- | ---------- |
-| 1.0    | Criação do documento                                                                                         | Breno Alexandre | -               | 16/04/2024 |
+| Versão | Alteração            | Responsável     | Revisor         | Data       |
+| ------ | -------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação do documento | Breno Alexandre | -               | 16/04/2024 |
