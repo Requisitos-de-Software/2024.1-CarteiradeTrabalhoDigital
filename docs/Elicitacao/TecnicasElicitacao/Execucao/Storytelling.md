@@ -151,7 +151,7 @@ Ainda em relação à  [Conjuntura e Análise do Mercado de trabalho](https://po
 
 Para a realização das histórias em quadrinho, muitas das personas criadas foram convertidas como personagens de cartoon para as histórias em quadrinhos a seguir. Elas estão apresentadas das tabelas 1 a 10 por meio das imagens 1 a 10, com as fotos das personas, e das figuras 12 a 21 com a representação delas em quadringos.
 
-Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresentando as personas]()
+Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresentando as personas](Elicitacao/Personas/TodasPersonas.md)
 
 **Tabela 1**: Apresentando a persona João Pedro Cândido.
 
