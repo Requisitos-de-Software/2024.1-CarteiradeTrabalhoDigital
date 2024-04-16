@@ -22,7 +22,7 @@ Na Figura 1, é possível observar os principais dados da persona Alain Delon:
 
 ## Persona: Ana Clara
 
-Na Figura 2, é possível observar os principais dados da persona Ana Clara:
+Na Figura 2, é possível observar os principais dados da persona primária Ana Clara:
 
 <center>
 
@@ -37,7 +37,7 @@ Na Figura 2, é possível observar os principais dados da persona Ana Clara:
 
 ## Persona: Angélica Lima
 
-Na Figura 3, é possível observar os principais dados da persona Angélica Lima:
+Na Figura 3, é possível observar os principais dados da persona primária Angélica Lima:
 
 <center>
 
@@ -52,7 +52,7 @@ Na Figura 3, é possível observar os principais dados da persona Angélica Lima
 
 ## Persona: Breno Santos
 
-Na Figura 4, é possível observar os principais dados da persona Breno Santos:
+Na Figura 4, é possível observar os principais dados da persona primária Breno Santos:
 
 <center>
 
@@ -67,7 +67,7 @@ Na Figura 4, é possível observar os principais dados da persona Breno Santos:
 
 ## Persona: Bruna Akemi
 
-Na Figura 5, é possível observar os principais dados da persona Bruna Akemi:
+Na Figura 5, é possível observar os principais dados da persona primária Bruna Akemi:
 
 <center>
 
@@ -82,7 +82,7 @@ Na Figura 5, é possível observar os principais dados da persona Bruna Akemi:
 
 ## Persona: Fernando Copolla
 
-Na Figura 6, é possível observar os principais dados da persona Fernando Copolla:
+Na Figura 6, é possível observar os principais dados da persona primária Fernando Copolla:
 
 <center>
 
@@ -97,7 +97,7 @@ Na Figura 6, é possível observar os principais dados da persona Fernando Copol
 
 ## Persona: Gaudêncio Silveira
 
-Na Figura 7, é possível observar os principais dados da persona Galdêncio Silveira:
+Na Figura 7, é possível observar os principais dados da persona primária Galdêncio Silveira:
 
 <center>
 
@@ -112,7 +112,7 @@ Na Figura 7, é possível observar os principais dados da persona Galdêncio Sil
 
 ## Persona: Iracema Carvalho
 
-Na Figura 8, é possível observar os principais dados da persona Iracema Carvalho:
+Na Figura 8, é possível observar os principais dados da persona secundária Iracema Carvalho:
 
 <center>
 
@@ -127,7 +127,7 @@ Na Figura 8, é possível observar os principais dados da persona Iracema Carval
 
 ## Persona: João da Silva
 
-Na Figura 9, é possível observar os principais dados da persona João da Silva:
+Na Figura 9, é possível observar os principais dados da persona primária João da Silva:
 
 <center>
 
@@ -142,7 +142,7 @@ Na Figura 9, é possível observar os principais dados da persona João da Silva
 
 ## Persona: João Pedro Cândido
 
-Na Figura 10, é possível observar os principais dados da persona João Pedro Cândido:
+Na Figura 10, é possível observar os principais dados da persona primária João Pedro Cândido:
 
 <center>
 
@@ -157,7 +157,7 @@ Na Figura 10, é possível observar os principais dados da persona João Pedro C
 
 ## Persona: Maria da Graça
 
-Na Figura 11, é possível observar os principais dados da persona Maria da Graça:
+Na Figura 11, é possível observar os principais dados da persona primária Maria da Graça:
 
 <center>
 
