@@ -177,7 +177,7 @@ Em conclusão, o uso de personas na fase de levantamento de requisitos é fundam
 ##  Bibliografia
 
 1. **Personas**. Disponível em <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-personas > Acesso em 15 de abril de 2024.
-2. **Personas**. Disponível em <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-personas > Acesso em 15 de abril de 2024.
+2. Barbosa, S. D. J., & Silva, B. S. (2010). Organização do espaço de problema. In S. D. J. Barbosa & B. S. Silva, IHC: Interação Humano-Computador (Cap. 8). Editora Elsevier Brasil.
    
 ## Histórico de Versão
 
