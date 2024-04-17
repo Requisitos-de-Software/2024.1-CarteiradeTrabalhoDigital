@@ -28,30 +28,31 @@ A partir do perfil de usuário, foi desenvolvido um storytelling para analisar a
 
 Na Tabela 1 podemos ver a elicitação dos requisitos.
 
+**Legenda:**
+
+- ST: Requisitos de <span>Storytelling</span>
+- RF: Requisitos <span>Funcionais</span>
+- RNF: Requisitos não <span>Funcionais</span>
+  
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Requisitos elicitados</p></font>
 | Identificador | Descrição                                                                          | Tipo |
 | ------------- | ---------------------------------------------------------------------------------- | ---- |
-| ST01          |  Eu, como usuário, desejo localizar de forma clara onde cada funcionalidade está   | RFN  |
-| ST02          | 	Eu, como usuário, desejo utilizar o aplicativo em dispositivos Android e iOS      | RFN  |
-| ST03          | 	Eu, como usuário, desejo acessar o aplicativo pelo mesmo login do .GOV            | RFN  |
+| ST01          |  Eu, como usuário, desejo localizar de forma clara onde cada funcionalidade está   | RNF  |
+| ST02          | 	Eu, como usuário, desejo utilizar o aplicativo em dispositivos Android e iOS      | RNF  |
+| ST03          | 	Eu, como usuário, desejo acessar o aplicativo pelo mesmo login do .GOV            | RNF  |
 | ST04          | 	Eu, como usuário, desejo ter acesso a informações do abono salarial               | RF   |
 | ST05          | 	Eu, como usuário, desejo ter acesso ao número da carteira PIS                     | RF   |
 | ST06          | 	Eu, como usuário, desejo ter acesso a informações do FGTS                         | RF   |
 | ST07          | 	Eu, como usuário, desejo ter acesso a informações sobre imposto de renda          | RF   |
 | ST08          | 	Eu, como usuário, desejo ter acesso aos meus dados básicos                        | RF   |
 | ST09          | 	Eu, como usuário, desejo ter facilidade para acessar os Benefícios                | RF   |
-| ST10          | 	Eu, como usuário, desejo ter meus dados atualizados e corretos                    | RFN  |
+| ST10          | 	Eu, como usuário, desejo ter meus dados atualizados e corretos                    | RNF  |
 | ST11          | 	Eu, como usuário, desejo ter acesso a informações anteriores da minha carteira de trabalho | RF   |
 | ST12          | 	Eu, como usuário, desejo ter acesso a informações da minha carteira de trabalho física | RF   |
 | ST13          | 	Eu, como usuário, desejo ter facilidade para encontrar funções desejadas          | RF   |
 
 <font size="3"><p style="text-align: center">Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Luana Medeiros](https://github.com/LuaMedeiros). </font>
 
-**Legenda:**
-
-- ST: Requisitos de <span>Storytelling</span>
-- RF: Requisitos <span>Funcionais</span>
-- RNF: Requisitos não <span>Funcionais</span>
 
 ## Conclusão
 Ao coletar uma variedade de histórias e perspectivas, foi possível identificar padrões e tendências comuns entre os usuários, o que auxiliou na elaboração de requisitos mais precisos para aprimorar a o aplicativo. Desse modo, essa metodologia de entrevistas baseadas em storytelling proporcionou uma base sólida para a elicitação de requisitos.
