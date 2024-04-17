@@ -33,7 +33,6 @@ Tabela 1: Cronograma.
 |------------|-------------------------------------------------------|
 | 10/04/2024 - 13/04/2024 | Análise do documentos e anotações dos pontos relevantes. |
 | 13/04/2024 - 14/04/2024 | Documentação dos requisitos encontrados      |
-| 16/04/2024 | Priorização de requisitos - Reunião com José às 18:00 |
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
