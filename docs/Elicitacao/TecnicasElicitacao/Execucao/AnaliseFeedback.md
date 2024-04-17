@@ -1,4 +1,4 @@
-# Elicitação por Storytelling
+# Elicitação por Análise de feedbacks
 
 ## Sumário
 * [Introdução](#Introdução)
@@ -29,7 +29,7 @@ Apresentação do documento na figura 1:
 
 ## Coleta de informações
 
-Como foi falado em [análise do storytelling](TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaStorytelling.md), o primeiro passo para realizar essa técnica é entender o contexto e as situações em que os usuários encontraram dificuldades de uso. Por isso, um conjunto de informações foram coletadas diretamente dos [comentários do aplicativo na Google Play²](https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR&gl=US).
+O primeiro passo para realizar essa técnica é entender o contexto e as situações em que os usuários encontraram dificuldades de uso. Por isso, um conjunto de informações foram coletadas diretamente dos [comentários do aplicativo na Google Play²](https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR&gl=US).
 
 Esses comentários de avaliação servirão como cartões de história, onde os usuários contam as experiências negativas que tiveram.
 
@@ -147,9 +147,9 @@ Segundo a [conjuntura e análise do Mercado de trabalho](https://portalantigo.ip
 
 Assim, para manter um padrão em relação ao gênero das pessoas que estão no mercado de trabalho e que podem vir a utilizar o aplicativo, das 10 personas criadas para as histórias em quadrinho, 5 serão homens, 4 serão mulheres e 1 será não binário.
 
-Ainda em relação à  [Conjuntura e Análise do Mercado de trabalho](https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/mercadodetrabalho/218241_bmt_73_nt_a1.pdf), foi mostrado que há uma redução na chance de participar da força de trabalho, à medida que a idade aumenta. Desse modo, entre as personas utilizadas, 4 serão jovens adultos, 4 serão adultos e 2 serão idosos.
+Ainda em relação à [Conjuntura e Análise do Mercado de trabalho](https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/mercadodetrabalho/218241_bmt_73_nt_a1.pdf), foi mostrado que há uma redução na chance de participar da força de trabalho, à medida que a idade aumenta. Desse modo, entre as personas utilizadas, 4 serão jovens adultos, 4 serão adultos e 2 serão idosos.
 
-Para a realização das histórias em quadrinho, muitas das personas criadas foram convertidas como personagens de cartoon para as histórias em quadrinhos a seguir. Elas estão apresentadas das tabelas 1 a 10 por meio das imagens 11 a 20, com as fotos das personas, e das figuras 2 a 11 com a representação delas em quadringos.
+Para a realização das histórias que mostram situações que acontecem quando os requisitos do aplicatvo não são atendidos, muitas das personas criadas foram convertidas em personagens de cartoon para as histórias em quadrinhos a seguir. Elas estão apresentadas das tabelas 1 a 10 por meio das imagens 11 a 20, com as fotos das personas, e das figuras 2 a 11 com a representação delas em quadringos.
 
 Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresentando as personas](Elicitacao/Personas/TodasPersonas.md)
 

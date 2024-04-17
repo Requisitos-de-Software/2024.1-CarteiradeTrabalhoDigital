@@ -48,11 +48,13 @@
         
     * Execução das Técnicas
       - [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md)
-      - [Storytelling](Elicitacao/TecnicasElicitacao/Execucao/Storytelling.md)
+      - [Análise de feedback](Elicitacao/TecnicasElicitacao/Execucao/AnaliseFeedback.md)
       - [Introspecção](Elicitacao/TecnicasElicitacao/Execucao/Introspeccao.md)
       * Questionário
           - [Termo de consentimento](Elicitacao/TecnicasElicitacao/Execucao/Questionários/TermoConsentimento01.md)
           - [Análise dos resultados](Elicitacao/TecnicasElicitacao/Execucao/Questionários/Questionario.md)
+      * Storytelling
+          - [Termo de consentimento](Elicitacao/TecnicasElicitacao/Execucao/Storytelling/TermoConsentimento.md)
             
   * [Requisitos Elicitados](Elicitacao/RequisitosElicitados.md)
 
@@ -63,6 +65,7 @@
           - [Análise da Técnica do TQM](Elicitacao/Priorizacao/tecnicaTQM.md)
             
       * Execução das Técnicas
+        - [Termo de consentimento](Elicitacao/Priorizacao/Execucao/TermoConsentimentoPriorizacao.md)
         - [Quadrante ou Três Níveis](Elicitacao/Priorizacao/Execucao/QuadranteTresNiveis.md)
         - [First Things First](Elicitacao/Priorizacao/Execucao/FirstThingsFirst.md)
         - [MoSCoW](Elicitacao/Priorizacao/Execucao/MoSCoW.md)
