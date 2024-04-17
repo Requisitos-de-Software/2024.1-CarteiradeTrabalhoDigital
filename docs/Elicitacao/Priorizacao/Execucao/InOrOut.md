@@ -3,10 +3,11 @@
 ## Sumário
 
 * [Introdução](#Introdução)
-* []()
-* []()
-* []()
-* []()
+* [Metodologia](#metodologia)
+* [Execução da Técnica](#execução-da-técnica)
+* [Resultados Obtidos](#resultados-obtidos)
+* [Conclusão](#conclusão)
+* [Bibliografia](#bibliografia)
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
@@ -32,6 +33,8 @@ O vídeo está disponível através deste [Link](), ou no vídeo abaixo:
 <center>
  
  Vídeo 1: Entrevista Natália Beatriz
+
+ <iframe width="697" height="392" src="https://www.youtube.com/embed/5A3F0Td13rc" title="Entrevista Natália Beatriz Priorização In or Out Requisitos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Fonte: [Caio Mesquita](https://github.com/Caiomesvie)
 
@@ -99,7 +102,7 @@ Legendas:
 |NF1                          |Oferecer agilidade na solicitação da carteira. | in  |
 | NF2                         | Ser capaz de ter crescimento escalável e suportar personalização.       |  out     |
 | NF3                         | Ter a capacidade de atender alterações de demanda no sistema, como mudanças em volumes de dados, de quantidade de transações ou de quantidade de usuários. |  in     |
-| NF4                         | Ser capaz de atender pequenos volumes de transações e de usuários, até demandas de abrangência nacional.                                                   |     |
+| NF4                         | Ser capaz de atender pequenos volumes de transações e de usuários, até demandas de abrangência nacional.        |   in  |
 | NF5                         | Padrões tipográficos e de siglas, de abreviações e de erros de acordo com as normas.                                                                       |   in     |
 | NF6                         | Seguir os manuais de interface de acordo com o gov.br.                                                                                                     |    in      |
 | NF7                         | Conter os elementos básicos de design para o Padrão Digital de Governo.                                                                                    |    in    |
@@ -131,6 +134,6 @@ Fonte: [Caio Mesquita](https://github.com/Caiomesvie)
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e execução da priorização de 3 níveis | Larissa Stéfane| Breno Alexandre  |  15/04/2024 |
-| 1.1 | Adição da introdução e da conlusão | Breno Alexandre | Larissa Stéfane  |  16/04/2024 |
+| 1.0 | Criação e execução da priorização In or Out | Caio Mesquita| -  |  16/04/2024 |
+
 
