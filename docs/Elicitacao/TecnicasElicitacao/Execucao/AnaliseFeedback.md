@@ -29,7 +29,7 @@ Apresentação do documento na figura 1:
 **Observação:** Os quadrinhos foram criados com a utilização do site [pixton¹](https://www.pixton.com/welcome) como ferramenta.
 
 ## Cronograma
-A tabela 1 mostra como foi a organização do cronograma durante a realização da priorização.
+A tabela 1 mostra como foi a organização do cronograma durante a elicitação
 
 </center>
 
