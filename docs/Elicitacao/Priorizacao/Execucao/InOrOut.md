@@ -1,20 +1,21 @@
-# Técnica de Priorização MoSCoW
+# Técnica de Priorização In or Out
 
 ## Sumário
 
 * [Introdução](#Introdução)
-* [Metodologia](#metodologia)
 * []()
 * []()
-* [Bibliografia](#bibliografia)
+* []()
+* []()
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
 
-Considerando que temos 2 técnicas de priorização realizadas, para dar maior credibilidade aos resultados, vamos fazer a execução da técnica MoSCoW, que será mais detalhada no tópico [Metodologia](#metodologia)
+Dada a Importância da priorizaçao para a elicitação dos requisitos durante o processo de desenvolvimento, foram  realizadas mais de uma técnica de priorização e neste documento conterá a análise da técnica In or Out, devida a sua simplicidade de execução.
 
 ## Metodologia
 
+A técnica "In or Out" é a mais simples das priorizações, um dos motivos para termos o utilizado, que consiste 
 
 
 ## Execução da Técnica
