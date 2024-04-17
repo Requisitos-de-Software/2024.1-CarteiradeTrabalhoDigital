@@ -155,46 +155,10 @@ Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
 </center>
 </details>
 
-## Requisitos Elicitados
+## Análise e Conclusões
 
-Por meio do questionário foram elicitados requisitos funcionais e não funcionais. Estes requisitos serão utilizados para realizar a priorização de requisitos do aplicativo do CTD. 
-Segue nas tabelas 1 e 2 os requisitos funcionais e não funcionais respectivamente.
-
-Legenda:
-- Fx: Requisito Funcional nºx
-- NFx: Requisito Não-Funcional nºx
-- Qx: Requisito nºx elicitado pelo questionário
-
-<details>
-  <summary><b> Requisitos Funcionais </b></summary>
-<center>
-
-<font size="2"><p style="text-align: center"> Tabela 1: Requisitos funcionais. </p></font>
-
-| ID | Requisito                                                       | Questão | Implementação |
-| -- | --------------------------------------------------------------- | ------- | ------------- |
-| F1 |  | Q1 | Sim |
-
-<font size="2"><p style="text-align: center">
-Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
-</center>
-</details>
-
-
-<details>
-  <summary><b> Requisitos Não Funcionais </b></summary>
-<center>
-
-<font size="2"><p style="text-align: center"> Tabela 2: Requisitos não funcionais. </p></font>
-
-| ID  | Requisito                                                       | Questão | Implementação |
-| --- | --------------------------------------------------------------- | ------- | ------------- |
-| NF1 |  | Q1 | Sim |
-
-<font size="2"><p style="text-align: center">
-Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
-</center>
-</details>
+Por meio do questionário, foi possível ajudar a definir o [perfil de usuário](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/Elicitacao/PerfilDeUsuario.md) que será utilizada no projeto.
+Por meio do questionário foram elicitados requisitos funcionais e não funcionais. Estes requisitos
 
 
  ## Histórico de versões:
