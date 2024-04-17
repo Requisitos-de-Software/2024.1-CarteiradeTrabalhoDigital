@@ -31,6 +31,7 @@ Antes de iniciar a técnica de storytelling, é crucial ter as informações bá
 - **Uma explicação detalhada do objetivo da história contada**
 - **Definição dos temas ou tópicos a serem abordados**
 - **Contexto que será desenvolvido**
+  
 Após essas informações serem coletadas, o passo a passo para desenvolver o storytelling pode ser delineado da seguinte forma:
 1. Definir o escopo do projeto e os objetivos da elicitação.
 2. Identificar os stakeholders-chave que serão convidados a compartilhar suas histórias.
