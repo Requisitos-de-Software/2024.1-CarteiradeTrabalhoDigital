@@ -159,8 +159,8 @@ Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
 
 ## Análises e Conclusões
 
-Por meio do questionário, foi possível ajudar a definir o [perfil de usuário](./docs/Elicitacao/PerfilDeUsuario.md) que será utilizada no projeto.
-E também o questionário ajudou a [elicitar requisitos funcionais e não funcionais](./docs/Elicitacao/RequisitosElicitados.md) que ajudarão a realizar a priorização de requisitos.
+Por meio do questionário, foi possível ajudar a definir o [perfil de usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/PerfilDeUsuario) que será utilizada no projeto.
+E também o questionário ajudou a [elicitar requisitos funcionais e não funcionais](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/RequisitosElicitados) que ajudarão a realizar a priorização de requisitos.
 
 
  ## Histórico de versões:
