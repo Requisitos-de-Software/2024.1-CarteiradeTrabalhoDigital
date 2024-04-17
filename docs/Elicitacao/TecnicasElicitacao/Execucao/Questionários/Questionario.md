@@ -50,7 +50,7 @@ O questionário obteve 35 respostas no período em que ficou disponível (entre 
 
 <center>
 <details>
-  <summary size="5"><b> Perguntas </b></summary>
+  <summary size="20"><b> Perguntas </b></summary>
 <center>
 <font size="2"><p style="text-align: center"> Figura 1: Pergunta nº 1. </p></font>
 <img alt="pergunta 1" src="assets/imagens_questionario/pergunta1_questionario.jpeg" width="600">
