@@ -166,7 +166,7 @@ Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
 
 <center>
 <font size="2"><p style="text-align: center"> Figura 15: Pergunta nº 15. </p></font>
-<img alt="pergunta 15" src="assets/imagens_questionario/pergunta15_questionario.png" width="400">
+<img alt="pergunta 15" src="assets/imagens_questionario/pergunta15_questionario.png" width="600" height="300">
 
 <font size="2"><p style="text-align: center"> 
 
@@ -177,7 +177,7 @@ Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
 <center>
 <font size="2"><p style="text-align: center"> Figura 16: Pergunta nº 16. </p></font>
 
-<img alt="pergunta 16" src="assets/imagens_questionario/pergunta16_questionario.png" width="400">
+<img alt="pergunta 16" src="assets/imagens_questionario/pergunta16_questionario.png" width="600" height="300">
 
 <font size="2"><p style="text-align: center"> 
 
