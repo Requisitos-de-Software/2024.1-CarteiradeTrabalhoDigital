@@ -19,6 +19,7 @@ Prossegue a análise dos dados que o grupo coletou por meio de um questionário 
 preenchido pelos participantes.
 O questionário obteve 35 respostas no período em que ficou disponível (entre 14/04/23 e 15/04/23) e apresentava 16 perguntas.
 
+<center>
 <details>
   <summary><b> Perguntas </b></summary>
 <center>
@@ -154,6 +155,7 @@ Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
 Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
 </center>
 </details>
+</center>
 
 ## Análises e Conclusões
 
