@@ -55,6 +55,8 @@
           - [Análise dos resultados](Elicitacao/TecnicasElicitacao/Execucao/Questionários/Questionario.md)
       * Storytelling
           - [Termo de consentimento](Elicitacao/TecnicasElicitacao/Execucao/Storytelling/TermoConsentimento.md)
+          - [Entrevistas](Elicitacao/TecnicasElicitacao/Execucao/Storytelling/Entrevistas.md)
+
             
   * [Requisitos Elicitados](Elicitacao/RequisitosElicitados.md)
 
