@@ -21,7 +21,7 @@ O questionário obteve 35 respostas no período em que ficou disponível (entre 
 
 <center>
 <details>
-  <summary><b> Perguntas </b></summary>
+  <summary size="5"><b> Perguntas </b></summary>
 <center>
 <font size="2"><p style="text-align: center"> Figura 1: Pergunta nº 1. </p></font>
 <img alt="pergunta 1" src="assets/imagens_questionario/pergunta1_questionario.jpeg" width="600">
@@ -159,8 +159,8 @@ Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
 
 ## Análises e Conclusões
 
-Por meio do questionário, foi possível ajudar a definir o [perfil de usuário](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/Elicitacao/PerfilDeUsuario.md) que será utilizada no projeto.
-E também o questionário ajudou a [elicitar requisitos funcionais e não funcionais](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/Elicitacao/RequisitosElicitados.md) que ajudarão a realizar a priorização de requisitos.
+Por meio do questionário, foi possível ajudar a definir o [perfil de usuário](./docs/Elicitacao/PerfilDeUsuario.md) que será utilizada no projeto.
+E também o questionário ajudou a [elicitar requisitos funcionais e não funcionais](./docs/Elicitacao/RequisitosElicitados.md) que ajudarão a realizar a priorização de requisitos.
 
 
  ## Histórico de versões:
