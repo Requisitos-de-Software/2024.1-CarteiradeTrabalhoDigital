@@ -155,14 +155,15 @@ Fonte: [Breno Alexandre](https://github.com/brenoalexandre0). </p></font>
 </center>
 </details>
 
-## Análise e Conclusões
+## Análises e Conclusões
 
 Por meio do questionário, foi possível ajudar a definir o [perfil de usuário](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/Elicitacao/PerfilDeUsuario.md) que será utilizada no projeto.
-Por meio do questionário foram elicitados requisitos funcionais e não funcionais. Estes requisitos
+E também o questionário ajudou a [elicitar requisitos funcionais e não funcionais](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/Elicitacao/RequisitosElicitados.md) que ajudarão a realizar a priorização de requisitos.
 
 
  ## Histórico de versões:
 
-| Versão | Alteração            | Responsável     | Revisor         | Data       |
-| ------ | -------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do documento | Breno Alexandre | Caio Mesquita   | 16/04/2024 |
+| Versão | Alteração                                                                | Responsável     | Revisor         | Data       |
+| ------ | ------------------------------------------------------------------------ | --------------- | --------------- | ---------- |
+| 1.0    | Criação do documento                                                     | Breno Alexandre | Caio Mesquita   | 16/04/2024 |
+| 1.1    | Adiciona colapsamentos nas perguntas e o tópico de análises e conclusões | Breno Alexandre | Caio Mesquita   | 16/04/2024 |
