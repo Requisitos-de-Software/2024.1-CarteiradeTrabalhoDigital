@@ -198,4 +198,4 @@ E também o questionário ajudou a [elicitar requisitos funcionais e não funcio
 | ------ | ------------------------------------------------------------------------ | --------------- | --------------- | ---------- |
 | 1.0    | Criação do documento                                                     | Breno Alexandre | Caio Mesquita   | 16/04/2024 |
 | 1.1    | Adiciona colapsamentos nas perguntas e o tópico de análises e conclusões | Breno Alexandre | Caio Mesquita   | 16/04/2024 |
-| 1.2    | Adicição do cronograma e do sumário | Larissa Stéfane | -  | 16/04/2024 |
+| 1.2    | Adicição do cronograma e do sumário                                      | Larissa Stéfane | Breno Alexandre | 16/04/2024 |
