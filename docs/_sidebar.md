@@ -48,7 +48,7 @@
         
     * Execução das Técnicas
       - [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md)
-      - [Análise de feedback](Elicitacao/TecnicasElicitacao/Execucao/AnaliseFeedback.md)
+      - [Encenação Adaptada](Elicitacao/TecnicasElicitacao/Execucao/EncenacaoAdaptada.md)
       - [Introspecção](Elicitacao/TecnicasElicitacao/Execucao/Introspeccao.md)
       * Questionário
           - [Termo de consentimento](Elicitacao/TecnicasElicitacao/Execucao/Questionários/TermoConsentimento01.md)

@@ -26,6 +26,7 @@ A técnica foi aplicada com uma entrevista, com dados na [tabela 1](#tabela-1-da
 | Entrevistado(a) | Entrevistador | data | 
 | - | - | - |
 | Natália Beatriz | [Caio Mesquita](https://github.com/Caiomesvie) |16/04/24|
+
 Fonte:  [Caio Mesquita](https://github.com/Caiomesvie) 
 
 O vídeo está disponível através deste [Link](), ou no vídeo abaixo:
@@ -118,12 +119,14 @@ Legendas:
 
 Fonte: [Caio Mesquita](https://github.com/Caiomesvie)
 
+
 </center>
 
 
 
 ## Conclusão
 
+Após a entrevista, foi percebido que a maioria dos requisitos coletados são relevantes, pórem existem ambiguidades que devem ser consideradas e reanalizadas, como os Requisitos NF 
 
 ## Bibliografia
 
