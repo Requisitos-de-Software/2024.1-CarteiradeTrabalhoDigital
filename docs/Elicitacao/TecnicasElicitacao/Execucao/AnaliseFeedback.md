@@ -2,6 +2,7 @@
 
 ## Sumário
 * [Introdução](#Introdução)
+* [Cronograma](#Cronograma)
 * [Coleta de informações](#Coleta-de-informações)
 * [Objetivos](#Objetivos)
 * [Personas](#Personas)
@@ -26,6 +27,23 @@ Apresentação do documento na figura 1:
 
 
 **Observação:** Os quadrinhos foram criados com a utilização do site [pixton¹](https://www.pixton.com/welcome) como ferramenta.
+
+## Cronograma
+A tabela 1 mostra como foi a organização do cronograma durante a realização da priorização.
+
+</center>
+
+Tabela 1: Cronograma.
+
+| Data       | Atividade                                             |
+|------------|-------------------------------------------------------|
+| 10/04/2024 | Análise dos comentários                              |
+| 11/04/2024 | Criação das histórias em quadrinhos                 |
+| 13/04/2024 | Apresentação do documento com os requisitos elicitados |
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
 
 ## Coleta de informações
 
@@ -149,11 +167,11 @@ Assim, para manter um padrão em relação ao gênero das pessoas que estão no 
 
 Ainda em relação à [Conjuntura e Análise do Mercado de trabalho](https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/mercadodetrabalho/218241_bmt_73_nt_a1.pdf), foi mostrado que há uma redução na chance de participar da força de trabalho, à medida que a idade aumenta. Desse modo, entre as personas utilizadas, 4 serão jovens adultos, 4 serão adultos e 2 serão idosos.
 
-Para a realização das histórias que mostram situações que acontecem quando os requisitos do aplicatvo não são atendidos, muitas das personas criadas foram convertidas em personagens de cartoon para as histórias em quadrinhos a seguir. Elas estão apresentadas das tabelas 1 a 10 por meio das imagens 11 a 20, com as fotos das personas, e das figuras 2 a 11 com a representação delas em quadringos.
+Para a realização das histórias que mostram situações que acontecem quando os requisitos do aplicatvo não são atendidos, muitas das personas criadas foram convertidas em personagens de cartoon para as histórias em quadrinhos a seguir. Elas estão apresentadas das tabelas 2 a 11 por meio das imagens 11 a 20, com as fotos das personas, e das figuras 2 a 11 com a representação delas em quadringos.
 
 Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresentando as personas](Elicitacao/Personas/TodasPersonas.md)
 
-**Tabela 1**: Apresentando a persona João Pedro Cândido.
+**Tabela 2**: Apresentando a persona João Pedro Cândido.
 
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
@@ -173,7 +191,7 @@ Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresen
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-**Tabela 2**: Apresentando a persona Galdêncio Silveira.
+**Tabela 3**: Apresentando a persona Galdêncio Silveira.
 
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
@@ -193,7 +211,7 @@ Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresen
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-**Tabela 3**: Apresentando a persona Angélica Lima.
+**Tabela 4**: Apresentando a persona Angélica Lima.
 
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
@@ -213,7 +231,7 @@ Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresen
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-**Tabela 4**: Apresentando a persona João da Silva.
+**Tabela 5**: Apresentando a persona João da Silva.
 
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
@@ -233,7 +251,7 @@ Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresen
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-**Tabela 5**: Apresentando a persona Iracema Carvalho.
+**Tabela 6**: Apresentando a persona Iracema Carvalho.
 
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
@@ -253,7 +271,7 @@ Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresen
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme) 
 
-**Tabela 6**: Apresentando a persona  Breno Santos.
+**Tabela 7**: Apresentando a persona  Breno Santos.
 
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
@@ -273,7 +291,7 @@ Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresen
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-**Tabela 7**: Apresentando a persona Bruna Akemi.
+**Tabela 8**: Apresentando a persona Bruna Akemi.
 
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
@@ -293,7 +311,7 @@ Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresen
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-**Tabela 8**: Apresentando a persona Fernando Copolla.
+**Tabela 9**: Apresentando a persona Fernando Copolla.
 
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
@@ -313,7 +331,7 @@ Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresen
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-**Tabela 9**: Apresentando a persona  Maria da Graça.
+**Tabela 10**: Apresentando a persona  Maria da Graça.
 
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
@@ -333,7 +351,7 @@ Caso seja desejado acessar os storyboards das personas, basta clicar em [Apresen
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-**Tabela 10**: Apresentando a persona Ana Clara.
+**Tabela 11**: Apresentando a persona Ana Clara.
 
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
@@ -528,7 +546,7 @@ Por meio da análise dos histórias realizadas, foi possível elencar os seguint
   10. O aplicativo deve atualizar os dados do usuário constantemente e evitar que eles fiquem defasados.
     
 
-## Conclusão:
+## Conclusão
 
 Conclusão do documento na imagem 32:
 
@@ -542,7 +560,7 @@ Conclusão do documento na imagem 32:
 </center>
 
 
-##  Bibliografia
+##  Referência Bibliográfica
 
 1. **Pixton**. Disponível em < https://www.pixton.com/welcome >. Acesso em 12 e 13 de abril de 2024.
 
@@ -560,4 +578,4 @@ Conclusão do documento na imagem 32:
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e execução do storytelling | Larissa Stéfane | Breno Alexandre  | 13/04 |
+| 1.0 | Criação e execução do storytelling | Larissa Stéfane | Breno Alexandre  | 13/04/2024 |
