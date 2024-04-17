@@ -4,7 +4,6 @@
 
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
-* [Persona Utilizada](#Persona-Utilizada)
 * [Cronograma](#Cronograma)
 * [Requisitos de Alta Prioridade](#Requisitos-de-Alta-Prioridade)
 * [Requisitos de Média Prioridade](#Requisitos-de-Média-Prioridade)
