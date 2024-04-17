@@ -1,5 +1,16 @@
 # Questionário
 
+## Sumário
+
+* [Introdução](#Introdução)
+* [Metodologia](#Metodologia)
+* [Cronograma](#Cronograma)
+* [Resultados](#Resultados)
+* [Análises e Conclusões](#Análises-e-Conclusões)
+* [Bibliografia](#Bibliografia)
+* [Histórico de versão](#Histórico-de-versão)
+
+
 ## Introdução
 
 Um questionário de requisitos é uma lista de perguntas sobre os requisitos do projeto. Normalmente, as perguntas são organizadas por recurso (ou requisito de negócio ou objetivo do projeto).
@@ -12,6 +23,24 @@ Além disso, um questionário bem elaborado pode tornar as reuniões com as part
 O questionário foi divulgado em grupos de WhatsApp e Telegram nos grupos da Universidade de Brasília, o que implica que a maioria das pessoas que responderam são universitários.
 Porém, há poucas chances de que as pessoas que responderam sejam usuárias ativas desse aplicativo, o que não ajuda muito a contribuir para a elicitação de requisitos do aplicativo do Carteira de Trabalho
 Digital (CTD).
+
+## Cronograma
+
+A tabela 1 mostra como foi a organização do cronograma durante a realização da elicitação por questionário.
+
+</center>
+
+Tabela 1: Cronograma.
+
+| Data       | Atividade                                             |
+|------------|-------------------------------------------------------|
+| 13/04/2024 - 14/04/2024 | Elaboração do questionário                              |
+| 14/04/2024 - 15/04/2024| Período de preenchimento do questionário pelos usuários                |
+| 16/04/2024 |Análise dos resultados |
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
 
 ## Resultados
 
@@ -169,3 +198,4 @@ E também o questionário ajudou a [elicitar requisitos funcionais e não funcio
 | ------ | ------------------------------------------------------------------------ | --------------- | --------------- | ---------- |
 | 1.0    | Criação do documento                                                     | Breno Alexandre | Caio Mesquita   | 16/04/2024 |
 | 1.1    | Adiciona colapsamentos nas perguntas e o tópico de análises e conclusões | Breno Alexandre | Caio Mesquita   | 16/04/2024 |
+| 1.2    | Adicição do cronograma e do sumário | Larissa Stéfane | -  | 16/04/2024 |
