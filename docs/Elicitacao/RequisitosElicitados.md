@@ -53,9 +53,10 @@ Legendas:
 | F16                         | Mandar notificações verdadeiras, evitando alarmes falsos | Storytelling | Não |
 | F17                         | Estar adaptado para ser instalado em qualquer sistema operacional | Storytelling | Parcialmente (Apresenta problemas em IOS) |
 | F18                      | Atualizar os dados do usuário constantemente para evitar defasagem | Storytelling | Não |
-| NF19                         | Informaçõe sobre o FGTS | Storytelling | Não |
+| NF19                         | Informações sobre o FGTS | Storytelling | Não |
 | NF20                         | Ter dados sobre o número da carteira e de série como CIPS | Storytelling | Não |
 | NF21                         | Ter informações de abono salarial | Storytelling | Sim |
+| NF22                         | Apresentar dados básicos do usuário | ANálise de documento | Sim |
 
 
 
@@ -117,3 +118,4 @@ Ao longo deste documento, foram apresentados os requisitos elicitados do aplicat
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação e execução do requisitos elicitados | Larissa Stéfane | Breno Alexandre |  14/04/2024 |
+| 1.1 | Adição de mais requisitos | Larissa Stéfane | - |  16/04/2024 |
