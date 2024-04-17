@@ -67,6 +67,6 @@
       * Execução das Técnicas
         - [Termo de consentimento](Elicitacao/Priorizacao/Execucao/TermoConsentimentoPriorizacao.md)
         - [Quadrante ou Três Níveis](Elicitacao/Priorizacao/Execucao/QuadranteTresNiveis.md)
-        - [First Things First](Elicitacao/Priorizacao/Execucao/FirstThingsFirst.md)
+        - [In or Out](Elicitacao/Priorizacao/Execucao/InOrOut.md)
         - [MoSCoW](Elicitacao/Priorizacao/Execucao/MoSCoW.md)
 

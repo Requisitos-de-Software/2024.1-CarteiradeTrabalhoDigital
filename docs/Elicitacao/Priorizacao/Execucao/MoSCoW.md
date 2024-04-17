@@ -11,7 +11,7 @@
 
 ## Introdução
 
-Considerando que temos 2 técnicas de priorização realizadas, para dar maior credibilidade aos resultados, vamos fazer a execução da técnica MoSCoW, que será mais detalhada no tópico [Metodologia](#metodologia)
+Considerando que temos 2 técnicas de priorização realizadas, para dar maior credibilidade aos resultados, vamos fazer a execução da técnica MoSCoW, que será mais detalhada no tópico [Metodologia](#metodologia), 
 
 ## Metodologia
 
