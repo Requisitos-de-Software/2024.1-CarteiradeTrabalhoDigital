@@ -235,8 +235,8 @@ Na Tabela 14, está explicitado o cronograma executado das atividades da parte d
 | 1.0    | Criação do documento                | Breno           | Larissa Stéfane | 28/03/2024 |
 | 1.1    | Adição dos executados               | Breno           | Larissa Stéfane | 30/03/2024 |
 | 1.2    | Planejamento da entrega 2           | Larissa Stéfane | Iago Passaglia  | 01/04/2024 |
-| 1.3    | Correçao de versionamento           | Iago Passaglia  | Breno           | 02/04/2024 |
+| 1.3    | Correçao de versionamento           | Iago Passaglia  | Breno Alexandre | 02/04/2024 |
 | 1.4    | Refatoração para seguir novo padrão | Breno           | Luana Medeiros  | 04/04/2024 |
 | 1.5    | Complementação da tabela de cronograma executado para a 2 entrega | Larissa Stéfane  | Luana Medeiros | 15/04/2024 |
-| 1.6    | Correção do cronograma da entrega 2 | Luana Medeiros  | - | 15/04/2024 |
-| 1.7    | Atualização cronograma completo | Luana Medeiros  | - | 16/04/2024 |
+| 1.6    | Correção do cronograma da entrega 2 | Luana Medeiros  | Breno Alexandre | 15/04/2024 |
+| 1.7    | Atualização cronograma completo | Luana Medeiros  | Breno Alexandre | 16/04/2024 |
