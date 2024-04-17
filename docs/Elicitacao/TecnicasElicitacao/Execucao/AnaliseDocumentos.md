@@ -3,6 +3,7 @@
 ## Sumário
 
 * [Introdução](#Introdução)
+* [Cronograma](#Cronograma)
 * [Principais Funções do Aplicativo](#Principais-Funções-do-Aplicativo)
 * [Requisitos-Não-Funcionais](#Requisitos-Não-Funcionais)
 * [Integrações](#Integrações)
@@ -19,6 +20,22 @@
 ## Introdução
 
 A elicitação de requisitos é uma etapa crucial no desenvolvimento de software, especialmente quando se trata de aplicativos destinados a simplificar processos burocráticos e facilitar a vida dos usuários, como é o caso da Carteira de Trabalho Digital. Devido a isso, este documento é composto pelas anotações e pontos relevantes detectados por meio da análise de um conjunto de documentos relacionados ao software com o intuito de elencar os seus requisitos.
+
+## Cronograma
+
+A tabela 1 mostra como foi a organização do cronograma durante a realização da priorização.
+
+</center>
+
+Tabela 1: Cronograma.
+
+| Data       | Atividade                                             |
+|------------|-------------------------------------------------------|
+| 10/04/2024 - 13/04/2024 | Análise do documentos e anotações dos pontos relevantes. |
+| 13/04/2024 - 14/04/2024 | Documentação dos requisitos encontrados      |
+| 16/04/2024 | Priorização de requisitos - Reunião com José às 18:00 |
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 ## Principais Funções do Aplicativo
 
