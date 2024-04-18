@@ -17,7 +17,7 @@ Dada a Importância da priorizaçao para a elicitação dos requisitos durante o
 ## Metodologia
 
 A técnica "In or Out" é a mais simples das priorizações, um dos motivos para o uso dela nesta etapa. Ela se resume em apresentar ao usuário a listagem de requisitos elicitados e o usuário entrevistado faz uma escolha binária, "dentro ou fora", para que possibilite aos desenvolvedores ter um norte a respeito de requisitos a serem repensados em uma próxima release de projeto. 
-É importante ressaltar que as decisões de "In" ou "out" devem sempre ser baseadas nas regras de negócio
+É importante ressaltar que as decisões de "In" ou "out" devem sempre ser baseadas nas regras de negócio.
 
 ## Execução da Técnica
 A técnica foi aplicada com uma entrevista, com dados na [tabela 1](#tabela-1-dados-da-entrevista), da usuária Natália Beatriz, que se encaixa no [perfil de usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/PerfilDeUsuario), onde foi apresentado a lista de [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/RequisitosElicitados) e eles foram julgados arbitrariamente em "In or Out". 
@@ -44,7 +44,7 @@ Fonte: [Caio Mesquita](https://github.com/Caiomesvie)
 ## Resultados obtidos
 A Seguir vem as Tabelas [2]() e [3](), que mostram os resultados coletados pela entrevista a respeito dos requisitos elicitados. Foram separados em duas tabelas, Requisitos Funcionais e Requisitos Não-Funcionais.
 
-* Observação: devido a erro na tabela os Requisitos funcionais 10 e 22 foram coletados posteriormente
+* Observação: devido a erro na tabela os Requisitos funcionais 10 e 22 foram coletados posteriormente.
 
 ### Requisitos Funcionais
 
