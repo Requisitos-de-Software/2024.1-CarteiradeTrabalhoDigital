@@ -49,13 +49,12 @@
     * Execução das Técnicas
       - [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md)
       - [Encenação Adaptada](Elicitacao/TecnicasElicitacao/Execucao/EncenacaoAdaptada.md)
-      - [Introspecção](Elicitacao/TecnicasElicitacao/Execucao/Introspeccao.md)
       * Questionário
           - [Termo de consentimento](Elicitacao/TecnicasElicitacao/Execucao/Questionários/TermoConsentimento01.md)
           - [Análise dos resultados](Elicitacao/TecnicasElicitacao/Execucao/Questionários/Questionario.md)
       * Storytelling
           - [Termo de consentimento](Elicitacao/TecnicasElicitacao/Execucao/Storytelling/TermoConsentimento.md)
-          - [Entrevistas](Elicitacao/TecnicasElicitacao/Execucao/Storytelling/Entrevistas.md)
+          - [Entrevistas e execução](Elicitacao/TecnicasElicitacao/Execucao/Storytelling/Storytelling.md)
 
             
   * [Requisitos Elicitados](Elicitacao/RequisitosElicitados.md)

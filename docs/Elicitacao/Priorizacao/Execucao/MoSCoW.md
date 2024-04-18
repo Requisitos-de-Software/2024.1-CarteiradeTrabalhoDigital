@@ -49,6 +49,9 @@ Fonte: [Caio Mesquita](https://github.com/Caiomesvie)
 ## Resultados obtidos
 A Seguir vem as Tabelas [2]() e [3](), que mostram os resultados coletados pela entrevista a respeito dos requisitos elicitados. Foram separados em duas tabelas, Requisitos Funcionais e Requisitos Não-Funcionais.
 
+* Observação: devido a erro na tabela os Requisitos funcionais 10 e 22 foram coletados posteriormente
+
+
 ### Requisitos Funcionais
 
 Legendas:
@@ -84,6 +87,8 @@ Legendas:
 | F19                         | Informaçõe sobre o FGTS | M    |
 | F20                         | Ter dados sobre o número da carteira e de série como CIPS | M |
 | F21                         | Ter informações de abono salarial | M  |
+| F22                         | Apresentar dados básicos do usuário | M  |
+
 
 
 Fonte: [Caio Mesquita](https://github.com/Caiomesvie)
@@ -129,12 +134,16 @@ Fonte: [Caio Mesquita](https://github.com/Caiomesvie)
 
 
 ## Conclusão
-Realizada a entrevista, foi percebeido com o usuário que alguns requisitos estão ambíguos e estão organizados de forma incorreta entre funcionais e não funcionais, porém, foi possível analisar quais tem mais relevância acima de outros. Importante Ressaltar que os requisitos com uma marcação devems ser revisados no período de correção.
+
+Após a entrevista, foi percebido que a maioria dos requisitos coletados são relevantes, pórem existem ambiguidades que devem ser consideradas, além da organização de requisitos funcionais e não funcionais. Deve haver atenção com certos requisitos para uma correção futura antes de dar prosseguimento com o projeto.
+
 
 ## Bibliografia
 
 1. **Requisitos elicitados**. Disponível em < https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/Elicitacao/RequisitosElicitados.md > Acesso em 14 de abril de 2024.
 2. BEATTY, Joy; WIEGERS, Karl. Software Requirements. 3. ed.  Microsoft press, 2013.
+3. Serrano, Milene. Serrano, Maurício. **Técnicas de Requisitos**. Disponível em <https://aprender3.unb.br/pluginfile.php/2844991/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em 16 de Abril de 2024
+
    
 ## Histórico de Versão
 

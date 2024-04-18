@@ -44,6 +44,8 @@ Fonte: [Caio Mesquita](https://github.com/Caiomesvie)
 ## Resultados obtidos
 A Seguir vem as Tabelas [2]() e [3](), que mostram os resultados coletados pela entrevista a respeito dos requisitos elicitados. Foram separados em duas tabelas, Requisitos Funcionais e Requisitos Não-Funcionais.
 
+* Observação: devido a erro na tabela os Requisitos funcionais 10 e 22 foram coletados posteriormente
+
 ### Requisitos Funcionais
 
 
@@ -81,6 +83,7 @@ Legendas:
 | F19                         | Informaçõe sobre o FGTS | in  |
 | F20                         | Ter dados sobre o número da carteira e de série como CIPS | in |
 | F21                         | Ter informações de abono salarial | in  |
+| F22                         | Apresentar dados básicos do usuário | in  |
 
 
 Fonte: [Caio Mesquita](https://github.com/Caiomesvie)
@@ -127,13 +130,14 @@ Fonte: [Caio Mesquita](https://github.com/Caiomesvie)
 
 ## Conclusão
 
-Após a entrevista, foi percebido que a maioria dos requisitos coletados são relevantes, pórem existem ambiguidades que devem ser consideradas, além da organização de requisitos funcionais e não funcionais. Deve haver atenção a certos requisitos para uma correção futura antes de dar prosseguimento com o projeto.
+Após a entrevista, foi percebido que a maioria dos requisitos coletados são relevantes, pórem existem ambiguidades que devem ser consideradas, além da organização de requisitos funcionais e não funcionais. Deve haver atenção com certos requisitos para uma correção futura antes de dar prosseguimento com o projeto.
 
 ## Bibliografia
 
 1. **Requisitos elicitados**. Disponível em < https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/Elicitacao/RequisitosElicitados.md > Acesso em 14 de abril de 2024.
 2. BEATTY, Joy; WIEGERS, Karl. Software Requirements. 3. ed.  Microsoft press, 2013.
-   
+
+
 ## Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |

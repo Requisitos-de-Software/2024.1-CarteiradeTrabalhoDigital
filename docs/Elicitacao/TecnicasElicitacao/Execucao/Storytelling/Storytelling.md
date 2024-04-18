@@ -37,7 +37,7 @@ Na Tabela 1 podemos ver a elicitação dos requisitos.
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Requisitos elicitados</p></font>
 | Identificador | Descrição                                                                          | Tipo |
 | ------------- | ---------------------------------------------------------------------------------- | ---- |
-| ST01          |  Eu, como usuário, desejo localizar de forma clara onde cada funcionalidade está   | RNF  |
+| ST01          |   Eu, como usuário, desejo localizar de forma clara onde cada funcionalidade está   | RNF  |
 | ST02          | 	Eu, como usuário, desejo utilizar o aplicativo em dispositivos Android e iOS      | RNF  |
 | ST03          | 	Eu, como usuário, desejo acessar o aplicativo pelo mesmo login do .GOV            | RNF  |
 | ST04          | 	Eu, como usuário, desejo ter acesso a informações do abono salarial               | RF   |
