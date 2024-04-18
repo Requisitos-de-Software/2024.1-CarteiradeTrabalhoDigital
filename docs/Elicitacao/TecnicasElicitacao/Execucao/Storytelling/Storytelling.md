@@ -26,33 +26,21 @@ A partir do perfil de usuário, foi desenvolvido um storytelling para analisar a
 
 ## Elicitação de Requisitos
 
-Na Tabela 1 podemos ver a elicitação dos requisitos.
+Ao todo os requisitos elicitados foram:
 
-**Legenda:**
-
-- ST: Requisitos de <span>Storytelling</span>
-- RF: Requisitos <span>Funcionais</span>
-- RNF: Requisitos não <span>Funcionais</span>
-  
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Requisitos elicitados</p></font>
-| Identificador | Descrição                                                                          | Tipo |
-| ------------- | ---------------------------------------------------------------------------------- | ---- |
-| ST01          |   Eu, como usuário, desejo localizar de forma clara onde cada funcionalidade está   | RNF  |
-| ST02          | 	Eu, como usuário, desejo utilizar o aplicativo em dispositivos Android e iOS      | RNF  |
-| ST03          | 	Eu, como usuário, desejo acessar o aplicativo pelo mesmo login do .GOV            | RNF  |
-| ST04          | 	Eu, como usuário, desejo ter acesso a informações do abono salarial               | RF   |
-| ST05          | 	Eu, como usuário, desejo ter acesso ao número da carteira PIS                     | RF   |
-| ST06          | 	Eu, como usuário, desejo ter acesso a informações do FGTS                         | RF   |
-| ST07          | 	Eu, como usuário, desejo ter acesso a informações sobre imposto de renda          | RF   |
-| ST08          | 	Eu, como usuário, desejo ter acesso aos meus dados básicos                        | RF   |
-| ST09          | 	Eu, como usuário, desejo ter facilidade para acessar os Benefícios                | RF   |
-| ST10          | 	Eu, como usuário, desejo ter meus dados atualizados e corretos                    | RNF  |
-| ST11          | 	Eu, como usuário, desejo ter acesso a informações anteriores da minha carteira de trabalho | RF   |
-| ST12          | 	Eu, como usuário, desejo ter acesso a informações da minha carteira de trabalho física | RF   |
-| ST13          | 	Eu, como usuário, desejo ter facilidade para encontrar funções desejadas          | RF   |
-
-<font size="3"><p style="text-align: center">Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Luana Medeiros](https://github.com/LuaMedeiros). </font>
-
+- O aplicativo deve permitir que o usuário localize de forma clara onde cada funcionalidade está 
+- O aplicativo deve permitir que o usuário utilize em dispositivos Android e IOS
+- O aplicativo deve ser acessado pelo mesmo login do .GOV
+- O aplicativo deve permitir ao usuário acesso as informações do abono salarial
+- O aplicativo deve permitir ao usuário acesso ao número da carteira PIS
+- O aplicativo deve permitir ao usuário acesso a informações do FGTS
+- O aplicativo deve permitir ao usuário acesso a informações sobre imposto de renda 
+- O aplicativo deve permitir ao usuário acesso aos seus dados básicos
+- O aplicativo deve permitir ao usuário acessar com facilidade os Benefícios 
+- O aplicativo deve permitir ao usuário acesso aos dados atualizados e corretos
+- O aplicativo deve permitir ao usuário acesso a informações anteriores da sua carteira de trabalho
+- O aplicativo deve permitir ao usuário acesso a informações da sua carteira de trabalho física
+- O aplicativo deve permitir ao usuário facilidade para encontrar funções desejadas
 
 ## Conclusão
 Ao coletar uma variedade de histórias e perspectivas, foi possível identificar padrões e tendências comuns entre os usuários, o que auxiliou na elaboração de requisitos mais precisos para aprimorar a o aplicativo. Desse modo, essa metodologia de entrevistas baseadas em storytelling proporcionou uma base sólida para a elicitação de requisitos.
