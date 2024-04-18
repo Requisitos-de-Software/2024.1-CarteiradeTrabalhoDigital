@@ -88,6 +88,6 @@ Ao coletar uma variedade de histórias e perspectivas, foi possível identificar
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento e adição da entrevista com José | Larissa Stéfane| -  |  16/04/2024 |
+| 1.0 | Criação do documento e adição da entrevista com José | Larissa Stéfane| Bruno Araújo  |  16/04/2024 |
 
 
