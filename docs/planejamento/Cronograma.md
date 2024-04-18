@@ -12,6 +12,7 @@ atualizados com o tempo.
 Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento do Projeto</p></font>
+
 | *Atividade*                        | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ---------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 | Selecionar app                     | 26/03/2024 | 28/03/2024 |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| Caio             | 29/03/2024 - 29/03/2024 |
@@ -30,6 +31,7 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 Na Tabela 2, está explicitado o cronograma executado das atividades da primeira entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento do Projeto</p></font>
+
 | *Atividade*                       | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | --------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 | Selecionar app                    | 26/03/2024 | 28/03/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Caio | 29/03/2024 - 29/03/2024 |
@@ -50,6 +52,7 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Elicitação Técnicas e Priorização</p></font>
+
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 | Correções e pendências após a entrega 1   | 01/04/2024 | 05/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 05/04/2024 - 07/04/2024 |
@@ -75,6 +78,7 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
 Na Tabela 4, está explicitado o cronograma executado das atividades da segunda entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Elicitação Técnicas e Priorização</p></font>
+
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 | Correções e pendências após a entrega 1   | 01/04/2024 | 05/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 05/04/2024 - 07/04/2024 |
@@ -109,6 +113,7 @@ Na Tabela 4, está explicitado o cronograma executado das atividades da segunda 
 Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Modelagem de Requisitos</p></font>
+
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 | Correções e pendências após a entrega 2   | 18/04/2024 | 19/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 19/04/2024 - 20/04/2024 |
@@ -126,6 +131,7 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira 
 Na Tabela 6, está explicitado o cronograma executado das atividades da terceira entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Modelagem de Requisitos</p></font>
+
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 
@@ -136,6 +142,7 @@ Na Tabela 6, está explicitado o cronograma executado das atividades da terceira
 Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 7</b> - Modelagem de Requisitos</p></font>
+
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 | Correções e pendências após a entrega 3   | 07/05/2024 | 08/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 08/04/2024 - 09/04/2024 |
@@ -152,6 +159,7 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta en
 Na Tabela 8, está explicitado o cronograma executado das atividades da quarta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 8</b> - Modelagem de Requisitos</p></font>
+
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 
@@ -161,7 +169,9 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da quarta e
 
 Na Tabela 9, tem-se o cronograma planejado para todas as atividades da parte um da quinta entrega.
 
+
 <font size="3"><p style="text-align: center"><b>Tabela 9</b> - Análise de Requisitos</p></font>
+
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 | Correções e pendências após a entrega 4   | 14/05/2024 | 15/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 15/05/2024 - 16/05/2024 |
@@ -176,6 +186,7 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da parte um 
 Na Tabela 10, está explicitado o cronograma executado das atividades da parte um da quinta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 10</b> - Modelagem de Requisitos</p></font>
+
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 
@@ -186,6 +197,7 @@ Na Tabela 10, está explicitado o cronograma executado das atividades da parte u
 Na Tabela 11, tem-se o cronograma planejado para todas as atividades da parte dois da quinta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 11</b> - Análise de Requisitos</p></font>
+
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 | Correções e pendências após a entrega 6  | 03/06/2024 | 04/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 04/06/2024 - 05/06/2024 |
@@ -201,6 +213,7 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da parte do
 Na Tabela 12, está explicitado o cronograma executado das atividades da parte dois da quinta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 12</b> - Modelagem de Requisitos</p></font>
+
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 
@@ -210,7 +223,9 @@ Na Tabela 12, está explicitado o cronograma executado das atividades da parte d
 
 Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sexta entrega.
 
+
 <font size="3"><p style="text-align: center"><b>Tabela 13</b> - Pós-Rastreabilidade</p></font>
+
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 | Correções e pendências após a entrega 5.1 | 22/05/2024 | 23/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 23/05/2024 - 24/05/2024 |
@@ -226,6 +241,7 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sexta en
 Na Tabela 14, está explicitado o cronograma executado das atividades da parte dois da quinta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 14</b> - Pós-Rastreabilidade</p></font>
+
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 
