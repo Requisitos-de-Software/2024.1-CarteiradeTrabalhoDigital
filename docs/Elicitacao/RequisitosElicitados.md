@@ -40,7 +40,7 @@ Legendas:
 | F3                          | Listar contratos de trabalho corretamente | Storytelling | Não – Parcialmente |
 | F4                          | Permitir anotações | Análise de documentos |  Parcialmente |
 | F5                          | Apresentar gráficos com histórico de remunerações | Análise de documentos | Sim |
-| F6                         | Gerar arquivo PDF com dados da carteira | Análise de documentos e Storytelling | Parcialmente (O pdf apresenta diferenças do impreso) |
+| F6                         | Gerar arquivo PDF com dados da carteira | Análise de documentos e Storytelling | Parcialmente (O pdf apresenta diferenças do impresso) |
 | F7                         | Ter aba "Benefícios" | Análise de documentos | Sim |
 | F8                          | Mostrar dados como Seguro-Desemprego, Benefício TAC-Taxista, Benefício Emergencial | Análise de documentos e storytelling| Parcialmente (Alguns dados são apresentados errados) |
 | F9                          | Oferecer opções como ocultar dados sensíveis, política de privacidade, perguntas frequentes, entre outros. | Análise de documentos | Parcialmente (Não foi encontrado “ocultar dados sensíveis” |
@@ -88,7 +88,7 @@ Legendas:
 | NF7                         | Conter os elementos básicos de design para o Padrão Digital de Governo.                                                                                    | Análise de documentos    | Parcialmente           |
 | NF8                         | Ter o básico de segurança: Autenticação, Criptografia, Controle de acesso, Auditoria, Atender as diretrizes e a práticas de segurança no controle de acesso à conta única. | Análise de documentos | Sim           |
 | NF9                      | Garantir as condições de preservação da privacidade das informações do cidadão.                                                                            | Análise de documentos     | Sim           |
-| NF10                       | Em relação à acessibilidade, deve conter: Ampliadores de telas, Leitores de telas, Programas de reconhecimento de voz, Teclados alternativos, Dispositivos apontadores alternativos. | Análise de documentos | Parcialmente.          |
+| NF10                       | Em relação à acessibilidade, deve conter: Ampliadores de telas, Leitores de telas, Programas de reconhecimento de voz, Teclados alternativos, Dispositivos apontadores alternativos. | Análise de documentos | Parcialmente          |
 | NF11                         | Apoiar interações do governo e alinhamento com processos de negócios governamentais | Análise de documentos e Storytelling | Parcialmente |
 | NF12                        | Utilização de recursos como vocabulários controlados e taxonomias | Análise de documentos | Sim |
 | NF13                         | Agilidade na solicitação da carteira | Análise de documentos e storytelling| Parcialmente (Algumas vezes o aplicativo apresenta erro) |
@@ -118,4 +118,4 @@ Ao longo deste documento, foram apresentados os requisitos elicitados do aplicat
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação e execução do requisitos elicitados | Larissa Stéfane | Breno Alexandre |  14/04/2024 |
-| 1.1 | Adição de mais requisitos | Larissa Stéfane | - |  16/04/2024 |
+| 1.1 | Adição de mais requisitos | Larissa Stéfane | Pedro Augusto |  16/04/2024 |

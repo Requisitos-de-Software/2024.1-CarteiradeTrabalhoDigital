@@ -105,7 +105,7 @@ Centro universitário salesiano de São Paulo
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação e elaboração do documento | Larissa Stéfane Barboza Santos | Breno Alexandre | 15/04/2024|
-| 1.1 | Aditamento do Termo de Consentimento | Bruno Araújo | - | 16/04/2024|
+| 1.1 | Aditamento do Termo de Consentimento | Bruno Araújo | Pedro Augusto | 16/04/2024|
 
 
 
