@@ -96,4 +96,4 @@ para tomar decisões informadas sobre o que deve ser realizado primeiro.
 ## Histórico de versão
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criaçao e elaboração do documento | Luana Medeiros | - | 15/04/2024 |
+| 1.0 | Criaçao e elaboração do documento | Luana Medeiros | Bruno Araújo | 15/04/2024 |
