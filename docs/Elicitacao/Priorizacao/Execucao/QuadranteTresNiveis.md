@@ -1,4 +1,4 @@
-9# Técnica de Priorização da Classificação por Quadrantes ou Three Level Scale
+# Técnica de Priorização da Classificação por Quadrantes ou Three Level Scale
 
 ## Sumário
 
