@@ -138,6 +138,6 @@ Após a entrevista, foi percebido que a maioria dos requisitos coletados são re
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e execução da priorização In or Out | Caio Mesquita| -  |  16/04/2024 |
+| 1.0 | Criação e execução da priorização In or Out | Caio Mesquita| Bruno Araújo |  16/04/2024 |
 
 
