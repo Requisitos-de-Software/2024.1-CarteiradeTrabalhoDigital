@@ -33,6 +33,7 @@
 * Elicitação
   - [Perfil de Usuário](Elicitacao/PerfilDeUsuario.md)
   - [Personas](Elicitacao/Personas/TodasPersonas.md)
+  - [Termo de consentimento](Elicitacao/TecnicasElicitacao/Execucao/Storytelling/TermoConsentimento.md)
       
   * Técnicas de Elicitação
     * Análise de Elicitações
