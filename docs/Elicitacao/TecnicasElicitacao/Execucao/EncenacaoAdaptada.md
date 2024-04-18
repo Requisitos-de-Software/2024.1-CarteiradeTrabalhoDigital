@@ -577,4 +577,4 @@ Conclusão do documento na imagem 32:
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e execução do storytelling | Larissa Stéfane | Breno Alexandre  | 13/04/2024 |
+| 1.0 | Criação e execução da Encenação Adaptada | Larissa Stéfane | Breno Alexandre  | 13/04/2024 |

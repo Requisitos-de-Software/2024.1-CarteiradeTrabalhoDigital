@@ -4,7 +4,7 @@
 
 * [Introdução](#Introdução)
 * [Metodologia](#metodologia)
-* []()
+* [Execução da Técnica](#execução-da-técnica)
 * []()
 * [Bibliografia](#bibliografia)
 * [Histórico de versão](#Histórico-de-versão)
@@ -40,7 +40,7 @@ O vídeo está disponível através deste [Link](), ou no vídeo abaixo:
  
  Vídeo 1: Entrevista Wildemberg Sales
 
-
+<iframe width="697" height="381" src="https://www.youtube.com/embed/mGdq-60At3g" title="Entrevista Wildemberg Requisitos Priorização MoSCoW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Fonte: [Caio Mesquita](https://github.com/Caiomesvie)
 
@@ -50,8 +50,6 @@ Fonte: [Caio Mesquita](https://github.com/Caiomesvie)
 A Seguir vem as Tabelas [2]() e [3](), que mostram os resultados coletados pela entrevista a respeito dos requisitos elicitados. Foram separados em duas tabelas, Requisitos Funcionais e Requisitos Não-Funcionais.
 
 ### Requisitos Funcionais
-
-
 
 Legendas:
 
@@ -65,26 +63,27 @@ Legendas:
 
 | Identificação do Requisito | Requisito | M,S,C e W | 
 |-----------------------------|-----------|-----------------------|
-| F1                          | Apresentar dados pessoais com orientações e links para correção |  |
-| F2                          | Listar contratos de trabalho com detalhes |  |
-| F3                          | Listar contratos de trabalho corretamente |  |
-| F4                          | Permitir anotações |   | 
-| F5                          | Apresentar gráficos com histórico de remunerações |  |
-| F6                         | Gerar arquivo PDF com dados da carteira |  |
-| F7                         | Ter aba "Benefícios" |   |
-| F8                          | Mostrar dados como Seguro-Desemprego, Benefício TAC-Taxista, Benefício Emergencial | |
-| F9                          | Oferecer opções como ocultar dados sensíveis, política de privacidade, perguntas frequentes, entre outros. |   |
-| F11                         | Acesso à informação de Qualificação Civil e Contratos de Trabalho |   |
-| F12                         | Integração com eSocial |  |
-| F13                         | Integração com gov.br |  |
-| F14                         | Permitir integração com vários outros software.  |   |
-| F15                         | Disponibilizar informações essenciais para os trabalhadores de forma acessível |   |
-| F16                         | Mandar notificações verdadeiras, evitando alarmes falsos |   |
-| F17                         | Estar adaptado para ser instalado em qualquer sistema operacional |  |
-| F18                      | Atualizar os dados do usuário constantemente para evitar defasagem |   |
-| F19                         | Informaçõe sobre o FGTS |   |
-| F20                         | Ter dados sobre o número da carteira e de série como CIPS | |
-| F21                         | Ter informações de abono salarial |  |
+| F1                          | Apresentar dados pessoais com orientações e links para correção | M |
+| F2                          | Listar contratos de trabalho com detalhes | M |
+| F3                          | Listar contratos de trabalho corretamente | M  |
+| F4                          | Permitir anotações | C  | 
+| F5                          | Apresentar gráficos com histórico de remunerações | S |
+| F6                         | Gerar arquivo PDF com dados da carteira |   S|
+| F7                         | Ter aba "Benefícios" | M  |
+| F8                          | Mostrar dados como Seguro-Desemprego, Benefício TAC-Taxista, Benefício Emergencial |  M|
+| F9                          | Oferecer opções como ocultar dados sensíveis, política de privacidade, perguntas frequentes, entre outros. | C *  |
+| F10                          | Possibilitar avaliação do aplicativo e acesso à seção "Sobre" | M |
+| F11                         | Acesso à informação de Qualificação Civil e Contratos de Trabalho | M  |
+| F12                         | Integração com eSocial |S   |
+| F13                         | Integração com gov.br |S  |
+| F14                         | Permitir integração com vários outros software.  | M * |
+| F15                         | Disponibilizar informações essenciais para os trabalhadores de forma acessível |  M   |
+| F16                         | Mandar notificações verdadeiras, evitando alarmes falsos | M  |
+| F17                         | Estar adaptado para ser instalado em qualquer sistema operacional | M  |
+| F18                      | Atualizar os dados do usuário constantemente para evitar defasagem | M *  |
+| F19                         | Informaçõe sobre o FGTS | M    |
+| F20                         | Ter dados sobre o número da carteira e de série como CIPS | M |
+| F21                         | Ter informações de abono salarial | M  |
 
 
 Fonte: [Caio Mesquita](https://github.com/Caiomesvie)
@@ -105,22 +104,22 @@ Legendas:
 
 | Identificação do Requisito | Requisito                                                                                                                                                  | M,S,C e W| 
 |-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
-|NF1                          |Oferecer agilidade na solicitação da carteira. |   |
-| NF2                         | Ser capaz de ter crescimento escalável e suportar personalização.  |    |
-| NF3                         | Ter a capacidade de atender alterações de demanda no sistema, como mudanças em volumes de dados, de quantidade de transações ou de quantidade de usuários. |    |
-| NF4                         | Ser capaz de atender pequenos volumes de transações e de usuários, até demandas de abrangência nacional.     |   |
-| NF5                         | Padrões tipográficos e de siglas, de abreviações e de erros de acordo com as normas.   |    |
-| NF6                         | Seguir os manuais de interface de acordo com o gov.br.    |       |
-| NF7                         | Conter os elementos básicos de design para o Padrão Digital de Governo.     |     |
-| NF8                         | Ter o básico de segurança: Autenticação, Criptografia, Controle de acesso, Auditoria, Atender as diretrizes e a práticas de segurança no controle de acesso à conta única. |    |
-| NF9                      | Garantir as condições de preservação da privacidade das informações do cidadão.        |      |
-| NF10                       | Em relação à acessibilidade, deve conter: Ampliadores de telas, Leitores de telas, Programas de reconhecimento de voz, Teclados alternativos, Dispositivos apontadores alternativos. |    |
-| NF11                         | Apoiar interações do governo e alinhamento com processos de negócios governamentais |    |
-| NF12                        | Utilização de recursos como vocabulários controlados e taxonomias |   |
-| NF13                         | Agilidade na solicitação da carteira |  |
-| NF14                       | O aplicativo deve seguir um padrão aceito por empresas e instituições sem provocar transtornos |   |
-| NF15                         | Acesso a alguns pontos do aplicativo exige biometria eficiente e prática |   |
-| NF16                         | O aplicativo deve permitir ao usuário atualizar seus dados sem causar transtornos e evitar burocracias |   |
+|NF1                          |Oferecer agilidade na solicitação da carteira. | M  |
+| NF2                         | Ser capaz de ter crescimento escalável e suportar personalização.  |   S |
+| NF3                         | Ter a capacidade de atender alterações de demanda no sistema, como mudanças em volumes de dados, de quantidade de transações ou de quantidade de usuários. |  M  |
+| NF4                         | Ser capaz de atender pequenos volumes de transações e de usuários, até demandas de abrangência nacional.     | M  |
+| NF5                         | Padrões tipográficos e de siglas, de abreviações e de erros de acordo com as normas.   | C  |
+| NF6                         | Seguir os manuais de interface de acordo com o gov.br.    |  M   * |
+| NF7                         | Conter os elementos básicos de design para o Padrão Digital de Governo.     | M * |
+| NF8                         | Ter o básico de segurança: Autenticação, Criptografia, Controle de acesso, Auditoria, Atender as diretrizes e a práticas de segurança no controle de acesso à conta única. |  M  |
+| NF9                      | Garantir as condições de preservação da privacidade das informações do cidadão.        |  M    |
+| NF10                       | Em relação à acessibilidade, deve conter: Ampliadores de telas, Leitores de telas, Programas de reconhecimento de voz, Teclados alternativos, Dispositivos apontadores alternativos. | M  |
+| NF11                         | Apoiar interações do governo e alinhamento com processos de negócios governamentais | C  |
+| NF12                        | Utilização de recursos como vocabulários controlados e taxonomias | M  |
+| NF13                         | Agilidade na solicitação da carteira | M * |
+| NF14                       | O aplicativo deve seguir um padrão aceito por empresas e instituições sem provocar transtornos | W |
+| NF15                         | Acesso a alguns pontos do aplicativo exige biometria eficiente e prática | S * |
+| NF16                         | O aplicativo deve permitir ao usuário atualizar seus dados sem causar transtornos e evitar burocracias | M |
 
 Fonte: [Caio Mesquita](https://github.com/Caiomesvie)
 
@@ -130,7 +129,7 @@ Fonte: [Caio Mesquita](https://github.com/Caiomesvie)
 
 
 ## Conclusão
-
+Realizada a entrevista, foi percebeido com o usuário que alguns requisitos estão ambíguos e estão organizados de forma incorreta entre funcionais e não funcionais, porém, foi possível analisar quais tem mais relevância acima de outros. Importante Ressaltar que os requisitos com uma marcação devems ser revisados no período de correção.
 
 ## Bibliografia
 

@@ -69,6 +69,7 @@ Legendas:
 | F7                         | Ter aba "Benefícios" |  in |
 | F8                          | Mostrar dados como Seguro-Desemprego, Benefício TAC-Taxista, Benefício Emergencial | in |
 | F9                          | Oferecer opções como ocultar dados sensíveis, política de privacidade, perguntas frequentes, entre outros. | in  |
+| F10                          | Possibilitar avaliação do aplicativo e acesso à seção "Sobre" | in |
 | F11                         | Acesso à informação de Qualificação Civil e Contratos de Trabalho |  in |
 | F12                         | Integração com eSocial |  in|
 | F13                         | Integração com gov.br | in |
@@ -126,7 +127,7 @@ Fonte: [Caio Mesquita](https://github.com/Caiomesvie)
 
 ## Conclusão
 
-Após a entrevista, foi percebido que a maioria dos requisitos coletados são relevantes, pórem existem ambiguidades que devem ser consideradas e reanalizadas, como os Requisitos NF 
+Após a entrevista, foi percebido que a maioria dos requisitos coletados são relevantes, pórem existem ambiguidades que devem ser consideradas, além da organização de requisitos funcionais e não funcionais. Deve haver atenção a certos requisitos para uma correção futura antes de dar prosseguimento com o projeto.
 
 ## Bibliografia
 
