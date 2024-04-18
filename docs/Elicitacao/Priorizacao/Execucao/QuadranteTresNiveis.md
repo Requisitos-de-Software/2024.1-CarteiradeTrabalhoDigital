@@ -1,4 +1,4 @@
-9# Técnica de Priorização da Classificação por Quadrantes ou Three Level Scale
+# Técnica de Priorização da Classificação por Quadrantes ou Three Level Scale
 
 ## Sumário
 
@@ -15,7 +15,7 @@
 
 ## Introdução
 
-A priorização de requisitos é uma etapa crucial no processo de desenvolvimento de qualquer produto ou sistema. Com isso, neste documento, é apresentado a priorização de requisitos por meio de classificação em três níveis ou quadrantes, destacando a importância de cada requisito e fornecendo uma estrutura para orientar quais requisitos priorizar. Para isso oi realizada um reunião com um usuário da Carteira de Trabalho Digital.
+A priorização de requisitos é uma etapa crucial no processo de desenvolvimento de qualquer produto ou sistema. Com isso, neste documento, é apresentado a priorização de requisitos por meio de classificação em três níveis ou quadrantes, destacando a importância de cada requisito e fornecendo uma estrutura para orientar quais requisitos priorizar. Para isso foi realizada um reunião com um usuário da Carteira de Trabalho Digital.
 
 ## Metodologia
 A priorização de requisitos por meio da técnica dos três(quatro) níveis, ou quadrantes, é uma forma de classificar e organizar os requisitos de um projeto com base em sua importância e viabilidade. Desse modo, baseando-se na [análise dessa técnica](Elicitacao/Priorizacao/tecnicaClassificacao.md), a foi realizada uma reunião com um usuário do aplicativo, o José Santos, e nela os requisitos elicitados foram classificados em:
