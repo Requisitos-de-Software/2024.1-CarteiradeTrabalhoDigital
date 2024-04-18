@@ -1,4 +1,4 @@
-# Técnica de Priorização da Classificação por Quadrantes ou Three Level Scale
+9# Técnica de Priorização da Classificação por Quadrantes ou Three Level Scale
 
 ## Sumário
 
@@ -164,5 +164,5 @@ Ao adotar a abordagem que prioriza requisitos por meio de classificação em tr�
 | - | - | - | - | - |
 | 1.0 | Criação e execução da priorização de 3 níveis | Larissa Stéfane| Breno Alexandre  |  15/04/2024 |
 | 1.1 | Adição da introdução e da conlusão | Breno Alexandre | Larissa Stéfane  |  16/04/2024 |
-| 1.2 | Reformulação com um usuário de verdade | Larissa Stéfane | -  |  16/04/2024 |
+| 1.2 | Reformulação com um usuário de verdade | Larissa Stéfane | Bruno Araújo |  16/04/2024 |
 
