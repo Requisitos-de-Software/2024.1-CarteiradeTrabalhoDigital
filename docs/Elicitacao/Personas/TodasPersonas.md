@@ -7,7 +7,7 @@ Está parte do projeto apresenta as personas criadas com o intuito de fazer part
 
 ## Metodologia
 
-As personas foram desenvolvidas com base nos [perfis de usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/PerfilDeUsuario) criados. No total, há 11 personas no conjunto, sendo 10 principais e 1 secundária. Esse número foi selecionado porque está dentro da faixa recomendada por Cooper e Baxter (entre 3 e 12 personas) e oferece uma diversidade adequada para facilitar as metodologias subsequentes, permitindo explorar uma ampla gama de requisitos distintos.
+As personas foram desenvolvidas com base nos [perfis de usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/PerfilDeUsuario) criados. No total, há 11 personas no conjunto, sendo nove principais, uma secundária e uma antipersona. Esse número foi selecionado porque está dentro da faixa recomendada por Cooper e Baxter (entre 3 e 12 personas) e oferece uma diversidade adequada para facilitar as metodologias subsequentes, permitindo explorar uma ampla gama de requisitos distintos.
 
 ## Persona: Alain Delon
 
@@ -153,7 +153,7 @@ Na Figura 10, é possível observar os principais dados da persona primária Jo�
 
 ## Persona: Maria da Graça
 
-Na Figura 11, é possível observar os principais dados da persona primária Maria da Graça:
+Na Figura 11, é possível observar os principais dados da anti-persona Maria da Graça:
 
 <center>
 
