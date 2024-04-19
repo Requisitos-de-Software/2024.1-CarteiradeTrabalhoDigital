@@ -159,7 +159,7 @@ Na Figura 11, é possível observar os principais dados da anti-persona Maria da
 
  **Figura 11**: Maria da Graça
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling//Maria da Graça.png">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/ImagensStorytelling//Maria da Graça2.png">
 
 **Fonte:** [Pedro Izarias](https://github.com/Izarias)
 
