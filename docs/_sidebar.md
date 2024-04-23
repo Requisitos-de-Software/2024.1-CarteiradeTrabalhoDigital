@@ -2,6 +2,7 @@
 
 * Apresentações
   - [apresentação 01](/apresentacoes/apresentacao01.md)
+  - [apresentação 02](/apresentacoes/apresentacao02.md)
 
 * Reuniões
   - [Reunião 01](reunioes/ata01.md)
