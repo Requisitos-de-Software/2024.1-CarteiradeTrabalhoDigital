@@ -1,4 +1,3 @@
-* [Home](/)
 
 * Apresentações
   - [apresentação 01](/apresentacoes/apresentacao01.md)
@@ -36,19 +35,7 @@
   - [Personas](Elicitacao/Personas/TodasPersonas.md)
   - [Termo de consentimento](Elicitacao/TecnicasElicitacao/Execucao/Storytelling/TermoConsentimento.md)
       
-  * Técnicas de Elicitação
-    * Análise de Elicitações
-      - [Metodologia de análise](Elicitacao/TecnicasElicitacao/AnalisesElicitacoes/AnaliseMetodologia.md)
-      - [Análise Técnica de Discurso](Elicitacao/TecnicasElicitacao/AnalisesElicitacoes/AnaliseDeDiscurso.md)
-      - [Análise Técnica de Brainstorming](Elicitacao/TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaBrainstorming.md)
-      - [Análise Técnica de Documentos](Elicitacao/TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaDocumentos.md)
-      - [Análise Técnica Entrevista](Elicitacao/TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaEntrevista.md)
-      - [Análise Técnica Entrevista em Grupo](Elicitacao/TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaEntrevistaGrupo.md)
-      - [Análise Técnica de Etnografia](Elicitacao/TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaEtnografia.md)
-      - [Análise Técnica de Questionários](Elicitacao/TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaQuestionarios.md)
-      - [Análise Técnica de Storytelling](Elicitacao/TecnicasElicitacao/AnalisesElicitacoes/AnaliseTecnicaStorytelling.md)
-        
-    * Execução das Técnicas
+  * Técnicas de Elicitação        
       - [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md)
       - [Encenação Adaptada](Elicitacao/TecnicasElicitacao/Execucao/EncenacaoAdaptada.md)
       * Questionário
@@ -73,3 +60,49 @@
         - [In or Out](Elicitacao/Priorizacao/Execucao/InOrOut.md)
         - [MoSCoW](Elicitacao/Priorizacao/Execucao/MoSCoW.md)
 
+* Modelagem
+  - [Cenários](/docs/modelagem/cenarios.md)
+  - [Léxico](/docs/modelagem/lexico.md)
+  - [Caso de uso](/docs/modelagem/casoDeUso.md)
+  - [Especificação Suplementar](/docs/modelagem/especSuplementar.md)
+
+<!-- * Modelagem - Ágil
+  - [História de Usuário](/docs/modelagemAgil/historiaUsuario.md)
+  - [Backlogs do Produto](/docs/modelagemAgil/backlog.md)
+  - [NFR Framework](/docs/modelagemAgil/NFR.md)
+
+
+* Verificação
+
+    * Grupo 3
+      - [Entrega 1](/docs/verficacao/grupo3/entrega01.md)
+      - [Entrega 2](/docs/verficacao/grupo3/entrega02.md)
+      - [Entrega 3](/docs/verficacao/grupo3/entrega03.md)
+      - [Entrega 4](/docs/verficacao/grupo3/entrega04.md)
+
+    * Grupo 2
+      - [Entrega 1](/docs/verficacao/grupo2/entrega01.md)
+      - [Entrega 2](/docs/verficacao/grupo2/entrega02.md)
+      - [Entrega 3](/docs/verficacao/grupo2/entrega03.md)
+      - [Entrega 4](/docs/verficacao/grupo2/entrega04.md) 
+
+* Validação 
+
+    * Grupo 3
+      - [Entrega 1](/docs/verficacao/grupo3/entrega01.md)
+      - [Entrega 2](/docs/verficacao/grupo3/entrega02.md)
+      - [Entrega 3](/docs/verficacao/grupo3/entrega03.md)
+      - [Entrega 4](/docs/verficacao/grupo3/entrega04.md)
+      
+    * Grupo 2
+      - [Entrega 1](/docs/verficacao/grupo2/entrega01.md)
+      - [Entrega 2](/docs/verficacao/grupo2/entrega02.md)
+      - [Entrega 3](/docs/verficacao/grupo2/entrega03.md)
+      - [Entrega 4](/docs/verficacao/grupo2/entrega04.md)
+
+* Pós-Rastreabilidade 
+  - [Foward-From](/docs/posRastreabilidade/fowardFrom.md)
+  - [Backward-From](/docs/posRastreabilidade/backwardFrom.md)
+  - [Matriz de Rastreabilidade](/docs/posRastreabilidade/matriz.md)
+
+* Entrega final -->
