@@ -94,7 +94,6 @@ Este Termo de Consentimento pretende garantir a transparência e a clareza sobre
 
 ## Referências Bibliográficas
 
-Centro universitário salesiano de São Paulo
 
 1. **Orientações para elaboração do Termo de Consentimento Livre e Esclarecido (TCLE)**. Disponível em: <https://www.rondonia.fiocruz.br/wp-content/uploads/2021/06/Orienta%C3%A7%C3%B5es-para-elabora%C3%A7%C3%A3o-do-TCLE.docx-3-1.pdf> Acesso em: 08 abr. 2024.
 
