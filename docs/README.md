@@ -3,7 +3,8 @@
 ## :earth_americas: Quem somos:
 
  <center>
-  <img src="/docs/Midia/logoEquipeTransparente.png" width='400px'>
+
+  <img src="/Midia/logoEquipeTransparente.png" width='400px'>
 
    **Figura 1**: Logo da equipe criado [Aqui](https://www.designevo.com/).
  </center>

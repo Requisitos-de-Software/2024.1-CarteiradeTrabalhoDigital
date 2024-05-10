@@ -3,7 +3,7 @@
 ## Quem somos:
 
   <div align="center">
-  <img src="/docs/assets/Midia/logoEquipeTransparente.png">
+  <img src="Midia/logoEquipeTransparente.png">
   
    Figura 1: Logo da equipe criado [Aqui](https://www.designevo.com/).
 </div>
