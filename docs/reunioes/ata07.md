@@ -48,7 +48,7 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 
 | Identificador (Dn) | Decisão |
 | - | - |
-| D1 | -   | 
+| D1 | Caio - Cronograma planejado   | 
 | D2 | -  |
 | D3 | -   | 
 | D4 | -  |
