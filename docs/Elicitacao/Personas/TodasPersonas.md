@@ -117,7 +117,7 @@ Na Figura 8, é possível observar os principais dados da persona secundária Ir
 
  **Figura 8**: Iracema Carvalho
 
-<img src=https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/Midia/ImagensStorytelling/Iracema%20Carvalho.png?raw=true">
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/Midia/ImagensStorytelling/Iracema%20Carvalho.png?raw=true">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
