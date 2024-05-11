@@ -4,7 +4,7 @@
 
  <center>
 
-  <img src="/Midia/logoEquipeTransparente.png" width='400px'>
+  <img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/Midia/logoEquipeTransparente.png?raw=true">
 
    **Figura 1**: Logo da equipe criado [Aqui](https://www.designevo.com/).
  </center>

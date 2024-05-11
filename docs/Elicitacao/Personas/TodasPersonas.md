@@ -17,7 +17,7 @@ Na Figura 1, é possível observar os principais dados da persona Alain Delon:
 
  **Figura 1**: Alain Delon Senna
 
-<img src="/assets/Midia/ImagensStorytelling/Alain Delon Senna.png">
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/Midia/ImagensStorytelling/Alain%20Delon%20Senna.png?raw=true">
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
@@ -33,7 +33,7 @@ Na Figura 2, é possível observar os principais dados da persona primária Ana 
 </center>
 
 <center>
-<img src="/assets/Midia/ImagensStorytelling/Ana Clara.png">
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/Midia/ImagensStorytelling/Ana%20Clara.png?raw=true">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
@@ -47,7 +47,7 @@ Na Figura 3, é possível observar os principais dados da persona primária Ang�
 
  **Figura 3**: Angélica Lima
 
-<img src="/assets/Midia/ImagensStorytelling/Angélica Lima.png">
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/Midia/ImagensStorytelling/Ange%CC%81lica%20Lima.png?raw=true">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
@@ -61,7 +61,7 @@ Na Figura 4, é possível observar os principais dados da persona primária Bren
 
  **Figura 4**: Breno Santos
 
-<img src="/assets/Midia/ImagensStorytelling/Breno Santos.png">
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/Midia/ImagensStorytelling/Breno%20Santos.png?raw=true">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
@@ -75,7 +75,7 @@ Na Figura 5, é possível observar os principais dados da persona primária Brun
 
  **Figura 5**: Bruna Akemi
 
-<img src="/assets/Midia/ImagensStorytelling/Bruna Akemi.png">
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/Midia/ImagensStorytelling/Bruna%20Akemi.png?raw=true">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
@@ -89,7 +89,7 @@ Na Figura 6, é possível observar os principais dados da persona primária Fern
 
  **Figura 6**: Fernando Copolla
 
-<img src="/assets/Midia/ImagensStorytelling/Fernando Copolla.png">
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/Midia/ImagensStorytelling/Fernando%20Copolla.png?raw=true">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
@@ -103,7 +103,7 @@ Na Figura 7, é possível observar os principais dados da persona primária Gald
 
  **Figura 7**: Gandêncio Silveira
 
-<img src="/assets/Midia/ImagensStorytelling/Galdêncio Silveira.png">
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/Midia/ImagensStorytelling/Galde%CC%82ncio%20Silveira.png?raw=true">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
@@ -117,7 +117,7 @@ Na Figura 8, é possível observar os principais dados da persona secundária Ir
 
  **Figura 8**: Iracema Carvalho
 
-<img src="/assets/Midia/ImagensStorytelling/Iracema Carvalho.png">
+<img src=https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/Midia/ImagensStorytelling/Iracema%20Carvalho.png?raw=true">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
@@ -131,7 +131,7 @@ Na Figura 9, é possível observar os principais dados da persona primária Joã
 
  **Figura 9**: João da Silva
 
-<img src="/assets/Midia/ImagensStorytelling/João da Silva.png">
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/Midia/ImagensStorytelling/Joa%CC%83o%20da%20Silva.png?raw=true">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
@@ -145,7 +145,7 @@ Na Figura 10, é possível observar os principais dados da persona primária Jo�
 
  **Figura 10**: João Pedro Cândido
 
-<img src="/assets/Midia/ImagensStorytelling/João Pedro Cândido.png">
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/Midia/ImagensStorytelling/Joa%CC%83o%20Pedro%20Ca%CC%82ndido.png?raw=true">
 
 **Fonte:** [Pedro Augusto](https://github.com/Izarias)
 
@@ -159,7 +159,7 @@ Na Figura 11, é possível observar os principais dados da anti-persona Maria da
 
  **Figura 11**: Maria da Graça
 
-<img src="/assets/Midia/ImagensStorytelling//Maria da Graca2.png">
+<img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/Midia/ImagensStorytelling/Maria%20da%20Graca2.png?raw=true">
 
 **Fonte:** [Pedro Izarias](https://github.com/Izarias)
 
