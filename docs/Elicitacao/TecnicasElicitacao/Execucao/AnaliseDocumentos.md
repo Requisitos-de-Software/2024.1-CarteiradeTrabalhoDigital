@@ -44,12 +44,12 @@ Segundo os documentos [Manual da Carteira de Trabalho Digital](https://empregabr
 ](https://tangerino.com.br/blog/carteira-de-trabalho-ctps-digital/#:~:text=Afinal%2C%20a%20CTPS%20Digital%20permite,(CTPS)%20f%C3%ADsica%20se%20aposentou) e com a análise do aplicativo em sí, as principais funções da Carteira de Trabalho Digital são:
 
 - Apresentar os seguintes dados pessoais com orientações e links para correção em caso de dados incorretos:
-- Nome Civil;
-- Sexo;
-- Data de Nascimento;
-- Nome da Mãe;
-- Nacionalidade;
-- Data de Emissão;
+	- Nome Civil;
+	- Sexo;
+	- Data de Nascimento;
+	- Nome da Mãe;
+	- Nacionalidade;
+	- Data de Emissão;
 - Listagem dos contratos de trabalhos vigentes e anteriores, com data de início e fim. Cada contrato listado deve detalhar:
   - O período trabalhado;
   - O endereço do empregador;
@@ -244,3 +244,4 @@ Aqui se encontra uma lista dos principais requisitos encontrados e elencados no 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação e execução da análise de documentos| Larissa Stéfane | Breno Alexandre |  14/04/2024 |
+| 1.1 | Reogarnização de alguns pontos| Larissa Stéfane | - |  17/05/2024 |
