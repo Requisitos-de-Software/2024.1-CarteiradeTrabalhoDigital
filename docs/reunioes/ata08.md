@@ -2,8 +2,6 @@
 
 ## Vídeo da Reunião
 
-**Reunião 05**
-
 <center> 
 <p align="center"> Vídeo 1: RS - Reunião 8. </p>
 
