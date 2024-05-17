@@ -10,6 +10,8 @@
   - [Reunião 04](reunioes/ata04.md)
   - [Reunião 05](reunioes/ata05.md)
   - [Reunião 06](reunioes/ata06.md)
+  - [Reunião 07](reunioes/ata07.md)
+  - [Reunião 08](reunioes/ata08.md)
 
 * Planejamento 
   - [Heatmap](planejamento/heatmap.md)
