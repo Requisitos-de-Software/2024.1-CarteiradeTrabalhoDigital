@@ -1,7 +1,5 @@
 # Reunião 08
 
-## Ata da reunião do dia 16/05
-
 ## Vídeo da Reunião
 
 **Reunião 05**
@@ -15,6 +13,8 @@
 Caso não consiga ver o vídeo, acesse [aqui]().
 
 </center>
+
+## Ata da reunião do dia 16/05
 
 ## Data, Horário, Duração e Local
 
