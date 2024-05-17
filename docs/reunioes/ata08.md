@@ -7,7 +7,7 @@
 <center> 
 <p align="center"> Vídeo 1: RS - Reunião 8. </p>
 
-<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/_KziKRFzCDA?si=ZVn4jY6s_7vYq0u7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="800" src="https://www.youtube-nocookie.com/embed/_KziKRFzCDA?si=ZVn4jY6s_7vYq0u7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <strong> Fonte: </strong> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
