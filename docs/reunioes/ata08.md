@@ -10,9 +10,9 @@
   
 <strong> Fonte: </strong> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
-Caso não consiga ver o vídeo, acesse [aqui]().
-
 </center>
+
+Caso não consiga ver o vídeo, acesse [aqui]().
 
 ## Ata da reunião do dia 16/05
 
