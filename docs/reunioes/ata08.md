@@ -19,8 +19,8 @@ Caso não consiga ver o vídeo, acesse [aqui]().
 ## Data, Horário, Duração e Local
 
 - **Data:** 16/05/2024
-- **Horário de início previsto:** 22:25
-- **Horário de início:** 22:34
+- **Horário de início previsto:** 21:00
+- **Horário de início:** 22:25
 - **Duração:** 9 minutos e 18 segundos
 - **Local:** Teams
 
