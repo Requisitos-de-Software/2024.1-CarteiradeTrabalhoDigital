@@ -4,15 +4,15 @@
 
 **Reunião 05**
 
+<center>
+
 <Vídeo aqui.>
 
-<center>
-  
 <strong> Fonte: </strong> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
-</center>
-
 Caso não consiga ver o vídeo, acesse [aqui]().
+
+</center>
 
 ## Ata da reunião do dia 16/05
 
