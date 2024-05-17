@@ -60,7 +60,7 @@ Segundo os documentos [Manual da Carteira de Trabalho Digital](https://empregabr
   - Última Remuneração Informada;
   - Relação de Trabalho;
   - Tipo de Admissão;
-- Fonte da informação;
+  - Fonte da informação;
 - Permitir anotações;
 - Apresentar gráficos com histórico de remunerações;
 - Gerar arquivo PDF com dados da carteira, parciais ou totais e com seleção individual;
