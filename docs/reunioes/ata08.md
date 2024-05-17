@@ -4,14 +4,14 @@
 
 **Reunião 05**
 
-<center>
+<center> 
+<p align="center"> Vídeo 1: RS - Reunião 8. </p>
 
-<Vídeo aqui.>
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/_KziKRFzCDA?si=ZVn4jY6s_7vYq0u7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <strong> Fonte: </strong> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
-Caso não consiga ver o vídeo, acesse [aqui]().
-
+Caso não consiga ver o vídeo, acesse [aqui](https://www.youtube.com/watch?v=_KziKRFzCDA).
 </center>
 
 ## Ata da reunião do dia 16/05
