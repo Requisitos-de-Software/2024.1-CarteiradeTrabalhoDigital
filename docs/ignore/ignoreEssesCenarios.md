@@ -110,6 +110,21 @@
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+### Encerrar Contratos de Trabalho
+
+| | |
+| - | - |
+| Denominação | Encerrar Contratos de Trabalho |
+| Objetivo/meta | Permitir que a empresa encerre contratos de trabalho existentes. |
+| Contexto | A empresa precisa encerrar um contrato de trabalho devido a demissão, término do contrato ou outra razão relevante. |
+| Atores | Empresa (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário). |
+| Recursos | Aplicativo da carteira de trabalho digital da empresa; <br> Conexão à internet; <br> Banco de dados de contratos de trabalho |
+| Episódios | 1. A empresa faz login no aplicativo da carteira de trabalho digital; <br> A empresa acessa a seção de gerenciamento de contratos de trabalho. <br> 3. A empresa seleciona o contrato de trabalho que deseja encerrar e escolhe a opção correspondente. <br> 3. A empresa fornece o motivo para o encerramento do contrato e confirma a ação. <br> 4. O sistema registra o encerramento do contrato no banco de dados e atualiza o status do contrato para refletir o encerramento. <br> 5. O sistema também atualiza os dados no perfil do trabalhador para refletir o encerramento do contrato. <br> 6. O trabalhador é notificado sobre o encerramento do contrato via e-mail ou notificação no aplicativo. <br> 7. Após a confirmação bem-sucedida, a empresa recebe uma mensagem de confirmação informando que o contrato foi encerrado com sucesso. |
+| Exceção | 1. Se ocorrer um erro durante o processo de encerramento do contrato, uma mensagem de erro é exibida e a empresa é orientada a tentar novamente. <br> 2. Se houver questões pendentes relacionadas ao contrato, o sistema pode exibir uma mensagem de alerta recomendando a resolução dessas questões antes do encerramento. <br> 3. Se a empresa não tiver autorização para encerrar o contrato, uma mensagem de erro é exibida e a ação é bloqueada. |
+| Restrição | 1. A empresa só pode encerrar contratos para os quais tenha autoridade e legitimidade. <br> 2. O encerramento do contrato deve estar em conformidade com as políticas e regulamentos trabalhistas. <br> 3. O sistema deve garantir que todos os dados relacionados ao contrato e ao perfil do trabalhador estejam atualizados antes de concluir o encerramento. |
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
 
 
 
