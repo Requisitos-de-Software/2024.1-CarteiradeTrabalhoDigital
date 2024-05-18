@@ -99,8 +99,8 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 | Issue 18                | Gravação da apresentação da etapa 3                                                                                                    | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 19/05/2024      |
 | Issue 19                | Editar vídeo da apresentação da etapa 3                                                                                                | Breno Alexandre                                  | 20/05/2024      |
 | Issue 20                | Criação do documento de apresentação e avaliação da etapa 3                                                                            | Caio Mesquita                                    | 20/05/2024      |
-| Issue 21                 | Entrevista/ reunião com um usuário para validar o diagrama de caso de uso                                                                                                             | Larissa Stéfane                                 | 18/05/2024      |
-
+| Issue 21                 | Entrevista/reunião com um usuário para validar o diagrama de caso de uso                                                                                                             | Larissa Stéfane                                 | 18/05/2024      |
+| Issue 22                 | Especificação do diagrama do caso de uso                                                                                                            | Larissa Stéfane                                 | 18/05/2024      |
 <center>
   
 <strong> Fonte: </strong> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
@@ -112,4 +112,4 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 | Versão | Alteração                         | Responsável     | Revisor               | Data       |
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
 | 1.0    | Criação Ata da Reunião            | Breno Alexandre | Larissa Stéfane                    | 17/05/2024 |
-| 1.1    | Adição da issue 21          | Larissa Stéfane | -                   | 17/05/2024 |
+| 1.1    | Adição da issue 21 e 22         | Larissa Stéfane | -                   | 17/05/2024 |
