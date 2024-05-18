@@ -1,6 +1,6 @@
-## O trabalhador (Funcionário comcarteira assinada) como protagonista do cenário (Usuário primário)
+## O Trabalhador (Funcionário com Carteira Assinada) como Protagonista do Cenário (Usuário primário)
 
-## Visualizar dados de contratos de trabalho 
+## Visualizar Dados de Contratos de Trabalho 
 
 | | |
 | - | - |
@@ -16,7 +16,7 @@
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 
-## Atualização dos contratos de trabalho
+## Atualização dos Contratos de Trabalho
 
 | | |
 | - | - |
@@ -28,5 +28,20 @@
 | Episódios | 1. O trabalhador faz login no aplicativo da carteira de trabalho digital. <br> 2. O trabalhador acessa a aba "Contratos de Trabalho". <br> 3. O trabalhador seleciona o contrato que deseja verificar. <br> 4. O trabalhador verifica que os dados estão desatualizados e clica em "Atualizar" para solicitar a atualização. <br> 5. O trabalhador indica quais dados deseja atualizar (Já os modificando). <br> 6. O sistema verifica se os dados indicados pelo trabalhador são compatíveis com os dados declarados pela empresa. <br> 7. Se os dados forem compatíveis, o sistema atualiza imediatamente o contrato de trabalho no perfil do trabalhador. <br> 8. Se os dados forem inconsistentes, o sistema envia uma notificação para a empresa informando sobre a solicitação de atualização pendente. <br> 9. Se a empresa atualizar os dados, o sistema atualiza o contrato no perfil do trabalhador. |
 | Exceção | 1. Se ocorrer um erro na validação das alterações pelo sistema, uma mensagem de erro é exibida e o trabalhador é orientado a corrigir os dados inseridos. <br> 2. Se houver um problema de comunicação com o banco de dados durante a atualização, uma mensagem de erro é exibida e o trabalhador é instruído a tentar novamente mais tarde. |
 | Restrição | 1. O trabalhador só pode atualizar contratos dos quais ele seja o titular. <br> 2. As alterações devem estar de acordo com as políticas e regulamentos da empresa. <br> 3. A conexão com a internet deve estar estável durante o processo de atualização. <br> 4. Após um ano sem atualização por parte da empresa, o sistema envia uma nova notificação lembrando sobre a pendência. |
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+## Canal de Denúncias
+
+| | |
+| - | - |
+| Denominação | Realizar Denúncias Trabalhistas |
+| Objetivo/meta | Permitir que o trabalhador faça denúncias sobre questões trabalhistas. |
+| Contexto | O trabalhador identifica uma situação de violação dos direitos trabalhistas e deseja denunciar anonimamente para o orgão apropriado |
+| Atores | Trabalhador (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário); <br> Departamento/ Orgão responsável (Usuário Secundário) |
+| Recursos | Aplicativo da carteira de trabalho digital; <br> Conexão à internet; <br> Banco de dados de denúncias trabalhistas <br> Comunicação com orgão que recebe denúncias|
+| Episódios | 1. O trabalhador faz login no aplicativo da carteira de trabalho digital. <br> 2. O trabalhador acessa a aba "Canal de Denúncias Trabalhistas". <br> 3. O trabalhador inicia o processo de denúncia. <br> 4. O trabalhador preenche os detalhes da denúncia, incluindo data, descrição do incidente e, opcionalmente, documentos ou mídias de suporte, como fotos ou áudios. <br> 5. O sistema verifica a consistência das informações fornecidas, incluindo a validade da data e a integridade dos documentos ou mídias anexadas. <br> 6. Se todas as informações estiverem corretas, a denúncia é enviada anonimamente para o departamento. <br> 7. O sistema exibe uma mensagem de confirmação para o trabalhador informando que a denúncia foi enviada com sucesso. |
+| Exceção | 1. Se ocorrer um erro na validação das informações fornecidas pelo trabalhador, uma mensagem de erro é exibida e o trabalhador é orientado a corrigir os dados inseridos. <br> 2. Se os documentos ou mídias anexadas estiverem corrompidos ou não puderem ser verificados, uma mensagem de erro é exibida e o trabalhador é instruído a tentar novamente com arquivos válidos. |
+| Restrição | 1. O trabalhador deve garantir que as informações fornecidas sejam precisas e completas. <br> 2. A denúncia será tratada anonimamente e encaminhada para o departamento para investigação e ação adequada. |
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
