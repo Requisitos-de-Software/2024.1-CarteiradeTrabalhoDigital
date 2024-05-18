@@ -78,3 +78,17 @@
 | Restrição | 1. A empresa deve fornecer requisitos claros e precisos para as vagas de emprego. <br> 2. A cada três meses, o sistema verifica se a empresa está com o modo "Vagas de Emprego" ativado por mais de três meses consecutivos. Se a empresa estiver com o modo ativado por mais de três meses, o sistema envia uma mensagem de lembrete para verificar se ainda há vagas disponíveis ou se é necessário desativar o modo.
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+### Adicionar Novos Contratos de Trabalho
+
+| | |
+| - | - |
+| Denominação | Adicionar Novos Contratos de Trabalho |
+| Objetivo/meta | Permitir que a empresa adicione novos contratos de trabalho ao sistema. |
+| Contexto | A empresa contratou um novo funcionário e deseja registrar essas informações no sistema. |
+| Atores | Empresa (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário). |
+| Recursos | Aplicativo da carteira de trabalho digital da empresa; <br> Conexão à internet; <br> Banco de dados de contratos de trabalho |
+| Episódios | 1. A empresa faz login no aplicativo da carteira de trabalho digital. 2. A empresa acessa a seção de gerenciamento de contratos de trabalho. <br> 3. A empresa seleciona a opção de adicionar um novo contrato de trabalho e preenche os detalhes necessários, como nome do funcionário, cargo, data de início, salário... <br> 3. O sistema valida as informações fornecidas pela empresa e adiciona o novo contrato ao banco de dados. <br> 4. O sistema também atualiza os dados no perfil do trabalhador para refletir o novo contrato adicionado. <br> 5. Após a confirmação bem-sucedida, a empresa recebe uma mensagem de confirmação informando que o contrato foi adicionado com sucesso. |
+| Exceção | 1. Se houver algum erro na validação das informações fornecidas pela empresa, uma mensagem de erro é exibida e a empresa é orientada a corrigir os dados inseridos. <br> 2. Se ocorrer um problema de conexão com o banco de dados durante a adição do contrato, uma mensagem de erro é exibida e a empresa é instruída a tentar novamente mais tarde. |
+| Restrição | 1. A empresa só pode adicionar contratos para os quais tenha autoridade e legitimidade. <br> 2. Os dados inseridos devem estar em conformidade com as políticas e regulamentos trabalhistas. |
+
