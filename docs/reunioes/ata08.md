@@ -99,6 +99,7 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 | Issue 18                | Gravação da apresentação da etapa 3                                                                                                    | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 19/05/2024      |
 | Issue 19                | Editar vídeo da apresentação da etapa 3                                                                                                | Breno Alexandre                                  | 20/05/2024      |
 | Issue 20                | Criação do documento de apresentação e avaliação da etapa 3                                                                            | Caio Mesquita                                    | 20/05/2024      |
+| Issue 21                 | Entrevista/ reunião com um usuário para validar o diagrama de caso de uso                                                                                                             | Larissa Stéfane                                 | 18/05/2024      |
 
 <center>
   
