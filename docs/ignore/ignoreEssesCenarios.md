@@ -92,3 +92,24 @@
 | Exceção | 1. Se houver algum erro na validação das informações fornecidas pela empresa, uma mensagem de erro é exibida e a empresa é orientada a corrigir os dados inseridos. <br> 2. Se ocorrer um problema de conexão com o banco de dados durante a adição do contrato, uma mensagem de erro é exibida e a empresa é instruída a tentar novamente mais tarde. |
 | Restrição | 1. A empresa só pode adicionar contratos para os quais tenha autoridade e legitimidade. <br> 2. Os dados inseridos devem estar em conformidade com as políticas e regulamentos trabalhistas. |
 
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+### Atualizar Contratos de Trabalho Existente
+
+| | |
+| - | - |
+| Denominação | Atualizar Contratos de Trabalho Existente |
+| Objetivo/meta | Permitir que a empresa atualize informações de contratos de trabalho existentes. |
+| Contexto | A empresa identificou a necessidade de atualizar informações em um contrato de trabalho existente, como alteração de salário, posição, entre outros. |
+| Atores | Empresa (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário). |
+| Recursos | Aplicativo da carteira de trabalho digital da empresa; <br> Conexão à internet; <br> Banco de dados de contratos de trabalho. |
+| Episódios | 1. A empresa faz login no aplicativo da carteira de trabalho digital. <br> 2. A empresa acessa a seção de gerenciamento de contratos de trabalho. <br> 3. A empresa seleciona o contrato de trabalho que deseja atualizar e escolhe a opção de edição. <br> 4. A empresa faz as alterações necessárias nos detalhes do contrato, como salário, cargo, entre outros. <br> 5. O sistema valida as alterações e atualiza os dados do contrato no banco de dados. <br> 6. O sistema também atualiza os dados no perfil do trabalhador para refletir as alterações feitas no contrato. <br> 7. Após a confirmação bem-sucedida, a empresa recebe uma mensagem de confirmação informando que o contrato foi atualizado com sucesso. |
+| Exceção | 1. Se houver algum erro na validação das alterações feitas pela empresa, uma mensagem de erro é exibida e a empresa é orientada a corrigir as informações. <br> 2. Se ocorrer um problema de conexão com o banco de dados durante a atualização do contrato, uma mensagem de erro é exibida e a empresa é instruída a tentar novamente mais tarde. |
+| Restrição | 1. A empresa só pode atualizar contratos para os quais tenha autoridade e legitimidade. <br> 2. As alterações devem estar de acordo com as políticas e regulamentos trabalhistas. |
+
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+
+
+
