@@ -1,6 +1,6 @@
 ## O Trabalhador (Funcionário com Carteira Assinada) como Protagonista do Cenário (Usuário primário)
 
-## Visualizar Dados de Contratos de Trabalho 
+### Visualizar Dados de Contratos de Trabalho 
 
 | | |
 | - | - |
@@ -16,7 +16,7 @@
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 
-## Atualização dos Contratos de Trabalho
+### Atualização dos Contratos de Trabalho
 
 | | |
 | - | - |
@@ -31,7 +31,7 @@
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-## Canal de Denúncias
+### Canal de Denúncias
 
 | | |
 | - | - |
@@ -46,7 +46,7 @@
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-## Escolher Modo de Status
+### Escolher Modo de Status de Procura de Emprego
 
 
 | | |
@@ -59,5 +59,22 @@
 | Episódios | 1. O trabalhador faz login no aplicativo da carteira de trabalho digital. <br> 2. O trabalhador acessa as configurações de perfil e seleciona o modo de status desejado: "Procurando Emprego" ou "Não Procurando Emprego". <br> 3. Se o trabalhador escolher o modo "Procurando Emprego", ele tem a opção de atualizar seu currículo e indicar a cidade onde está procurando emprego. <br> 4. Após atualizar, o sistema analisa o currículo em relação aos requisitos de ofertas dadas pelas empresas. <br> 5. Se uma empresa tiver uma vaga compatível com os requisitos do currículo do trabalhador, o sistema envia uma notificação ou e-mail informando sobre a vaga de emprego. <br> 6. O trabalhador pode ajustar o modo de status a qualquer momento, alternando entre "Procurando Emprego" e "Não Procurando Emprego". |
 | Exceção | 1. Se ocorrer um erro na atualização do currículo ou na indicação da cidade de interesse, uma mensagem de erro é exibida e o trabalhador é orientado a corrigir as informações inseridas. <br> 2. Se houver um problema de comunicação com o sistema de envio de currículos ou com a base de dados de vagas de emprego, uma mensagem de erro é exibida e o trabalhador é instruído a tentar novamente mais tarde. <br> 3. Se o trabalhador escolher o modo "Procurando Emprego" mas não atualizar seu currículo ou indicar uma cidade de interesse, uma mensagem de alerta é exibida recomendando a conclusão dessas ações para melhorar suas chances de encontrar emprego. |
 | Restrição | 1. O trabalhador deve manter seu currículo atualizado para receber notificações sobre vagas de emprego compatíveis. <br>  2. A cidade de interesse indicada pelo trabalhador deve ser válida e reconhecida pelo sistema. |
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+## A Empresa como Protagonista do Cenário (Usuária primária)
+
+### Escolher Modo de Status de Oferta de Emprego
+
+| | |
+| - | - |
+| Denominação | Escolher Modo de Status de Oferta de Emprego |
+| Objetivo/meta | Permitir que a empresa ative o modo de "Vagas de Emprego" para buscar por funcionários e desative-o quando não houver mais vagas disponíveis. |
+| Contexto | A empresa tem vagas de emprego disponíveis e deseja ativar o modo de "Vagas de Emprego" para buscar candidatos qualificados. |
+| Atores | Empresa (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário); <br> Trabalhador (Usuário Secundário). |
+| Recursos | Aplicativo da carteira de trabalho digital da empresa; <br> Conexão à internet; <br> Banco de dados de currículos; <br> Perfis de trabalhadores. |
+| Episódios | 1. A empresa faz login no aplicativo da carteira de trabalho digital e acessa as configurações de perfil. <br> 2. A empresa seleciona a opção de ativar o modo de "Vagas de Emprego" e preenche os requisitos necessários para a vaga, como cargo, habilidades requeridas e localização. <br> 3. O sistema compara os requisitos da vaga com os dados dos currículos dos trabalhadores que têm o status de "Procurando Emprego". <br> 4. Se um currículo corresponder aos requisitos da vaga, o sistema envia uma notificação ou e-mail para o trabalhador informando sobre a oportunidade de emprego e solicitando que entre em contato com a empresa. <br> 5. Quando a empresa não tem mais vagas disponíveis, ela acessa as configurações de perfil e seleciona a opção de desativar o modo de "Vagas de Emprego". |
+| Exceção | 1. Se houver um erro na ativação ou desativação do modo de "Vagas de Emprego", uma mensagem de erro é exibida e a empresa é orientada a tentar novamente. <br> 2. Se não houver currículos correspondentes aos requisitos da vaga, o sistema exibe uma mensagem informando que não foram encontrados candidatos compatíveis no momento. |
+| Restrição | 1. A empresa deve fornecer requisitos claros e precisos para as vagas de emprego. <br> 2. A cada três meses, o sistema verifica se a empresa está com o modo "Vagas de Emprego" ativado por mais de três meses consecutivos. Se a empresa estiver com o modo ativado por mais de três meses, o sistema envia uma mensagem de lembrete para verificar se ainda há vagas disponíveis ou se é necessário desativar o modo.
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
