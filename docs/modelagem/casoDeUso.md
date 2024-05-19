@@ -108,4 +108,4 @@ Tabela 4: Caso de uso UC02
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação documentação. | Bruno Araújo | Iago Passaglia | 19/05/2024 |
-| 1.1 | Caso de uso UC02. | Iago Passaglia | - | 19/05/2024 |
+| 1.1 | Caso de uso UC02. | Iago Passaglia | Bruno Araújo | 19/05/2024 |
