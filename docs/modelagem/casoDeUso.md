@@ -6,6 +6,7 @@
 * [Metodologia](#Metodologia)
 * [Diagrama](#Diagrama-de-Casos-de-Uso)
 * [Especificação](#Especificação-dos-Casos-de-uso)
+* [Especificação quando o usuário é um trabalhador](#Especificação-quando-o-usuário-é-um-trabalhador)
 * [Bibliografia](#Bibliografia)
 * [Histórico de versão](#Histórico-de-versão)
 
