@@ -1,10 +1,19 @@
 # Especificação Suplementar
 
 ## Sumário
-
+* [Introdução](#Introdução)
+* [Metodologia](#Metodologia)
+* [Suportabilidade](#Suportabilidade)
+* [Restrições de Design](#Restrições-de-Design)
+* [Conclusão](#Conclusão)
+* [Referências Bibliográficas](#Referências-Bibliográficas)
+* [Histórico de versão](#Histórico-de-versão)
+* 
 ## Introdução
+A Especificação Suplementar é um documento essencial em projetos de desenvolvimento de sistemas que captura e detalha requisitos não cobertos pelos casos de uso. Seu objetivo é complementar esses casos ao incluir requisitos legais, regulamentares, padrões de aplicativos, atributos de qualidade, requisitos de suporte e compatibilidade, além de restrições de design. Utilizando a metodologia FURPS+ (Funcionalidade, Usabilidade, Confiabilidade, Desempenho e Suportabilidade, além de outros fatores), a Especificação Suplementar assegura que todas as necessidades do sistema sejam consideradas, resultando em um produto final robusto e de alta qualidade.
 
 ## Metodologia
+A metodologia FURPS+ é uma abordagem usada para classificar e organizar os requisitos de um sistema em uma Especificação Suplementar. A sigla FURPS+ representa diferentes categorias de requisitos: funcionalidade, usabilidade, confiabilidade, desempenho e suportabilidade. Funcionalidade refere-se aos requisitos funcionais que descrevem as ações e serviços que o sistema deve realizar. Usabilidade abrange requisitos relacionados à facilidade de uso, interface do usuário e experiência do usuário. Confiabilidade especifica a robustez, disponibilidade, tolerância a falhas e recuperação do sistema. Desempenho define a rapidez, eficiência, tempo de resposta e capacidade do sistema. Suportabilidade aborda a facilidade de manutenção, escalabilidade, adaptabilidade e suporte técnico. O "+" na sigla FURPS+ indica a inclusão de outros aspectos importantes, como requisitos de implementação, que envolvem conformidade com padrões e especificações técnicas; requisitos de interface, que dizem respeito à capacidade do sistema de se comunicar e funcionar em conjunto com outros sistemas; requisitos físicos, que consideram o ambiente físico onde o sistema será utilizado; e restrições de design, que são limitações e diretrizes específicas para o desenvolvimento do sistema. A FURPS+ fornece uma estrutura abrangente para assegurar que todos os aspectos críticos do sistema sejam considerados e documentados, garantindo um desenvolvimento mais completo e eficaz.
 
 ## Suportabilidade
 
@@ -38,4 +47,5 @@ O app Carteira de Trabalho Digital deve adotar restrições de design rigorosas 
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 |   Acição da Suportabilidade  |  Iago Passaglia   |     |  19/05/2024     |
+| 1.0 |   Adição da Suportabilidade           | Iago Passaglia |   -  |  19/05/2024  |
+| 1.1 |   Adição da Introdução e Metodologia  | Luana Medeiros |   -  |  19/05/2024  |
