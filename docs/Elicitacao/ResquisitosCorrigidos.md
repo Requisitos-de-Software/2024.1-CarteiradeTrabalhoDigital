@@ -49,33 +49,24 @@ Legendas:
 | F10                          | Usuário pode realizar anotações | Análise de documentos | Sim |
 | F11                          | Usuário trabalhador pode fazer denúncias trabalhistas contra a empresa | Entrevistas | Não |
 | F12                          | Usuário trabalhador pode consultar informações sobre o FGTS | Storytelling | Não |
-| F13                          | Usuário trabalhador pode consultar benefícios | Análise de documentos | incompleto |
-| F7                          | Usuário trabalhador pode gerar PDF com dados da carteira | Análise de documentos | Sim |
-
-
-| F1                          | Apresentar dados pessoais com orientações e links para correção | Análise de documentos | Sim |
-| F2                          | Listar contratos de trabalho com detalhes | Análise de documentos e storytelling | Sim |
-| F3                          | Listar contratos de trabalho corretamente | Storytelling | Não – Parcialmente |
-| F4                          | Permitir anotações | Análise de documentos |  Parcialmente |
-| F5                          | Apresentar gráficos com histórico de remunerações | Análise de documentos | Sim |
-| F6                         | Gerar arquivo PDF com dados da carteira | Análise de documentos e Storytelling | Parcialmente (O pdf apresenta diferenças do impresso) |
-| F7                         | Ter aba "Benefícios" | Análise de documentos | Sim |
-| F8                          | Mostrar dados como Seguro-Desemprego, Benefício TAC-Taxista, Benefício Emergencial | Análise de documentos e storytelling| Parcialmente (Alguns dados são apresentados errados) |
-| F9                          | Oferecer opções como ocultar dados sensíveis, política de privacidade, perguntas frequentes, entre outros. | Análise de documentos | Parcialmente (Não foi encontrado “ocultar dados sensíveis” |
-| F10                          | Possibilitar avaliação do aplicativo e acesso à seção "Sobre" | Análise de documentos | Sim |
-| F11                         | Acesso à informação de Qualificação Civil e Contratos de Trabalho | Análise de documentos e storytelling | Sim |
-| F12                         | Integração com eSocial | Análise de documentos | Sim |
-| F13                         | Integração com gov.br | Análise de documentos | Sim |
-| F14                         | Permitir integração com vários outros software.                                                                     | Análise de documentos     | Sim           |
-| F15                         | Disponibilizar informações essenciais para os trabalhadores de forma acessível | Storytelling | Parcialmente (Algumas informações não são encontradas) |
-| F16                         | Mandar notificações verdadeiras, evitando alarmes falsos | Storytelling | Não |
-| F17                         | Estar adaptado para ser instalado em qualquer sistema operacional | Storytelling | Parcialmente (Apresenta problemas em IOS) |
-| F18                      | Atualizar os dados do usuário constantemente para evitar defasagem | Storytelling | Não |
-| NF19                         | Informações sobre o FGTS | Storytelling | Não |
-| NF20                         | Ter dados sobre o número da carteira e de série como CIPS | Storytelling | Não |
-| NF21                         | Ter informações de abono salarial | Storytelling | Sim |
-| NF22                         | Apresentar dados básicos do usuário | ANálise de documento | Sim |
-
+| F13                          | Usuário trabalhador pode consultar benefícios (13º salário, férias remuneradas, adicional noturno, vale-transporte, vale-refeição, plano de saúde, abono salarial, benefício TAC-Taxista)| Análise de documentos, Entrevistas e Storytelling| incompleto |
+| F14                          | Usuário trabalhador pode solicitar benefícios | Análise de documentos e entrevistas | Incompleto |
+| F15                          | Usuário trabalhador pode atualizar(declarar) currículo | Entrevistas e Storytelling | Não |
+| F16                          | Usuário trabalhador pode  ativar modo de status (procurando emprego ou não) | Entrevistas | Não |
+| F17                          | Usuário trabalhador por verificar processor seletivos abertos | Análise de documentos | Incompleto |
+| F18                          | Usuário pode ocultar dados sensíveis | Análise de documentos e storytelling | Sim |
+| F19                          | Usuário trabalhador pode consultar o número da carteira e de série como CIPS | Storytelling | Não |
+| F20                          | Usuário recebem notificações do aplicativo | Análise de documentos e Storytelling | Não |
+| F21                          | Usuário pode consultar perguntas frequêntes | Storytelling e Entrevista| Não |
+| F22                          | Usuário empresa pode consultar dados dos funcionários | Entrevistas e análse de documento | Sim |
+| F23                          | Usuário empresa pode atualizar dados dos funcionários | Entrevistas e análse de documento | Incompleto |
+| F24                          | Usuário empresa pode consultar contratos de trabalho | Entrevistas e análse de documento | Incompleto |
+| F25                          | Usuário empresa pode gerar relatórios trabalhistas | Entrevistas | Incompleto |
+| F26                          | Usuário empresa pode receber notificação de denúncias trabalhistas | Entrevistas | Incompleto |
+| F27                          | Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos)| Entrevistas | Sim |
+| F28                          | Usuário empresa pode cadastrar benefícios para a empresa | Entrevistas e análse de documento | Incompleto |
+| F29                          | Usuário empresa pode gerenciar benefícios trabalhistas | Entrevistas | Incompleto |
+| F30                          | Usuário empresa escolher modo de status: "Possui vagas de emprego" ou "Não posui vagas de emprego" | Entrevistas | Não |
 
 
   **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
