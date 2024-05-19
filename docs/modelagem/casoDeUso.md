@@ -56,7 +56,7 @@ Fonte: [Caio Mesquita](https://github.com/caiomesvie)
 
 
 <center>
-Tabela X: Caso de uso UC01
+Tabela 3: Caso de uso UC01
 
 | UC01                | Solicitar Benefício                                              |
 | ------------------- | ---------------------------------------------------------------- |
@@ -75,6 +75,28 @@ Tabela X: Caso de uso UC01
 
 </center>
 
+<center>
+Tabela 4: Caso de uso UC02
+
+| UC02                | Visualizar aba "Emprego"                                         |
+| ------------------- | ---------------------------------------------------------------- |
+| Descrição           | Permitir ao trabalhador acessar e completar informações pessoais para visualizar a aba "Emprego". |
+| Atores              | Trabalhador (Usuário Primário); Plataforma gov.br (Usuário Secundário) |
+| Frequência          | Sempre que o trabalhador precisar visualizar ou atualizar suas informações de emprego. |
+| Pré-condições       | O trabalhador deve estar autenticado no sistema.                 |
+| Fluxo Básico        | <b> FB02 </b> <ol> <li>O trabalhador faz login no aplicativo da carteira de trabalho digital. <li>O trabalhador acessa a aba "Emprego". <li>O trabalhador seleciona a opção "Quero me cadastrar". <li>O sistema exibe o formulário de "Dados Pessoais". <li>O trabalhador preenche o formulário de "Dados Pessoais". <li>O sistema exibe o formulário de "Endereço". <li>O trabalhador preenche o formulário de "Endereço". <li>O sistema exibe o formulário de "Contato". <li>O trabalhador preenche o formulário de "Contato". <li>O trabalhador envia os formulários e conclui a tarefa. </ol> |
+| Fluxos Alternativos | <b> FA02 </b> <ol> <li>Se o trabalhador optar por abandonar a tarefa, ele fecha o aplicativo ou volta à tela inicial sem completar o processo de preenchimento dos formulários. |
+| Fluxos de exceção   | <b> FE02 </b> <ol> <li>Se ocorrer um erro na validação das informações, uma mensagem de erro é exibida e o trabalhador é orientado a corrigir os dados inseridos. <li>Se houver um problema de comunicação com o órgão governamental, uma mensagem de erro é exibida e o trabalhador é instruído a tentar novamente mais tarde. <li>Em dispositivos IOS, se o teclado virtual permanecer sobre o botão de "Concluir" na última etapa, inviabilizando a conclusão da tarefa. </ol> |
+| Restrição           | 1. O trabalhador deve estar autenticado no sistema para efetuar o cadastro.<br>2. A conexão com a internet deve estar estável durante o processo de solicitação. |
+| Pós-condições       | As informações pessoais do trabalhador são registradas e a aba "Emprego" será disponibilizada por completo para o usuário. |
+| Data de Criação     | 19/05/2024                                                        |
+| Rastreabilidade     | [RF02, RF03]                                                      |
+
+
+**Fonte:** [Iago Passaglia](https://github.com/Paxxaglia)
+
+</center>
+
 ## Bibliografia
 
 1. MINISTÉRIO DO TRABALHO E EMPREGO. Passo a Passo Carteira de Trabalho Digital APP e WEB. 2023.
@@ -85,4 +107,5 @@ Tabela X: Caso de uso UC01
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação documentação. | Bruno Araújo | | 19/05/2024 |
+| 1.0 | Criação documentação. | Bruno Araújo | Iago Passaglia | 19/05/2024 |
+| 1.1 | Caso de uso UC02. | Iago Passaglia | - | 19/05/2024 |
