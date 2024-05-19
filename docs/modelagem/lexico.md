@@ -44,7 +44,7 @@ Tabela 2: Léxicos do tipo Verbo
 | | [Iago](https://github.com/Paxxaglia) | | | |
 | | [Larissa](https://github.com/SkywalkerSupreme) | | | |
 | | [Luana](https://github.com/LuaMedeiros) | | | |
-| Avaliar| [Pedro](https://github.com/Izarias) | | | |
+| Avaliar aplicativo| [Pedro](https://github.com/Izarias) |O usuário utiliza a opção avaliar para dar um feedback aos desenvolvedores sobre a qualidade do app. | O usuário entra na opção avaliar aplicativo e é direcionado para a página do app na loja, onde pode dar sua nota sobre a qualidade do aplicativo. |Qualificar, ponderar |
 
 Fonte: Citados ao longo da tabela
 </center>
