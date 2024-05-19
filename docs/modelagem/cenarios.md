@@ -6,25 +6,29 @@
 * [Histórico de versão](#Histórico-de-versão)
 ## Introdução
 
+Um cenário é uma descrição detalhada de uma situação específica na qual o aplicação do Carteira de Trabalho Digital será utilizado. Esses cenários ajudam a capturar as necessidades e expectativas dos usuários, fornecendo contexto sobre como o software deve funcionar em condições reais. Eles são fundamentais para orientar o desenvolvimento e garantir que todas as funcionalidades relevantes sejam contempladas. Além disso, servem como uma base para testes, validação e refinamento dos requisitos ao longo do ciclo de vida do projeto.
+
 ## Metodologia
 
-## Cenários
+Para a elaboração dos cenários, cada um dos integrantes construiiu o cenário de acordo com uma funcionalidade específica. o layout base utilizado para a construção desse cenários está definido na tabela 0
 
 <center>
-Cenário x
+Tabela 0:
 
 | | |
 | - | - |
-|Denominação | |
-|Objetivo/meta | |
-|Contexto | |
-|Atores | |
-|Recursos | |
-|Episódios | |
-|Exceção | |
+|Denominação | Descrição breve da tarefa realizada |
+|Objetivo/meta | Definição clara do que os atores desejam alcançar ao interagir com o sistema |
+|Contexto | Descrição do ambiente ou situação em que o cenário ocorre, incluindo informações relevantes sobre o sistema e os usuários |
+|Atores | Identificação dos principais usuários ou sistemas que interagem no cenário |
+|Recursos | Referem-se aos elementos necessários para a execução e realização do cenário descrito |
+|Episódios | Referem-se a sequências específicas de interações ou eventos que ocorrem dentro do cenário |
+|Exceção | Situações anômalas ou de erro que podem ocorrer durante o fluxo de eventos que faça com que a tarefa não possa ser concluída |
 
-Fonte: []()
+Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
 <center>
+
+## Cenários
 
 ## O Trabalhador (Funcionário com Carteira Assinada) como Protagonista do Cenário (Usuário primário)
 
@@ -250,12 +254,13 @@ A tabela 8 mostra o cenário para quando uma empresa deseja registrar encerramen
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 |  Criação do cenário de trabalhador Visualizar Dados de Contratos de Trabalho   |  Larissa Stéfane   |     |   18/05/2024    |
-| 1.1 |  Criação do cenário de trabalhador Atualizar dos Contratos de Trabalho   |  Larissa Stéfane   |     |   18/05/2024     |
-| 1.2 |  Criação do cenário de trabalhador em canal de denúncias   |  Larissa Stéfane   |     |    18/05/2024    |
-| 1.3 |  Criação do cenário de trabalhador escolhe Modo de Status de Procura de Emprego   |  Larissa Stéfane   |     |   18/05/2024     |
-| 1.4 |  Criação do cenário de empresa escolhe Modo de Status de oferta de Emprego   |   Larissa Stéfane  |     |  18/05/2024      |
-| 1.5 |  Criação do cenário de empresa adiciona novos contratos de trabalho  |   Larissa Stéfane  |     |    18/05/2024    |
-| 1.6 |  Criação do cenário de empresa atualiza contratos de trabalho  |  Larissa Stéfane   |     |    18/05/2024    |
-| 1.7 |  Criação do cenário de empresa encerra contratos de trabalho  |  Larissa Stéfane   |     |   18/05/2024     |
+| 1.0 |  Criação do cenário de trabalhador Visualizar Dados de Contratos de Trabalho   |  Larissa Stéfane   | Bruno Araújo   |   18/05/2024    |
+| 1.1 |  Criação do cenário de trabalhador Atualizar dos Contratos de Trabalho   |  Larissa Stéfane   | Bruno Araújo    |   18/05/2024     |
+| 1.2 |  Criação do cenário de trabalhador em canal de denúncias   |  Larissa Stéfane   | Bruno Araújo    |    18/05/2024    |
+| 1.3 |  Criação do cenário de trabalhador escolhe Modo de Status de Procura de Emprego   |  Larissa Stéfane   |  Bruno Araújo  |   18/05/2024     |
+| 1.4 |  Criação do cenário de empresa escolhe Modo de Status de oferta de Emprego   |   Larissa Stéfane  | Bruno Araújo    |  18/05/2024      |
+| 1.5 |  Criação do cenário de empresa adiciona novos contratos de trabalho  |   Larissa Stéfane  | Bruno Araújo    |    18/05/2024    |
+| 1.6 |  Criação do cenário de empresa atualiza contratos de trabalho  |  Larissa Stéfane   |  Bruno Araújo   |    18/05/2024    |
+| 1.7 |  Criação do cenário de empresa encerra contratos de trabalho  |  Larissa Stéfane   | Bruno Araújo    |   18/05/2024     |
+| 1.8 |  Adição de introdução, metodologia e desenvolvimento do modelo de tabela para cenários |  Iago Passaglia   |      |   19/05/2024     |
 
