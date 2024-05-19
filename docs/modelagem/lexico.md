@@ -2,7 +2,7 @@
 ## Sumário
 
 ## Introdução
-
+No contexto da Interação Humano-Computador, léxico refere-se ao conjunto de palavras e expressões utilizadas nas interfaces de usuário, incluindo rótulos, comandos, mensagens e instruções. Esse componente é crucial, pois influencia diretamente a clareza, a usabilidade e a eficácia da comunicação entre o usuário e o sistema. 
 ## Metodologia
 
 <center>
