@@ -76,7 +76,7 @@ Tabela 4: Léxicos do tipo Estado
 | | [Iago](https://github.com/Paxxaglia) | | | |
 | | [Larissa](https://github.com/SkywalkerSupreme) | | | |
 | | [Luana](https://github.com/LuaMedeiros) | | | |
-| Ativo | [Pedro](https://github.com/Izarias) | | | |
+| Aberto | [Pedro](https://github.com/Izarias) | | | |
 
 Fonte: Citados ao longo da tabela
 </center>
