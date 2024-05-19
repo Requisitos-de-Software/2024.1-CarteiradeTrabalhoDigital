@@ -21,7 +21,7 @@ Tabela 1: Legenda das tabelas de Léxico
 |-|-|-|-|-|-|
 |Divisão baseada na função e no uso dos termos|Palavra ou frase analisada |Integrante do grupo|Significado do símbolo analisado|Efeito, uso ou ocorrência do Símbolo durante sua utilização ou consequência do uso de algo sobre o símbolo|Palavra ou frase de mesmo siginificado do símbolo|
 
-Fonte: [Caio Mesquita]()
+Fonte: [Caio Mesquita](https://github.com/Caiomesvie)
 
 Os Léxicos ainda podem ser classificados em três categorias, sendo elas: Verbo, Objeto e Estado. Essa classificação serve para facilitar a análise e o design das interfaces, garantindo que a terminologia utilizada seja clara e funcional.
 
@@ -32,45 +32,45 @@ Os Léxicos ainda podem ser classificados em três categorias, sendo elas: Verbo
 <center>
 Tabela x: Léxicos do tipo Verbo
 
-|Classificação|Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
-|-|-|-|-|-|-|
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+|Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
+|-|-|-|-|-|
+| | | | | |
+| | | | | |
+| | | | | | 
+| | | | | | 
+| | | | | | 
+| | | | | | 
+| | | | | | 
 
 Fonte: Citados ao longo da tabela
 </center>
 <center>
 Tabela x: Léxicos do tipo Objeto
 
-|Classificação|Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
-|-|-|-|-|-|-|
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+|Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
+|-|-|-|-|-|
+| | | | | | 
+| | | | | | 
+| | | | | | 
+| | | | | | 
+| | | | | | 
+| | | | | | 
+| | | | | | 
 
 Fonte: Citados ao longo da tabela
 </center>
 <center>
 Tabela x: Léxicos do tipo Estado
 
-|Classificação|Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
-|-|-|-|-|-|-|
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+|Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
+|-|-|-|-|-|
+| | | | | | 
+| | | | | | 
+| | | | | | 
+| | | | | | 
+| | | | | | 
+| | | | | | 
+| | | | | | 
 
 Fonte: Citados ao longo da tabela
 </center>
