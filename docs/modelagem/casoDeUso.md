@@ -17,9 +17,8 @@ Um caso de uso se refere a uma descrição detalhada de como o sistema será uti
 
 Para a construção dos casos de uso, utilizamos a técnica de Cenários, que é uma das técnicas de elicitação de requisitos. Essa técnica ajuda a identificar requisitos e prever situações que podem ocorrer no uso do sistema. A metodologia foi baseada na técnica de modelagem de casos de uso apresentada em "Requisitos – Aula 13" (SERRANO; SERRANO, 2017)【2】.
 
-O diagrama de caso de uso é uma representação visual que resume as interações entre os usuários e um sistema, destacando suas funcionalidades e comportamentos. Ele é composto por atores, que representam os usuários, e casos de uso, que descrevem as ações realizadas pelos usuários e as respostas do sistema. Para a realização do caso de uso, utilizamos as técnicas descritas na metodologia da Linguagem de Apoio ao Léxico (LAL)【3】.
+O diagrama de caso de uso é uma representação visual que resume as interações entre os usuários e um sistema, destacando suas funcionalidades e comportamentos. Ele é composto por atores, que representam os usuários, e casos de uso, que descrevem as ações realizadas pelos usuários e as respostas do sistema. Abaixo temos uma tabela onde há os elementos contidos no [Diagrama](#Diagrama-de-Casos-de-Uso)
 
-## Elementos 
 
 <center>
 <b>Tabela 1</b>: Legenda dos elementos do diagrama de caso de uso
