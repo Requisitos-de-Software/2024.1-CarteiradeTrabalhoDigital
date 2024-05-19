@@ -11,11 +11,11 @@
 
 ## Introdução
 
-No contexto da Interação Humano-Computador, léxico refere-se ao conjunto de palavras e expressões utilizadas nas interfaces de usuário, incluindo rótulos, comandos, mensagens e instruções. Esse componente é crucial, pois influencia diretamente a clareza, a usabilidade e a eficácia da comunicação entre o usuário e o sistema.
+No contexto da Engenharia de Requisitos, léxico refere-se ao conjunto de palavras e expressões utilizadas nas interfaces de usuário, incluindo rótulos, comandos, mensagens e instruções. Esse componente é crucial, pois influencia diretamente a clareza, a usabilidade e a eficácia da comunicação entre o usuário e o sistema.
 
 ## Metodologia
 
-A técnica utilizada foi a Linguagem de Apoio ao Léxico (LAL), que é uma metodologia da Interação Humano-Computador para desenvolver e refinar o léxico de uma interface. Consiste em identificar e listar todos os termos ou símbolos presentes na interface de um sistema, analisando sua adequação, consistência e clareza. Cada símbolo tem zero ou mais sinônimos, uma ou mais noções e um ou mais impactos, regras descritas na tabela 1.
+A técnica utilizada foi a Linguagem de Apoio ao Léxico (LAL), que é uma metodologia da Engenharia de Requisitos para desenvolver e refinar o léxico de uma interface. Consiste em identificar e listar todos os termos ou símbolos presentes na interface de um sistema, analisando sua adequação, consistência e clareza. Cada símbolo tem zero ou mais sinônimos, uma ou mais noções e um ou mais impactos, regras descritas na tabela 1.
 
 <center>
 
