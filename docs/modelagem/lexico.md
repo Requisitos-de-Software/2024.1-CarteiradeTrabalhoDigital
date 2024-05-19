@@ -43,7 +43,7 @@ Tabela 2: Léxicos do tipo Verbo
 | | [Caio](https://github.com/caiomesvie) | | | |
 | Enviar carteira de trabalho | [Iago](https://github.com/Paxxaglia) | O trabalhador precisa exportar o documento da carteira de trabalho para algum outro aplicativo | O trabalhador escolhe as opções de exportação da carteira e pode gerar um PDF | Expedir a carteira profissional, Encaminhar a carteira de trabalho, Despachar o registro de trabalho |
 | | [Larissa](https://github.com/SkywalkerSupreme) | | | |
-| | [Luana](https://github.com/LuaMedeiros) | | | |
+| Consultar Vínculos Empregatícios| [Luana](https://github.com/LuaMedeiros) | O usuário utiliza a opção de consultar vínculos empregatícios para visualizar os detalhes dos seus empregos registrados, como datas de admissão e demissão, cargos e empregadores. | O usuário entra na opção consultar vínculos empregatícios e é direcionado para uma página que exibe uma lista de seus empregos registrados. Ao selecionar um vínculo específico, ele pode ver informações detalhadas sobre esse emprego. | Verificar vínculos, checar registros de emprego |
 | Avaliar aplicativo| [Pedro](https://github.com/Izarias) |O usuário utiliza a opção avaliar para dar um feedback aos desenvolvedores sobre a qualidade do app. | O usuário entra na opção avaliar aplicativo e é direcionado para a página do app na loja, onde pode dar sua nota sobre a qualidade do aplicativo. |Qualificar, ponderar |
 
 Fonte: Citados ao longo da tabela
@@ -59,7 +59,7 @@ Tabela 3: Léxicos do tipo Objeto
 | | [Caio](https://github.com/caiomesvie) | | | |
 | Benefício | [Iago](https://github.com/Paxxaglia) | Representa os auxílios ofertados para os trabalhadores contemplados |  O usuário pode solicitar diversos benefícios como Abono salarial, Seguro-desemprego, benefício emergencial entre outros. | Bônus, Auxílio, Comodidade |
 | | [Larissa](https://github.com/SkywalkerSupreme) | | | |
-| | [Luana](https://github.com/LuaMedeiros) | | | |
+| Vínculo Empregatício | [Luana](https://github.com/LuaMedeiros) | O vínculo empregatício representa a relação formal de trabalho entre o trabalhador e a empresa, contendo informações cruciais como datas de admissão e demissão, cargo ocupado, salário e outros detalhes pertinentes ao emprego. | O usuário pode visualizar, editar ou adicionar um novo vínculo empregatício em sua carteira de trabalho digital. O sistema mantém um registro completo e organizado de todos os vínculos empregatícios do usuário, proporcionando uma visão consolidada de sua história profissional. | Contrato de Trabalho, Emprego, Acordo Empresarial |
 | Carteira | [Pedro](https://github.com/Izarias) | Representa a versão digital da Carteira de Trabalho e Previdência Social (CTPS), onde são armazenadas e gerenciadas as informações trabalhistas do usuário.| O usuário pode visualizar suas principais informações no aplicativo.| Cartão, portfólio|
 
 Fonte: Citados ao longo da tabela
@@ -75,7 +75,7 @@ Tabela 4: Léxicos do tipo Estado
 | | [Caio](https://github.com/caiomesvie) | | | |
 | Tempo de serviço | [Iago](https://github.com/Paxxaglia) | O sistema verifica os registros do usuário e os ordena em ordem de tempo de serviço | A visualização se adapta após o click na opção | O usuário pode visualizar uma visão mais ampla relacionada aos seus contratos de trabalho |
 | | [Larissa](https://github.com/SkywalkerSupreme) | | | |
-| | [Luana](https://github.com/LuaMedeiros) | | | |
+| Contrato Ativo | [Luana](https://github.com/LuaMedeiros) | O sistema verifica a existência e validade de um contrato de trabalho entre o trabalhador e a empresa. Se o contrato estiver ativo, seu status é definido como "Ativo". | O contrato de trabalho está vigente e em pleno vigor. O sistema registra e mantém o status do contrato como ativo, indicando que o trabalhador está atualmente empregado pela empresa. | Contrato Vigente, Emprego em Andamento |
 | Contrato de trabalho Aberto | [Pedro](https://github.com/Izarias) | Um contrato de trabalho pode estar "Aberto" se foi recentemente submetido para aprovação e ainda está sendo revisado pela empresa ou pelo sistema.| O estado "Aberto" comunica ao usuário que sua solicitação ou processo está em andamento e ainda não foi concluído. | Em andamento, Em processo|
 
 Fonte: Citados ao longo da tabela
@@ -95,6 +95,7 @@ A definição clara e precisa de termos e expressões no léxico do aplicativo d
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação de documentação | Pedro Augusto | Iago Passaglia | 18/05/2024 |
-| 1.1 | Adição do Léxico | Bruno Araújo | Iago Passaglia | 19/05/2024 |
-| 1.2 | Adição dos Léxicos de verbo, objeto e estado | Iago Passaglia | - | 19/05/2024 |
+| 1.0 | Criação de documentação                      | Pedro Augusto  | Iago Passaglia | 18/05/2024 |
+| 1.1 | Adição do Léxico                             | Bruno Araújo   | Iago Passaglia | 19/05/2024 |
+| 1.2 | Adição dos Léxicos de verbo, objeto e estado | Iago Passaglia | -              | 19/05/2024 |
+| 1.3 | Adição dos Léxicos de verbo, objeto e estado | Luana Medeiros | -              | 19/05/2024 |
