@@ -37,14 +37,20 @@ Legendas:
 
 | Identificação do Requisito | Requisito | Técnica de Elicitação | Implementação |
 |-----------------------------|-----------|-----------------------|---------------|
-| F1                          | Usuário se registrar no aplicativo | Análise de documentos | Sim |
-| F2                          | Usuário poder fazer login para entrar na sua página pessoal | Análise de documentos | Sim |
-| F3                          | Usuário trabalhador pode consultar suas informações pessoais | Análise de documentos | Sim |
-| F4                          | Usuário pode consultar contratos de trabalho | Análise de documentos | Sim |
-| F5                          | Usuário pode atualizar contratos de trabalho | Entrevistas | não |
-| F6                          | Usuário trabalhador pode  | Análise de documentos | Sim |
-
-
+| F01                          | Usuário se registrar no aplicativo | Análise de documentos | Sim |
+| F02                          | Usuário poder fazer login para entrar na sua página pessoal | Análise de documentos | Sim |
+| F03                          | Usuário pode consultar suas informações pessoais | Análise de documentos | Sim |
+| F04                          | Usuário pode atualizar suas informações pessoais | entrevistas | Não |
+| F05                          | Usuário trabalhador pode consultar contratos de trabalho | Análise de documentos | Sim |
+| F06                          | Usuário trabalhador pode atualizar contratos de trabalho | Entrevistas | não |
+| F07                          | Usuário pode gerar PDF com dados da carteira | Análise de documentos | Sim |
+| F08                          | Usuário trabalhador visualizar gráficos com históricos e remunerações dos seus trabalhos | Análise de documentos | Sim |
+| F09                          | Usuário pode gerar PDF com dados da carteira | Análise de documentos | Sim |
+| F10                          | Usuário pode realizar anotações | Análise de documentos | Sim |
+| F11                          | Usuário trabalhador pode fazer denúncias trabalhistas contra a empresa | Entrevistas | Não |
+| F12                          | Usuário trabalhador pode consultar informações sobre o FGTS | Storytelling | Não |
+| F13                          | Usuário trabalhador pode consultar benefícios | Análise de documentos | incompleto |
+| F7                          | Usuário trabalhador pode gerar PDF com dados da carteira | Análise de documentos | Sim |
 
 
 | F1                          | Apresentar dados pessoais com orientações e links para correção | Análise de documentos | Sim |
