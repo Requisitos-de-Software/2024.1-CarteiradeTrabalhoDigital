@@ -201,4 +201,4 @@ A tabela 4 mostra o cenário para quando um trabalhador deseja escolher o seu mo
 | 1.8 |  Adição de introdução, metodologia e desenvolvimento do modelo de tabela para cenários |  Iago Passaglia   |   Bruno Araújo   |   19/05/2024     |
 | 1.9 |  Criação do cenário Solicitar Benefício   |  Bruno Araújo   | Caio Mesquita   |   19/05/2024    |
 | 2.0 | Retirada de 5 Cenários | Larissa Stéfane | - | 19/05/2024 |
-
+| 2.1 | Adição do cenário de consulta de seguro desemprego  | Pedro Izarias | - | 19/05/2024 |
