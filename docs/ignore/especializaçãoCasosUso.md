@@ -40,7 +40,7 @@ Tabela 2: Atualização dos Contratos de Trabalho
 | Fluxos de exceção   | <b> FE01 </b> <ol> <li>Se ocorrer um erro na validação das alterações pelo sistema, uma mensagem de erro é exibida e o usuário (trabalhador) é orientado a corrigir os dados inseridos.</li> <li>Se houver um problema de comunicação com o banco de dados durante a atualização, uma mensagem de erro é exibida e o usuário (trabalhador) é instruído a tentar novamente mais tarde.</li> </ol> |
 | Pós-condições       | O contrato de trabalho é atualizado com sucesso no perfil do usuário (trabalhador). |
 | Data de Criação     | 19/05/2024                                                 |
-| Rastreabilidade     | [F06](https://github.com/SkywalkerSupreme)                |
+| Rastreabilidade     | [F06](Elicitacao/ResquisitosCorrigidos.md), [F22](Elicitacao/ResquisitosCorrigidos.md), [NF18](Elicitacao/ResquisitosCorrigidos.md), [NF16](Elicitacao/ResquisitosCorrigidos.md)               |
 
 Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 </center>
