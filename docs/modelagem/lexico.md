@@ -30,7 +30,7 @@ Os Léxicos ainda podem ser classificados em três categorias, sendo elas: Verbo
 ## Léxicos
 
 <center>
-Tabela x: Léxicos do tipo Verbo
+Tabela 2: Léxicos do tipo Verbo
 
 |Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
 |-|-|-|-|-|
@@ -45,7 +45,7 @@ Tabela x: Léxicos do tipo Verbo
 Fonte: Citados ao longo da tabela
 </center>
 <center>
-Tabela x: Léxicos do tipo Objeto
+Tabela 3: Léxicos do tipo Objeto
 
 |Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
 |-|-|-|-|-|
@@ -60,7 +60,7 @@ Tabela x: Léxicos do tipo Objeto
 Fonte: Citados ao longo da tabela
 </center>
 <center>
-Tabela x: Léxicos do tipo Estado
+Tabela 4: Léxicos do tipo Estado
 
 |Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
 |-|-|-|-|-|
