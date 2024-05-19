@@ -94,34 +94,34 @@ Legendas:
  
 </center>
 
-**Tabela 2**: Requisitos Não Funcionais.
+**Tabela 2**: Requisitos Não Funcionais Verificáveis.
 
 | Identificação do Requisito | Requisito                                                                                                                                                  | Técnica de Elicitação | Implementação |
 |-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|---------------|
-| NF01                         | Oferecer agilidade na solicitação da carteira.                                                                                                            | Análise de documentos     | Parcialmente          |
-| NF02                         | Ser capaz de ter crescimento escalável e suportar personalização.                                                                                          | Análise de documentos     | Parcialmente (Não possível encontrar a opção de personalização)           |
-| NF03                         | Ter a capacidade de atender alterações de demanda no sistema, como mudanças em volumes de dados, de quantidade de transações ou de quantidade de usuários. | Análise de documentos    | Sim           |
-| NF04                         | Ser capaz de atender desde pequenos volumes de transações e de usuários, até demandas de abrangência nacional.                                                   | Análise de documentos     | Parcialmente (Foi relatado casos de lentidão, talvez devido a grande demanda)          |
-| NF05                         | Padrões tipográficos e de siglas, de abreviações e de erros de acordo com as normas.                                                                       | Análise de documentos    | Sim           |
-| NF06                         | Seguir os manuais de interface de acordo com o gov.br.                                                                                                     | Não especificado     | Sim           |
-| NF07                         | Conter os elementos básicos de design para o Padrão Digital de Governo.                                                                                    | Análise de documentos    | Parcialmente           |
-| NF08                         | Ter o básico de segurança: Autenticação, Criptografia, Controle de acesso, Auditoria, Atender as diretrizes e a práticas de segurança no controle de acesso à conta única. | Análise de documentos | Sim           |
-| NF09                      | Garantir as condições de preservação da privacidade das informações do cidadão.                                                                            | Análise de documentos     | Sim           |
-| NF10                       | Em relação à acessibilidade, deve conter: Ampliadores de telas, Leitores de telas, Programas de reconhecimento de voz, Teclados alternativos, Dispositivos apontadores alternativos. | Análise de documentos | Parcialmente          |
-| NF11                         | Apoiar interações do governo e alinhamento com processos de negócios governamentais | Análise de documentos e Storytelling | Parcialmente |
-| NF12                        | Utilização de recursos como vocabulários controlados e taxonomias | Análise de documentos | Sim |
-| NF13                         | Agilidade na solicitação da carteira | Análise de documentos e storytelling| Parcialmente (Algumas vezes o aplicativo apresenta erro) |
-| NF14                       | O aplicativo deve seguir um padrão aceito por empresas e instituições sem provocar transtornos | Storytelling | Parcialmente |
-| NF15                         | Acesso a alguns pontos do aplicativo exige biometria eficiente e prática | Storytelling | Parcialmente |
-| NF16                         | O aplicativo deve permitir ao usuário atualizar seus dados sem causar transtornos e evitar burocracias | Storytelling | Parcialmente |
-| NF17                         | Apresentar dados pessoais com orientações e links para correção | Storytelling | Parcialmente |
-| NF18                         | Listar contratos de trabalho com detalhes | Análise de documentos e storytelling | Sim |
-| NF20                         | Integração com eSocial | Análise de documentos | Sim |
-| NF21                         | Integração com gov.br | Análise de documentos | Sim |
-| NF22                         |Permitir integração com vários outros software.    | Análise de documentos     | Parcialmente          |
-| NF23                         |Mandar notificações verdadeiras, evitando alarmes falsos | Storytelling | Parcialmente |
-| NF24                         |Estar adaptado para ser instalado em qualquer sistema operacional | Storytelling | Parcialmente (Apresenta problemas em IOS) |
-| NF25                         | Atualizar os dados do usuário constantemente para evitar defasagem | Storytelling | Parcialmente |
+| NF01                         | O sistema deve processar solicitações da carteira de trabalho em no máximo 2 minutos.                                                                                                            | Análise de documentos     | Parcialmente          |
+| NF02                         | O sistema deve ser capaz de escalar para suportar até 1 milhão de usuários simultâneos e permitir personalização das interfaces de usuário.                                                                                          | Análise de documentos     | Parcialmente            |
+| NF03                         | O sistema deve suportar um aumento de 100% no volume de dados, transações e número de usuários sem degradação perceptível no desempenho. | Análise de documentos    | Sim           |
+| NF04                         | O sistema deve ser capaz de processar até 10.000 transações por segundo, mesmo em picos de uso nacional.                                                   | Análise de documentos     | Parcialmente (Foi relatado casos de lentidão, talvez devido a grande demanda)          |
+| NF05                         | Todos os textos do sistema devem seguir os padrões tipográficos e de siglas, abreviações e erros conforme as normas.                                                                       | Análise de documentos    | Sim           |
+| NF06                         | A interface do usuário deve estar em conformidade com os manuais de interface gov.br.                                                                                                     | Análise de documentos     | Parcialmente           |
+| NF07                         | A interface do sistema deve incluir todos os elementos básicos de design do Padrão Digital de Governo.                                                                                    | Análise de documentos    | Parcialmente           |
+| NF08                         | O sistema deve implementar autenticação multifator, criptografia AES-256, controle de acesso baseado em funções, e logs de auditoria detalhados. | Análise de documentos | Sim           |
+| NF09                      | O sistema deve garantir a conformidade com a LGPD (Lei Geral de Proteção de Dados).                                                                            | Análise de documentos     | Sim           |
+| NF10                       | O sistema deve oferecer suporte a ampliadores de telas, leitores de telas, programas de reconhecimento de voz, teclados alternativos e dispositivos apontadores alternativos, e ser testado com pelo menos duas ferramentas de acessibilidade diferentes. | Análise de documentos | Parcialmente          |
+| NF11                         | O sistema deve permitir a integração completa com os processos de negócios governamentais, conforme especificado na documentação de requisitos. | Análise de documentos e Storytelling | Parcialmente |
+| NF12                        | O sistema deve utilizar vocabulários controlados e taxonomias padrão do governo, conforme especificado na documentação.| Análise de documentos | Sim |
+| NF13                         | O sistema deve processar solicitações de carteira de trabalho em no máximo 2 minutos, com uma taxa de sucesso de 99%. | Análise de documentos e storytelling| Parcialmente (Algumas vezes o aplicativo apresenta erro) |
+| NF14                       | O aplicativo deve seguir padrões de design aceitos por empresas e instituições, com uma taxa de conformidade de 95% nas avaliações de usabilidade. | Storytelling | Parcialmente |
+| NF15                         | O acesso às funcionalidades principais do aplicativo deve exigir autenticação biométrica e ser completado em menos de 30 segundos. | Storytelling | Parcialmente |
+| NF16                         | O sistema deve permitir ao usuário atualizar seus dados em no máximo 15 minutos, sem a necessidade de intermediários, com uma taxa de sucesso de 95%. | Storytelling | Parcialmente |
+| NF17                         | O sistema deve apresentar dados pessoais com orientações claras e links para correção, com uma taxa de conformidade de 100% nas verificações. | Storytelling | Parcialmente |
+| NF18                         | O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real. | Análise de documentos e storytelling | Parcialmente|
+| NF20                         | O sistema deve ser totalmente integrado com o eSocial, com uma taxa de sincronização de dados de 99%. | Análise de documentos | Parcialmente |
+| NF21                         | O sistema deve ser totalmente integrado com o portal gov.br, com uma taxa de sincronização de dados de 99%. | Análise de documentos | Parcialmente |
+| NF22                         | O sistema deve permitir integração com pelo menos cinco outros sistemas de software, conforme especificado na documentação de requisitos. | Análise de documentos     | Parcialmente          |
+| NF23                         | O sistema deve enviar notificações precisas com uma taxa de falsos positivos inferior a 5%. | Storytelling | Parcialmente |
+| NF24                         | O aplicativo deve ser compatível com iOS, Android e Windows, sem apresentar falhas críticas em nenhum dos sistemas operacionais suportados. | Storytelling | Parcialmente (Apresenta problemas em iOS) |
+| NF25                         | O sistema deve atualizar os dados do usuário automaticamente a cada 24 horas para evitar defasagem, com uma taxa de sucesso de 99%. | Storytelling | Parcialmente |
 
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
@@ -148,3 +148,4 @@ Ao longo deste documento, foram apresentados os requisitos elicitados do aplicat
 | - | - | - | - | - |
 | 1.0 | Criação e execução do requisitos elicitados | Larissa Stéfane | Breno Alexandre |  14/04/2024 |
 | 1.1 | Correção e adição de requisitos| Larissa Stéfane | Bruno Araújo |  18/05/2024 |
+| 1.2 | Corrigindo os requisitos não funcioanis para serem verificáveis| Larissa Stéfane | - |  19/05/2024 |
