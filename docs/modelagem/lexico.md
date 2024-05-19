@@ -34,13 +34,13 @@ Tabela x: Léxicos do tipo Verbo
 
 |Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
 |-|-|-|-|-|
-| | | | | |
-| | | | | |
-| | | | | | 
-| | | | | | 
-| | | | | | 
-| | | | | | 
-| | | | | | 
+| | [Breno](https://github.com/brenoalexandre0.png) | | | |
+| | [Bruno](https://github.com/brunocva.png) | | | |
+| | [Caio](https://github.com/caiomesvie) | | | |
+| | [Iago](https://github.com/Paxxaglia) | | | |
+| | [Larissa](https://github.com/SkywalkerSupreme) | | | |
+| | [Luana](https://github.com/LuaMedeiros) | | | |
+
 
 Fonte: Citados ao longo da tabela
 </center>
@@ -49,13 +49,13 @@ Tabela x: Léxicos do tipo Objeto
 
 |Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
 |-|-|-|-|-|
-| | | | | | 
-| | | | | | 
-| | | | | | 
-| | | | | | 
-| | | | | | 
-| | | | | | 
-| | | | | | 
+| | [Breno](https://github.com/brenoalexandre0.png) | | | |
+| | [Bruno](https://github.com/brunocva.png) | | | |
+| | [Caio](https://github.com/caiomesvie) | | | |
+| | [Iago](https://github.com/Paxxaglia) | | | |
+| | [Larissa](https://github.com/SkywalkerSupreme) | | | |
+| | [Luana](https://github.com/LuaMedeiros) | | | |
+
 
 Fonte: Citados ao longo da tabela
 </center>
@@ -64,13 +64,13 @@ Tabela x: Léxicos do tipo Estado
 
 |Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
 |-|-|-|-|-|
-| | | | | | 
-| | | | | | 
-| | | | | | 
-| | | | | | 
-| | | | | | 
-| | | | | | 
-| | | | | | 
+| | [Breno](https://github.com/brenoalexandre0.png) | | | |
+| | [Bruno](https://github.com/brunocva.png) | | | |
+| | [Caio](https://github.com/caiomesvie) | | | |
+| | [Iago](https://github.com/Paxxaglia) | | | |
+| | [Larissa](https://github.com/SkywalkerSupreme) | | | |
+| | [Luana](https://github.com/LuaMedeiros) | | | |
+
 
 Fonte: Citados ao longo da tabela
 </center>
@@ -78,6 +78,9 @@ Fonte: Citados ao longo da tabela
 
 
 ## Conclusão
+
+Em conclusão, o presente documento oferece um glosário abrangente de termos e conceitos fundamentais no escopo do aplicativo da Carteira de Trabalho Digital, visando facilitar a comunicação e o entendimento entre todos os envolvidos no desenvolvimento de projetos. A padronização e a clareza terminológica são essenciais para evitar ambiguidades e garantir que todos os stakeholders compartilhem uma compreensão comum dos requisitos e expectativas.
+
 
 ## Bibliografia
 1. SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2845027/mod_resource/content/1/Aula%2010.pdf. Acesso em: 19/05/2024.
@@ -87,3 +90,4 @@ Fonte: Citados ao longo da tabela
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 |   Introdução, Metodologia e Sumário  |  Pedro Izarias   |  -   |  19/05/2024   |
+| 1.0 |   Incersão da Conclusão  |  Caio Mesquita  |  Bruno Cunha   |  19/05/2024   |
