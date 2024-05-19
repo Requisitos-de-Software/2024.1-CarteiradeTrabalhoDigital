@@ -32,6 +32,28 @@ Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
 
 ## O Trabalhador (Funcionário com Carteira Assinada) como Protagonista do Cenário (Usuário primário)
 
+### Solicitar Benefício
+
+<details>
+  <summary size="20"><b> Tabela 1: Trabalhador deseja solicitar um benefício </b></summary> 
+
+<center>
+
+**Tabela 1**: Solicitar Benefício
+
+| Denominação | Solicitar Benefício |
+| - | - |
+| Objetivo/meta | Permitir que o trabalhador solicite um benefício, como seguro-desemprego ou auxílio-doença. |
+| Contexto | **Contexto:** O trabalhador precisa solicitar um benefício disponível através do aplicativo da carteira de trabalho digital. <br> **Local:** Na aba "Benefícios". <br> **Tempo:** O processo de solicitação pode levar de 10 a 20 minutos, dependendo da complexidade do benefício solicitado. <br> **Pré-condição:** O trabalhador deve estar autenticado no sistema e ter os documentos necessários para a solicitação. |
+| Atores | Trabalhador (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário); <br> Órgão Governamental (Usuário Secundário) |
+| Recursos | Aplicativo da carteira de trabalho digital; <br> Conexão à internet; <br> Banco de dados de benefícios. |
+| Episódios | 1. O trabalhador faz login no aplicativo da carteira de trabalho digital. <br> 2. O trabalhador acessa a aba "Benefícios". <br> 3. O trabalhador seleciona o benefício desejado. <br> 4. O sistema exibe os requisitos e documentos necessários para a solicitação do benefício. <br> 5. O trabalhador preenche o formulário de solicitação e anexa os documentos necessários. <br> 6. O sistema verifica a consistência das informações e documentos fornecidos. <br> 7. Se todas as informações estiverem corretas, o sistema envia a solicitação para o órgão governamental responsável. <br> 8. O trabalhador recebe uma confirmação de que a solicitação foi enviada com sucesso. |
+| Exceção | 1. Se ocorrer um erro na validação das informações ou documentos, uma mensagem de erro é exibida e o trabalhador é orientado a corrigir os dados inseridos. <br> 2. Se houver um problema de comunicação com o órgão governamental, uma mensagem de erro é exibida e o trabalhador é instruído a tentar novamente mais tarde. <br> 3. Se a solicitação for rejeitada pelo órgão governamental, o trabalhador recebe uma notificação com o motivo da rejeição. |
+| Restrição | 1. O trabalhador deve estar autenticado no sistema para solicitar um benefício. <br> 2. Os documentos anexados devem estar em conformidade com os requisitos especificados pelo órgão governamental. <br> 3. A conexão com a internet deve estar estável durante o processo de solicitação. |
+
+</center>
+</details>
+
 ### Visualizar Dados de Contratos de Trabalho 
 
 A tabela 1 mostra o cenário para quando um trabalhador deseja visualizar os seus dados de trabalho. 
@@ -249,6 +271,10 @@ A tabela 8 mostra o cenário para quando uma empresa deseja registrar encerramen
 
 
 ## Referências Bibliográficas
+
+1.BRASIL. Ministério do Trabalho e Emprego. Passo a passo CTPS Digital APP e WEB. Disponível em: https://empregabrasil.mte.gov.br/wp-content/uploads/2023/02/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf. Acesso em: 19 maio 2024.
+2. UNIVERSIDADE DE BRASÍLIA. Requisitos - Aula 013a. Disponível em: https://aprender3.unb.br/pluginfile.php/2845007/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf. Acesso em: 19 maio 2024.
+
 
 ## Histórico de Versão
 
