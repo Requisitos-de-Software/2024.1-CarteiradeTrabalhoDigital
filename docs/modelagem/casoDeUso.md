@@ -7,6 +7,7 @@
 * [Diagrama](#Diagrama-de-Casos-de-Uso)
 * [Especificação](#Especificação-dos-Casos-de-uso)
 * [Especificação quando o usuário é um trabalhador](#Especificação-quando-o-usuário-é-um-trabalhador)
+* [Especificação quando o usuário é uma empresa](#Especificação-quando-o-usuário-é-uma-empresa)
 * [Bibliografia](#Bibliografia)
 * [Histórico de versão](#Histórico-de-versão)
 
@@ -370,3 +371,4 @@ Tabela 9: Caso de Uso: Encerra contratos de emprego
 | 1.9    | Adição do caso de uso: Empresa atualiza contratos de emprego | Larissa Stéfane | - | 19/05/2024 |
 | 2.0    | Adição do caso de uso: Empresa encerra contratos de emprego | Larissa Stéfane | - | 19/05/2024 |
 | 2.1    | Compactar tabelas do caso 01 e 02 | Larissa Stéfane | - | 19/05/2024 |
+| 2.2    | Atualiação do sumário | Larissa Stéfane | - | 19/05/2024 |
