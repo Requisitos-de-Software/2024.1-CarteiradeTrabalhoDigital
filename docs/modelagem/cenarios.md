@@ -12,8 +12,7 @@ Um cenário é uma descrição detalhada de uma situação específica na qual o
 
 Para a elaboração dos cenários, cada um dos integrantes construiiu o cenário de acordo com uma funcionalidade específica. o layout base utilizado para a construção desse cenários está definido na tabela 0
 
-<center>
-Tabela 0:
+**Tabela 0**: Modelo dos cenários.
 
 | | |
 | - | - |
@@ -26,7 +25,6 @@ Tabela 0:
 |Exceção | Situações anômalas ou de erro que podem ocorrer durante o fluxo de eventos que faça com que a tarefa não possa ser concluída |
 
 Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
-<center>
 
 ## Cenários
 
@@ -53,6 +51,8 @@ Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
 
 </center>
 </details>
+
+**Fonte:** [Bruno Araújo](https://github.com/brunocva)
 
 ### Visualizar Dados de Contratos de Trabalho 
 
@@ -288,5 +288,6 @@ A tabela 8 mostra o cenário para quando uma empresa deseja registrar encerramen
 | 1.5 |  Criação do cenário de empresa adiciona novos contratos de trabalho  |   Larissa Stéfane  | Bruno Araújo    |    18/05/2024    |
 | 1.6 |  Criação do cenário de empresa atualiza contratos de trabalho  |  Larissa Stéfane   |  Bruno Araújo   |    18/05/2024    |
 | 1.7 |  Criação do cenário de empresa encerra contratos de trabalho  |  Larissa Stéfane   | Bruno Araújo    |   18/05/2024     |
-| 1.8 |  Adição de introdução, metodologia e desenvolvimento do modelo de tabela para cenários |  Iago Passaglia   |      |   19/05/2024     |
+| 1.8 |  Adição de introdução, metodologia e desenvolvimento do modelo de tabela para cenários |  Iago Passaglia   |   Bruno Araújo   |   19/05/2024     |
+| 1.9 |  Criação do cenário Solicitar Benefício   |  Bruno Araújo   | Caio Mesquita   |   19/05/2024    |
 

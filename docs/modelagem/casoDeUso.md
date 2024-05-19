@@ -1,4 +1,4 @@
-# Caso de uso (User Case)
+# Caso de uso 
 
 ## Sumário
  
@@ -15,9 +15,11 @@ Um caso de uso se refere a uma descrição detalhada de como o sistema será uti
 
 ## Metodologia
 
-Para a construção dos casos de uso, utilizamos da construção de um diagrama, feito na notação UML(Linguagem de modelagem unificada), onde foi explicitado o conjunto de ações realizados na aplicação estudada. A metodologia foi baseada na técnica de modelagem de casos de uso apresentada em "Requisitos – Aula 13" (SERRANO; SERRANO, 2017)【2】.
+Para a construção dos casos de uso, utilizamos a técnica de Cenários, que é uma das técnicas de elicitação de requisitos. Essa técnica ajuda a identificar requisitos e prever situações que podem ocorrer no uso do sistema. A metodologia foi baseada na técnica de modelagem de casos de uso apresentada em "Requisitos – Aula 13" (SERRANO; SERRANO, 2017)【2】.
 
-O diagrama de caso de uso é uma representação visual que resume as interações entre os usuários e um sistema, destacando suas funcionalidades e comportamentos. Ele é composto por atores, que representam os usuários, e casos de uso, que descrevem as ações realizadas pelos usuários e as respostas do sistema. Abaixo podemos ver uma tabela legenda dos elementos contidos no [Diagrama](#Diagrama-de-Casos-de-Uso)
+O diagrama de caso de uso é uma representação visual que resume as interações entre os usuários e um sistema, destacando suas funcionalidades e comportamentos. Ele é composto por atores, que representam os usuários, e casos de uso, que descrevem as ações realizadas pelos usuários e as respostas do sistema. Para a realização do caso de uso, utilizamos as técnicas descritas na metodologia da Linguagem de Apoio ao Léxico (LAL)【3】.
+
+## Elementos 
 
 <center>
 <b>Tabela 1</b>: Legenda dos elementos do diagrama de caso de uso
@@ -70,7 +72,7 @@ Tabela X: Caso de uso UC01
 | Data de Criação     | 19/05/2024                                                        |
 | Rastreabilidade     | [Requisitos Funcionais RF01, RF02]                              |
 
-Fonte: []
+**Fonte:** [Bruno Araújo](https://github.com/brunocva)
 
 </center>
 
@@ -84,4 +86,4 @@ Fonte: []
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação documentação. | Bruno Araújo |Caio Mesquita | 19/05/2024 |
+| 1.0 | Criação documentação. | Bruno Araújo | | 19/05/2024 |
