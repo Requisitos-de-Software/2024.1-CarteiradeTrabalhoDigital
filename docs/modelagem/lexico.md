@@ -95,4 +95,5 @@ A definição clara e precisa de termos e expressões no léxico do aplicativo d
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação de documentação | Bruno Araújo |  | 19/05/2024 |
+| 1.0 | Criação de documentação | Pedro Augusto | - | 19/05/2024 |
+| 1.1 | Adição do Léxico | Bruno Araújo | - | 19/05/2024 |
