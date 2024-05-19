@@ -11,7 +11,7 @@
 ## Introdução
 No contexto da Interação Humano-Computador, léxico refere-se ao conjunto de palavras e expressões utilizadas nas interfaces de usuário, incluindo rótulos, comandos, mensagens e instruções. Esse componente é crucial, pois influencia diretamente a clareza, a usabilidade e a eficácia da comunicação entre o usuário e o sistema. 
 ## Metodologia
-
+A técnica utilizada foi a Linguagem de Apoio ao Léxico (LAL), que é uma metodologia da Interação Humano-Computador para desenvolver e refinar o léxico de uma interface. Consiste em identificar e listar todos os termos e expressões presentes na interface de um sistema, analisando sua adequação, consistência e clareza.
 <center>
 
 Tabela 1: Legenda das tabelas de Léxico
