@@ -29,59 +29,23 @@ Os Léxicos ainda podem ser classificados em três categorias, sendo elas: Verbo
 
 ## Léxicos
 
-### Verbo
-
+### Léxico X
 <center>
-Tabela 2: Léxicos do tipo Verbo
+Tabela x: Léxicos do tipo Verbo
 
-|Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
-|-|-|-|-|-|
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+|Classificação|Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
+|-|-|-|-|-|-|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
 
 Fonte: Citados ao longo da tabela
 </center>
 
-### Estado
-
-<center>
-Tabela 2: Léxicos do tipo Estado
-
-|Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
-|-|-|-|-|-|
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-
-Fonte: Citados ao longo da tabela
-</center>
-
-### Objeto
-
-<center>
-Tabela 3: Léxicos do tipo Objeto
-
-|Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
-|-|-|-|-|-|
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-
-Fonte: Citados ao longo da tabela
-</center>
 
 ## Conclusão
 
