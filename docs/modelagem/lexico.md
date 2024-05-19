@@ -44,7 +44,7 @@ Tabela 2: Léxicos do tipo Verbo
 | | [Iago](https://github.com/Paxxaglia) | | | |
 | | [Larissa](https://github.com/SkywalkerSupreme) | | | |
 | | [Luana](https://github.com/LuaMedeiros) | | | |
-| | [Pedro](https://github.com/Izarias) | | | |
+| Avaliar| [Pedro](https://github.com/Izarias) | | | |
 
 Fonte: Citados ao longo da tabela
 </center>
@@ -60,7 +60,7 @@ Tabela 3: Léxicos do tipo Objeto
 | | [Iago](https://github.com/Paxxaglia) | | | |
 | | [Larissa](https://github.com/SkywalkerSupreme) | | | |
 | | [Luana](https://github.com/LuaMedeiros) | | | |
-| | [Pedro](https://github.com/Izarias) | | | |
+| Carteira | [Pedro](https://github.com/Izarias) | | | |
 
 Fonte: Citados ao longo da tabela
 </center>
