@@ -17,9 +17,9 @@ A técnica utilizada foi a Linguagem de Apoio ao Léxico (LAL), que é uma metod
 
 Tabela 1: Legenda das tabelas de Léxico
 
-|Classificação|Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
+|Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
 |-|-|-|-|-|-|
-|Divisão baseada na função e no uso dos termos|Palavra ou frase analisada |Integrante do grupo|Significado do símbolo analisado|Efeito, uso ou ocorrência do Símbolo durante sua utilização ou consequência do uso de algo sobre o símbolo|Palavra ou frase de mesmo siginificado do símbolo|
+|Palavra ou frase analisada |Integrante do grupo|Significado do símbolo analisado|Efeito, uso ou ocorrência do Símbolo durante sua utilização ou consequência do uso de algo sobre o símbolo|Palavra ou frase de mesmo siginificado do símbolo|
 
 Fonte: [Caio Mesquita](https://github.com/Caiomesvie)
 
