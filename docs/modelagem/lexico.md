@@ -60,7 +60,7 @@ Tabela 3: Léxicos do tipo Objeto
 | | [Iago](https://github.com/Paxxaglia) | | | |
 | | [Larissa](https://github.com/SkywalkerSupreme) | | | |
 | | [Luana](https://github.com/LuaMedeiros) | | | |
-| Carteira | [Pedro](https://github.com/Izarias) | | | |
+| Carteira | [Pedro](https://github.com/Izarias) | Representa a versão digital da Carteira de Trabalho e Previdência Social (CTPS), onde são armazenadas e gerenciadas as informações trabalhistas do usuário.| O usuário pode visualizar suas principais informações no aplicativo.| Cartão, portfólio|
 
 Fonte: Citados ao longo da tabela
 </center>
