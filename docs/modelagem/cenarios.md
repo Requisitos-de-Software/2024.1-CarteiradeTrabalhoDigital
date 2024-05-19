@@ -13,7 +13,7 @@ Um cenário é uma descrição detalhada de uma situação específica na qual o
 Para a elaboração dos cenários, cada um dos integrantes construiiu o cenário de acordo com uma funcionalidade específica. o layout base utilizado para a construção desse cenários está definido na tabela 0
 
 <center>
-Tabela 0:
+**Tabela 0**: Modelo dos cenários.
 
 | | |
 | - | - |
