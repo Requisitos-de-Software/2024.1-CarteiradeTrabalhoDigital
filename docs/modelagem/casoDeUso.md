@@ -286,7 +286,7 @@ Tabela x: Caso de uso UC00
 **Fonte:** [Pedro Izarias](https://github.com/Izarias)
 
 </center>
-
+ </details>
  
 ## Bibliografia
 
