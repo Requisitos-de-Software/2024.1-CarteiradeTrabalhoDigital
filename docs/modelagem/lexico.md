@@ -76,7 +76,7 @@ Tabela 4: Léxicos do tipo Estado
 | | [Iago](https://github.com/Paxxaglia) | | | |
 | | [Larissa](https://github.com/SkywalkerSupreme) | | | |
 | | [Luana](https://github.com/LuaMedeiros) | | | |
-| Aberto | [Pedro](https://github.com/Izarias) | | | |
+| Contrato de trabalho Aberto | [Pedro](https://github.com/Izarias) | Um contrato de trabalho pode estar "Aberto" se foi recentemente submetido para aprovação e ainda está sendo revisado pela empresa ou pelo sistema.| O estado "Aberto" comunica ao usuário que sua solicitação ou processo está em andamento e ainda não foi concluído. Isso fornece uma visão clara sobre o status atual, reduzindo incertezas.| Em andamento, Em processo|
 
 Fonte: Citados ao longo da tabela
 </center>
