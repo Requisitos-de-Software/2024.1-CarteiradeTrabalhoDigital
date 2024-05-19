@@ -52,7 +52,7 @@ Legendas:
 | F09                          | Usuário pode realizar anotações | Análise de documentos | Sim |
 | F10                          | Usuário trabalhador pode fazer denúncias trabalhistas contra a empresa | Entrevistas | Não |
 | F11                          | Usuário trabalhador pode consultar informações sobre o FGTS | Storytelling | Não |
-| F12                          | Usuário trabalhador pode consultar benefícios (13º salário, férias remuneradas, adicional noturno, vale-transporte, vale-refeição, plano de saúde, abono salarial, benefício TAC-Taxista)| Análise de documentos, Entrevistas e Storytelling| incompleto |
+| F12                          | Usuário trabalhador pode consultar benefícios (13º salário, férias remuneradas, adicional noturno, vale-transporte, vale-refeição, plano de saúde, abono salarial, benefício TAC-Taxista, Seguro Desemprego)| Análise de documentos, Entrevistas e Storytelling| incompleto |
 | F13                          | Usuário trabalhador pode solicitar benefícios | Análise de documentos e entrevistas | Incompleto |
 | F14                          | Usuário trabalhador pode atualizar(declarar) currículo | Entrevistas e Storytelling | Não |
 | F15                          | Usuário trabalhador pode  ativar modo de status (procurando emprego ou não) | Entrevistas | Não |
