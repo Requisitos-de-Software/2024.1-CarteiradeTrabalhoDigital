@@ -25,10 +25,14 @@ Em engenharia de software, um requisito funcional estabelece uma função espec�
 
 Os requisitos funcionais encontrados são mostrados na tabela 1, onde cada requisito possui um identificador e, em rastreabilidade, há um link para a execução da técnica que o elicitou.
 
+**Observação:*** Para visualizar a tabela 1, clicque em "Requisitos Funcionais elicitados".
+
 Legendas:
 
 - F + número: Requisito funcional número x.
 
+<details>
+  <summary size="20"><b> Requisitos Funcionais elicitados </b></summary> 
 
 </center>
 
@@ -71,8 +75,8 @@ Legendas:
 
   **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-</center> 
-
+ </center> 
+ </details>
 
 ## Requisitos Não Funcionais
 
@@ -80,10 +84,15 @@ Os requisitos não funcionais especificam as qualidades ou atributos que o siste
 
 Os requisitos não funcionais encontrados são mostrados na tabela 2, onde cada requisito possui um identificador e, em rastreabilidade, há um link para a execução da técnica que o elicitou.
 
+**Observação:*** Para visualizar a tabela 2, clicque em "Requisitos Não Funcionais elicitados".
+
 Legendas:
 
 - NF + número: Requisito não funcional número x.
 
+<details>
+  <summary size="20"><b> Requisitos Não Funcionais elicitados </b></summary> 
+ 
 </center>
 
 **Tabela 2**: Requisitos Não Funcionais.
@@ -119,6 +128,8 @@ Legendas:
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </center>
+
+</details>
 
 ## Conclusão
 
