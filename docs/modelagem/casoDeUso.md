@@ -42,8 +42,7 @@ A figura abaixo demonstra o diagrama de casos de uso do aplicativo da Carteira d
 
 A seguir, são especificados os casos de uso do aplicativo da Carteira de Trabalho Digital.
 
-<center>
-Tabela 2: Legenda para as tabelas de caso de Uso
+<b>Tabela 2:</b> Legenda para as tabelas de caso de Uso
 
 | Elemento | Significado            |
 | -------- | ---------------------- |
@@ -52,9 +51,9 @@ Tabela 2: Legenda para as tabelas de caso de Uso
 | FA0X     | Fluxo Alternativo Nº X |
 | FE0X     | Fluxo de exceção Nº X  |
 
-Fonte:[Caio Mesquita]()
+Fonte: [Caio Mesquita](https://github.com/caiomesvie)
 
-</center>
+
 
 <center>
 Tabela X: Caso de uso UC01
