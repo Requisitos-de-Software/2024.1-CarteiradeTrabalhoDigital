@@ -55,6 +55,12 @@ Fonte: [Caio Mesquita](https://github.com/caiomesvie)
 
 ## Especificação quando o usuário é um trabalhador
 
+### Trabalhador solicita benefício
+
+A tabela 3 mostra quando o usuário(trabalhador) solicita benefícios.
+
+<details>
+  <summary size="20"><b> Tabela 3: Trabalhador solicita benefícios </b></summary> 
 <center>
 Tabela 3: Caso de uso UC01
 
@@ -74,7 +80,16 @@ Tabela 3: Caso de uso UC01
 **Fonte:** [Bruno Araújo](https://github.com/brunocva)
 
 </center>
+ </details>
 
+### Trabalhador visualiza aba emprego
+
+A tabela 4 mostra quando o usuário(trabalhador) visualiza aba emprego.
+
+<details>
+  <summary size="20"><b> Tabela 4: Trabalhador visualiza aba emprego </b></summary> 
+<center>
+ 
 <center>
 Tabela 4: Caso de uso UC02
 
@@ -96,6 +111,8 @@ Tabela 4: Caso de uso UC02
 **Fonte:** [Iago Passaglia](https://github.com/Paxxaglia)
 
 </center>
+
+ </details>
 
 ### Trabalhador acessa detalhes dos contratos de trabalho
 
@@ -351,3 +368,4 @@ Tabela 9: Caso de Uso: Encerra contratos de emprego
 | 1.8    | Adição do caso de uso: Empresa adiciona novos contratos de emprego | Larissa Stéfane | - | 19/05/2024 |
 | 1.9    | Adição do caso de uso: Empresa atualiza contratos de emprego | Larissa Stéfane | - | 19/05/2024 |
 | 2.0    | Adição do caso de uso: Empresa encerra contratos de emprego | Larissa Stéfane | - | 19/05/2024 |
+| 2.1    | Compactar tabelas do caso 01 e 02 | Larissa Stéfane | - | 19/05/2024 |
