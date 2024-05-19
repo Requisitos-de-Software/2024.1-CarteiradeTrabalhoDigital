@@ -105,9 +105,6 @@ Tabela 4: Caso de uso UC02
 
 <b>SERRANO</b>, Milene; SERRANO, Maurício. Requisitos – Aula 13. 2017. Apresentação de slides. Disponível em: <https://example.com/Requisitos-Aula-013a.pdf>. Acesso em: 19 mai. 2024.
 
-
-## Histórico de Versão
-
 ## Histórico de Versão
 | Versão | Alteração                | Responsável     | Revisor         | Data       |
 | ------ | ------------------------ | --------------- | --------------- | ---------- |
