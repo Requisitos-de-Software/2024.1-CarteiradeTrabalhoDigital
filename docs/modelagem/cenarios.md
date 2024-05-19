@@ -52,6 +52,8 @@ Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
 </center>
 </details>
 
+**Fonte:** [Bruno Araújo](https://github.com/brunocva)
+
 ### Visualizar Dados de Contratos de Trabalho 
 
 A tabela 1 mostra o cenário para quando um trabalhador deseja visualizar os seus dados de trabalho. 
