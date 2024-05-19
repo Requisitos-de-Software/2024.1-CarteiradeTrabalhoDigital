@@ -66,3 +66,31 @@ Tabela 4: Realização de denúncias trabalhistas
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </center>
+
+
+## Trabalhador - Escolher Modo de Status de Procura de Emprego
+
+<center>
+Tabela 5: Trabalhador escolhe o modo de status de procura de emprego
+
+<center>
+
+**Tabela 5: Escolher Modo de Status de Procura de Emprego**
+
+| UC04                  | Escolher Modo de Status                       |
+|-----------------------|-----------------------------------------------|
+| **Descrição**         | Permitir que o Usuário(trabalhador) escolha entre os modos de "Procurando Emprego" e "Não Procurando Emprego" para ajudá-lo na procura por empregos que sejam compatíveis com seu currículo. |
+| **Atores**            | Usuário(trabalhador) (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário); <br> Empresas (Usuário Secundário). |
+| **Frequência**        | Conforme necessidade do Usuário(trabalhador).         |
+| **Pré-condições**     | 1. O Usuário(trabalhador) deve estar autenticado no sistema. <br> 2. O Usuário(trabalhador) deve ter seu currículo, de preferência, atualizado. |
+| **Fluxo Básico**      | <b>FB04</b> <ol> <li>O Usuário(trabalhador) faz login no aplicativo da carteira de trabalho digital.</li> <li>O Usuário(trabalhador) acessa as configurações de perfil.</li> <li>O Usuário(trabalhador) seleciona o modo de status desejado: "Procurando Emprego" ou "Não Procurando Emprego".</li> <li>Se o Usuário(trabalhador) escolher o modo "Procurando Emprego", ele tem a opção de atualizar seu currículo e indicar a cidade onde está procurando emprego.</li> <li>O sistema analisa o currículo em relação aos requisitos de ofertas dadas pelas empresas.</li> <li>Se uma empresa tiver uma vaga compatível com os requisitos do currículo do Usuário(trabalhador), o sistema envia uma notificação ou e-mail informando sobre a vaga de emprego.</li> <li>O Usuário(trabalhador), ao conseguir a vaga desativa o modo "procurando emprego", ou seja, fica como "Não procurando emprego". <br> **Observação:** O usuário(trabalhador) pode ajustar o modo de status a qualquer momento, alternando entre "Procurando Emprego" e "Não Procurando Emprego".</li> </ol> |
+| **Fluxos Alternativos** | **FA04** <ol> <li>Se o Usuário(trabalhador) não tiver interesse em atualizar seu currículo ou indicar uma cidade de interesse:<ul><li>O sistema exibe uma mensagem informando sobre a conclusão da ação sem alterações.</li></ul></li> </ol> |
+| **Fluxos de Exceção** | **FE04** <ol> <li>Se ocorrer um erro na atualização do currículo ou na indicação da cidade de interesse:<ul><li>O sistema exibe uma mensagem de erro informando sobre a inconsistência dos dados.</li><li>O Usuário(trabalhador) é orientado a corrigir as informações inseridas.</li></ul></li><li>Se houver um problema de comunicação com o sistema de envio de currículos ou com a base de dados de vagas de emprego:<ul><li>O sistema exibe uma mensagem de erro informando sobre o problema de comunicação.</li><li>O Usuário(trabalhador) é instruído a tentar novamente mais tarde.</li></ul></li><li>Se o Usuário(trabalhador) escolher o modo "Procurando Emprego" mas não atualizar seu currículo ou indicar uma cidade de interesse:<ul><li>Uma mensagem de alerta é exibida recomendando a conclusão dessas ações para melhorar suas chances de encontrar emprego.</li></ul></li></ol> |
+| **Pós-condições**     | O modo de status é atualizado no perfil do Usuário(trabalhador). |
+| **Data de Criação**   | 19/05/2024                                     |
+| **Rastreabilidade**   | [F15](Elicitacao/ResquisitosCorrigidos.md), [F14](Elicitacao/ResquisitosCorrigidos.md), [FN16](Elicitacao/ResquisitosCorrigidos.md), [NF20](Elicitacao/ResquisitosCorrigidos.md) , [NF22](Elicitacao/ResquisitosCorrigidos.md) 
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+
