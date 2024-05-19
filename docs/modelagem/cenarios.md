@@ -288,5 +288,6 @@ A tabela 8 mostra o cenário para quando uma empresa deseja registrar encerramen
 | 1.5 |  Criação do cenário de empresa adiciona novos contratos de trabalho  |   Larissa Stéfane  | Bruno Araújo    |    18/05/2024    |
 | 1.6 |  Criação do cenário de empresa atualiza contratos de trabalho  |  Larissa Stéfane   |  Bruno Araújo   |    18/05/2024    |
 | 1.7 |  Criação do cenário de empresa encerra contratos de trabalho  |  Larissa Stéfane   | Bruno Araújo    |   18/05/2024     |
-| 1.8 |  Adição de introdução, metodologia e desenvolvimento do modelo de tabela para cenários |  Iago Passaglia   |      |   19/05/2024     |
+| 1.8 |  Adição de introdução, metodologia e desenvolvimento do modelo de tabela para cenários |  Iago Passaglia   |   Bruno Araújo   |   19/05/2024     |
+| 1.9 |  Criação do cenário Solicitar Benefício   |  Bruno Araújo   | Caio Mesquita   |   19/05/2024    |
 
