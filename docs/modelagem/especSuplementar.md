@@ -75,7 +75,7 @@ A tabela x a seguir apresenta os requisitos referentes ao "+" da metodologia esc
 
 O desenvolvimento de aplicativos governamentais requer não apenas funcionalidades eficientes, mas também conformidade com uma série de normas, regulamentos e diretrizes legais. Assim, no contexto da carteira digital do trabalho, é fundamental que o sistema atenda aos requisitos não funcionais relacionados a normas para garantir uma melhor e mais segura experiência para o usuário. Abaixo, a tabela 2 detalha os requisitos relacionados a normas que o aplicativo da carteira digital do trabalho deve seguir para o cumprimento dos padrões governamentais.
 
-**Tabela 2:** Normas que precisam ser seguidas
+**Tabela 4:** Normas que precisam ser seguidas
 
 | ID    | Descrição                                                                                                                                                                                                                                                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------|
