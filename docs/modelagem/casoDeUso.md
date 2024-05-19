@@ -99,13 +99,18 @@ Tabela 4: Caso de uso UC02
 
 ## Bibliografia
 
-1. MINISTÉRIO DO TRABALHO E EMPREGO. Passo a Passo Carteira de Trabalho Digital APP e WEB. 2023.
-2. SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. 2017. Apresentação de slides. Disponível em: <https://example.com/Requisitos-Aula-013a.pdf>. Acesso em: 19 mai. 2024.
-3. SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 14/05/2023.
+<b>MINISTÉRIO DO TRABALHO E EMPREGO</b>. Passo a Passo Carteira de Trabalho Digital APP e WEB. 2023.
+
+<b>SERRANO</b>, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 14/05/2023.
+
+<b>SERRANO</b>, Milene; SERRANO, Maurício. Requisitos – Aula 13. 2017. Apresentação de slides. Disponível em: <https://example.com/Requisitos-Aula-013a.pdf>. Acesso em: 19 mai. 2024.
+
 
 ## Histórico de Versão
 
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 | Criação documentação. | Bruno Araújo | Iago Passaglia | 19/05/2024 |
-| 1.1 | Caso de uso UC02. | Iago Passaglia | Bruno Araújo | 19/05/2024 |
+## Histórico de Versão
+| Versão | Alteração                | Responsável     | Revisor         | Data       |
+| ------ | ------------------------ | --------------- | --------------- | ---------- |
+| 1.0    | Criação da documentação  | Bruno Araújo    | Iago Passaglia  | 19/05/2024 |
+| 1.1    | Caso de uso UC02         | Iago Passaglia  | Bruno Araújo    | 19/05/2024 |
+| 1.2    | Correção da bibliografia | Breno Alexandre | -               | 19/05/2024 |
