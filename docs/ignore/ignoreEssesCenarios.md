@@ -2,9 +2,12 @@
 
 ### Visualizar Dados de Contratos de Trabalho 
 
-| | |
-| - | - |
+A tabela 1 mostra o cenário para quando um trabalhador deseja visualizar os seus dados de trabalho. 
+
+**Tabela 1**: Visualizar Dados de Contratos de Trabalho 
+
 | Denominação | Acessar Detalhes dos Contratos de Trabalho |
+| - | - | 
 | Objetivo/meta | Permitir ao trabalhador visualizar os detalhes dos seus vínculos trabalhistas, incluindo anotações, observações e gráficos sobre sua vida laboral. |
 | Contexto | **Contexto**: O trabalhador deseja consultar informações detalhadas sobre seus contratos de trabalho, incluindo histórico de remunerações e outras anotações importantes. <br> **Local**: Na aba "Contratos de Trabalho". <br> **Tempo**: O processo de visualização dos dados é imediato, geralmente leva de 1 a 4 minutos para carregar e visualizar as informações. <br> **Pré-condição**: O trabalhador deve estar autenticado no sistema.|
 | Atores | Trabalhador (Usuário Primário); <br>  Sistema de Banco de Dados (Usuário Secundário). |
@@ -18,9 +21,12 @@
 
 ### Atualização dos Contratos de Trabalho
 
-| | |
-| - | - |
+A tabela 2 mostra o cenário para quando um trabalhador deseja atualizar seus contratos de trabalho
+
+**Tabela 2**: Atualização dos Contratos de Trabalho
+
 | Denominação | Atualização de Contrato |
+| - | - |
 | Objetivo/meta | Permitir que o trabalhador atualize as informações de um contrato de trabalho existente. |
 | Contexto | **Contexto:** O trabalhador precisa fazer uma alteração em um contrato devido a uma mudança nas condições de emprego ou desafagem dos dados. <br> **Local:** Na aba "Contratos de Trabalho"  <br> **Tempo:** A atualização de dados pode levar de 5 a 10 minutos, dependendo da quantidade de informações a serem alteradas. <br> **Pré-condição:**  O trabalhador deve estar autenticado no sistema e ter as informações necessárias para a atualização. |
 | Atores | Trabalhador (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário); <br> Empresa (Usuário Secundário) |
@@ -33,9 +39,10 @@
 
 ### Canal de Denúncias
 
-| | |
-| - | - |
+
+
 | Denominação | Realizar Denúncias Trabalhistas |
+| - | - |
 | Objetivo/meta | Permitir que o trabalhador faça denúncias sobre questões trabalhistas. |
 | Contexto |  **Contexto:** O trabalhador identifica uma situação de violação dos direitos trabalhistas e deseja denunciar anonimamente para o orgão apropriado. <br> **Local:** Na aba "Canal de Denúncias Trabalhistas".  <br> **Tempo:** O preenchimento e envio da denúncia pode levar de 15 a 20 minutos, dependendo do nível de detalhe fornecido.  <br> **Pré-condição:** O trabalhador deve estar autenticado no sistema e possuir informações detalhadas sobre a denúncia.|
 | Atores | Trabalhador (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário); <br> Departamento/ Orgão responsável (Usuário Secundário) |
@@ -49,9 +56,9 @@
 ### Escolher Modo de Status de Procura de Emprego
 
 
-| | |
-| - | - |
+
 | Denominação | Escolher Modo de Status |
+| - | - |
 | Objetivo/meta | Permitir que o trabalhador escolha entre os modos de "Procurando Emprego" e "Não Procurando Emprego" para ajudá-lo na procura por empregos que sejam compatíveis com seu currículo. |
 | Contexto |  **Contexto:** O trabalhador está ativamente procurando emprego e deseja indicar sua disponibilidade para receber notificações sobre vagas/ofertas compatíveis com seu perfil. <br> **Local:**  Nas configurações de perfil.  <br> **Tempo:** A seleção e atualização do modo de status pode levar de 3 a 45 minutos (se tiver que atualizar o currículo). <br> **Pré-condição:** O trabalhador deve estar autenticado no sistema e ter seu currículo, de preferência, atualizado. |
 | Atores | Trabalhador (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário); <br> Empresas (Usuário Secundário) |
@@ -66,9 +73,9 @@
 
 ### Escolher Modo de Status de Oferta de Emprego
 
-| | |
-| - | - |
+
 | Denominação | Escolher Modo de Status de Oferta de Emprego |
+| - | - |
 | Objetivo/meta | Permitir que a empresa ative o modo de "Vagas de Emprego" para buscar por funcionários e desative-o quando não houver mais vagas disponíveis. |
 | Contexto |  **Contexto:** A empresa tem vagas de emprego disponíveis e deseja ativar o modo de "Vagas de Emprego" para buscar candidatos qualificados. <br> **Local:** Nas configurações de perfil. <br> **Tempo:** A ativação ou desativação do modo de status de oferta de emprego pode levar de 5 a 10 minutos. <br> **Pré-condição:** A empresa deve estar autenticada no sistema e ter as vagas de emprego definidas.|
 | Atores | Empresa (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário); <br> Trabalhador (Usuário Secundário). |
@@ -81,9 +88,9 @@
 
 ### Adicionar Novos Contratos de Trabalho
 
-| | |
-| - | - |
+
 | Denominação | Adicionar Novos Contratos de Trabalho |
+| - | - |
 | Objetivo/meta | Permitir que a empresa adicione novos contratos de trabalho ao sistema. |
 | Contexto |  **Contexto:** A empresa contratou um novo funcionário e deseja registrar essas informações no sistema. <br> **Local:** Na seção de gerenciamento de contratos de trabalho.  <br> **Tempo:** O processo de adição de um novo contrato pode levar de 15 a 30 minutos, dependendo da quantidade de informações. <br> **Pré-condição:** A empresa deve estar autenticada no sistema e ter todas as informações necessárias do novo contrato. |
 | Atores | Empresa (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário). |
@@ -96,9 +103,9 @@
 
 ### Atualizar Contratos de Trabalho Existente
 
-| | |
-| - | - |
+
 | Denominação | Atualizar Contratos de Trabalho Existente |
+| - | - |
 | Objetivo/meta | Permitir que a empresa atualize informações de contratos de trabalho existentes. |
 | Contexto |  **Contexto:**  A empresa identificou a necessidade de atualizar informações em um contrato de trabalho existente, como alteração de salário, posição, entre outros.  <br> **Local:** Na seção de gerenciamento de contratos de trabalho.  <br> **Tempo:** A atualização de um contrato existente pode levar de 15 a 30 minutos, dependendo das alterações necessárias. <br> **Pré-condição:** A empresa deve estar autenticada no sistema e ter as informações atualizadas prontas para inserção. |
 | Atores | Empresa (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário). |
@@ -112,9 +119,9 @@
 
 ### Encerrar Contratos de Trabalho
 
-| | |
-| - | - |
+
 | Denominação | Encerrar Contratos de Trabalho |
+| - | - |
 | Objetivo/meta | Permitir que a empresa encerre contratos de trabalho existentes. |
 | Contexto |  **Contexto:** A empresa precisa encerrar um contrato de trabalho devido a demissão, término do contrato ou outra razão relevante. |
 | Atores | Empresa (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário). <br> **Local:** Na seção de gerenciamento de contratos de trabalho. <br> **Tempo:** O encerramento de um contrato pode levar de 15 a 30 minutos.  <br> **Pré-condição:** A empresa deve estar autenticada no sistema e ter um motivo válido para o encerramento do contrato.|
