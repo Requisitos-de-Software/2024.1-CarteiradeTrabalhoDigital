@@ -76,6 +76,8 @@ Legendas:
 
 ## Requisitos Não Funcionais
 
+Os requisitos não funcionais especificam as qualidades ou atributos que o sistema deve possuir, como desempenho, segurança, usabilidade e confiabilidade. Diferentemente dos requisitos funcionais, que se concentram no que o sistema faz, os requisitos não funcionais estão mais relacionados a como o sistema deve realizar suas funções.
+
 Os requisitos não funcionais encontrados são mostrados na tabela 2, onde cada requisito possui um identificador e, em rastreabilidade, há um link para a execução da técnica que o elicitou.
 
 Legendas:
@@ -91,7 +93,7 @@ Legendas:
 | NF1                         | Oferecer agilidade na solicitação da carteira.                                                                                                            | Análise de documentos     | Parcialmente          |
 | NF2                         | Ser capaz de ter crescimento escalável e suportar personalização.                                                                                          | Análise de documentos     | Parcialmente (Não possível encontrar a opção de personalização)           |
 | NF3                         | Ter a capacidade de atender alterações de demanda no sistema, como mudanças em volumes de dados, de quantidade de transações ou de quantidade de usuários. | Análise de documentos    | Sim           |
-| NF4                         | Ser capaz de atender pequenos volumes de transações e de usuários, até demandas de abrangência nacional.                                                   | Análise de documentos     | Parcialmente (Foi relatado casos de lentidão, talvez devido a grande demanda)          |
+| NF4                         | Ser capaz de atender desde pequenos volumes de transações e de usuários, até demandas de abrangência nacional.                                                   | Análise de documentos     | Parcialmente (Foi relatado casos de lentidão, talvez devido a grande demanda)          |
 | NF5                         | Padrões tipográficos e de siglas, de abreviações e de erros de acordo com as normas.                                                                       | Análise de documentos    | Sim           |
 | NF6                         | Seguir os manuais de interface de acordo com o gov.br.                                                                                                     | Não especificado     | Sim           |
 | NF7                         | Conter os elementos básicos de design para o Padrão Digital de Governo.                                                                                    | Análise de documentos    | Parcialmente           |
@@ -104,6 +106,14 @@ Legendas:
 | NF14                       | O aplicativo deve seguir um padrão aceito por empresas e instituições sem provocar transtornos | Storytelling | Parcialmente |
 | NF15                         | Acesso a alguns pontos do aplicativo exige biometria eficiente e prática | Storytelling | Parcialmente |
 | NF16                         | O aplicativo deve permitir ao usuário atualizar seus dados sem causar transtornos e evitar burocracias | Storytelling | Parcialmente |
+| NF17                         | Apresentar dados pessoais com orientações e links para correção | Storytelling | Parcialmente |
+| NF18                         | Listar contratos de trabalho com detalhes | Análise de documentos e storytelling | Sim |
+| NF20                         | Integração com eSocial | Análise de documentos | Sim |
+| NF21                         | Integração com gov.br | Análise de documentos | Sim |
+| NF22                         |Permitir integração com vários outros software.    | Análise de documentos     | Parcialmente          |
+| NF23                         |Mandar notificações verdadeiras, evitando alarmes falsos | Storytelling | Parcialmente |
+| NF24                         |Estar adaptado para ser instalado em qualquer sistema operacional | Storytelling | Parcialmente (Apresenta problemas em IOS) |
+| NF25                         | Atualizar os dados do usuário constantemente para evitar defasagem | Storytelling | Parcialmente |
 
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
@@ -126,4 +136,5 @@ Ao longo deste documento, foram apresentados os requisitos elicitados do aplicat
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e correção do requisitos elicitados | Larissa Stéfane | - |  18/05/2024 |
+| 1.0 | Criação e execução do requisitos elicitados | Larissa Stéfane | Breno Alexandre |  14/04/2024 |
+| 1.1 | Correção e adição de requisitos| Larissa Stéfane | - |  18/05/2024 |
