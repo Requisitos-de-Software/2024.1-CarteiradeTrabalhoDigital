@@ -8,7 +8,8 @@
 * [Conclusão](#Conclusão)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
-* 
+
+  
 ## Introdução
 A Especificação Suplementar é um documento essencial em projetos de desenvolvimento de sistemas que captura e detalha requisitos não cobertos pelos casos de uso. Seu objetivo é complementar esses casos ao incluir requisitos legais, regulamentares, padrões de aplicativos, atributos de qualidade, requisitos de suporte e compatibilidade, além de restrições de design. Utilizando a metodologia FURPS+ (Funcionalidade, Usabilidade, Confiabilidade, Desempenho e Suportabilidade, além de outros fatores), a Especificação Suplementar assegura que todas as necessidades do sistema sejam consideradas, resultando em um produto final robusto e de alta qualidade.
 
