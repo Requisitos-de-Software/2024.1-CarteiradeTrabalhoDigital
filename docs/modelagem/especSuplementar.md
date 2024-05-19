@@ -18,25 +18,20 @@ A metodologia FURPS+ é uma abordagem usada para classificar e organizar os requ
 
 ## Suportabilidade
 
-Multiplataforma(Versão mobile e versão web) e responsividade.
+A tabela x a seguir apresenta os requisitos associados ao suporte e manutenção do sistema. Esses requisitos incluem a facilidade de manutenção, a capacidade de modificação e atualização do sistema, a disponibilidade de documentação adequada, e a facilidade de teste e diagnóstico de problemas.
 
-### Web
+<font><p style="text-align: center">Tabela x - Requisitos de Suportabilidade.</p></font>
 
-A Carteira de Trabalho Digital pode ser acessada e usada através de um navegador em desktops, tablets ou smartphones, apenas exigindo uma conexão com a internet.
+| ID    | Descrição                                                                                                                                                                                                                                                                  |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| SUP01 | O sistema deve registrar logs detalhados de eventos e atividades do aplicativo para facilitar a depuração e o monitoramento do desempenho.                  |
+| SUP02 | O sistema deve possuir documentação completa e atualizada para o código-fonte do aplicativo, incluindo instruções de instalação, configuração e uso de APIs.|
+| SUP03 | O sistema deve Implementar um gerenciamento robusto de erros e exceções para lidar com falhas inesperadas e garantir uma experiência do usuário suave.      |
+| SUP04 | O sistema deve possuir uma uma arquitetura flexível e modular, permitindo fácil manutenção e adição de novos recursos no futuro.                            |
+| SUP05 | O sistema deve ser responsivo e compatível com uma variedade de dispositivos móveis com diferentes tamanhos e resoluções de tela.                           |
 
-Onde acessar: [Carteira de Trabalho Digital WEB](https://www.gov.br/pt-br/temas/carteira-de-trabalho-digital)
+<font size="3"><p style="text-align: center">Fonte: [Iago Passaglia](https://github.com/Paxxaglia).</p></font>
 
-### iOS
-
-Para dispositivos Apple, a aplicação móvel requer o iOS 13.0 ou superior.
-
-Onde eftuar download: [Carteira de Trabalho Digital Apple Store](https://apps.apple.com/br/app/carteira-de-trabalho-digital/id1295257499)
-
-### Android
-
-Para dispositivos Android, a aplicação móvel deve ser utilizada em sistemas Android 5.0 ou mais recentes.
-
-Onde eftuar download: [Carteira de Trabalho Digital Google Play](https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&pli=1)
 
 ## Restrições de Design
 
