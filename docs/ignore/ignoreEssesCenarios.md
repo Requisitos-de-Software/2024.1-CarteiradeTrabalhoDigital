@@ -4,6 +4,11 @@
 
 A tabela 1 mostra o cenário para quando um trabalhador deseja visualizar os seus dados de trabalho. 
 
+<details>
+  <summary size="20"><b> Tabela 1: Trabalhador deseja visualizar Dados de Contratos de Trabalho </b></summary> 
+
+<center>
+
 **Tabela 1**: Visualizar Dados de Contratos de Trabalho 
 
 | Denominação | Acessar Detalhes dos Contratos de Trabalho |
@@ -18,10 +23,17 @@ A tabela 1 mostra o cenário para quando um trabalhador deseja visualizar os seu
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+ </center> 
+ </details>
 
 ### Atualização dos Contratos de Trabalho
 
 A tabela 2 mostra o cenário para quando um trabalhador deseja atualizar seus contratos de trabalho
+
+<details>
+  <summary size="20"><b> Tabela 2: Trabalhador deseja atualizar dados de Contratos de Trabalho </b></summary> 
+
+<center>
 
 **Tabela 2**: Atualização dos Contratos de Trabalho
 
@@ -37,10 +49,18 @@ A tabela 2 mostra o cenário para quando um trabalhador deseja atualizar seus co
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+ </center> 
+ </details>
+
 ### Canal de Denúncias
 
 A tabela 3 mostra o cenário para quando um trabalhador deseja relacionar uma denúncia sobre a empresa onde trabalha.
 
+<details>
+  <summary size="20"><b> Tabela 3: Trabalhador no Canal de Denúncias </b></summary> 
+
+<center>
+  
 **Tabela 3**:  Trabalhador no Canal de Denúncias
 
 
@@ -56,10 +76,18 @@ A tabela 3 mostra o cenário para quando um trabalhador deseja relacionar uma de
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+ </center> 
+ </details>
+
 ### Escolher Modo de Status de Procura de Emprego
 
 
 A tabela 4 mostra o cenário para quando um trabalhador deseja escolher o seu modo de status em relação a procura de emprego
+
+<details>
+  <summary size="20"><b> Tabela 4: Trabalhador deseja escolher Modo de Status de Procura de Emprego </b></summary> 
+
+<center>
 
 **Tabela 4**:  Escolher Modo de Status de Procura de Emprego
 
@@ -75,11 +103,19 @@ A tabela 4 mostra o cenário para quando um trabalhador deseja escolher o seu mo
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+</center> 
+ </details>
+
 ## A Empresa como Protagonista do Cenário (Usuária primária)
 
 ### Escolher Modo de Status de Oferta de Emprego
 
 A tabela 5 mostra o cenário para quando uma empresa deseja divulgar que está com oferta de empregos
+
+<details>
+  <summary size="20"><b> Tabela 5: Empresa deseja escolher Modo de Status de oferta de Emprego </b></summary> 
+
+<center>
 
 **Tabela 5**:  Escolher Modo de Status de Oferta de Emprego
 
@@ -95,9 +131,17 @@ A tabela 5 mostra o cenário para quando uma empresa deseja divulgar que está c
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+</center> 
+ </details>
+
 ### Adicionar Novos Contratos de Trabalho
 
 A tabela 6 mostra o cenário para quando uma empresa deseja registrar novos contratos de trabalho
+
+<details>
+  <summary size="20"><b> Tabela 6: Empresa registra novos contratos de trabalho </b></summary> 
+
+<center>
 
 **Tabela 6**:  Empresa registra novos contratos de trabalho
 
@@ -113,9 +157,17 @@ A tabela 6 mostra o cenário para quando uma empresa deseja registrar novos cont
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+</center> 
+ </details>
+ 
 ### Atualizar Contratos de Trabalho Existente
 
 A tabela 7 mostra o cenário para quando uma empresa deseja atualizar contratos de trabalho
+
+<details>
+  <summary size="20"><b> Tabela 7: Empresa atualiza contratos de trabalho </b></summary> 
+
+<center>
 
 **Tabela 7**:  Empresa atualiza contratos de trabalho
 
@@ -132,9 +184,17 @@ A tabela 7 mostra o cenário para quando uma empresa deseja atualizar contratos 
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+</center> 
+ </details>
+ 
 ### Encerrar Contratos de Trabalho
 
 A tabela 8 mostra o cenário para quando uma empresa deseja registrar encerramento de contratos de trabalho
+
+<details>
+  <summary size="20"><b> Tabela 8: Empresa registra encerramento contratos de trabalho </b></summary> 
+
+<center>
 
 **Tabela 8**:  Empresa registra encerramento contratos de trabalho
 
@@ -149,6 +209,9 @@ A tabela 8 mostra o cenário para quando uma empresa deseja registrar encerramen
 | Restrição | 1. A empresa só pode encerrar contratos para os quais tenha autoridade e legitimidade. <br> 2. O encerramento do contrato deve estar em conformidade com as políticas e regulamentos trabalhistas. <br> 3. O sistema deve garantir que todos os dados relacionados ao contrato e ao perfil do trabalhador estejam atualizados antes de concluir o encerramento. |
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center> 
+ </details>
 
 
 
