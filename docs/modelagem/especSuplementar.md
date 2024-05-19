@@ -78,3 +78,4 @@ A tabela x a seguir apresenta os requisitos referentes ao "+" da metodologia esc
 | - | - | - | - | - |
 | 1.0 |   Adição da Suportabilidade           | Iago Passaglia |   -  |  19/05/2024  |
 | 1.1 |   Adição da Introdução e Metodologia  | Luana Medeiros |   -  |  19/05/2024  |
+| 1.2 |   Adição dos requisitos suplementares  | Pedro Izarias |   -  |  19/05/2024  |
