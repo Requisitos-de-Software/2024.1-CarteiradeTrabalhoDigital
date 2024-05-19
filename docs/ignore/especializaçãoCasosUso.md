@@ -158,3 +158,24 @@ Tabela 8: Atualizar contratos de emprego
 
 </center>
 
+## Empresa - Encerra contratos de emprego
+
+<center>
+
+Tabela 9: AEncerra contratos de emprego
+
+| UC08                                  | Encerrar Contratos de Trabalho                             |
+| ------------------------------------- | ------------------------------------------------------------ |
+| **Descrição**                         | Permitir que a empresa encerre contratos de trabalho existentes. |
+| **Atores**                            | Empresa (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário). |
+| **Frequência**                        | Conforme necessidade da empresa para encerrar contratos de trabalho. |
+| **Pré-condições**                     | 1. A empresa deve estar autenticada no sistema. <br> 2. A empresa deve ter um motivo válido para o encerramento do contrato. |
+| **Fluxo Básico**                      | **FB08** <ol> <li> A empresa faz login no aplicativo da carteira de trabalho digital. <li> A empresa acessa a seção de gerenciamento de contratos de trabalho. <li> A empresa seleciona o contrato de trabalho que deseja encerrar e escolhe a opção correspondente. <li> A empresa fornece o motivo para o encerramento do contrato e confirma a ação. <li> O sistema registra o encerramento do contrato no banco de dados e atualiza o status do contrato para refletir o encerramento. <li> O sistema também atualiza os dados no perfil do trabalhador para refletir o encerramento do contrato. <li> O trabalhador é notificado sobre o encerramento do contrato via e-mail ou notificação no aplicativo. <li> Após a confirmação bem-sucedida, a empresa recebe uma mensagem de confirmação informando que o contrato foi encerrado com sucesso. </ol> |
+| **Fluxos Alternativos**               | **FA08** <ol> <li> Se a empresa deseja cancelar o encerramento do contrato: <ul><li> A empresa seleciona a opção de cancelar ou voltar sem encerrar o contrato. <li> O sistema cancela a ação de encerramento do contrato e retorna à tela anterior.</ul> </ol> |
+| **Fluxos de Exceção**                 | **FE08** <ol> <li> Se ocorrer um erro durante o processo de encerramento do contrato: <ul><li> O sistema exibe uma mensagem de erro informando sobre o problema ocorrido. <li> A empresa é orientada a tentar novamente mais tarde.</ul> <li> Se houver questões pendentes relacionadas ao contrato:<ul><li> O sistema exibe uma mensagem de alerta recomendando a resolução dessas questões antes do encerramento do contrato. </ul> <li> Se a empresa não tiver autorização para encerrar o contrato:<ul><li> O sistema exibe uma mensagem de erro informando que a ação é bloqueada.</ul> </ol> |
+| **Data de Criação**                   | 19/05/2024                                                   |
+| **Rastreabilidade**                   | [F26](Elicitacao/ResquisitosCorrigidos.md),[FN13](Elicitacao/ResquisitosCorrigidos.md), [NF18](Elicitacao/ResquisitosCorrigidos.md) , [NF22](Elicitacao/ResquisitosCorrigidos.md)   |
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
