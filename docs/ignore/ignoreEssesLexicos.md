@@ -8,6 +8,14 @@
 | Realizar Anotações no Contrato de Trabalho     | Anotar     | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Adicionar observações e notas no contrato de trabalho digital | Inserção de informações adicionais relevantes ao contrato de trabalho digital | Registrar   |
 | Emitir PDF do Contrato de Trabalho             | Emitir PDF | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Gerar um arquivo PDF contendo os detalhes do contrato de trabalho | Disponibilização de um documento digital para consulta ou impressão | Gerar PDF   |
 
+| Classificação                                  | Autor                                                | Noção (denotação)                                           | Impacto (conotação)                                                   | Sinônimo    |
+|------------------------------------------------|------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------------------|-------------|
+| Adicionar Novo Contrato de Trabalho            | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Incluir novos contratos de trabalho na carteira de trabalho digital | Inserção de novos registros de contratos na carteira digital para empresas | Inserir     |
+| Atualizar Contrato de Trabalho Existente       | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Modificar informações de contratos de trabalho na carteira digital | Alteração dos dados dos contratos na carteira digital para refletir mudanças como salário e cargo | Modificar   |
+| Encerrar Contrato de Trabalho                  | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Finalizar contratos de trabalho na carteira digital          | Registro do término de contratos na carteira digital e atualização do status do trabalhador | Finalizar   |
+| Realizar Anotações no Contrato de Trabalho     | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Adicionar observações e notas no contrato de trabalho digital | Inserção de informações adicionais relevantes ao contrato de trabalho digital | Registrar   |
+| Emitir PDF do Contrato de Trabalho             | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Gerar um arquivo PDF contendo os detalhes do contrato de trabalho | Disponibilização de um documento digital para consulta ou impressão | Gerar PDF   |
+
 
 
 | Autenticar Empresa no Sistema                  | Autenticar | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Verificar a identidade da empresa na carteira de trabalho digital | Garantir acesso seguro às funcionalidades de gerenciamento de contratos na carteira digital | Verificar   |
