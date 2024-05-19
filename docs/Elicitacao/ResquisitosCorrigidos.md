@@ -49,28 +49,27 @@ Legendas:
 | F06                          | Usuário trabalhador pode atualizar contratos de trabalho | Entrevistas | não |
 | F07                          | Usuário pode gerar PDF com dados da carteira | Análise de documentos | Sim |
 | F08                          | Usuário trabalhador visualizar gráficos com históricos e remunerações dos seus trabalhos | Análise de documentos | Sim |
-| F09                          | Usuário pode gerar PDF com dados da carteira | Análise de documentos | Sim |
-| F10                          | Usuário pode realizar anotações | Análise de documentos | Sim |
-| F11                          | Usuário trabalhador pode fazer denúncias trabalhistas contra a empresa | Entrevistas | Não |
-| F12                          | Usuário trabalhador pode consultar informações sobre o FGTS | Storytelling | Não |
-| F13                          | Usuário trabalhador pode consultar benefícios (13º salário, férias remuneradas, adicional noturno, vale-transporte, vale-refeição, plano de saúde, abono salarial, benefício TAC-Taxista)| Análise de documentos, Entrevistas e Storytelling| incompleto |
-| F14                          | Usuário trabalhador pode solicitar benefícios | Análise de documentos e entrevistas | Incompleto |
-| F15                          | Usuário trabalhador pode atualizar(declarar) currículo | Entrevistas e Storytelling | Não |
-| F16                          | Usuário trabalhador pode  ativar modo de status (procurando emprego ou não) | Entrevistas | Não |
-| F17                          | Usuário trabalhador por verificar processor seletivos abertos | Análise de documentos | Incompleto |
-| F18                          | Usuário pode ocultar dados sensíveis | Análise de documentos e storytelling | Sim |
-| F19                          | Usuário trabalhador pode consultar o número da carteira e de série como CIPS | Storytelling | Não |
-| F20                          | Usuário recebem notificações do aplicativo | Análise de documentos e Storytelling | Não |
-| F21                          | Usuário pode consultar perguntas frequêntes | Storytelling e Entrevista| Não |
-| F22                          | Usuário empresa pode consultar dados dos funcionários | Entrevistas e análse de documento | Sim |
-| F23                          | Usuário empresa pode atualizar dados dos funcionários | Entrevistas e análse de documento | Incompleto |
-| F24                          | Usuário empresa pode consultar contratos de trabalho | Entrevistas e análse de documento | Incompleto |
-| F25                          | Usuário empresa pode gerar relatórios trabalhistas | Entrevistas | Incompleto |
-| F26                          | Usuário empresa pode receber notificação de denúncias trabalhistas | Entrevistas | Incompleto |
-| F27                          | Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos)| Entrevistas | Sim |
-| F28                          | Usuário empresa pode cadastrar benefícios para a empresa | Entrevistas e análse de documento | Incompleto |
-| F29                          | Usuário empresa pode gerenciar benefícios trabalhistas | Entrevistas | Incompleto |
-| F30                          | Usuário empresa escolher modo de status: "Possui vagas de emprego" ou "Não posui vagas de emprego" | Entrevistas | Não |
+| F09                          | Usuário pode realizar anotações | Análise de documentos | Sim |
+| F10                          | Usuário trabalhador pode fazer denúncias trabalhistas contra a empresa | Entrevistas | Não |
+| F11                          | Usuário trabalhador pode consultar informações sobre o FGTS | Storytelling | Não |
+| F12                          | Usuário trabalhador pode consultar benefícios (13º salário, férias remuneradas, adicional noturno, vale-transporte, vale-refeição, plano de saúde, abono salarial, benefício TAC-Taxista)| Análise de documentos, Entrevistas e Storytelling| incompleto |
+| F13                          | Usuário trabalhador pode solicitar benefícios | Análise de documentos e entrevistas | Incompleto |
+| F14                          | Usuário trabalhador pode atualizar(declarar) currículo | Entrevistas e Storytelling | Não |
+| F15                          | Usuário trabalhador pode  ativar modo de status (procurando emprego ou não) | Entrevistas | Não |
+| F16                          | Usuário trabalhador por verificar processor seletivos abertos | Análise de documentos | Incompleto |
+| F17                          | Usuário pode ocultar dados sensíveis | Análise de documentos e storytelling | Sim |
+| F18                          | Usuário trabalhador pode consultar o número da carteira e de série como CIPS | Storytelling | Não |
+| F19                          | Usuário recebem notificações do aplicativo | Análise de documentos e Storytelling | Não |
+| F20                          | Usuário pode consultar perguntas frequêntes | Storytelling e Entrevista| Não |
+| F21                          | Usuário empresa pode consultar dados dos funcionários | Entrevistas e análse de documento | Sim |
+| F22                          | Usuário empresa pode atualizar dados dos funcionários | Entrevistas e análse de documento | Incompleto |
+| F23                          | Usuário empresa pode consultar contratos de trabalho | Entrevistas e análse de documento | Incompleto |
+| F24                          | Usuário empresa pode gerar relatórios trabalhistas | Entrevistas | Incompleto |
+| F25                          | Usuário empresa pode receber notificação de denúncias trabalhistas | Entrevistas | Incompleto |
+| F26                          | Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos)| Entrevistas | Sim |
+| F27                          | Usuário empresa pode cadastrar benefícios para a empresa | Entrevistas e análse de documento | Incompleto |
+| F28                          | Usuário empresa pode gerenciar benefícios trabalhistas | Entrevistas | Incompleto |
+| F29                          | Usuário empresa escolher modo de status: "Possui vagas de emprego" ou "Não posui vagas de emprego" | Entrevistas | Não |
 
 
   **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
