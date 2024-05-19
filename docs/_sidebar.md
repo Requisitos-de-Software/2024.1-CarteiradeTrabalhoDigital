@@ -63,10 +63,10 @@
         - [MoSCoW](Elicitacao/Priorizacao/Execucao/MoSCoW.md)
 
 * Modelagem
-  - [Cenários](/docs/modelagem/cenarios.md)
-  - [Léxico](/docs/modelagem/lexico.md)
-  - [Caso de uso](/docs/modelagem/casoDeUso.md)
-  - [Especificação Suplementar](/docs/modelagem/especSuplementar.md)
+  - [Cenários](/modelagem/cenarios.md)
+  - [Léxico](/modelagem/lexico.md)
+  - [Caso de uso](/modelagem/casoDeUso.md)
+  - [Especificação Suplementar](/modelagem/especSuplementar.md)
 
 <!-- * Modelagem - Ágil
   - [História de Usuário](/docs/modelagemAgil/historiaUsuario.md)

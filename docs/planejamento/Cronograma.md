@@ -134,6 +134,20 @@ Na Tabela 6, está explicitado o cronograma executado das atividades da terceira
 
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
+| Correções e pendências após a entrega 2   | 18/04/2024 | 19/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 19/04/2024 - 20/04/2024 |
+|Criação da estrutura da página|10/05/2024|18/05/2024|Caio|-|-|
+| Modelagem de Requisitos: Cenários         | 20/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | A definir        | 30/04/2024 - 04/05/2024 | 
+| Modelagem de Requisitos: Léxico           | 20/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | A definir        | 30/04/2024 - 04/05/2024 | 
+| Modelagem de Requisitos: Use Case         | 20/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | A definir        | 30/04/2024 - 04/05/2024 | 
+| Modelagem de Requisitos: Especificação Suplementar | 20/04/2024 | 19/05/2024 |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | A definir        | 30/04/2024 - 04/05/2024 | 
+| Gravar apresentação                       | 19/05/2024 | 19/05/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 19/05/2024 - 19/05/2024 |
+| Correção pós apresentação                 | 05/05/2024 | 05/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 05/05/2024 - 06/05/2024 |
+
+<center> 
+
+Fonte [Caio Mesquita](https://github.com/Caiomesvie)
+</center>
+
 
 ## Entrega 4 - Modelagem de Requisitos
 
@@ -257,3 +271,4 @@ Na Tabela 14, está explicitado o cronograma executado das atividades da parte d
 | 1.5    | Complementação da tabela de cronograma executado para a 2 entrega | Larissa Stéfane  | Luana Medeiros | 15/04/2024 |
 | 1.6    | Correção do cronograma da entrega 2 | Luana Medeiros  | Breno Alexandre | 15/04/2024 |
 | 1.7    | Atualização cronograma completo | Luana Medeiros  | Breno Alexandre | 16/04/2024 |
+|1.8|Atualização pós greve| Caio Mesquita |   | 18/05/2024 |
