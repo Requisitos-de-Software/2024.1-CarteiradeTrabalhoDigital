@@ -105,7 +105,7 @@ A tabela 5 mostra quando o usuário(trabalhador) deseja acessar detalhes dos con
   <summary size="20"><b> Tabela 5: Trabalhador acessa detalhes dos contratos de trabalho </b></summary> 
   
 <center>
-Tabela 5: Caso de uso UC03 - Acessar Detalhes dos Contratos de Trabalho
+Tabela 5: Caso de uso: Acessar Detalhes dos Contratos de Trabalho
 
 
 | UC03                | Nome do caso                                               |
@@ -343,3 +343,11 @@ Tabela 9: Caso de Uso: Encerra contratos de emprego
 | 1.0    | Criação da documentação  | Bruno Araújo    | Iago Passaglia  | 19/05/2024 |
 | 1.1    | Caso de uso UC02         | Iago Passaglia  | Bruno Araújo    | 19/05/2024 |
 | 1.2    | Correção da bibliografia | Breno Alexandre | Larissa Stéfane               | 19/05/2024 |
+| 1.3    | Adição do caso de uso: Acessar Detalhes dos Contratos de Trabalho | Larissa Stéfane | - | 19/05/2024 |
+| 1.4    | Adição do caso de uso: Atualização dos Contratos de Trabalho | Larissa Stéfane | - | 19/05/2024 |
+| 1.5    | Adição do caso de uso: Denúncias trabalhistas. | Larissa Stéfane | - | 19/05/2024 |
+| 1.6    | Adição do caso de uso: Escolher Modo de Status de Procura de Emprego | Larissa Stéfane | - | 19/05/2024 |
+| 1.7    | Adição do caso de uso: Empresa anucia vagas/ofertas de emprego | Larissa Stéfane | - | 19/05/2024 |
+| 1.8    | Adição do caso de uso: Empresa adiciona novos contratos de emprego | Larissa Stéfane | - | 19/05/2024 |
+| 1.9    | Adição do caso de uso: Empresa atualiza contratos de emprego | Larissa Stéfane | - | 19/05/2024 |
+| 2.0    | Adição do caso de uso: Empresa encerra contratos de emprego | Larissa Stéfane | - | 19/05/2024 |
