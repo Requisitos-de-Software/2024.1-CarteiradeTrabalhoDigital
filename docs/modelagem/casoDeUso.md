@@ -214,7 +214,7 @@ A tabela 8 mostra quando o usuário(trabalhador) Escolhe Modo de Status de Procu
 
 ### Empresa - Escolher modo de vagas de emprego
 
-A tabela 9 mostra quando o usuário(empresa) deseja 
+A tabela 9 mostra quando o usuário(empresa) deseja divulgar ofertas vagas de emprego.
 
 <details>
   <summary size="20"><b> Tabela 9: Empresa anucia vagas/ofertas de emprego </b></summary> 
@@ -241,6 +241,93 @@ Tabela 9: Caso de uso: Empresa anucia vagas/ofertas de emprego
 
 </details>
 
+### Empresa - Adicionar Novos contratos de emprego
+
+A tabela 10 mostra quando o usuário(empresa) deseja cadastrar/adicionar novos contratos de emprego
+
+<details>
+  <summary size="20"><b> Tabela 10: Empresa adiciona novos contratos de emprego </b></summary> 
+  
+<center>
+
+Tabela 10: Caso de uso: Adicionar novos contratos de emprego
+
+| UC08                               | Adicionar Novos Contratos de Trabalho |
+|------------------------------------|---------------------------------------|
+| **Descrição**                      | Permitir que o usuário(empresa) adicione novos contratos de trabalho ao sistema. |
+| **Atores**                         | Usuário(empresa) (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário). |
+| **Frequência**                     | Conforme necessário para registrar novos contratos de trabalho. |
+| **Pré-condições**                  | 1. O usuário(empresa) deve estar autenticado no sistema. <br> 2. O usuário(empresa) deve ter acesso à seção de gerenciamento de contratos de trabalho. <br> 3. O usuário(empresa) deve possuir todas as informações necessárias do novo contrato de trabalho. |
+| **Fluxo Básico**                   | **FB08** <ol> <li> O usuário(empresa) faz login no aplicativo da carteira de trabalho digital. <li> O usuário(empresa) acessa a seção de gerenciamento de contratos de trabalho. <li> O usuário(empresa) seleciona a opção de adicionar um novo contrato de trabalho. <li> O usuário(empresa) preenche os detalhes necessários do novo contrato, como nome do funcionário, cargo, data de início, salário, etc. <li> O sistema valida as informações fornecidas pela empresa. <li> O sistema adiciona o novo contrato ao banco de dados. <li> O sistema atualiza os dados no perfil do trabalhador para refletir o novo contrato adicionado. <li> Após a confirmação bem-sucedida, o usuário(empresa) recebe uma mensagem de confirmação informando que o contrato foi adicionado com sucesso. </ol> |
+| **Fluxos Alternativos**            | **FA08** <ol> <li> Se o usuário(empresa) deseja adicionar um contrato com condições especiais, como contrato temporário ou contrato por projeto: <ul><li> O usuário(empresa) seleciona a opção de adicionar um novo contrato. <li> O usuário(empresa) escolhe a opção de contrato com condições especiais. <li> O usuário(empresa) preenche os detalhes específicos do contrato especial. <li> O sistema valida as informações fornecidas pela empresa. <li> O sistema adiciona o novo contrato ao banco de dados. <li> O sistema atualiza os dados no perfil do trabalhador para refletir o novo contrato adicionado. <li> Após a confirmação bem-sucedida, o usuário(empresa) recebe uma mensagem de confirmação informando que o contrato foi adicionado com sucesso.</ul></ol> |
+| **Fluxos de Exceção**              | **FE08** <ol> <li> Se houver algum erro na validação das informações fornecidas pela empresa: <ul><li> O sistema exibe uma mensagem de erro informando sobre a inconsistência dos dados. <li> O usuário(empresa) é orientado a corrigir as informações inseridas.</ul> <li> Se ocorrer um problema de conexão com o banco de dados durante a adição do contrato: <ul><li> O sistema exibe uma mensagem de erro informando sobre o problema de conexão. <li> O usuário(empresa) é instruído a tentar novamente mais tarde.</ul> </ol> |
+| **Pós-condições**                  | Os novos contratos de trabalho são adicionados ao sistema e refletidos nos perfis dos trabalhadores. |
+| **Data de Criação**                | 19/05/2024                            |
+| **Rastreabilidade**                |  [F26](Elicitacao/ResquisitosCorrigidos.md),[FN13](Elicitacao/ResquisitosCorrigidos.md), [NF18](Elicitacao/ResquisitosCorrigidos.md) , [NF22](Elicitacao/ResquisitosCorrigidos.md)  |
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+
+</details>
+
+### Empresa - Atualizar contratos de emprego
+
+A tabela 11 mostra quando o usuário(empresa) deseja atualizar contratos de emprego
+
+<details>
+  <summary size="20"><b> Tabela 11: Empresa  atualiza contratos de emprego </b></summary> 
+  
+<center>
+
+Tabela 11: Caso de Uso: Atualizar contratos de emprego
+
+| UC09                                   | Atualizar Contratos de Trabalho Existente |
+|----------------------------------------|-------------------------------------------|
+| **Descrição**                          | Permitir que a empresa atualize informações de contratos de trabalho existentes. |
+| **Atores**                             | Empresa (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário). |
+| **Frequência**                         | Conforme necessário para atualizar informações em contratos de trabalho existentes. |
+| **Pré-condições**                      | 1. A empresa deve estar autenticada no sistema. <br> 2. A empresa deve ter acesso à seção de gerenciamento de contratos de trabalho. <br> 3. A empresa deve possuir as informações atualizadas prontas para inserção. |
+| **Fluxo Básico**                       | **FB09** <ol> <li> A empresa faz login no aplicativo da carteira de trabalho digital. <li> A empresa acessa a seção de gerenciamento de contratos de trabalho. <li> A empresa seleciona o contrato de trabalho que deseja atualizar e escolhe a opção de edição. <li> A empresa faz as alterações necessárias nos detalhes do contrato, como salário, cargo, entre outros. <li> O sistema valida as alterações. <li> O sistema atualiza os dados do contrato no banco de dados. <li> O sistema também atualiza os dados no perfil do trabalhador para refletir as alterações feitas no contrato. <li> Após a confirmação bem-sucedida, a empresa recebe uma mensagem de confirmação informando que o contrato foi atualizado com sucesso. </ol> |
+| **Fluxos Alternativos**                | **FA09** <ol> <li> Se a empresa deseja cancelar a atualização do contrato: <ul><li> A empresa seleciona a opção de cancelar ou voltar sem salvar as alterações. <li> O sistema descarta as alterações feitas no contrato e retorna à tela anterior.</ul> </ol> |
+| **Fluxos de Exceção**                  | **FE09** <ol> <li> Se houver algum erro na validação das alterações feitas pela empresa: <ul><li> O sistema exibe uma mensagem de erro informando sobre a inconsistência dos dados. <li> A empresa é orientada a corrigir as informações inseridas.</ul> <li> Se ocorrer um problema de conexão com o banco de dados durante a atualização do contrato: <ul><li> O sistema exibe uma mensagem de erro informando sobre o problema de conexão. <li> A empresa é instruída a tentar novamente mais tarde.</ul> </ol> |
+| **Restrição**                          | 1. A empresa só pode atualizar contratos para os quais tenha autoridade e legitimidade. <br> 2. As alterações devem estar de acordo com as políticas e regulamentos trabalhistas. |
+| **Pós-condições**                      | O contrato de trabalho existente é atualizado no sistema e refletido no perfil do trabalhador. |
+| **Data de Criação**                    | 19/05/2024                                |
+| **Rastreabilidade**                    |  [F26](Elicitacao/ResquisitosCorrigidos.md),[FN13](Elicitacao/ResquisitosCorrigidos.md), [NF18](Elicitacao/ResquisitosCorrigidos.md) , [NF22](Elicitacao/ResquisitosCorrigidos.md)  |
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+
+</details>
+
+### Empresa -  Encerra contratos de emprego
+
+A tabela 12 mostra quando o usuário(empresa) deseja encerrar contratos de emprego.
+
+<details>
+  <summary size="20"><b> Tabela 12: Empresa encerra contratos de emprego </b></summary> 
+  
+<center>
+Tabela 9: Caso de Uso: Encerra contratos de emprego
+
+| UC10                                  | Encerrar Contratos de Trabalho                             |
+| ------------------------------------- | ------------------------------------------------------------ |
+| **Descrição**                         | Permitir que a empresa encerre contratos de trabalho existentes. |
+| **Atores**                            | Empresa (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário). |
+| **Frequência**                        | Conforme necessidade da empresa para encerrar contratos de trabalho. |
+| **Pré-condições**                     | 1. A empresa deve estar autenticada no sistema. <br> 2. A empresa deve ter um motivo válido para o encerramento do contrato. |
+| **Fluxo Básico**                      | **FB10** <ol> <li> A empresa faz login no aplicativo da carteira de trabalho digital. <li> A empresa acessa a seção de gerenciamento de contratos de trabalho. <li> A empresa seleciona o contrato de trabalho que deseja encerrar e escolhe a opção correspondente. <li> A empresa fornece o motivo para o encerramento do contrato e confirma a ação. <li> O sistema registra o encerramento do contrato no banco de dados e atualiza o status do contrato para refletir o encerramento. <li> O sistema também atualiza os dados no perfil do trabalhador para refletir o encerramento do contrato. <li> O trabalhador é notificado sobre o encerramento do contrato via e-mail ou notificação no aplicativo. <li> Após a confirmação bem-sucedida, a empresa recebe uma mensagem de confirmação informando que o contrato foi encerrado com sucesso. </ol> |
+| **Fluxos Alternativos**               | **FA10** <ol> <li> Se a empresa deseja cancelar o encerramento do contrato: <ul><li> A empresa seleciona a opção de cancelar ou voltar sem encerrar o contrato. <li> O sistema cancela a ação de encerramento do contrato e retorna à tela anterior.</ul> </ol> |
+| **Fluxos de Exceção**                 | **FE10** <ol> <li> Se ocorrer um erro durante o processo de encerramento do contrato: <ul><li> O sistema exibe uma mensagem de erro informando sobre o problema ocorrido. <li> A empresa é orientada a tentar novamente mais tarde.</ul> <li> Se houver questões pendentes relacionadas ao contrato:<ul><li> O sistema exibe uma mensagem de alerta recomendando a resolução dessas questões antes do encerramento do contrato. </ul> <li> Se a empresa não tiver autorização para encerrar o contrato:<ul><li> O sistema exibe uma mensagem de erro informando que a ação é bloqueada.</ul> </ol> |
+| **Data de Criação**                   | 19/05/2024                                                   |
+| **Rastreabilidade**                   | [F26](Elicitacao/ResquisitosCorrigidos.md),[FN13](Elicitacao/ResquisitosCorrigidos.md), [NF18](Elicitacao/ResquisitosCorrigidos.md) , [NF22](Elicitacao/ResquisitosCorrigidos.md)   |
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+</details>
 
 ## Bibliografia
 
