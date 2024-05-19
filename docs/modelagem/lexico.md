@@ -73,7 +73,7 @@ Tabela 4: Léxicos do tipo Estado
 | Benefício Aprovado | [Bruno](https://github.com/brunocva.png) | O sistema verifica a solicitação do benefício e, após aprovação, muda o status do pedido para "Aprovado". | O benefício solicitado pelo trabalhador foi aprovado. O sistema atualiza o status do benefício e notifica o trabalhador. | Benefício Concedido, Benefício Confirmado |
 | | [Breno](https://github.com/brenoalexandre0.png) | | | |
 | | [Caio](https://github.com/caiomesvie) | | | |
-| | [Iago](https://github.com/Paxxaglia) | | | |
+| Tempo de serviço | [Iago](https://github.com/Paxxaglia) | O sistema verifica os registros do usuário e os ordena em ordem de tempo de serviço | A visualização se adapta após o click na opção | O usuário pode visualizar uma visão mais ampla relacionada aos seus contratos de trabalho |
 | | [Larissa](https://github.com/SkywalkerSupreme) | | | |
 | | [Luana](https://github.com/LuaMedeiros) | | | |
 | Contrato de trabalho Aberto | [Pedro](https://github.com/Izarias) | Um contrato de trabalho pode estar "Aberto" se foi recentemente submetido para aprovação e ainda está sendo revisado pela empresa ou pelo sistema.| O estado "Aberto" comunica ao usuário que sua solicitação ou processo está em andamento e ainda não foi concluído. | Em andamento, Em processo|
