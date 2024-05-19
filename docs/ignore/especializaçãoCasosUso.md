@@ -73,10 +73,6 @@ Tabela 4: Realização de denúncias trabalhistas
 <center>
 Tabela 5: Trabalhador escolhe o modo de status de procura de emprego
 
-<center>
-
-**Tabela 5: Escolher Modo de Status de Procura de Emprego**
-
 | UC04                  | Escolher Modo de Status                       |
 |-----------------------|-----------------------------------------------|
 | **Descrição**         | Permitir que o Usuário(trabalhador) escolha entre os modos de "Procurando Emprego" e "Não Procurando Emprego" para ajudá-lo na procura por empregos que sejam compatíveis com seu currículo. |
@@ -90,7 +86,29 @@ Tabela 5: Trabalhador escolhe o modo de status de procura de emprego
 | **Data de Criação**   | 19/05/2024                                     |
 | **Rastreabilidade**   | [F15](Elicitacao/ResquisitosCorrigidos.md), [F14](Elicitacao/ResquisitosCorrigidos.md), [FN16](Elicitacao/ResquisitosCorrigidos.md), [NF20](Elicitacao/ResquisitosCorrigidos.md) , [NF22](Elicitacao/ResquisitosCorrigidos.md) 
 
+
+## Empresa - Escolher modo de vagas de emprego
+
+<center>
+
+Tabela 6: Escolher Modo de Status de Oferta de Emprego
+
+
+| UC05                  | Escolher Modo de Status de Oferta de Emprego |
+|-----------------------|-----------------------------------------------|
+| **Descrição**         | Permitir que o usuário(empresa) ative o modo de "Vagas de Emprego" para buscar por funcionários e desative-o quando não houver mais vagas disponíveis. |
+| **Atores**            | Usuário(Empresa) (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário); <br> Usuário(Trabalhador) (Usuário Secundário). |
+| **Frequência**        | Conforme necessidade do usuário(empresa).         |
+| **Pré-condições**     | 1. O usuário(empresa) deve estar autenticado no sistema. <br> 2. O usuário(empresa) deve ter as vagas de emprego definidas. |
+| **Fluxo Básico**      | <b>FB05</b> <ol> <li>O usuário(empresa) faz login no aplicativo da carteira de trabalho digital e acessa as configurações de perfil.</li> <li>O usuário(empresa) seleciona a opção de ativar o modo de "Vagas de Emprego" e preenche os requisitos necessários para a vaga, como cargo, habilidades requeridas e localização.</li> <li>O sistema compara os requisitos da vaga com os dados dos currículos dos usuários(trabalhadores) que têm o status de "Procurando Emprego".</li> <li>Se um currículo corresponder aos requisitos da vaga, o sistema envia uma notificação ou e-mail para o usuário(trabalhador) informando sobre a oportunidade de emprego e solicitando que entre em contato com a empresa.</li> <li>Quando o usuário(empresa) não tem mais vagas disponíveis, ele acessa as configurações de perfil e seleciona a opção de desativar o modo de "Vagas de Emprego".</li> </ol> |
+| **Fluxos Alternativos** | **FA05** <ol> <li>Se o usuário(empresa) não fornecer requisitos claros e precisos para as vagas de emprego:<ul><li>O sistema exibe uma mensagem de erro informando sobre a necessidade de fornecer requisitos claros e precisos.</li><li>O usuário(empresa) é orientado a preencher corretamente os requisitos.</li></ul></li> <li>Se o usuário(empresa) mantiver o modo "Vagas de Emprego" ativado por mais de três meses consecutivos:<ul><li>O sistema envia uma mensagem de lembrete ao usuário(empresa) para verificar se ainda há vagas disponíveis ou se é necessário desativar o modo.</li></ul></li> </ol> |
+| **Fluxos de Exceção** | **FE05** <ol> <li>Se houver um erro na ativação ou desativação do modo de "Vagas de Emprego":<ul><li>O sistema exibe uma mensagem de erro informando sobre o problema.</li><li>O usuário(empresa) é orientado a tentar novamente.</li></ul></li><li>Se não houver currículos correspondentes aos requisitos da vaga:<ul><li>O sistema exibe uma mensagem informando que não foram encontrados candidatos compatíveis no momento.</li></ul></li><li>Se o usuário(empresa) não fornecer requisitos claros e precisos para as vagas de emprego:<ul><li>O sistema exibe uma mensagem de erro informando sobre a necessidade de fornecer requisitos claros e precisos.</li><li>O usuário(empresa) é orientado a preencher corretamente os requisitos.|
+| **Pós-condições**     | O modo de "Vagas de Emprego" é ativado ou desativado no perfil do usuário(empresa). |
+| **Data de Criação**   | 19/05/2024                                     |
+| **Rastreabilidade**   | [F29](Elicitacao/ResquisitosCorrigidos.md),[FN16](Elicitacao/ResquisitosCorrigidos.md), [NF20](Elicitacao/ResquisitosCorrigidos.md) , [NF22](Elicitacao/ResquisitosCorrigidos.md)  | 
+
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </center>
+
 
