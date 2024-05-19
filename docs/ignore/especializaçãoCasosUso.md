@@ -134,4 +134,27 @@ Tabela 7: Adicionar novos contratos de emprego
 
 </center>
 
+## Empresa - Atualizar contratos de emprego
+
+<center>
+
+Tabela 8: Atualizar contratos de emprego
+
+| UC07                                   | Atualizar Contratos de Trabalho Existente |
+|----------------------------------------|-------------------------------------------|
+| **Descrição**                          | Permitir que a empresa atualize informações de contratos de trabalho existentes. |
+| **Atores**                             | Empresa (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário). |
+| **Frequência**                         | Conforme necessário para atualizar informações em contratos de trabalho existentes. |
+| **Pré-condições**                      | 1. A empresa deve estar autenticada no sistema. <br> 2. A empresa deve ter acesso à seção de gerenciamento de contratos de trabalho. <br> 3. A empresa deve possuir as informações atualizadas prontas para inserção. |
+| **Fluxo Básico**                       | **FB07** <ol> <li> A empresa faz login no aplicativo da carteira de trabalho digital. <li> A empresa acessa a seção de gerenciamento de contratos de trabalho. <li> A empresa seleciona o contrato de trabalho que deseja atualizar e escolhe a opção de edição. <li> A empresa faz as alterações necessárias nos detalhes do contrato, como salário, cargo, entre outros. <li> O sistema valida as alterações. <li> O sistema atualiza os dados do contrato no banco de dados. <li> O sistema também atualiza os dados no perfil do trabalhador para refletir as alterações feitas no contrato. <li> Após a confirmação bem-sucedida, a empresa recebe uma mensagem de confirmação informando que o contrato foi atualizado com sucesso. </ol> |
+| **Fluxos Alternativos**                | **FA07** <ol> <li> Se a empresa deseja cancelar a atualização do contrato: <ul><li> A empresa seleciona a opção de cancelar ou voltar sem salvar as alterações. <li> O sistema descarta as alterações feitas no contrato e retorna à tela anterior.</ul> </ol> |
+| **Fluxos de Exceção**                  | **FE07** <ol> <li> Se houver algum erro na validação das alterações feitas pela empresa: <ul><li> O sistema exibe uma mensagem de erro informando sobre a inconsistência dos dados. <li> A empresa é orientada a corrigir as informações inseridas.</ul> <li> Se ocorrer um problema de conexão com o banco de dados durante a atualização do contrato: <ul><li> O sistema exibe uma mensagem de erro informando sobre o problema de conexão. <li> A empresa é instruída a tentar novamente mais tarde.</ul> </ol> |
+| **Restrição**                          | 1. A empresa só pode atualizar contratos para os quais tenha autoridade e legitimidade. <br> 2. As alterações devem estar de acordo com as políticas e regulamentos trabalhistas. |
+| **Pós-condições**                      | O contrato de trabalho existente é atualizado no sistema e refletido no perfil do trabalhador. |
+| **Data de Criação**                    | 19/05/2024                                |
+| **Rastreabilidade**                    |  [F26](Elicitacao/ResquisitosCorrigidos.md),[FN13](Elicitacao/ResquisitosCorrigidos.md), [NF18](Elicitacao/ResquisitosCorrigidos.md) , [NF22](Elicitacao/ResquisitosCorrigidos.md)  |
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
 
