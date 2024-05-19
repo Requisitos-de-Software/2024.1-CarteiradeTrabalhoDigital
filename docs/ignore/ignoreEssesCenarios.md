@@ -39,6 +39,9 @@ A tabela 2 mostra o cenário para quando um trabalhador deseja atualizar seus co
 
 ### Canal de Denúncias
 
+A tabela 3 mostra o cenário para quando um trabalhador deseja relacionar uma denúncia sobre a empresa onde trabalha.
+
+**Tabela 3**:  Trabalhador no Canal de Denúncias
 
 
 | Denominação | Realizar Denúncias Trabalhistas |
@@ -56,6 +59,9 @@ A tabela 2 mostra o cenário para quando um trabalhador deseja atualizar seus co
 ### Escolher Modo de Status de Procura de Emprego
 
 
+A tabela 4 mostra o cenário para quando um trabalhador deseja escolher o seu modo de status em relação a procura de emprego
+
+**Tabela 4**:  Escolher Modo de Status de Procura de Emprego
 
 | Denominação | Escolher Modo de Status |
 | - | - |
@@ -73,6 +79,9 @@ A tabela 2 mostra o cenário para quando um trabalhador deseja atualizar seus co
 
 ### Escolher Modo de Status de Oferta de Emprego
 
+A tabela 5 mostra o cenário para quando uma empresa deseja divulgar que está com oferta de empregos
+
+**Tabela 5**:  Escolher Modo de Status de Oferta de Emprego
 
 | Denominação | Escolher Modo de Status de Oferta de Emprego |
 | - | - |
@@ -88,6 +97,9 @@ A tabela 2 mostra o cenário para quando um trabalhador deseja atualizar seus co
 
 ### Adicionar Novos Contratos de Trabalho
 
+A tabela 6 mostra o cenário para quando uma empresa deseja registrar novos contratos de trabalho
+
+**Tabela 6**:  Empresa registra novos contratos de trabalho
 
 | Denominação | Adicionar Novos Contratos de Trabalho |
 | - | - |
@@ -103,6 +115,9 @@ A tabela 2 mostra o cenário para quando um trabalhador deseja atualizar seus co
 
 ### Atualizar Contratos de Trabalho Existente
 
+A tabela 7 mostra o cenário para quando uma empresa deseja atualizar contratos de trabalho
+
+**Tabela 7**:  Empresa atualiza contratos de trabalho
 
 | Denominação | Atualizar Contratos de Trabalho Existente |
 | - | - |
@@ -119,6 +134,9 @@ A tabela 2 mostra o cenário para quando um trabalhador deseja atualizar seus co
 
 ### Encerrar Contratos de Trabalho
 
+A tabela 8 mostra o cenário para quando uma empresa deseja registrar encerramento de contratos de trabalho
+
+**Tabela 8**:  Empresa registra encerramento contratos de trabalho
 
 | Denominação | Encerrar Contratos de Trabalho |
 | - | - |
