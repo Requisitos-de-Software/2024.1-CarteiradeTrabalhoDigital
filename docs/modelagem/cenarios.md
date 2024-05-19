@@ -30,6 +30,28 @@ Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
 
 ## O Trabalhador (Funcionário com Carteira Assinada) como Protagonista do Cenário (Usuário primário)
 
+### Visualizar aba "Emprego"
+
+<details>
+  <summary size="20"><b> Tabela x: Trabalhador deseja solicitar um benefício </b></summary> 
+
+<center>
+
+| Denominação | Visualizar aba "Emprego" |
+| - | - |
+| Objetivo/meta | Permitir a visualização completa da aba "Emprego" por meio do cadastro de informações pessoais. |
+| Contexto | **Contexto:** O usuário já possui um login ativo na plataforma Carteira de Trabalho Digital através do gov.br. O usuário deseja acessar todas as funcionalidades disponíveis na aba "Emprego" do aplicativo. <br> **Pré-condição:** O trabalhador deve estar autenticado no sistema. |
+| Atores | Trabalhador (Usuário Primário);<br> Plataforma gov.br (Usuário Secundário) |
+| Recursos | Smartphone;<br> Conexão à internet; <br> Aplicativo Carteira de Trabalho Digital instalado e atualizado;<br> Conta ativa no gov.br para login. |
+| Episódios | 1. O trabalhador faz login no aplicativo da carteira de trabalho digital. <br> 2. O trabalhador acessa a aba "Emprego".<br> 3. O trabalhador seleciona a opção "Quero me cadastrar".<br> 4. O sistema exibe o formulário de "Dados Pessoais" <br> 5. O trabalhador preenche o formulário de "Dados Pessoais". <br> 6. O sistema exibe o formulário de "Endereço". <br> 7. O trabalhador preenche o formulário de "Dados Pessoais". <br> 8. O sistema exibe o formulário de "Contato".<br> 9. O trabalhador preenche o formulário de "Contato".<br> 10. O trabalhador envia os formulários e conclui a tarefa|
+| Exceção | 1. Se ocorrer um erro na validação das informações, uma mensagem de erro é exibida e o trabalhador é orientado a corrigir os dados inseridos. <br> 2. Se houver um problema de comunicação com o órgão governamental, uma mensagem de erro é exibida e o trabalhador é instruído a tentar novamente mais tarde.<br> 3. Em dispositivos IOS, o teclado virtual permanece em cima do botão de "Concluir" na ultima etapa, o que inviabiliza a conclusão da tarefa. |
+| Restrição | 1. O trabalhador deve estar autenticado no sistema para efetuar o cadastro. <br> 2. A conexão com a internet deve estar estável durante o processo de solicitação.|
+
+</center>
+</details>
+
+**Fonte:** [Iago Passaglia](https://github.com/Paxxaglia)
+
 ### Solicitar Benefício
 
 <details>
