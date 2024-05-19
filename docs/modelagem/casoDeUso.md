@@ -23,7 +23,7 @@ O diagrama de caso de uso é uma representação visual que resume as interaçõ
 <center>
 <b>Tabela 1</b>: Legenda dos elementos do diagrama de caso de uso
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/assets/LegendaCasoUso.jpg" alt="Legenda elementos de caso de uso" width="400">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/assets/LegendaCasoUso.jpg" alt="Legenda elementos de caso de uso">
 
 Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
