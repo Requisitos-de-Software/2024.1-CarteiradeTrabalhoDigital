@@ -86,4 +86,4 @@ Fonte: []
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação documentação. | Bruno Araújo | | 19/05/2024 |
+| 1.0 | Criação documentação. | Bruno Araújo | Bruno Araújo | 19/05/2024 |
