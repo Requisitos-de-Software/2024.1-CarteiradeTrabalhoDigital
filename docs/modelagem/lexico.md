@@ -1,5 +1,12 @@
 # Léxico
+
 ## Sumário
+* [Introdução](#Introdução)
+* [Metodologia](#Metodologia)
+* [Léxicos](#Léxicos)
+* [Conclusão](#Conclusão)
+* [Bibliografia](#Bibliografia)
+* [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
 No contexto da Interação Humano-Computador, léxico refere-se ao conjunto de palavras e expressões utilizadas nas interfaces de usuário, incluindo rótulos, comandos, mensagens e instruções. Esse componente é crucial, pois influencia diretamente a clareza, a usabilidade e a eficácia da comunicação entre o usuário e o sistema. 
@@ -74,10 +81,10 @@ Tabela 3: Léxicos do tipo Objeto
 Fonte: Citados ao longo da tabela
 </center>
 
-## Referências Bibliográficas
+## Bibliografia
 
 ## Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 |     |     |     |       |
+| 1.0 |   Introdução, Metodologia e Sumário  |  Pedro Izarias   |  -   |  19/05/2024   |
