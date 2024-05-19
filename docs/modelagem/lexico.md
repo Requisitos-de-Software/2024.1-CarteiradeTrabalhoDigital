@@ -81,6 +81,8 @@ Tabela 3: Léxicos do tipo Objeto
 Fonte: Citados ao longo da tabela
 </center>
 
+## Conclusão
+
 ## Bibliografia
 
 ## Histórico de Versão
