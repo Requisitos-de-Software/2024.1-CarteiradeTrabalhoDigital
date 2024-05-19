@@ -84,7 +84,8 @@ Fonte: Citados ao longo da tabela
 ## Conclusão
 
 ## Bibliografia
-
+1. SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2845027/mod_resource/content/1/Aula%2010.pdf. Acesso em: 19/05/2024.
+   
 ## Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
