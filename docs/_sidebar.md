@@ -48,7 +48,7 @@
           - [Entrevistas e execução](Elicitacao/TecnicasElicitacao/Execucao/Storytelling/Storytelling.md)
 
             
-  * [Requisitos Elicitados](Elicitacao/RequisitosElicitados.md)
+  * [Requisitos Elicitados](Elicitacao/ResquisitosCorrigidos.md)
 
   * Priorização
       * Análise das técnicas
