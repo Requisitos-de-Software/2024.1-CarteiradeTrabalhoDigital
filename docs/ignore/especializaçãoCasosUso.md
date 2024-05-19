@@ -111,4 +111,27 @@ Tabela 6: Escolher Modo de Status de Oferta de Emprego
 
 </center>
 
+## Empresa - Adicionar Novos contratos de emprego
+
+<center>
+
+Tabela 7: Adicionar novos contratos de emprego
+
+| UC06                               | Adicionar Novos Contratos de Trabalho |
+|------------------------------------|---------------------------------------|
+| **Descrição**                      | Permitir que o usuário(empresa) adicione novos contratos de trabalho ao sistema. |
+| **Atores**                         | Usuário(empresa) (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário). |
+| **Frequência**                     | Conforme necessário para registrar novos contratos de trabalho. |
+| **Pré-condições**                  | 1. O usuário(empresa) deve estar autenticado no sistema. <br> 2. O usuário(empresa) deve ter acesso à seção de gerenciamento de contratos de trabalho. <br> 3. O usuário(empresa) deve possuir todas as informações necessárias do novo contrato de trabalho. |
+| **Fluxo Básico**                   | **FB06** <ol> <li> O usuário(empresa) faz login no aplicativo da carteira de trabalho digital. <li> O usuário(empresa) acessa a seção de gerenciamento de contratos de trabalho. <li> O usuário(empresa) seleciona a opção de adicionar um novo contrato de trabalho. <li> O usuário(empresa) preenche os detalhes necessários do novo contrato, como nome do funcionário, cargo, data de início, salário, etc. <li> O sistema valida as informações fornecidas pela empresa. <li> O sistema adiciona o novo contrato ao banco de dados. <li> O sistema atualiza os dados no perfil do trabalhador para refletir o novo contrato adicionado. <li> Após a confirmação bem-sucedida, o usuário(empresa) recebe uma mensagem de confirmação informando que o contrato foi adicionado com sucesso. </ol> |
+| **Fluxos Alternativos**            | **FA06** <ol> <li> Se o usuário(empresa) deseja adicionar um contrato com condições especiais, como contrato temporário ou contrato por projeto: <ul><li> O usuário(empresa) seleciona a opção de adicionar um novo contrato. <li> O usuário(empresa) escolhe a opção de contrato com condições especiais. <li> O usuário(empresa) preenche os detalhes específicos do contrato especial. <li> O sistema valida as informações fornecidas pela empresa. <li> O sistema adiciona o novo contrato ao banco de dados. <li> O sistema atualiza os dados no perfil do trabalhador para refletir o novo contrato adicionado. <li> Após a confirmação bem-sucedida, o usuário(empresa) recebe uma mensagem de confirmação informando que o contrato foi adicionado com sucesso.</ul></ol> |
+| **Fluxos de Exceção**              | **FE06** <ol> <li> Se houver algum erro na validação das informações fornecidas pela empresa: <ul><li> O sistema exibe uma mensagem de erro informando sobre a inconsistência dos dados. <li> O usuário(empresa) é orientado a corrigir as informações inseridas.</ul> <li> Se ocorrer um problema de conexão com o banco de dados durante a adição do contrato: <ul><li> O sistema exibe uma mensagem de erro informando sobre o problema de conexão. <li> O usuário(empresa) é instruído a tentar novamente mais tarde.</ul> </ol> |
+| **Pós-condições**                  | Os novos contratos de trabalho são adicionados ao sistema e refletidos nos perfis dos trabalhadores. |
+| **Data de Criação**                | 19/05/2024                            |
+| **Rastreabilidade**                |  [F26](Elicitacao/ResquisitosCorrigidos.md),[FN13](Elicitacao/ResquisitosCorrigidos.md), [NF18](Elicitacao/ResquisitosCorrigidos.md) , [NF22](Elicitacao/ResquisitosCorrigidos.md)  |
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+
 
