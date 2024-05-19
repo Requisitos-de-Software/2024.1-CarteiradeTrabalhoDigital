@@ -313,5 +313,5 @@ Tabela x: Caso de uso UC00
 | 2.1    | Compactar tabelas do caso 01 e 02 | Larissa Stéfane | - | 19/05/2024 |
 | 2.2    | Atualiação do sumário | Larissa Stéfane | - | 19/05/2024 |
 | 2.3    | Adição do caso de uso:Consultar Seguro Desemprego | Pedro Izarias | - | 19/05/2024 |
-| 2.3    | Retirada de alguns caso de uso | Larissa Stéfane | - | 19/05/2024 | 
-| 2.4    | Adição do caso de uso: Trabalhador exporta relatório de vínculos empregatícios| Luana Medeiros | - | 19/05/2024 | 
+| 2.4    | Retirada de alguns caso de uso | Larissa Stéfane | - | 19/05/2024 | 
+| 2.5    | Adição do caso de uso: Trabalhador exporta relatório de vínculos empregatícios| Luana Medeiros | - | 19/05/2024 | 
