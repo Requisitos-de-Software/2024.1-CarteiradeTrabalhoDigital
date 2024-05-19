@@ -72,7 +72,7 @@ Tabela X: Caso de uso UC01
 | Data de Criação     | 19/05/2024                                                        |
 | Rastreabilidade     | [Requisitos Funcionais RF01, RF02]                              |
 
-Fonte: []
+**Fonte:** [Bruno Araújo](https://github.com/brunocva)
 
 </center>
 
@@ -86,4 +86,4 @@ Fonte: []
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação documentação. | Bruno Araújo | Bruno Araújo | 19/05/2024 |
+| 1.0 | Criação documentação. | Bruno Araújo | Caio Mesquita | 19/05/2024 |
