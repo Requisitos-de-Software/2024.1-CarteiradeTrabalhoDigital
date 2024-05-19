@@ -250,12 +250,12 @@ A tabela 8 mostra o cenário para quando uma empresa deseja registrar encerramen
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 |  Criação do cenário de trabalhador Visualizar Dados de Contratos de Trabalho   |  Larissa Stéfane   |     |   18/05/2024    |
-| 1.1 |  Criação do cenário de trabalhador Atualizar dos Contratos de Trabalho   |  Larissa Stéfane   |     |   18/05/2024     |
-| 1.2 |  Criação do cenário de trabalhador em canal de denúncias   |  Larissa Stéfane   |     |    18/05/2024    |
-| 1.3 |  Criação do cenário de trabalhador escolhe Modo de Status de Procura de Emprego   |  Larissa Stéfane   |     |   18/05/2024     |
-| 1.4 |  Criação do cenário de empresa escolhe Modo de Status de oferta de Emprego   |   Larissa Stéfane  |     |  18/05/2024      |
-| 1.5 |  Criação do cenário de empresa adiciona novos contratos de trabalho  |   Larissa Stéfane  |     |    18/05/2024    |
-| 1.6 |  Criação do cenário de empresa atualiza contratos de trabalho  |  Larissa Stéfane   |     |    18/05/2024    |
-| 1.7 |  Criação do cenário de empresa encerra contratos de trabalho  |  Larissa Stéfane   |     |   18/05/2024     |
+| 1.0 |  Criação do cenário de trabalhador Visualizar Dados de Contratos de Trabalho   |  Larissa Stéfane   | Bruno Araújo   |   18/05/2024    |
+| 1.1 |  Criação do cenário de trabalhador Atualizar dos Contratos de Trabalho   |  Larissa Stéfane   | Bruno Araújo    |   18/05/2024     |
+| 1.2 |  Criação do cenário de trabalhador em canal de denúncias   |  Larissa Stéfane   | Bruno Araújo    |    18/05/2024    |
+| 1.3 |  Criação do cenário de trabalhador escolhe Modo de Status de Procura de Emprego   |  Larissa Stéfane   |  Bruno Araújo  |   18/05/2024     |
+| 1.4 |  Criação do cenário de empresa escolhe Modo de Status de oferta de Emprego   |   Larissa Stéfane  | Bruno Araújo    |  18/05/2024      |
+| 1.5 |  Criação do cenário de empresa adiciona novos contratos de trabalho  |   Larissa Stéfane  | Bruno Araújo    |    18/05/2024    |
+| 1.6 |  Criação do cenário de empresa atualiza contratos de trabalho  |  Larissa Stéfane   |  Bruno Araújo   |    18/05/2024    |
+| 1.7 |  Criação do cenário de empresa encerra contratos de trabalho  |  Larissa Stéfane   | Bruno Araújo    |   18/05/2024     |
 
