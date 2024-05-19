@@ -41,7 +41,7 @@ Tabela 2: Léxicos do tipo Verbo
 | Solicitar Benefício | [Bruno](https://github.com/brunocva.png) | O trabalhador deseja solicitar um benefício e utiliza o aplicativo para enviar a solicitação juntamente com os documentos necessários. | O trabalhador inicia a solicitação de um benefício, como Seguro Desemprego ou Abono Salarial. O sistema valida a solicitação e informa o trabalhador sobre o status do pedido. | Requerer Benefício, Pedir Benefício |
 | | [Breno](https://github.com/brenoalexandre0.png) | | | |
 | | [Caio](https://github.com/caiomesvie) | | | |
-| | [Iago](https://github.com/Paxxaglia) | | | |
+| Enviar carteira de trabalho | [Iago](https://github.com/Paxxaglia) | O trabalhador precisa exportar o documento da carteira de trabalho para algum outro aplicativo | O trabalhador escolhe as opções de exportação da carteira e pode gerar um PDF | Expedir a carteira profissional, Encaminhar a carteira de trabalho, Despachar o registro de trabalho |
 | | [Larissa](https://github.com/SkywalkerSupreme) | | | |
 | | [Luana](https://github.com/LuaMedeiros) | | | |
 | Avaliar aplicativo| [Pedro](https://github.com/Izarias) |O usuário utiliza a opção avaliar para dar um feedback aos desenvolvedores sobre a qualidade do app. | O usuário entra na opção avaliar aplicativo e é direcionado para a página do app na loja, onde pode dar sua nota sobre a qualidade do aplicativo. |Qualificar, ponderar |
@@ -57,7 +57,7 @@ Tabela 3: Léxicos do tipo Objeto
 | Contrato de Trabalho | [Bruno](https://github.com/brunocva.png) | O contrato de trabalho contém informações sobre o vínculo empregatício entre o trabalhador e a empresa, incluindo dados como período trabalhado, salário e tipo de contrato. | O trabalhador pode visualizar, atualizar ou encerrar um contrato de trabalho. O sistema mantém um registro detalhado dos contratos de trabalho do usuário. | Acordo de Trabalho, Vínculo Empregatício, Emprego |
 | | [Breno](https://github.com/brenoalexandre0.png) | | | |
 | | [Caio](https://github.com/caiomesvie) | | | |
-| | [Iago](https://github.com/Paxxaglia) | | | |
+| Benefício | [Iago](https://github.com/Paxxaglia) | Representa os auxílios ofertados para os trabalhadores contemplados |  O usuário pode solicitar diversos benefícios como Abono salarial, Seguro-desemprego, benefício emergencial entre outros. | Bônus, Auxílio, Comodidade |
 | | [Larissa](https://github.com/SkywalkerSupreme) | | | |
 | | [Luana](https://github.com/LuaMedeiros) | | | |
 | Carteira | [Pedro](https://github.com/Izarias) | Representa a versão digital da Carteira de Trabalho e Previdência Social (CTPS), onde são armazenadas e gerenciadas as informações trabalhistas do usuário.| O usuário pode visualizar suas principais informações no aplicativo.| Cartão, portfólio|
