@@ -25,6 +25,55 @@
 
   Para simplificar a visualização e compreensão do diagrama de caso de uso do aplicativo da Carteira de Trabalho Digital, foram criados dois diagramas distintos na primeira versão. Um diagrama foca nos usuários primários como trabalhadores, sendo possível visualizá-lo na figura 2, enquanto o outro foca nas empresas como usuárias primárias, na figura 3.  Assim, esta abordagem tem o intuito de facilitar a distinção das interações e funcionalidades específicas de cada tipo de usuário. Adicionalmente, uma tabela de legenda foi desenvolvida separadamente dos diagramas, na figura 1.
 
+<details>
+  <summary size="20"><b>  Figura 1: Legenda dos diagramas. </b></summary> 
+<div align="center">
+    Figura 1: Legenda dos diagramas.
+    <br>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/DiagramaCasoUsoCTD_legenda_page-0001.jpg">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+
+</div>
+
+ caso deseje visualizar em maior dimensão, clique em: [Versão 1 - Legenda](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/DiagramaCasoUsoCTD_legenda_page-0001.jpg)
+ 
+</details>
+
+<details>
+  <summary size="20"><b>  Figura 2: Versão 1 - Diagrama caso de Uso: Trabalhador. </b></summary> 
+<div align="center">
+     Figura 2: Versão 1 - Diagrama caso de Uso: Trabalhador
+    <br>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/DiagramaCasoUso_funcionario_vers1_page-0001.jpg">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+  
+</div>
+
+
+  caso deseje visualizar em maior dimensão, clique em: [Versão 1 - Diagrama caso de Uso: Trabalhador](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/DiagramaCasoUso_funcionario_vers1_page-0001.jpg)
+  
+</details>
+
+<details>
+  <summary size="20"><b>  Figura 3: Versão 1 - Diagrama caso de Uso: Empresa. </b></summary> 
+<div align="center">
+     Figura 3: Versão 1 - Diagrama caso de Uso: Empresa
+    <br>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/DiagramaCasoUsoCTD_empresa_vers1_page-0001.jpg">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+  
+</div>
+
+
+  caso deseje visualizar em maior dimensão, clique em: [Versão 1 - Diagrama caso de Uso: Empresa](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/DiagramaCasoUsoCTD_empresa_vers1_page-0001.jpg)
+  
+</details>
 
   ## Segunda Versão
 
