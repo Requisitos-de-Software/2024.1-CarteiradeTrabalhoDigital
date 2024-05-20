@@ -33,7 +33,7 @@ Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
 ### Visualizar aba "Emprego"
 
 <details>
-  <summary size="20"><b> Tabela 1: Trabalhador deseja solicitar um benefício </b></summary> 
+  <summary size="20"><b> Tabela 1: Trabalhador deseja visualizar aba "Emprego" </b></summary> 
 
 <center>
 
@@ -52,7 +52,7 @@ Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
 
 **Fonte:** [Iago Passaglia](https://github.com/Paxxaglia)
 
-### Solicitar Benefício
+### Consultar Seguro Desemprego 
 
 <details>
   <summary size="20"><b> Tabela 2: Trabalhador deseja consultar Seguro Desemprego </b></summary> 
