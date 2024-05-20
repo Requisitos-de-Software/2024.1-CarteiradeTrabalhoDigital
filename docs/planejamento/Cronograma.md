@@ -134,14 +134,14 @@ Na Tabela 6, está explicitado o cronograma executado das atividades da terceira
 
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
-| Correções e pendências após a entrega 2   | 18/04/2024 | 19/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 19/04/2024 - 20/04/2024 |
+| Correções e pendências após a entrega 2   | 18/04/2024 | 19/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 20/05/2024-26/05/2024 |
 |Criação da estrutura da página|10/05/2024|18/05/2024|Caio|-|-|
-| Modelagem de Requisitos: Cenários         | 20/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | A definir        | 30/04/2024 - 04/05/2024 | 
-| Modelagem de Requisitos: Léxico           | 20/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | A definir        | 30/04/2024 - 04/05/2024 | 
-| Modelagem de Requisitos: Use Case         | 20/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | A definir        | 30/04/2024 - 04/05/2024 | 
-| Modelagem de Requisitos: Especificação Suplementar | 20/04/2024 | 19/05/2024 |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | A definir        | 30/04/2024 - 04/05/2024 | 
+| Modelagem de Requisitos: Cenários         | 20/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | A definir        | 20/05/2024-26/05/2024 | 
+| Modelagem de Requisitos: Léxico           | 20/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | A definir        | 20/05/2024-26/05/2024 | 
+| Modelagem de Requisitos: Use Case         | 20/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | A definir        | 20/05/2024-26/05/2024 | 
+| Modelagem de Requisitos: Especificação Suplementar | 20/04/2024 | 19/05/2024 |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | A definir        | 20/05/2024-26/05/2024 | 
 | Gravar apresentação                       | 19/05/2024 | 19/05/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 19/05/2024 - 19/05/2024 |
-| Correção pós apresentação                 | 05/05/2024 | 05/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 05/05/2024 - 06/05/2024 |
+| Correção pós apresentação                 | 05/05/2024 | 05/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 20/05/2024-26/05/2024 |
 
 <center> 
 

@@ -40,7 +40,7 @@ Tabela 2: Léxicos do tipo Verbo
 |-|-|-|-|-|
 | Solicitar Benefício | [Bruno](https://github.com/brunocva.png) | O trabalhador deseja solicitar um benefício e utiliza o aplicativo para enviar a solicitação juntamente com os documentos necessários. | O trabalhador inicia a solicitação de um benefício, como Seguro Desemprego ou Abono Salarial. O sistema valida a solicitação e informa o trabalhador sobre o status do pedido. | Requerer Benefício, Pedir Benefício |
 | | [Breno](https://github.com/brenoalexandre0.png) | | | |
-| | [Caio](https://github.com/caiomesvie) | | | |
+|Atualizar dados pessoais| [Caio](https://github.com/caiomesvie) |Ato de realizar mudanças no cadastro do usuário em seus dados pessoais. |assegura que as informações mais recentes estejam disponíveis tanto para o trabalhador quanto para o empregador, evitando discrepâncias e facilitando a conformidade com as exigências legais. | Sincronizar dados, integrar dados.|
 | Enviar carteira de trabalho | [Iago](https://github.com/Paxxaglia) | O trabalhador precisa exportar o documento da carteira de trabalho para algum outro aplicativo | O trabalhador escolhe as opções de exportação da carteira e pode gerar um PDF | Expedir a carteira profissional, Encaminhar a carteira de trabalho, Despachar o registro de trabalho |
 | Adicionar Novo Contrato de Trabalho            | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Incluir novos contratos de trabalho na carteira de trabalho digital | Inserção de novos registros de contratos na carteira digital para empresas | Inserir     |
 | Emitir PDF do Contrato de Trabalho             | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Gerar um arquivo PDF contendo os detalhes do contrato de trabalho | Disponibilização de um documento digital para consulta ou impressão | Gerar PDF   |
@@ -58,7 +58,7 @@ Tabela 3: Léxicos do tipo Objeto
 |-|-|-|-|-|
 | Contrato de Trabalho | [Bruno](https://github.com/brunocva.png) | O contrato de trabalho contém informações sobre o vínculo empregatício entre o trabalhador e a empresa, incluindo dados como período trabalhado, salário e tipo de contrato. | O trabalhador pode visualizar, atualizar ou encerrar um contrato de trabalho. O sistema mantém um registro detalhado dos contratos de trabalho do usuário. | Acordo de Trabalho, Vínculo Empregatício, Emprego |
 | | [Breno](https://github.com/brenoalexandre0.png) | | | |
-| | [Caio](https://github.com/caiomesvie) | | | |
+| Empregador | [Caio](https://github.com/caiomesvie) | Pessoa física ou jurídica que contrata um trabalhador para prestar serviços de forma contínua e remunerada. | O usuário depende de seu empregador para que seja realizado o envio da documentação necessária para o registro em sua carteira de trabalho digital |Empresa, Patrão, Contratante. |
 | Benefício | [Iago](https://github.com/Paxxaglia) | Representa os auxílios ofertados para os trabalhadores contemplados |  O usuário pode solicitar diversos benefícios como Abono salarial, Seguro-desemprego, benefício emergencial entre outros. | Bônus, Auxílio, Comodidade |
 | Perfil do Trabalhador                          | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Conjunto de informações pessoais | Fonte de dados sobre o usuário | Registro do usuário(trabalhador) |
 | Notificação                                    | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Mensagem enviada ao trabalhador ou empresa sobre alterações ou eventos | Mecanismo de comunicação para manter as partes informadas sobre mudanças nos contratos | Alerta             |
@@ -77,7 +77,7 @@ Tabela 4: Léxicos do tipo Estado
 |-|-|-|-|-|
 | Benefício Aprovado | [Bruno](https://github.com/brunocva.png) | O sistema verifica a solicitação do benefício e, após aprovação, muda o status do pedido para "Aprovado". | O benefício solicitado pelo trabalhador foi aprovado. O sistema atualiza o status do benefício e notifica o trabalhador. | Benefício Concedido, Benefício Confirmado |
 | | [Breno](https://github.com/brenoalexandre0.png) | | | |
-| | [Caio](https://github.com/caiomesvie) | | | |
+|Contrato Finalizado | [Caio](https://github.com/caiomesvie) | O contrato de trabalho foi finalizado devido ao período de tempo pré-determinado | Tanto a empresa quanto o empregado são notificados sobre o fim do contrato | Contrato Concluído, Contrato Terminado. |
 | Tempo de serviço | [Iago](https://github.com/Paxxaglia) | O sistema verifica os registros do usuário e os ordena em ordem de tempo de serviço | A visualização se adapta após o click na opção | O usuário pode visualizar uma visão mais ampla relacionada aos seus contratos de trabalho |
 | Em Processo de Validação                 | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Estado onde as informações fornecidas estão sendo verificadas pelo sistema | Garante que os dados inseridos são corretos antes de serem aceitos no banco de dados | Verificação           |
 | Conexão Estável                          | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Situação em que a conexão à internet está funcionando corretamente | Permite a comunicação contínua e a realização de operações no sistema | Conectado             |
