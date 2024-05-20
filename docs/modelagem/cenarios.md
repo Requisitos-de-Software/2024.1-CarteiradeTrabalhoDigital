@@ -208,7 +208,31 @@ A tabela 7 mostra o cenário para quando um trabalhador deseja Exportar Relatór
 </center>
 </details>
 
+### Atualização das Informações pessoais
 
+A tabela 8 mostra o cenário para quando um trabalhador deseja atualizar suas informações pessoais.
+
+<details>
+  <summary size="20"><b> Tabela 8: Trabalhador deseja atualizar suas informações pessoais. </b></summary> 
+
+<center>
+
+**Tabela 8**: Atualização das informações pessoais.
+
+| Denominação | Atualização de Contrato |
+| - | - |
+| Objetivo/meta | Permitir que o trabalhador atualize suas informações pessoais no sistema, como endereço, telefone e email. |
+| Contexto | **Contexto:** O trabalhador mudou de endereço ou alterou seu número de telefone/email e deseja atualizar essas informações no sistema.  <br> **Local:** Na aba "Configurações de Conta" no aplicativo.  <br> **Tempo:**  A atualização de informações pessoais pode levar de 5 a 10 minutos. <br> **Pré-condição:** O trabalhador deve estar autenticado no sistema.  |
+| Atores | Trabalhador (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário).  |
+| Recursos | Aplicativo da carteira de trabalho digital; <br> Conexão à internet. <br> Dados atualizados em mãos.|
+| Episódios |1. O trabalhador faz login no aplicativo da carteira de trabalho digital. <br> 2. O trabalhador acessa a aba "Configurações de Conta" e seleciona "Atualizar Informações Pessoais". <br> 3. O sistema exibe um formulário com as informações pessoais atuais do trabalhador. <br> 4. O trabalhador altera as informações desejadas (endereço, telefone, email, etc.). <br> 5. O trabalhador confirma as alterações e envia o formulário. <br> 6. O sistema verifica as informações e atualiza os dados no banco de dados. <br> 7. O sistema exibe uma mensagem de confirmação informando que as informações foram atualizadas com sucesso.  |
+| Exceção | 1. Se ocorrer um erro na validação das informações, o sistema exibe uma mensagem de erro e solicita que o trabalhador corrija os dados inseridos. <br> 2. Se a conexão com a internet for interrompida, o sistema solicita que o trabalhador tente novamente mais tarde. |
+| Restrição |  1. O trabalhador deve estar autenticado no sistema. <br> 2. As informações fornecidas devem ser válidas e completas. <br> 3. A conexão com a internet deve estar estável. |
+
+**Fonte:** [Caio Mesquita](https://github.com/Caiomesvie)
+
+ </center> 
+ </details>
 
 ## Referências Bibliográficas
 
@@ -233,3 +257,4 @@ A tabela 7 mostra o cenário para quando um trabalhador deseja Exportar Relatór
 | 2.0 | Retirada de 5 Cenários | Larissa Stéfane | - | 19/05/2024 |
 | 2.1 | Adição do cenário de consulta de seguro desemprego  | Pedro Izarias | - | 19/05/2024 |
 | 2.2 |  Criação do cenário de trabalhador Exportar Relatório de Vínculos Empregatícios | Luana Medeiros | - | 19/05/2024 |
+| 2.2 |  Criação do cenário de trabalhador Atualizar informações pessoais | Caio Mesquita | - | 19/05/2024 |
