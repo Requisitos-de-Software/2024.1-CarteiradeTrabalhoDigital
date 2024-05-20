@@ -74,6 +74,7 @@ Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
 </center>
 </details>
 
+### Solicitar um benefício
 
 <details>
   <summary size="20"><b> Tabela 3: Trabalhador deseja solicitar um benefício </b></summary> 
