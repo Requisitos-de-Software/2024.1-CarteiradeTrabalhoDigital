@@ -77,4 +77,4 @@ ISBN: 8587926071, 2003.
 
 | Versão | Alteração                         | Responsável     | Revisor          | Data       |
 | ------ | --------------------------------- | --------------- | ---------------- | ---------- |
-| 1.0    | Criaçao e elaboração do documento | Breno Alexandre | -                | 19/05/2024 |
+| 1.0    | Criaçao e elaboração do documento | Breno Alexandre | Caio Mesquita    | 19/05/2024 |
