@@ -274,12 +274,12 @@ Tabela 9: Caso de uso UC07
 
 ### Consultar Seguro Desemprego
 
-A tabela x mostra quando o usuário(trabalhador) consulta requerimentos de Seguro Desemprego.
+A tabela 10 mostra quando o usuário(trabalhador) consulta requerimentos de Seguro Desemprego.
 
 <details>
-  <summary size="20"><b> Tabela x: Consultar seguro desemprego. </b></summary> 
+  <summary size="20"><b> Tabela 10: Consultar seguro desemprego. </b></summary> 
 <center>
-Tabela x: Caso de uso UC00
+Tabela 10: Caso de uso UC08
 
 | UC01                | Consultar Benefício                                              |
 | ------------------- | ---------------------------------------------------------------- |
@@ -287,9 +287,9 @@ Tabela x: Caso de uso UC00
 | Atores              | Trabalhador (Usuário Primário); Sistema de Banco de Dados (Usuário Secundário); Órgão Governamental (Usuário Secundário) |
 | Frequência          | Quando o trabalhador quiser verificar se atende aos requisitos de elegibilidade para o seguro-desemprego ou acompanhar seu requerimento.    |
 | Pré-condições       | O trabalhador deve estar autenticado no sistema escolher a opção Benefícios. |
-| Fluxo Básico        | <b> FB01 </b> <ol> <li>O trabalhador faz login no aplicativo da carteira de trabalho digital. <li>O trabalhador acessa a aba "Benefícios". <li>O trabalhador seleciona a opção Seguro Desemprego. <li>O trabalhador seleciona a opção consultar. <li>O trabalhador seleciona Seguro Desemprego ou Seguro Desemprego do empregado doméstico. <li>O sistema verifica a existência de requisições de seguro desemprego. <li>Se houverem requisições feitas, irão aparecer na tela.</ol> |
-| Fluxos Alternativos | <b> FA01 </b> <ol> <li>Se o trabalhador acessar a opção Menu, Benefícios e Seguro Desemprego, ainda pode fazer a consulta da mesma maneira.</ol>             |
-| Fluxos de exceção   | <b> FE01 </b> <ol> <li>Se não houverem requisições feitas pelo trabalhador para Seguro Desemprego, o aplicativo apresentará a mensagem "Não foram encontradas requerimentos de Seguro-Desemprego. </ol>             |
+| Fluxo Básico        | <b> FB08 </b> <ol> <li>O trabalhador faz login no aplicativo da carteira de trabalho digital. <li>O trabalhador acessa a aba "Benefícios". <li>O trabalhador seleciona a opção Seguro Desemprego. <li>O trabalhador seleciona a opção consultar. <li>O trabalhador seleciona Seguro Desemprego ou Seguro Desemprego do empregado doméstico. <li>O sistema verifica a existência de requisições de seguro desemprego. <li>Se houverem requisições feitas, irão aparecer na tela.</ol> |
+| Fluxos Alternativos | <b> FA08 </b> <ol> <li>Se o trabalhador acessar a opção Menu, Benefícios e Seguro Desemprego, ainda pode fazer a consulta da mesma maneira.</ol>             |
+| Fluxos de exceção   | <b> FE08 </b> <ol> <li>Se não houverem requisições feitas pelo trabalhador para Seguro Desemprego, o aplicativo apresentará a mensagem "Não foram encontradas requerimentos de Seguro-Desemprego. </ol>             |
 | Pós-condições       | Os requerimentos de Seguro Desemprego são mostrados na tela. |
 | Data de Criação     | 19/05/2024                                                        |
 | Rastreabilidade     | [Requisitos Funcionais F12]                              |
@@ -302,10 +302,10 @@ Tabela x: Caso de uso UC00
  ### Verificar direitos trabalhistas do contrato atual
 
 <details>
-  <summary size="20"><b> Tabela X: Verificar direitos trabalhistas do contrato atual </b></summary>
+  <summary size="20"><b> Tabela 11: Verificar direitos trabalhistas do contrato atual </b></summary>
 
 <center>
-<p align="center"> Tabela X: Caso de uso UC0X </p>
+<p align="center"> Tabela 11: Caso de uso UC09 </p>
 
 | UC0X | Verificar direitos trabalhistas do contrato atual |
 | ----------------------- | ----------------------- |
@@ -313,9 +313,9 @@ Tabela x: Caso de uso UC00
 | Atores | Trabalhador (Usuário Primário). |
 | Frequência | Sempre que o trabalhador precisar visualizar seus direitos. |
 | Pré-condições | O trabalhador deve estar autenticado no sistema e ter um contrato de trabalho. |
-| Fluxo Básico | <b> FB0X </b> <ol><li>O usuário (trabalhador) acessa o aplicativo da carteira de trabalho digital. <li>O usuário (trabalhador) faz login no aplicativo da carteira de trabalho digital. <li>O trabalhador acessa a aba "Benefícios". <li>O trabalhador seleciona a opção "Direitos". <li> O sistema exibe os direitos em forma de tópicos, além de cálculos nos valores que dependem de outros valores e porcentagens. </ol> |
-| Fluxos Alternativos | <b> FA0X </b>  <ol><li>O usuário (trabalhador) faz login no aplicativo da carteira de trabalho digital. <li>O usuário (trabalhador) acessa a aba "Canal de Denúncias Trabalhistas". <li> O sistema exibe uma opção de verificar os direitos trabalhistas.</ol> |
-| Fluxos de exceção | <b> FE0X </b> <ol> <li>O usuário (trabalhador) acessa o aplicativo da carteira de trabalho digital. <li>O usuário (trabalhador) faz login no aplicativo da carteira de trabalho digital. <li>O trabalhador seleciona a opção "Direitos". <li> A página de direitos está vazia ou não é exibida corretamente. </ol> <b> FE0X </b> <ol> <li>O usuário (trabalhador) acessa o aplicativo da carteira de trabalho digital. <li>O usuário (trabalhador) faz login no aplicativo da carteira de trabalho digital. <li>O trabalhador seleciona a opção "Direitos". <li> O aplicativo exibe uma mensagem de erro informando que não foi possível carregar e recomenda tentar novamente mais tarde. </ol> |
+| Fluxo Básico | <b> FB09 </b> <ol><li>O usuário (trabalhador) acessa o aplicativo da carteira de trabalho digital. <li>O usuário (trabalhador) faz login no aplicativo da carteira de trabalho digital. <li>O trabalhador acessa a aba "Benefícios". <li>O trabalhador seleciona a opção "Direitos". <li> O sistema exibe os direitos em forma de tópicos, além de cálculos nos valores que dependem de outros valores e porcentagens. </ol> |
+| Fluxos Alternativos | <b> FA09 </b>  <ol><li>O usuário (trabalhador) faz login no aplicativo da carteira de trabalho digital. <li>O usuário (trabalhador) acessa a aba "Canal de Denúncias Trabalhistas". <li> O sistema exibe uma opção de verificar os direitos trabalhistas.</ol> |
+| Fluxos de exceção | <b> FE09 </b> <ol> <li>O usuário (trabalhador) acessa o aplicativo da carteira de trabalho digital. <li>O usuário (trabalhador) faz login no aplicativo da carteira de trabalho digital. <li>O trabalhador seleciona a opção "Direitos". <li> A página de direitos está vazia ou não é exibida corretamente. </ol> <b> FE10 </b> <ol> <li>O usuário (trabalhador) acessa o aplicativo da carteira de trabalho digital. <li>O usuário (trabalhador) faz login no aplicativo da carteira de trabalho digital. <li>O trabalhador seleciona a opção "Direitos". <li> O aplicativo exibe uma mensagem de erro informando que não foi possível carregar e recomenda tentar novamente mais tarde. </ol> |
 | Pós-condições | As informações serão exibidas para o usuário. |
 | Data de Criação  | 19/05/2024 |
 | Rastreabilidade  | [Requisitos Funcionais RF28](/Elicitacao/RequisitosCorrigidos.md) |
@@ -339,18 +339,18 @@ Tabela x: Caso de uso UC00
 | 1.0    | Criação da documentação  | Bruno Araújo    | Iago Passaglia  | 19/05/2024 |
 | 1.1    | Caso de uso UC02         | Iago Passaglia  | Bruno Araújo    | 19/05/2024 |
 | 1.2    | Correção da bibliografia | Breno Alexandre | Larissa Stéfane               | 19/05/2024 |
-| 1.3    | Adição do caso de uso: Acessar Detalhes dos Contratos de Trabalho | Larissa Stéfane | - | 19/05/2024 |
-| 1.4    | Adição do caso de uso: Atualização dos Contratos de Trabalho | Larissa Stéfane | - | 19/05/2024 |
-| 1.5    | Adição do caso de uso: Denúncias trabalhistas. | Larissa Stéfane | - | 19/05/2024 |
-| 1.6    | Adição do caso de uso: Escolher Modo de Status de Procura de Emprego | Larissa Stéfane | - | 19/05/2024 |
-| 1.7    | Adição do caso de uso: Empresa anucia vagas/ofertas de emprego | Larissa Stéfane | - | 19/05/2024 |
-| 1.8    | Adição do caso de uso: Empresa adiciona novos contratos de emprego | Larissa Stéfane | - | 19/05/2024 |
-| 1.9    | Adição do caso de uso: Empresa atualiza contratos de emprego | Larissa Stéfane | - | 19/05/2024 |
-| 2.0    | Adição do caso de uso: Empresa encerra contratos de emprego | Larissa Stéfane | - | 19/05/2024 |
-| 2.1    | Compactar tabelas do caso 01 e 02 | Larissa Stéfane | - | 19/05/2024 |
-| 2.2    | Atualiação do sumário | Larissa Stéfane | - | 19/05/2024 |
-| 2.3    | Adição do caso de uso:Consultar Seguro Desemprego | Pedro Izarias | - | 19/05/2024 |
-| 2.4    | Retirada de alguns caso de uso | Larissa Stéfane | - | 19/05/2024 | 
-| 2.5    | Adição do caso de uso: Trabalhador exporta relatório de vínculos empregatícios| Luana Medeiros | - | 19/05/2024 | 
-| 2.6    | Adição do caso de uso: Verificar direitos trabalhistas do contrato atual | Breno Alexandre | - | 19/05/2024
-| 2.7    | Adição diagramas de caso de uso |Caio Mesquita | - | 19/05/2024
+| 1.3    | Adição do caso de uso: Acessar Detalhes dos Contratos de Trabalho | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
+| 1.4    | Adição do caso de uso: Atualização dos Contratos de Trabalho | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
+| 1.5    | Adição do caso de uso: Denúncias trabalhistas. | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
+| 1.6    | Adição do caso de uso: Escolher Modo de Status de Procura de Emprego | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
+| 1.7    | Adição do caso de uso: Empresa anucia vagas/ofertas de emprego | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
+| 1.8    | Adição do caso de uso: Empresa adiciona novos contratos de emprego | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
+| 1.9    | Adição do caso de uso: Empresa atualiza contratos de emprego | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
+| 2.0    | Adição do caso de uso: Empresa encerra contratos de emprego | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
+| 2.1    | Compactar tabelas do caso 01 e 02 | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
+| 2.2    | Atualiação do sumário | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
+| 2.3    | Adição do caso de uso:Consultar Seguro Desemprego | Pedro Izarias | Iago Passaglia | 19/05/2024 |
+| 2.4    | Retirada de alguns caso de uso | Larissa Stéfane | Iago Passaglia | 19/05/2024 | 
+| 2.5    | Adição do caso de uso: Trabalhador exporta relatório de vínculos empregatícios| Luana Medeiros | Iago Passaglia | 19/05/2024 | 
+| 2.6    | Adição do caso de uso: Verificar direitos trabalhistas do contrato atual | Breno Alexandre | Iago Passaglia | 19/05/2024
+| 2.7    | Adição diagramas de caso de uso |Caio Mesquita | Iago Passaglia | 19/05/2024
