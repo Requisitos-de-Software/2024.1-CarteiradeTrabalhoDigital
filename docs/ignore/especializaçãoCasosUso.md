@@ -183,3 +183,34 @@ Tabela 9: AEncerra contratos de emprego
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </center>
+
+
+
+### Verificar dados relacionados ao FGTS e INSS 
+
+A tabela 12 mostra quando o usuário(trabalhador) deseja ferificar os dados de INSS e FGTS em relação aos seus contratos de trabalho.
+
+<details>
+  <summary size="20"><b> Tabela 12: Verificar dados relacionados ao FGTS e INSS . </b></summary> 
+<center>
+ Tabela 12: Caso de uso: Verificar dados relacionados ao FGTS e INSS 
+
+
+| UC10               | Nome do caso                                                |
+| ------------------- | ----------------------------------------------------------- |
+| Descrição           | Permitir ao usuário (trabalhador) consultar e visualizar os dados do FGTS e INSS, exibidos em forma de gráficos ou tabelas. Além disso, informar inconsistências nas informações, como falta de pagamento, se ela estiver ocorrendo . |
+| Atores              | Usuário (trabalhador) (Usuário Primário); <br> Aplicativo do governo também relacionado ao meio trabalhista(Usuário Secundário). |
+| Frequência          | Conforme necessidade do usuário (trabalhador) para consultar seus dados do FGTS e INSS. |
+| Pré-condições       | <ul> <li> O usuário (trabalhador) deve estar autenticado no sistema. <li> O usuário (trabalhador) deve ter o aplicativo da carteira de trabalho digital instalado em seu smartphone. <li> O usuário (trabalhador) deve ter acesso à internet. <li> O aplicativo deve fazer ligação (integração com outros sistemas trabalhistas). <li> Aplicativo do governo com dados do FGTS e INSS deve estar atualizado e acessível. </ul> |
+| Fluxo Básico        | **FB10** <ol> <li> O usuário (trabalhador) faz login no aplicativo da carteira de trabalho digital. <li> O usuário (trabalhador) clica no ícone "Dados do FGTS/INSS" na interface do aplicativo. <li> O sistema recupera e exibe uma lista de todas as informações do FGTS e INSS do usuário (trabalhador). <li> O usuário (trabalhador) seleciona um dado específico da lista (FGTS ou INSS). <li> O sistema exibe os detalhes do dado selecionado, incluindo: <ul><li> Saldo do FGTS <li> Contribuições ao INSS <li> Histórico de contribuições <li> Gráficos de acompanhamento <li> Informações detalhadas sobre cada contribuição</ul> <li> O usuário (trabalhador) pode visualizar os dados em forma de gráficos ou tabelas. </o1> |
+| Fluxos Alternativos | **FA10** <ol> <li> Se o usuário (trabalhador) deseja exportar os detalhes dos dados do FGTS/INSS: <ul><li> O usuário (trabalhador) clica em "Exportar Dados" na interface do aplicativo. <li> O sistema gera um arquivo PDF com todos os detalhes do dado selecionado. <li> O usuário (trabalhador) faz o download do PDF.</ul></ol> |
+| Fluxos de exceção   | **FE10** <ol> <li> Se ocorrer um erro na recuperação dos dados: <ul><li> O usuário (trabalhador) clica no ícone "Dados do FGTS/INSS". <li> O sistema tenta recuperar os dados do banco de dados, mas falha. <li> O sistema exibe uma mensagem de erro: "Erro ao recuperar os dados. Por favor, tente novamente mais tarde." <li> O usuário (trabalhador) clica em "OK" para fechar a mensagem de erro. <li> O usuário (trabalhador) pode verificar a conexão com a internet e tentar novamente mais tarde.</ul> <li> Se o usuário (trabalhador) não tiver dados do FGTS/INSS registrados: <ul><li> O usuário (trabalhador) clica no ícone "Dados do FGTS/INSS". <li> O sistema recupera os dados e verifica que não há dados registrados. <li> O sistema exibe uma mensagem: "Nenhum dado do FGTS/INSS disponível." <li> O usuário (trabalhador) clica em "OK" para fechar a mensagem.</ul> <li> Se houver um problema de comunicação com o outro aplicativo trabalhista: <ul><li> O usuário (trabalhador) clica no ícone "Dados do FGTS/INSS". <li> O sistema tenta se comunicar com o outro aplicativo, mas falha. <li> O sistema exibe uma mensagem de erro: "Problema de comunicação com o aplicativo. Tente novamente mais tarde." <li> O usuário (trabalhador) clica em "OK" para fechar a mensagem e pode tentar novamente mais tarde.</ul> <li> Se os dados do FGTS/INSS forem incompletos ou estiverem corrompidos: <ul><li> O usuário (trabalhador) seleciona um dado da lista. <li> O sistema tenta carregar os detalhes do dado, mas os dados estão incompletos ou corrompidos. <li> O sistema exibe uma mensagem de erro: "Dados do FGTS/INSS incompletos ou corrompidos. Entre em contato com o suporte técnico." <li> O usuário (trabalhador) clica em "OK" para fechar a mensagem e pode contatar o suporte técnico para resolver o problema.</ul> <li> Se o sistema identificar uma inconsistência nas informações, como a empresa não estar pagando o INSS ou FGTS: <ul><li> O usuário (trabalhador) seleciona um dado da lista. <li> O sistema verifica a consistência das informações e detecta um problema. <li> O sistema exibe uma mensagem de alerta: "Inconsistência detectada nas informações do FGTS/INSS. Por favor, verifique com seu empregador." <li> O usuário (trabalhador) clica em "OK" para fechar a mensagem e pode tomar as devidas providências.</ul> </ol> |
+| Pós-condições       | O usuário (trabalhador) visualiza os dados do FGTS/INSS selecionado. |
+| Data de Criação     | 18/05/2024                                                  |
+| Rastreabilidade     | [F11](Elicitacao/ResquisitosCorrigidos.md) |
+
+Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+</center>
+
+</center>
+ </details>
