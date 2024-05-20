@@ -196,8 +196,8 @@ O processo de desenvolvimento do diagrama de caso de uso do aplicativo da Cartei
 
 | Versão | Alteração                         | Responsável     | Revisor               | Data       |
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
-| 1.0    | Criação do documento            | Larissa Stéfane  | -      | 19/05/2024 |
-| 1.2    | Adição da reunião com o usuário | Larissa Stéfane  | -      | 19/05/2024 |
+| 1.0    | Criação do documento            | Larissa Stéfane  | Iago Passaglia | 19/05/2024 |
+| 1.2    | Adição da reunião com o usuário | Larissa Stéfane  | Iago Passaglia | 19/05/2024 |
 
 
 
