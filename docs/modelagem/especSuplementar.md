@@ -20,9 +20,9 @@ A metodologia FURPS+ é uma abordagem usada para classificar e organizar os requ
 
 Trata-se do quão confiável é o sistema, se baseando na frequência de falhas, possibilidade de recuperação e prevenção e tempo entre as falhas.
 
-Os requisitos identificados nesta categoria estão na tabela X a seguir.
+Os requisitos identificados nesta categoria estão na tabela 1 a seguir.
 
-<p align="center"> Tabela X - Requisitos de confiabilidade. </p>
+<p align="center"> Tabela 1 - Requisitos de confiabilidade. </p>
 
 | ID    | Descrição                                                                                                                          |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -38,9 +38,9 @@ Os requisitos identificados nesta categoria estão na tabela X a seguir.
 ## Desempenho
 
 Trata-se das condições que os requisitos devem executar. 
-Os requisitos identificados nesta categoria estão na tabela X a seguir.
+Os requisitos identificados nesta categoria estão na tabela 2 a seguir.
 
-<p align="center"> Tabela X - Requisitos de desempenho. </p>
+<p align="center"> Tabela 2 - Requisitos de desempenho. </p>
 
 | ID    | Descrição                                                                                          |
 | ----- | -------------------------------------------------------------------------------------------------- |
@@ -53,9 +53,9 @@ Os requisitos identificados nesta categoria estão na tabela X a seguir.
 
 ## Suportabilidade
 
-A tabela x a seguir apresenta os requisitos associados ao suporte e manutenção do sistema. Esses requisitos incluem a facilidade de manutenção, a capacidade de modificação e atualização do sistema, a disponibilidade de documentação adequada, e a facilidade de teste e diagnóstico de problemas.
+A tabela 3 a seguir apresenta os requisitos associados ao suporte e manutenção do sistema. Esses requisitos incluem a facilidade de manutenção, a capacidade de modificação e atualização do sistema, a disponibilidade de documentação adequada, e a facilidade de teste e diagnóstico de problemas.
 
-<font><p style="text-align: center">Tabela 1 - Requisitos de Suportabilidade.</p></font>
+<font><p style="text-align: center">Tabela 3 - Requisitos de Suportabilidade.</p></font>
 
 | ID    | Descrição                                                                                                                                                                                                                                                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -74,11 +74,11 @@ O app Carteira de Trabalho Digital deve adotar restrições de design rigorosas 
 
 ## Suplementares
 
-A tabela x a seguir apresenta os requisitos referentes ao "+" da metodologia escolhida, esses requisitos podem ser classificados como Requisitos de Implementação, Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line.
+A tabela 4 a seguir apresenta os requisitos referentes ao "+" da metodologia escolhida, esses requisitos podem ser classificados como Requisitos de Implementação, Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line.
 
 ### Requisitos de implementação
 
-<font><p style="text-align: center">Tabela 2 - Requisitos de Implementação.</p></font>
+<font><p style="text-align: center">Tabela 4 - Requisitos de Implementação.</p></font>
 
 | ID    | Descrição                                                                                                                                                   |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -96,7 +96,7 @@ A tabela x a seguir apresenta os requisitos referentes ao "+" da metodologia esc
 
 ### Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line
 
-<font><p style="text-align: center">Tabela 3 - Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line.</p></font>
+<font><p style="text-align: center">Tabela 5 - Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line.</p></font>
 
 | ID | Descrição |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -110,7 +110,7 @@ A tabela x a seguir apresenta os requisitos referentes ao "+" da metodologia esc
 
 O desenvolvimento de aplicativos governamentais requer não apenas funcionalidades eficientes, mas também conformidade com uma série de normas, regulamentos e diretrizes legais. Assim, no contexto da carteira digital do trabalho, é fundamental que o sistema atenda aos requisitos não funcionais relacionados a normas para garantir uma melhor e mais segura experiência para o usuário. Com isso, abaixo, a tabela 2 detalha os requisitos relacionados a normas que o aplicativo da carteira digital do trabalho deve seguir para o cumprimento dos padrões governamentais.
 
-**Tabela 4:** Normas que precisam ser seguidas
+**Tabela 6:** Normas que precisam ser seguidas
 
 | ID    | Descrição                                                                                                                                                                                                                                                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -127,7 +127,7 @@ O desenvolvimento de aplicativos governamentais requer não apenas funcionalidad
 
 O sistema deve seguir os padrões definidos pelas normas internacionais para garantir qualidade, segurança e compatibilidade. Os padrões aplicáveis incluem:
 
-### Tabela 5: Padrões e Normas que Precisam ser Seguidos
+### Tabela 7: Padrões e Normas que Precisam ser Seguidos
 
 | ID    | Descrição                                                   |
 |-------|-------------------------------------------------------------|
@@ -156,7 +156,7 @@ O sistema deve seguir os padrões definidos pelas normas internacionais para gar
 
 O sistema deve ser compatível com diversos dispositivos, garantindo acessibilidade e experiência consistente para todos os usuários:
 
-### Tabela 6: Padrões e Normas Estabelecidos
+### Tabela 8: Padrões e Normas Estabelecidos
 
 | ID    | Descrição                                                        |
 |-------|------------------------------------------------------------------|
@@ -198,3 +198,4 @@ https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/doc
 | 1.4 | Adição de Padrões Apláveis e Requisitos Físicos | Bruno Araújo | Iago Passaglia  |  19/05/2024  |
 | 1.5 | Correção de tabelas | Iago Passaglia | Breno Alexandre  |  19/05/2024  |
 | 1.6 | Adição dos tópicos "Confiabilidade" e "Desempenho" | Breno Alexandre | -  |  19/05/2024  |
+| 1.7 | Correção das tabelas | Pedro Izarias | -  |  19/05/2024  |
