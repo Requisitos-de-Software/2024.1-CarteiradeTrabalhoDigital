@@ -33,7 +33,7 @@ Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
 ### Visualizar aba "Emprego"
 
 <details>
-  <summary size="20"><b> Tabela x: Trabalhador deseja solicitar um benefício </b></summary> 
+  <summary size="20"><b> Tabela 1: Trabalhador deseja solicitar um benefício </b></summary> 
 
 <center>
 
@@ -55,7 +55,7 @@ Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
 ### Solicitar Benefício
 
 <details>
-  <summary size="20"><b> Tabela x: Trabalhador deseja consultar Seguro Desemprego </b></summary> 
+  <summary size="20"><b> Tabela 2: Trabalhador deseja consultar Seguro Desemprego </b></summary> 
 
 <center>
 
@@ -75,15 +75,17 @@ Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
 **Fonte:** [Pedro Izarias](https://github.com/Izarias)
 
 <details>
-  <summary size="20"><b> Tabela 1: Trabalhador deseja solicitar um benefício </b></summary> 
+  <summary size="20"><b> Tabela 3: Trabalhador deseja solicitar um benefício </b></summary> 
 
 <center>
 
-**Tabela 1**: Solicitar Benefício
+## Solicitar benefício
 
-| Denominação | Solicitar Benefício |
+**Tabela 3**: Solicitar Benefício
+
+| Denominação | Solicitar Benefício | 
 | - | - |
-| Objetivo/meta | Permitir que o trabalhador solicite um benefício, como seguro-desemprego ou auxílio-doença. |
+| Objetivo/meta | Permite que o trabalhador solicite um benefício, como seguro-desemprego ou auxílio-doença. |
 | Contexto | **Contexto:** O trabalhador precisa solicitar um benefício disponível através do aplicativo da carteira de trabalho digital. <br> **Local:** Na aba "Benefícios". <br> **Tempo:** O processo de solicitação pode levar de 10 a 20 minutos, dependendo da complexidade do benefício solicitado. <br> **Pré-condição:** O trabalhador deve estar autenticado no sistema e ter os documentos necessários para a solicitação. |
 | Atores | Trabalhador (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário); <br> Órgão Governamental (Usuário Secundário) |
 | Recursos | Aplicativo da carteira de trabalho digital; <br> Conexão à internet; <br> Banco de dados de benefícios. |
@@ -99,14 +101,14 @@ Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
 
 ### Atualização dos Contratos de Trabalho
 
-A tabela 2 mostra o cenário para quando um trabalhador deseja atualizar seus contratos de trabalho
+A tabela 4 mostra o cenário para quando um trabalhador deseja atualizar seus contratos de trabalho
 
 <details>
-  <summary size="20"><b> Tabela 2: Trabalhador deseja atualizar dados de Contratos de Trabalho </b></summary> 
+  <summary size="20"><b> Tabela 4: Trabalhador deseja atualizar dados de Contratos de Trabalho </b></summary> 
 
 <center>
 
-**Tabela 2**: Atualização dos Contratos de Trabalho
+**Tabela 4**: Atualização dos Contratos de Trabalho
 
 | Denominação | Atualização de Contrato |
 | - | - |
@@ -125,14 +127,14 @@ A tabela 2 mostra o cenário para quando um trabalhador deseja atualizar seus co
 
 ### Canal de Denúncias
 
-A tabela 3 mostra o cenário para quando um trabalhador deseja relacionar uma denúncia sobre a empresa onde trabalha.
+A tabela 5 mostra o cenário para quando um trabalhador deseja relacionar uma denúncia sobre a empresa onde trabalha.
 
 <details>
-  <summary size="20"><b> Tabela 3: Trabalhador no Canal de Denúncias </b></summary> 
+  <summary size="20"><b> Tabela 5: Trabalhador no Canal de Denúncias </b></summary> 
 
 <center>
   
-**Tabela 3**:  Trabalhador no Canal de Denúncias
+**Tabela 5**:  Trabalhador no Canal de Denúncias
 
 
 | Denominação | Realizar Denúncias Trabalhistas |
@@ -153,14 +155,14 @@ A tabela 3 mostra o cenário para quando um trabalhador deseja relacionar uma de
 ### Escolher Modo de Status de Procura de Emprego
 
 
-A tabela 4 mostra o cenário para quando um trabalhador deseja escolher o seu modo de status em relação a procura de emprego
+A tabela 6 mostra o cenário para quando um trabalhador deseja escolher o seu modo de status em relação a procura de emprego
 
 <details>
-  <summary size="20"><b> Tabela 4: Trabalhador deseja escolher Modo de Status de Procura de Emprego </b></summary> 
+  <summary size="20"><b> Tabela 6: Trabalhador deseja escolher Modo de Status de Procura de Emprego </b></summary> 
 
 <center>
 
-**Tabela 4**:  Escolher Modo de Status de Procura de Emprego
+**Tabela 6**:  Escolher Modo de Status de Procura de Emprego
 
 | Denominação | Escolher Modo de Status |
 | - | - |
@@ -177,7 +179,32 @@ A tabela 4 mostra o cenário para quando um trabalhador deseja escolher o seu mo
 </center> 
  </details>
 
+### Exportar Relatório de Vínculos Empregatícios
 
+
+A tabela 7 mostra o cenário para quando um trabalhador deseja Exportar Relatório de Vínculos Empregatícios
+
+<details>
+  <summary size="20"><b> Tabela 7: Trabalhador deseja Exportar Relatório de Vínculos Empregatícios </b></summary> 
+
+<center>
+
+**Tabela 7**: Exportar Relatório de Vínculos Empregatícios
+
+| Denominação | Exportar Relatório de Vínculos Empregatícios |
+| - | - |
+| Objetivo/meta | Permitir que o trabalhador gere e exporte um relatório completo dos seus vínculos empregatícios. |
+| Contexto      | *Contexto:* O usuário já possui um login ativo na plataforma Carteira de Trabalho Digital através do gov.br. O usuário deseja obter um relatório detalhado de todos os seus vínculos empregatícios registrados. <br> *Pré-condição:* O trabalhador deve estar autenticado no sistema e ter vínculos empregatícios registrados.|
+| Atores        | Trabalhador (Usuário Primário); Sistema de Banco de Dados (Usuário Secundário); Órgão Governamental (Usuário Secundário) |
+| Recursos      | Smartphone <br> Conexão à internet <br> Aplicativo Carteira de Trabalho Digital instalado e atualizado <br> Conta ativa no gov.br para login |
+| Episódios     | <ol> <li>O trabalhador faz login no aplicativo da carteira de trabalho digital. <li>O trabalhador acessa a aba "Relatórios". <li>O trabalhador seleciona a opção "Exportar Relatório de Vínculos". <li>O sistema exibe as opções de formato de exportação (por exemplo, PDF, Excel). <li>O trabalhador escolhe o formato desejado e confirma a exportação. <li>O sistema gera o relatório no formato escolhido. <li>O sistema disponibiliza o relatório para download. <li>O trabalhador baixa o relatório e conclui a tarefa. </ol> |
+| Exceção       | <ol> <li>Se ocorrer um erro durante a geração do relatório, uma mensagem de erro é exibida e o trabalhador é orientado a tentar novamente mais tarde. <li>Se houver um problema de comunicação com o órgão governamental, uma mensagem de erro é exibida e o trabalhador é instruído a tentar novamente mais tarde. <li>Em dispositivos iOS, se o teclado virtual permanecer sobre o botão de "Concluir" na última etapa, o que inviabiliza a conclusão da tarefa. </ol> |
+| Restrição     |  <ol> <li>O trabalhador deve estar autenticado no sistema para exportar o relatório. <li>A conexão com a internet deve estar estável durante o processo de exportação do relatório. </ol> |
+
+</center>
+</details>
+
+**Fonte:** [Luana Medeiros](https://github.com/LuaMedeiros)
 
 
 ## Referências Bibliográficas
@@ -201,4 +228,5 @@ A tabela 4 mostra o cenário para quando um trabalhador deseja escolher o seu mo
 | 1.8 |  Adição de introdução, metodologia e desenvolvimento do modelo de tabela para cenários |  Iago Passaglia   |   Bruno Araújo   |   19/05/2024     |
 | 1.9 |  Criação do cenário Solicitar Benefício   |  Bruno Araújo   | Caio Mesquita   |   19/05/2024    |
 | 2.0 | Retirada de 5 Cenários | Larissa Stéfane | - | 19/05/2024 |
-
+| 2.1 | Adição do cenário de consulta de seguro desemprego  | Pedro Izarias | - | 19/05/2024 |
+| 2.2 |  Criação do cenário de trabalhador Exportar Relatório de Vínculos Empregatícios | Luana Medeiros | - | 19/05/2024 |

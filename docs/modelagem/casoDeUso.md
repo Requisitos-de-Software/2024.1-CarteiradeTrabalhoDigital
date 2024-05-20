@@ -229,7 +229,65 @@ A tabela 8 mostra quando o usuário(trabalhador) Escolhe Modo de Status de Procu
 
 </details>
 
+### Trabalhador exporta relatório de vínculos empregatícios
 
+A tabela 9 mostra quando o usuário(trabalhador) exporta relatório de vínculos empregatícios.
+
+<details>
+  <summary size="20"><b> Tabela 9: Trabalhador exporta relatório de vínculos empregatícios </b></summary> 
+<center>
+ 
+<center>
+Tabela 9: Caso de uso UC07
+
+| UC07                | Exportar Relatório de Vínculos Empregatícios                                         |
+| ------------------- | ---------------------------------------------------------------- |
+| Descrição           | Permitir ao trabalhador gerar e exportar um relatório contendo todos os seus vínculos empregatícios registrados. |
+| Atores              | Trabalhador (Usuário Primário); Sistema de Banco de Dados (Usuário Secundário); Órgão Governamental (Usuário Secundário) |
+| Frequência          | Sempre que o trabalhador precisar de um relatório completo dos seus vínculos empregatícios. |
+| Pré-condições       | O trabalhador deve estar autenticado no sistema e ter vínculos empregatícios registrados. |
+| Fluxo Básico        | <b> FB07 </b> <ol> <li>O trabalhador faz login no aplicativo da carteira de trabalho digital. <li>O trabalhador acessa a aba "Relatórios". <li>O trabalhador seleciona a opção "Exportar Relatório de Vínculos". <li>O sistema exibe as opções de formato de exportação (por exemplo, PDF, Excel). <li>O trabalhador escolhe o formato desejado e confirma a exportação. <li>O sistema gera o relatório e disponibiliza para download. <li>O trabalhador baixa o relatório e conclui a tarefa. </ol> |
+| Fluxos Alternativos | <b> FA07 </b> <ol> <li>Se o trabalhador optar por abandonar a tarefa, ele fecha o aplicativo ou volta à tela inicial sem completar o processo de exportação. </ol> |
+| Fluxos de exceção   | <b> FE07 </b> <ol> <li>Se ocorrer um erro durante a geração do relatório, uma mensagem de erro é exibida e o trabalhador é orientado a tentar novamente mais tarde. <li>Se houver um problema de comunicação com o órgão governamental, uma mensagem de erro é exibida e o trabalhador é instruído a tentar novamente mais tarde. <li>Em dispositivos iOS, se o teclado virtual permanecer sobre o botão de "Concluir" na última etapa, inviabilizando a conclusão da tarefa. </ol> |
+| Restrição           | <ol> <li>O trabalhador deve estar autenticado no sistema para exportar o relatório. <li>A conexão com a internet deve estar estável durante o processo de exportação do relatório. </ol> |
+| Pós-condições       | O relatório de vínculos empregatícios do trabalhador é gerado e disponibilizado para download no formato escolhido. |
+| Data de Criação     | 19/05/2024  |
+| Rastreabilidade     | [RF01, RF02, RF07] |
+
+
+**Fonte:** [Luana Medeiros](https://github.com/LuaMedeiros)
+
+</center>
+
+ </details>
+
+### Consultar Seguro Desemprego
+
+A tabela x mostra quando o usuário(trabalhador) consulta requerimentos de Seguro Desemprego.
+
+<details>
+  <summary size="20"><b> Tabela x: Consultar seguro desemprego. </b></summary> 
+<center>
+Tabela x: Caso de uso UC00
+
+| UC01                | Consultar Benefício                                              |
+| ------------------- | ---------------------------------------------------------------- |
+| Descrição           | Permitir que o trabalhador consulte requerimentos de seguro desemprego. |
+| Atores              | Trabalhador (Usuário Primário); Sistema de Banco de Dados (Usuário Secundário); Órgão Governamental (Usuário Secundário) |
+| Frequência          | Quando o trabalhador quiser verificar se atende aos requisitos de elegibilidade para o seguro-desemprego ou acompanhar seu requerimento.    |
+| Pré-condições       | O trabalhador deve estar autenticado no sistema escolher a opção Benefícios. |
+| Fluxo Básico        | <b> FB01 </b> <ol> <li>O trabalhador faz login no aplicativo da carteira de trabalho digital. <li>O trabalhador acessa a aba "Benefícios". <li>O trabalhador seleciona a opção Seguro Desemprego. <li>O trabalhador seleciona a opção consultar. <li>O trabalhador seleciona Seguro Desemprego ou Seguro Desemprego do empregado doméstico. <li>O sistema verifica a existência de requisições de seguro desemprego. <li>Se houverem requisições feitas, irão aparecer na tela.</ol> |
+| Fluxos Alternativos | <b> FA01 </b> <ol> <li>Se o trabalhador acessar a opção Menu, Benefícios e Seguro Desemprego, ainda pode fazer a consulta da mesma maneira.</ol>             |
+| Fluxos de exceção   | <b> FE01 </b> <ol> <li>Se não houverem requisições feitas pelo trabalhador para Seguro Desemprego, o aplicativo apresentará a mensagem "Não foram encontradas requerimentos de Seguro-Desemprego. </ol>             |
+| Pós-condições       | Os requerimentos de Seguro Desemprego são mostrados na tela. |
+| Data de Criação     | 19/05/2024                                                        |
+| Rastreabilidade     | [Requisitos Funcionais F12]                              |
+
+**Fonte:** [Pedro Izarias](https://github.com/Izarias)
+
+</center>
+ </details>
+ 
 ## Bibliografia
 
 <b>MINISTÉRIO DO TRABALHO E EMPREGO</b>. Passo a Passo Carteira de Trabalho Digital APP e WEB. 2023.
@@ -254,4 +312,6 @@ A tabela 8 mostra quando o usuário(trabalhador) Escolhe Modo de Status de Procu
 | 2.0    | Adição do caso de uso: Empresa encerra contratos de emprego | Larissa Stéfane | - | 19/05/2024 |
 | 2.1    | Compactar tabelas do caso 01 e 02 | Larissa Stéfane | - | 19/05/2024 |
 | 2.2    | Atualiação do sumário | Larissa Stéfane | - | 19/05/2024 |
-| 2.3    | Retirada de alguns caso de uso | Larissa Stéfane | - | 19/05/2024 | 
+| 2.3    | Adição do caso de uso:Consultar Seguro Desemprego | Pedro Izarias | - | 19/05/2024 |
+| 2.4    | Retirada de alguns caso de uso | Larissa Stéfane | - | 19/05/2024 | 
+| 2.5    | Adição do caso de uso: Trabalhador exporta relatório de vínculos empregatícios| Luana Medeiros | - | 19/05/2024 | 
