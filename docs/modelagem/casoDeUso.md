@@ -15,7 +15,7 @@ Um caso de uso se refere a uma descrição detalhada de como o sistema será uti
 
 ## Metodologia
 
-Para a construção dos casos de uso, utilizamos a técnica de Cenários, que é uma das técnicas de elicitação de requisitos. Essa técnica ajuda a identificar requisitos e prever situações que podem ocorrer no uso do sistema. A metodologia foi baseada na técnica de modelagem de casos de uso apresentada em "Requisitos – Aula 13" (SERRANO; SERRANO, 2017)【2】.
+Para a construção dos casos de uso, utilizamos a técnica de Cenários, que é uma das técnicas de elicitação de requisitos. Essa técnica ajuda a identificar requisitos e prever situações que podem ocorrer no uso do sistema. A metodologia foi baseada na técnica de modelagem de casos de uso apresentada em "Requisitos – Aula 13" (SERRANO; SERRANO, 2017)¹.
 
 O diagrama de caso de uso é uma representação visual que resume as interações entre os usuários e um sistema, destacando suas funcionalidades e comportamentos. Ele é composto por atores, que representam os usuários, e casos de uso, que descrevem as ações realizadas pelos usuários e as respostas do sistema. Abaixo temos uma tabela onde há os elementos contidos no [Diagrama](#Diagrama-de-Casos-de-Uso)
 
@@ -325,14 +325,13 @@ Tabela x: Caso de uso UC00
 </center>
 </details>
 
+## Referências Bibliográficas
+1. <b>SERRANO</b>, Milene; SERRANO, Maurício. Requisitos – Aula 13. 2017. Apresentação de slides. Disponível em: <https://example.com/Requisitos-Aula-013a.pdf>. Acesso em: 19 mai. 2024.
  
 ## Bibliografia
-
 <b>MINISTÉRIO DO TRABALHO E EMPREGO</b>. Passo a Passo Carteira de Trabalho Digital APP e WEB. 2023.
 
 <b>SERRANO</b>, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 14/05/2023.
-
-<b>SERRANO</b>, Milene; SERRANO, Maurício. Requisitos – Aula 13. 2017. Apresentação de slides. Disponível em: <https://example.com/Requisitos-Aula-013a.pdf>. Acesso em: 19 mai. 2024.
 
 ## Histórico de Versão
 | Versão | Alteração                | Responsável     | Revisor         | Data       |
@@ -354,4 +353,4 @@ Tabela x: Caso de uso UC00
 | 2.4    | Retirada de alguns caso de uso | Larissa Stéfane | - | 19/05/2024 | 
 | 2.5    | Adição do caso de uso: Trabalhador exporta relatório de vínculos empregatícios| Luana Medeiros | - | 19/05/2024 | 
 | 2.6    | Adição do caso de uso: Verificar direitos trabalhistas do contrato atual | Breno Alexandre | - | 19/05/2024
-| 2.7  | Adição diagramas de caso de uso |Caio Mesquita | - | 19/05/2024
+| 2.7    | Adição diagramas de caso de uso |Caio Mesquita | - | 19/05/2024
