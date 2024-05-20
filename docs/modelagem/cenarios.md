@@ -47,10 +47,11 @@ Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
 | Exceção | 1. Se ocorrer um erro na validação das informações, uma mensagem de erro é exibida e o trabalhador é orientado a corrigir os dados inseridos. <br> 2. Se houver um problema de comunicação com o órgão governamental, uma mensagem de erro é exibida e o trabalhador é instruído a tentar novamente mais tarde.<br> 3. Em dispositivos IOS, o teclado virtual permanece em cima do botão de "Concluir" na ultima etapa, o que inviabiliza a conclusão da tarefa. |
 | Restrição | 1. O trabalhador deve estar autenticado no sistema para efetuar o cadastro. <br> 2. A conexão com a internet deve estar estável durante o processo de solicitação.|
 
+**Fonte:** [Iago Passaglia](https://github.com/Paxxaglia)
 </center>
 </details>
 
-**Fonte:** [Iago Passaglia](https://github.com/Paxxaglia)
+
 
 ### Consultar Seguro Desemprego 
 
@@ -69,10 +70,10 @@ Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
 | Exceção | 1. Se não houverem requerimentos de Seguro Desemprego realizados, a seguinte mensagem é exibida: "Não foram encontrados requerimentos de Seguro Desemprego". |
 | Restrição | 1. O trabalhador deve estar autenticado no sistema para efetuar o cadastro. <br> 2. A conexão com a internet deve estar estável durante o processo de consulta.|
 
+**Fonte:** [Pedro Izarias](https://github.com/Izarias)
 </center>
 </details>
 
-**Fonte:** [Pedro Izarias](https://github.com/Izarias)
 
 <details>
   <summary size="20"><b> Tabela 3: Trabalhador deseja solicitar um benefício </b></summary> 
@@ -93,10 +94,10 @@ Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
 | Exceção | 1. Se ocorrer um erro na validação das informações ou documentos, uma mensagem de erro é exibida e o trabalhador é orientado a corrigir os dados inseridos. <br> 2. Se houver um problema de comunicação com o órgão governamental, uma mensagem de erro é exibida e o trabalhador é instruído a tentar novamente mais tarde. <br> 3. Se a solicitação for rejeitada pelo órgão governamental, o trabalhador recebe uma notificação com o motivo da rejeição. |
 | Restrição | 1. O trabalhador deve estar autenticado no sistema para solicitar um benefício. <br> 2. Os documentos anexados devem estar em conformidade com os requisitos especificados pelo órgão governamental. <br> 3. A conexão com a internet deve estar estável durante o processo de solicitação. |
 
+**Fonte:** [Bruno Araújo](https://github.com/brunocva)
 </center>
 </details>
 
-**Fonte:** [Bruno Araújo](https://github.com/brunocva)
 
 
 ### Atualização dos Contratos de Trabalho
@@ -201,10 +202,11 @@ A tabela 7 mostra o cenário para quando um trabalhador deseja Exportar Relatór
 | Exceção       | <ol> <li>Se ocorrer um erro durante a geração do relatório, uma mensagem de erro é exibida e o trabalhador é orientado a tentar novamente mais tarde. <li>Se houver um problema de comunicação com o órgão governamental, uma mensagem de erro é exibida e o trabalhador é instruído a tentar novamente mais tarde. <li>Em dispositivos iOS, se o teclado virtual permanecer sobre o botão de "Concluir" na última etapa, o que inviabiliza a conclusão da tarefa. </ol> |
 | Restrição     |  <ol> <li>O trabalhador deve estar autenticado no sistema para exportar o relatório. <li>A conexão com a internet deve estar estável durante o processo de exportação do relatório. </ol> |
 
+
+**Fonte:** [Luana Medeiros](https://github.com/LuaMedeiros)
 </center>
 </details>
 
-**Fonte:** [Luana Medeiros](https://github.com/LuaMedeiros)
 
 
 ## Referências Bibliográficas
