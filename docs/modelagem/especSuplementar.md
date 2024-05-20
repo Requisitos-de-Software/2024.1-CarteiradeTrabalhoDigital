@@ -16,6 +16,41 @@ A Especificação Suplementar é um documento essencial em projetos de desenvolv
 ## Metodologia
 A metodologia FURPS+ é uma abordagem usada para classificar e organizar os requisitos de um sistema em uma Especificação Suplementar. A sigla FURPS+ representa diferentes categorias de requisitos: funcionalidade, usabilidade, confiabilidade, desempenho e suportabilidade. Funcionalidade refere-se aos requisitos funcionais que descrevem as ações e serviços que o sistema deve realizar. Usabilidade abrange requisitos relacionados à facilidade de uso, interface do usuário e experiência do usuário. Confiabilidade especifica a robustez, disponibilidade, tolerância a falhas e recuperação do sistema. Desempenho define a rapidez, eficiência, tempo de resposta e capacidade do sistema. Suportabilidade aborda a facilidade de manutenção, escalabilidade, adaptabilidade e suporte técnico. O "+" na sigla FURPS+ indica a inclusão de outros aspectos importantes, como requisitos de implementação, que envolvem conformidade com padrões e especificações técnicas; requisitos de interface, que dizem respeito à capacidade do sistema de se comunicar e funcionar em conjunto com outros sistemas; requisitos físicos, que consideram o ambiente físico onde o sistema será utilizado; e restrições de design, que são limitações e diretrizes específicas para o desenvolvimento do sistema. A FURPS+ fornece uma estrutura abrangente para assegurar que todos os aspectos críticos do sistema sejam considerados e documentados, garantindo um desenvolvimento mais completo e eficaz.
 
+## Confiabilidade
+
+Trata-se do quão confiável é o sistema, se baseando na frequência de falhas, possibilidade de recuperação e prevenção e tempo entre as falhas.
+
+Os requisitos identificados nesta categoria estão na tabela X a seguir.
+
+<p align="center"> Tabela X - Requisitos de confiabilidade. </p>
+
+| ID    | Descrição                                                                                                                          |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| CON01 | O sistema deve ser acessível 24 horas por dia, todos os dias.                                                                      |
+| CON02 | O sistema deve possuir as informações atualizadas e condizentes com a realidade.                                                   |
+| CON03 | O sistema deve manter íntegra as informações sobre o usuário e seus contratos de trabalho.                                         |
+| CON04 | O sistema deve seguir a Lei Geral de Proteção de Dados (LGPD).                                                                     |
+| CON05 | O sistema deve permitir que o usuário se recupere de problemas e erros.                                                            |
+| CON06 | O sistema deve impedir que o usuário realize atividades que possam colocar a integridade do sistema e de outros usuários em risco. |
+
+<b>Fonte:</b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>.
+
+## Desempenho
+
+Trata-se das condições que os requisitos devem executar. 
+Os requisitos identificados nesta categoria estão na tabela X a seguir.
+
+<p align="center"> Tabela X - Requisitos de desempenho. </p>
+
+| ID    | Descrição                                                                                          |
+| ----- | -------------------------------------------------------------------------------------------------- |
+| DES01 | O sistema não deve ter um tempo de resposta superior a 1 segundo.                                  |
+| DES02 | O sistema deve permitir mais de 500 mil de requisições por segundo.                                |
+| DES03 | O sistema deve possuir uma navegação fluida, sem engasgo e caminhos seguindo uma sequência lógica. |
+| DES04 | O sistema deve possuir uma interface leve, com no máximo 10 elementos na mesma tela.               |
+
+<b>Fonte:</b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>.
+
 ## Suportabilidade
 
 A tabela x a seguir apresenta os requisitos associados ao suporte e manutenção do sistema. Esses requisitos incluem a facilidade de manutenção, a capacidade de modificação e atualização do sistema, a disponibilidade de documentação adequada, e a facilidade de teste e diagnóstico de problemas.
@@ -146,4 +181,5 @@ https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/doc
 | 1.2 |   Adição dos requisitos suplementares  | Pedro Izarias |   Iago Passaglia |  19/05/2024  |
 | 1.3 | Adição de observações legais ou normas | Larissa Stéfane | Bruno Araújo  |  19/05/2024  |
 | 1.4 | Adição de Padrões Apláveis e Requisitos Físicos | Bruno Araújo | Iago Passaglia  |  19/05/2024  |
-| 1.5 | Correção de tabelas | Iago Passaglia | -  |  19/05/2024  |
+| 1.5 | Correção de tabelas | Iago Passaglia | Breno Alexandre  |  19/05/2024  |
+| 1.6 | Adição dos tópicos "Confiabilidade" e "Desempenho" | Breno Alexandre | -  |  19/05/2024  |
