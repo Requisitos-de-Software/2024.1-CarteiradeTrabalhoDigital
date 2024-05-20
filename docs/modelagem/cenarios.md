@@ -259,6 +259,32 @@ A tabela 8 mostra o cenário para quando um trabalhador deseja atualizar suas in
 </center>
 </details>
 
+### Consultar dados de INSS e FGTS
+
+A tabela 10 mostra o cenário para quando um trabalhador deseja verificar dados relacionados ao FGTS e INSS.
+
+
+<details>
+  <summary size="20"><b> Tabela 10: Trabalhador deseja verificar dados relacionados ao FGTS e INSS </b></summary> 
+
+<center>
+
+**Tabela 10**: Trabalhador na Verificação de Dados do FGTS e INSS
+
+| Denominação | Verificação de Dados do FGTS e INSS |
+| - | - |
+| Objetivo/meta | Permitir que o trabalhador visualize e verifique os dados do FGTS e INSS, e seja informado sobre quaisquer inconsistências nas informações. |
+| Contexto | **Contexto:** O trabalhador deseja acompanhar suas contribuições ao FGTS e INSS, verificando se estão corretas e atualizadas. <br> **Local:** Na aba "Dados do FGTS/INSS" do aplicativo. <br> **Tempo:** A consulta dos dados pode levar de 2 a 5 minutos. <br> **Pré-condição:** O trabalhador deve estar autenticado no sistema e ter o aplicativo da carteira de trabalho digital instalado. |
+| Atores | Trabalhador (Usuário Primário); <br>  Aplicativo do governo também relacionado ao meio trabalhista(Usuário Secundário); <br> Empresa (Usuário Secundário, em caso de inconsistência). |
+| Recursos | Aplicativo da carteira de trabalho digital; <br> Conexão à internet; <br> Aplicativo com dados do FGTS e INSS. |
+| Episódios | 1. O trabalhador faz login no aplicativo da carteira de trabalho digital. <br> 2. O trabalhador acessa a aba "Dados do FGTS/INSS". <br> 3. O trabalhador seleciona o dado que deseja verificar (FGTS ou INSS). <br> 4. O sistema recupera e exibe os dados relacionados ao FGTS ou INSS. <br> 5. O trabalhador visualiza as informações em forma de gráficos ou tabelas. <br> 6. O trabalhador verifica se as contribuições estão corretas e atualizadas. <br> 7. Se o sistema detectar uma inconsistência (por exemplo, falta de pagamento), uma mensagem de alerta é exibida ao trabalhador. <br> 8. O trabalhador pode clicar no alerta para obter mais informações sobre a inconsistência. <br> 9. O trabalhador é orientado a entrar em contato com a empresa ou órgão responsável para resolver a inconsistência. |
+| Exceção | 1. Se ocorrer um erro na recuperação dos dados, uma mensagem de erro é exibida e o trabalhador é instruído a tentar novamente mais tarde. <br> 2. Se os dados do FGTS/INSS estiverem incompletos ou corrompidos, uma mensagem de erro é exibida e o trabalhador é orientado a entrar em contato com o suporte técnico. |
+| Restrição | 1. O trabalhador só pode verificar os dados relacionados ao seu próprio FGTS e INSS. <br> 2. A conexão com a internet deve estar estável durante a verificação dos dados. <br> 3. O sistema deve estar integrado com os dados oficiais do FGTS e INSS. |
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+</details>
 
 ## Bibliografia
 
@@ -286,3 +312,4 @@ A tabela 8 mostra o cenário para quando um trabalhador deseja atualizar suas in
 | 2.2 |  Criação do cenário de trabalhador Exportar Relatório de Vínculos Empregatícios | Luana Medeiros | Iago Passaglia | 19/05/2024 |
 | 2.3 |  Criação do cenário de trabalhador Atualizar informações pessoais | Caio Mesquita | Pedro Izarias | 19/05/2024 |
 | 2.4 |  Criação do cenário de trabalhador Verificar direitos trabalhistas | Breno Alexandre | Pedro Izarias | 19/05/2024 |
+| 2.5 |  Criação do cenário de trabalhador visualiza dados trabalhistas (FGTS e INSS)   |  Larissa Stéfane   | -   |    20/05/2024    |
