@@ -111,4 +111,4 @@ A definição clara e precisa de termos e expressões no léxico do aplicativo d
 | 1.4    | Adição dos Léxicos de verbo, objeto e estado | Larissa Stéfane | Iago Passaglia  | 19/05/2024 |
 | 1.5    | Adição dos Léxicos de verbo, objeto e estado | Pedro Izarias   | Iago Passaglia  | 19/05/2024 |
 | 1.6    | Adição dos Léxicos de verbo, objeto e estado | Caio Mesquita   | Iago Passaglia  | 19/05/2024 |
-| 1.7    | Adição dos Léxicos de verbo, objeto e estado | Breno Alexandre | -               | 19/05/2024 |
+| 1.7    | Adição dos Léxicos de verbo, objeto e estado | Breno Alexandre | Iago Passaglia             | 19/05/2024 |
