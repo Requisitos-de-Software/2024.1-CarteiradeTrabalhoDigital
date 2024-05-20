@@ -165,11 +165,18 @@ Após a criação de algumas sugestões do usuário, as terceiras versões do di
 
 O processo de desenvolvimento do diagrama de caso de uso do aplicativo da Carteira de Trabalho Digital envolveu uma abordagem meticulosa e colaborativa para garantir sua precisão e utilidade. Assim, desde o estudo inicial e a criação da primeira versão baseada nos requisitos funcionais, até as várias iterações de melhorias feitas a partir do feedback, o processo foi conduzido para refinar e melhorar o diagrama. 
 
+## Bibliografia
+
+1. Lucid Software. **Tutorial de Caso de Uso UML**. Disponível em <https://www.youtube.com/watch?v=ab6eDdwS3rA>.  Acesso em 18 e 19 de maio de 2024.
+2. Milene e Maurício Serrano. **Aula de requisitos 13 - UML: Diagrama de Casos de Uso**. Disponível em <https://aprender3.unb.br/pluginfile.php/2845007/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf>. Acesso em 18 e 19 de maio de 2024.
+
+
 ## Histórico de Versão
 
 | Versão | Alteração                         | Responsável     | Revisor               | Data       |
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
 | 1.0    | Criação do documento            | Larissa Stéfane  | -      | 19/05/2024 |
+| 1.2    | Adição da reunião com o usuário | Larissa Stéfane  | -      | 19/05/2024 |
 
 
 
