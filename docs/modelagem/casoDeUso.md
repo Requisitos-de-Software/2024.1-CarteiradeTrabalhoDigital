@@ -270,7 +270,7 @@ A tabela x mostra quando o usuário(trabalhador) consulta requerimentos de Segur
 <center>
 Tabela x: Caso de uso UC00
 
-| UC01                | Solicitar Benefício                                              |
+| UC01                | Consultar Benefício                                              |
 | ------------------- | ---------------------------------------------------------------- |
 | Descrição           | Permitir que o trabalhador consulte requerimentos de seguro desemprego. |
 | Atores              | Trabalhador (Usuário Primário); Sistema de Banco de Dados (Usuário Secundário); Órgão Governamental (Usuário Secundário) |
