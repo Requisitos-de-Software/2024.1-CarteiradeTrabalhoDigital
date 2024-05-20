@@ -17,6 +17,18 @@
 | Emitir PDF do Contrato de Trabalho             | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Gerar um arquivo PDF contendo os detalhes do contrato de trabalho | Disponibilização de um documento digital para consulta ou impressão | Gerar PDF   |
 
 
+| Classificação                                  | Autor                                                | Noção (denotação)                                            | Impacto (conotação)                                                       | Sinônimo          |
+|------------------------------------------------|------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------|-------------------|
+| Perfil do Trabalhador                          | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Conjunto de informações pessoais e profissionais do trabalhador | Fonte de dados sobre o histórico de trabalho e status atual do trabalhador na carteira digital | Registro do trabalhador |
+| Seção de Gerenciamento de Contratos de Trabalho | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Área do aplicativo dedicada à administração de contratos de trabalho | Espaço onde as empresas podem adicionar, atualizar e encerrar contratos de trabalho | Área administrativa |
+| Notificação                                    | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Mensagem enviada ao trabalhador ou empresa sobre alterações ou eventos | Mecanismo de comunicação para manter as partes informadas sobre mudanças nos contratos | Alerta             |
+| Informação do Contrato                         | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Dados específicos que compõem um contrato de trabalho              | Detalhes necessários para a criação, atualização e encerramento de contratos na carteira digital | Dados              |
+| Salário                                        | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Remuneração acordada entre empresa e trabalhador                     | Valor financeiro estipulado em um contrato de trabalho e sujeito a atualizações | Remuneração        |
+| Cargo                                          | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Posição ou função do trabalhador dentro da empresa                   | Designação profissional de um trabalhador no contrato de trabalho | Posição             |
+| Status do Contrato                             | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Condição atual de um contrato de trabalho (ativo, encerrado, etc.)   | Estado que define a vigência e validade de um contrato de trabalho na carteira digital | Condição           |
+
+
+
 
 | Autenticar Empresa no Sistema                  | Autenticar | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Verificar a identidade da empresa na carteira de trabalho digital | Garantir acesso seguro às funcionalidades de gerenciamento de contratos na carteira digital | Verificar   |
 | Notificar Trabalhador sobre Atualizações       | Notificar  | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Informar ao trabalhador sobre ações realizadas na carteira digital | Comunicação de atualizações ou encerramentos de contratos ao trabalhador através da carteira digital | Informar    |
@@ -49,5 +61,19 @@
 | Não Autorizado                           | Não Autorizado      | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Estado onde a empresa não tem permissão para realizar uma ação no sistema | Bloqueia a execução da ação até que a autorização seja obtida | Sem Permissão         |
 | Notificado                               | Notificado          | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Estado em que um usuário foi informado sobre uma ação ou mudança | Garante que o usuário esteja ciente de atualizações ou modificações no sistema | Informado             |
 
+
+
+| Classificação                            | Autor                                                | Noção (denotação)                                            | Impacto (conotação)                                                       | Sinônimo              |
+|------------------------------------------|------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------|-----------------------|
+| Autenticado                              | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Situação em que o usuário (empresa ou trabalhador) está logado no sistema | Permite acesso a todas as funcionalidades do aplicativo de carteira de trabalho digital | Logado                |
+| Em Processo de Validação                 | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Estado onde as informações fornecidas estão sendo verificadas pelo sistema | Garante que os dados inseridos são corretos antes de serem aceitos no banco de dados | Verificação           |
+| Atualizado                               | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Estado de um contrato após ter suas informações modificadas com sucesso | Reflete as mudanças feitas, garantindo que a informação esteja correta e atual | Modificado            |
+| Conexão Estável                          | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Situação em que a conexão à internet está funcionando corretamente | Permite a comunicação contínua e a realização de operações no sistema | Conectado             |
+| Conexão Instável                         | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Situação em que a conexão à internet está apresentando problemas | Pode causar falhas na comunicação e operações do sistema | Desconectado          |
+| Pendente de Aprovação                    | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Estado onde as ações ou modificações esperam por validação ou confirmação | Requer uma ação de confirmação para que o processo seja concluído | Aguardando Aprovação  |
+| Confirmado                               | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Estado em que uma ação foi verificada e aceita pelo sistema | Finaliza o processo de inserção ou modificação de dados | Verificado            |
+| Encerrado                                | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Estado final de um contrato após a conclusão do vínculo empregatício | Indica que o contrato não está mais ativo e todos os direitos foram liquidados | Finalizado            |
+| Não Autorizado                           | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Estado onde a empresa não tem permissão para realizar uma ação no sistema | Bloqueia a execução da ação até que a autorização seja obtida | Sem Permissão         |
+| Notificado                               | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Estado em que um usuário foi informado sobre uma ação ou mudança | Garante que o usuário esteja ciente de atualizações ou modificações no sistema | Informado             |
 
 
