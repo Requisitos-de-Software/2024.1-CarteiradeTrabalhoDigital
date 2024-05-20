@@ -25,7 +25,11 @@ Tabela 1: Legenda das tabelas de Léxico
 |-|-|-|-|-|-|
 |Divisão baseada na função e no uso dos termos|Palavra ou frase analisada|Integrante do grupo|Significado do símbolo analisado|Efeito, uso ou ocorrência do Símbolo durante sua utilização ou consequência do uso de algo sobre o símbolo|Palavra ou frase de mesmo significado do símbolo|
 
-<font size="3"><p style="text-align: center">Fonte: </p></font>
+<font size="2"><p style="text-align: center">
+
+Fonte: [Caio Mesquita](https://github.com/Caiomesvie)
+
+</p></font>
 
 Os Léxicos ainda podem ser classificados em três categorias, sendo elas: Verbo, Objeto e Estado. Essa classificação serve para facilitar a análise e o design das interfaces, garantindo que a terminologia utilizada seja clara e funcional.
 
@@ -90,7 +94,7 @@ Fonte: Citados ao longo da tabela
 
 ## Conclusão
 
-A definição clara e precisa de termos e expressões no léxico do aplicativo da Carteira de Trabalho Digital é fundamental para garantir uma comunicação eficaz entre o usuário e o sistema, melhorando a usabilidade e a experiência do usuário.
+A definição clara e precisa de termos e expressões no léxico do aplicativo da Carteira de Trabalho Digital é fundamental para garantir uma comunicação eficaz entre o usuário e o sistema, melhorando a usabilidade e a experiência do usuário. Além de ajudar no desenvolvimento do projeto alinhando os desenvolvedores com os contextos do projeto
 
 ## Bibliografia
 <b>PASSO A PASSO CARTEIRA DE TRABALHO DIGITAL APP E WEB</b>. Ministério do Trabalho e Emprego, 2023.
