@@ -65,11 +65,10 @@ Legendas:
 | F22                          | Usuário empresa pode atualizar dados dos funcionários | Entrevistas e análse de documento | Incompleto |
 | F23                          | Usuário empresa pode consultar contratos de trabalho | Entrevistas e análse de documento | Incompleto |
 | F24                          | Usuário empresa pode gerar relatórios trabalhistas | Entrevistas | Incompleto |
-| F25                          | Usuário empresa pode receber notificação de denúncias trabalhistas | Entrevistas | Incompleto |
-| F26                          | Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos)| Entrevistas | Sim |
-| F27                          | Usuário empresa pode cadastrar benefícios para a empresa | Entrevistas e análse de documento | Incompleto |
-| F28                          | Usuário empresa pode gerenciar benefícios trabalhistas | Entrevistas | Incompleto |
-| F29                          | Usuário empresa escolher modo de status: "Possui vagas de emprego" ou "Não posui vagas de emprego" | Entrevistas | Não |
+| F25                          | Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos)| Entrevistas | Sim |
+| F26                          | Usuário empresa pode cadastrar benefícios para a empresa | Entrevistas e análse de documento | Incompleto |
+| F27                          | Usuário empresa pode gerenciar benefícios trabalhistas | Entrevistas | Incompleto |
+| F28                          | Usuário empresa escolher modo de status: "Possui vagas de emprego" ou "Não posui vagas de emprego" | Entrevistas | Não |
 
 
   **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
