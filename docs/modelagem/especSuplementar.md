@@ -88,6 +88,8 @@ O desenvolvimento de aplicativos governamentais requer não apenas funcionalidad
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+## Padrões Aplicáveis
+
 O sistema deve seguir os padrões definidos pelas normas internacionais para garantir qualidade, segurança e compatibilidade. Os padrões aplicáveis incluem:
 
 **Tabela 5:** Padrões e normas que precisam ser seguidos
@@ -115,6 +117,10 @@ O sistema deve ser compatível com diversos dispositivos, garantindo acessibilid
 **Fonte:** [Bruno Araújo](https://github.com/brunocva)
 
 ## Referências Bibliográficas
+
+SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf. Acesso em: 14/05/2023.
+
+https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/modelagem/especificacao-suplementar.md
 
 ## Histórico de Versão
 
