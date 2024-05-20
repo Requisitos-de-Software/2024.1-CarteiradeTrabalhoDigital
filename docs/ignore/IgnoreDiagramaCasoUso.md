@@ -81,6 +81,44 @@ Na segunda versão do diagrama, foram realizadas atualizações significativas b
 
 A segunda versão do diagrama do usuário (trabalhador) com usuário primário está na figura 4 e a segunda versão do diagrama com o usuário (empresa) como usuário secundário está na figura 5.
 
+
+<details>
+  <summary size="20"><b>  Figura 4: Versão 2 - Diagrama caso de Uso: Trabalhador. </b></summary> 
+<div align="center">
+     Figura 4: Versão 2 - Diagrama caso de Uso: Trabalhador
+    <br>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/DiagramaCasoUso_funcionario_vers2_page-0001.jpg">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+  
+</div>
+
+
+  caso deseje visualizar em maior dimensão, clique em: [Versão 2 - Diagrama caso de Uso: Trabalhador](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/DiagramaCasoUso_funcionario_vers2_page-0001.jpg)
+  
+</details>
+
+<details>
+  <summary size="20"><b>  Figura 5: Versão 2 - Diagrama caso de Uso: Empresa. </b></summary> 
+<div align="center">
+     Figura 5: Versão 2 - Diagrama caso de Uso: Empresa
+    <br>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/DiagramaCasoUso_Empresa_ver2_page-0001.jpg">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+  
+</div>
+
+
+  caso deseje visualizar em maior dimensão, clique em: [Versão 2 - Diagrama caso de Uso: Empresa](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/DiagramaCasoUso_Empresa_ver2_page-0001.jpg)
+  
+</details>
+
+
+
+
 ## Validação com Usuários
 
 Após a criação das segundas versões, foi realizada uma reunião com um usuário do aplicativo para ele dar sugestões e validar o diagrama. Essa reunião pode ser vista no vídeo 1, logo abaixo.
@@ -89,6 +127,8 @@ Após a criação das segundas versões, foi realizada uma reunião com um usuá
 ## Terceira Versão
 
 Após a criação de algumas sugestões do usuário, as terceiras versões do diagrama estão em figura 6, com o usuário (trabalhador) como usuário primário, e na figura 7, com o usuário (empresa) como usuário primário.
+
+
 
 ## Conclusão
 
