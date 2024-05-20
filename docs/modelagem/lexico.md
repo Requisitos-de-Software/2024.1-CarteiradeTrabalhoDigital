@@ -102,7 +102,7 @@ A definição clara e precisa de termos e expressões no léxico do aplicativo d
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação de documentação                      | Pedro Augusto  | Iago Passaglia | 18/05/2024 |
+| 1.0 | Criação de documentação                      | Pedro Izarias  | Iago Passaglia | 18/05/2024 |
 | 1.1 | Adição do Léxico                             | Bruno Araújo   | Iago Passaglia | 19/05/2024 |
 | 1.2 | Adição dos Léxicos de verbo, objeto e estado | Iago Passaglia | Larissa Stéfane | 19/05/2024 |
 | 1.3 | Adição dos Léxicos de verbo, objeto e estado | Luana Medeiros | Larissa Stéfane | 19/05/2024 |
