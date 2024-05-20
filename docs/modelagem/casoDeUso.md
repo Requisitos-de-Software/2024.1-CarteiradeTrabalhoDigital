@@ -6,8 +6,6 @@
 * [Metodologia](#Metodologia)
 * [Diagrama](#Diagrama-de-Casos-de-Uso)
 * [Especificação](#Especificação-dos-Casos-de-uso)
-* [Especificação quando o usuário é um trabalhador](#Especificação-quando-o-usuário-é-um-trabalhador)
-* [Especificação quando o usuário é uma empresa](#Especificação-quando-o-usuário-é-uma-empresa)
 * [Bibliografia](#Bibliografia)
 * [Histórico de versão](#Histórico-de-versão)
 
@@ -34,10 +32,23 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 ## Diagrama de Casos de Uso
 
-A figura abaixo demonstra o diagrama de casos de uso do aplicativo da Carteira de Trabalho Digital.
+As figuras abaixo demonstram os diagramas de casos de uso do aplicativo da Carteira de Trabalho Digital. Devido ao amplo escopo, ele foi dividido em dois digramas para seguir o princípio da fácil interpretação de um modelo.
 
 <center>
-<img src="diagrama_de_casos_de_uso.png" alt="Diagrama de Casos de Uso">
+Imagem 1: Diagrama de casos de uso 1
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/DiagramaCasoUso_funcionario_Ver3_page-0001.jpg" alt="Diagrama de Casos de Uso 1" >
+
+Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+
+<center>
+Imagem 1: Diagrama de casos de uso 2
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/DiagramaCasoUso_Empresa_ver3_page-0001.jpg" alt="Diagrama de Casos de Uso 2">
+
+Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
 </center>
 
 ## Especificação dos Casos de uso
@@ -343,3 +354,4 @@ Tabela x: Caso de uso UC00
 | 2.4    | Retirada de alguns caso de uso | Larissa Stéfane | - | 19/05/2024 | 
 | 2.5    | Adição do caso de uso: Trabalhador exporta relatório de vínculos empregatícios| Luana Medeiros | - | 19/05/2024 | 
 | 2.6    | Adição do caso de uso: Verificar direitos trabalhistas do contrato atual | Breno Alexandre | - | 19/05/2024
+| 2.7  | Adição diagramas de caso de uso |Caio Mesquita | - | 19/05/2024
