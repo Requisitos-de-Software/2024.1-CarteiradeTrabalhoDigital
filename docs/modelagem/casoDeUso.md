@@ -274,12 +274,12 @@ Tabela 9: Caso de uso UC07
 
 ### Consultar Seguro Desemprego
 
-A tabela x mostra quando o usuário(trabalhador) consulta requerimentos de Seguro Desemprego.
+A tabela 10 mostra quando o usuário(trabalhador) consulta requerimentos de Seguro Desemprego.
 
 <details>
-  <summary size="20"><b> Tabela x: Consultar seguro desemprego. </b></summary> 
+  <summary size="20"><b> Tabela 10: Consultar seguro desemprego. </b></summary> 
 <center>
-Tabela x: Caso de uso UC00
+Tabela 10: Caso de uso UC08
 
 | UC01                | Consultar Benefício                                              |
 | ------------------- | ---------------------------------------------------------------- |
@@ -302,10 +302,10 @@ Tabela x: Caso de uso UC00
  ### Verificar direitos trabalhistas do contrato atual
 
 <details>
-  <summary size="20"><b> Tabela X: Verificar direitos trabalhistas do contrato atual </b></summary>
+  <summary size="20"><b> Tabela 11: Verificar direitos trabalhistas do contrato atual </b></summary>
 
 <center>
-<p align="center"> Tabela X: Caso de uso UC0X </p>
+<p align="center"> Tabela 11: Caso de uso UC09 </p>
 
 | UC0X | Verificar direitos trabalhistas do contrato atual |
 | ----------------------- | ----------------------- |
