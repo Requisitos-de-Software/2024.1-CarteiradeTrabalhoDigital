@@ -81,7 +81,7 @@ Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
 
 **Tabela 3**: Solicitar Benefício
 
-| Denominação | Solicitar Benefício |
+| Denominação | Solicitar Benefício |  Seguro desemprego ou Doença
 | - | - |
 | Objetivo/meta | Permitir que o trabalhador solicite um benefício, como seguro-desemprego ou auxílio-doença. |
 | Contexto | **Contexto:** O trabalhador precisa solicitar um benefício disponível através do aplicativo da carteira de trabalho digital. <br> **Local:** Na aba "Benefícios". <br> **Tempo:** O processo de solicitação pode levar de 10 a 20 minutos, dependendo da complexidade do benefício solicitado. <br> **Pré-condição:** O trabalhador deve estar autenticado no sistema e ter os documentos necessários para a solicitação. |
