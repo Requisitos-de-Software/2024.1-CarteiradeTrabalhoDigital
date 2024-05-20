@@ -3,6 +3,8 @@
 ## Sumário
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
+* [Funcionalidade](#Funcionalidade)
+* [Usabilidade](#Usabilidade)
 * [Suportabilidade](#Suportabilidade)
 * [Restrições de Design](#Restrições-de-Design)
 * [Conclusão](#Conclusão)
@@ -15,6 +17,33 @@ A Especificação Suplementar é um documento essencial em projetos de desenvolv
 
 ## Metodologia
 A metodologia FURPS+ é uma abordagem usada para classificar e organizar os requisitos de um sistema em uma Especificação Suplementar. A sigla FURPS+ representa diferentes categorias de requisitos: funcionalidade, usabilidade, confiabilidade, desempenho e suportabilidade. Funcionalidade refere-se aos requisitos funcionais que descrevem as ações e serviços que o sistema deve realizar. Usabilidade abrange requisitos relacionados à facilidade de uso, interface do usuário e experiência do usuário. Confiabilidade especifica a robustez, disponibilidade, tolerância a falhas e recuperação do sistema. Desempenho define a rapidez, eficiência, tempo de resposta e capacidade do sistema. Suportabilidade aborda a facilidade de manutenção, escalabilidade, adaptabilidade e suporte técnico. O "+" na sigla FURPS+ indica a inclusão de outros aspectos importantes, como requisitos de implementação, que envolvem conformidade com padrões e especificações técnicas; requisitos de interface, que dizem respeito à capacidade do sistema de se comunicar e funcionar em conjunto com outros sistemas; requisitos físicos, que consideram o ambiente físico onde o sistema será utilizado; e restrições de design, que são limitações e diretrizes específicas para o desenvolvimento do sistema. A FURPS+ fornece uma estrutura abrangente para assegurar que todos os aspectos críticos do sistema sejam considerados e documentados, garantindo um desenvolvimento mais completo e eficaz.
+
+## Funcionalidade 
+
+Os Requisitos de Funcionalidade, ou Requisitos Funcionais, foram coletados durante o processo de elicitação utilizando as técnicas [questionário](Elicitacao/TecnicasElicitacao/Execucao/Questionários/Questionario.md), [storytelling](Elicitacao/TecnicasElicitacao/Execucao/Storytelling/Storytelling.md),  [análse de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) e a [encenação adaptada](Elicitacao/TecnicasElicitacao/Execucao/EncenacaoAdaptada.md). Os requisitos funcionais se encontram na [Tabela 1](Elicitacao/ResquisitosCorrigidos.md) no artefato de requisitos elicitados com a sua devida rasteabilidade.
+
+
+## Usabilidade
+
+Neste tópico, é visto a importância dos requisitos de usabilidade, que serão listados a seguir na tabela 1, uma vez que a interação do usário com a interface depende completamente do seu nível de usabilidade para que as tarefas sejam concluidas com sucesso
+
+<center>
+<b>Tabela 1:</b> Requisitos de Usabilidade
+
+|ID|Descrição|
+|-|-|
+|US01|O aplicativo deve ser responsivo, adaptando-se automaticamente a diferentes tamanhos de tela e dispositivos, como smartphones, tablets e desktops.|
+|US02|As ações realizadas pelo usuário, como cliques e navegações entre telas, devem ter um tempo de resposta de no máximo 4 segundos.|
+|US03|O aplicativo deve incluir um tutorial interativo inicial que guie os novos usuários pelas funcionalidades principais na primeira vez que acessarem.|
+|US04|O aplicativo deve incluir uma função de busca eficiente que permita aos usuários encontrar informações rapidamente, com sugestões de autocompletar.|
+|US05|O aplicativo deve ter uma seção de ajuda e suporte de fácil acesso, com FAQs, tutoriais em vídeo e opção de contato com o suporte técnico.|
+|US06|O aplicativo deve proporcionar maneiras fáceis para os usuários corrigirem erros, como a possibilidade de desfazer ações recentes ou editar informações submetidas.|
+|US07|O aplicativo deve fornecer feedback imediato após cada ação do usuário, como confirmação de envio de dados ou mensagens de erro claras.
+|
+
+Fonte: [Caio Mesquita ](https://github.com/Caiomesvie)
+
+</center>
 
 ## Confiabilidade
 
@@ -160,24 +189,17 @@ O sistema deve ser compatível com diversos dispositivos, garantindo acessibilid
 
 | ID    | Descrição                                                        |
 |-------|------------------------------------------------------------------|
-| FIS01 | O sistema deve ser compatível com computadores desktop e laptops modernos. |
-| FIS02 | Deve ser otimizado para tablets e smartphones com navegação responsiva. |
-| FIS03 | Deve operar em sistemas Android 5.0 ou superior e iOS 11.0 ou posterior. |
-| FIS04 | Recursos adicionais devem estar especificados nos manuais dos sistemas operacionais. |
-| FIS05 | O aplicativo deve funcionar corretamente em uma variedade de resoluções de tela, ajustando o layout de forma responsiva. |
-| FIS06 | O aplicativo deve exigir no máximo 100 MB de espaço de armazenamento no dispositivo para instalação e operação regular. |
-| FIS07 | O aplicativo deve funcionar em dispositivos com no mínimo 2 GB de RAM, garantindo um desempenho fluido. |
-| FIS08 | O aplicativo deve ser capaz de operar em redes 3G, 4G, 5G e Wi-Fi, com funcionalidades básicas disponíveis offline e sincronização de dados quando a conectividade for restaurada. |
-| FIS09 | O aplicativo deve suportar autenticação por impressão digital e reconhecimento facial, disponíveis em dispositivos que possuam esses recursos. |
-| FIS10 | O aplicativo deve ser capaz de utilizar o GPS do dispositivo para funções que requeiram geolocalização, como registro de ponto geolocalizado. |
-| FIS11 | O aplicativo deve utilizar a câmera do dispositivo para funcionalidades como captura de documentos e reconhecimento facial. |
-| FIS12 | O aplicativo deve aproveitar os módulos de segurança do hardware, como Secure Enclave em dispositivos Apple ou Trusted Execution Environment (TEE) em dispositivos Android, para proteger dados sensíveis. |
-| FIS13 | O aplicativo deve poder acessar sensores do dispositivo, como acelerômetro e giroscópio, para funções que possam requerer essas capacidades. |
-| FIS14 | O aplicativo deve ser compatível com dispositivos que possuem Near Field Communication (NFC) para funções como leitura de documentos compatíveis ou autenticação segura. |
-| FIS15 | O aplicativo deve ser otimizado para minimizar o consumo de energia, prolongando a vida útil da bateria dos dispositivos móveis. |
-| FIS16 | O aplicativo deve ser compatível com os sistemas de backup nativos dos dispositivos (iCloud para iOS, Google Drive para Android) para garantir a recuperação de dados em caso de perda ou troca de aparelho. |
-| FIS17 | O aplicativo deve ser capaz de rodar em dispositivos com processadores de 64 bits para garantir desempenho adequado e suporte a futuras atualizações. |
-| FIS18 | O aplicativo deve garantir consistência de funcionalidades e design em todas as plataformas suportadas (iOS, Android), proporcionando uma experiência de usuário unificada e eficiente. |
+| FIS01 | Deve ser otimizado para tablets e smartphones com navegação responsiva. |
+| FIS02 | Deve operar em sistemas Android 5.0 ou superior e iOS 11.0 ou posterior. |
+| FIS03 | Recursos adicionais devem estar especificados nos manuais dos sistemas operacionais. |
+| FIS04 | O aplicativo deve funcionar corretamente em uma variedade de resoluções de tela, ajustando o layout de forma responsiva. |
+| FIS05 | O aplicativo deve exigir no máximo 100 MB (o app possui 29MB aproximadamente) de espaço de armazenamento no dispositivo para instalação e operação regular. |
+| FIS06 | O aplicativo deve funcionar em dispositivos com no mínimo 2 GB de RAM, garantindo um desempenho fluido. |
+| FIS07 | O aplicativo deve ser capaz de operar em redes 3G, 4G, 5G e Wi-Fi, com funcionalidades básicas disponíveis offline e sincronização de dados quando a conectividade for restaurada. |
+| FIS08 | O aplicativo deve suportar autenticação por impressão digital e reconhecimento facial, disponíveis em dispositivos que possuam esses recursos. |
+| FIS09 | O aplicativo deve utilizar a câmera do dispositivo para funcionalidades como captura de documentos e reconhecimento facial. |
+| FIS10 | O aplicativo deve aproveitar os módulos de segurança do hardware, como Secure Enclave em dispositivos Apple ou Trusted Execution Environment (TEE) em dispositivos Android, para proteger dados sensíveis. |
+| FIS11 | O aplicativo deve garantir consistência de funcionalidades e design em todas as plataformas suportadas (iOS, Android), proporcionando uma experiência de usuário unificada e eficiente. |
 
 **Fonte:** [Bruno Araújo](https://github.com/brunocva)
 
@@ -199,3 +221,6 @@ https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/doc
 | 1.5 | Correção de tabelas | Iago Passaglia | Breno Alexandre  |  19/05/2024  |
 | 1.6 | Adição dos tópicos "Confiabilidade" e "Desempenho" | Breno Alexandre | -  |  19/05/2024  |
 | 1.7 | Correção das tabelas | Pedro Izarias | -  |  19/05/2024  |
+| 1.8 | Adição de Funcionalidade e usabilidade| Caio Mesquita | -  |  19/05/2024  |
+| 1.8.1 | Correção em requisitos físicos| Caio Mesquita | -  |  19/05/2024  |
+
