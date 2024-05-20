@@ -284,5 +284,5 @@ A tabela 8 mostra o cenário para quando um trabalhador deseja atualizar suas in
 | 2.0 | Retirada de 5 Cenários | Larissa Stéfane | - | 19/05/2024 |
 | 2.1 | Adição do cenário de consulta de seguro desemprego  | Pedro Izarias | - | 19/05/2024 |
 | 2.2 |  Criação do cenário de trabalhador Exportar Relatório de Vínculos Empregatícios | Luana Medeiros | - | 19/05/2024 |
-| 2.3 |  Criação do cenário de trabalhador Atualizar informações pessoais | Caio Mesquita | - | 19/05/2024 |
+| 2.3 |  Criação do cenário de trabalhador Atualizar informações pessoais | Caio Mesquita | Pedro Izarias | 19/05/2024 |
 | 2.4 |  Criação do cenário de trabalhador Verificar direitos trabalhistas | Breno Alexandre | Pedro Izarias | 19/05/2024 |
