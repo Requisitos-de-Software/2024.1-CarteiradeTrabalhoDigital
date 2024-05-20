@@ -307,7 +307,7 @@ Tabela x: Caso de uso UC00
 | Fluxos de exceção | <b> FE0X </b> <ol> <li>O usuário (trabalhador) acessa o aplicativo da carteira de trabalho digital. <li>O usuário (trabalhador) faz login no aplicativo da carteira de trabalho digital. <li>O trabalhador seleciona a opção "Direitos". <li> A página de direitos está vazia ou não é exibida corretamente. </ol> <b> FE0X </b> <ol> <li>O usuário (trabalhador) acessa o aplicativo da carteira de trabalho digital. <li>O usuário (trabalhador) faz login no aplicativo da carteira de trabalho digital. <li>O trabalhador seleciona a opção "Direitos". <li> O aplicativo exibe uma mensagem de erro informando que não foi possível carregar e recomenda tentar novamente mais tarde. </ol> |
 | Pós-condições | As informações serão exibidas para o usuário. |
 | Data de Criação  | 19/05/2024 |
-| Rastreabilidade  | [Requisitos Funcionais RF28] (Elicitacao/RequisitosCorrigidos.md) |
+| Rastreabilidade  | [Requisitos Funcionais RF28](/Elicitacao/RequisitosCorrigidos.md) |
 
 <b>Fonte:</b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>.
 
