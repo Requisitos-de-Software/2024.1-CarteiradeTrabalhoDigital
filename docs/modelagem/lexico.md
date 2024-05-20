@@ -108,3 +108,4 @@ A definição clara e precisa de termos e expressões no léxico do aplicativo d
 | 1.3 | Adição dos Léxicos de verbo, objeto e estado | Luana Medeiros | Larissa Stéfane | 19/05/2024 |
 | 1.4 |  Adição dos Léxicos de verbo, objeto e estado | Larissa Stéfane | - | 19/05/2024 |
 | 1.5 |  Adição dos Léxicos de verbo, objeto e estado | Pedro Izarias | - | 19/05/2024 |
+| 1.6 |  Adição dos Léxicos de verbo, objeto e estado | Caio Mesquita | - | 19/05/2024 |
