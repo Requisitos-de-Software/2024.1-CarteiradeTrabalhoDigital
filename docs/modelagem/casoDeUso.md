@@ -149,7 +149,7 @@ Tabela 5: Caso de uso: Acessar Detalhes dos Contratos de Trabalho
 | Fluxos de exceção   | **FE03** <ol> <li> Se ocorrer um erro na recuperação dos dados: <ul><li> O usuário(trabalhador) clica no ícone "Contratos de Trabalho". <li> O sistema tenta recuperar os dados do banco de dados, mas falha. <li> O sistema exibe uma mensagem de erro: "Erro ao recuperar os dados. Por favor, tente novamente mais tarde." <li> O usuário(trabalhador) clica em "OK" para fechar a mensagem de erro. <li> O usuário(trabalhador) pode verificar a conexão com a internet e tentar novamente mais tarde.</ul> <li> Se o usuário(trabalhador) não tiver contratos de trabalho registrados: <ul><li> O usuário(trabalhador) clica no ícone "Contratos de Trabalho". <li> O sistema recupera os dados e verifica que não há contratos registrados. <li> O sistema exibe uma mensagem: "Nenhum contrato de trabalho disponível." <li> O usuário(trabalhador) clica em "OK" para fechar a mensagem.</ul> <li> Se houver um problema de comunicação com o banco de dados: <ul><li> O usuário(trabalhador) clica no ícone "Contratos de Trabalho". <li> O sistema tenta se comunicar com o banco de dados, mas falha. <li> O sistema exibe uma mensagem de erro: "Problema de comunicação com o banco de dados. Tente novamente mais tarde." <li> O usuário(trabalhador) clica em "OK" para fechar a mensagem e pode tentar novamente mais tarde.</ul> <li> Se os dados do contrato forem incompletos ou estiverem corrompidos: <ul><li> O usuário(trabalhador) seleciona um contrato da lista. <li> O sistema tenta carregar os detalhes do contrato, mas os dados estão incompletos ou corrompidos. <li> O sistema exibe uma mensagem de erro: "Dados do contrato incompletos ou corrompidos. Entre em contato com o suporte técnico." <li> O usuário(trabalhador) clica em "OK" para fechar a mensagem e pode contatar o suporte técnico para resolver o problema.</ul> </ol> |
 | Pós-condições       | O usuário(trabalhador) visualiza os detalhes do contrato de trabalho selecionado. |
 | Data de Criação     | 18/05/2024                                                 |
-| Rastreabilidade     | [F05](Elicitacao/ResquisitosCorrigidos.md), [F07](Elicitacao/ResquisitosCorrigidos.md), [NF05](Elicitacao/ResquisitosCorrigidos.md), [nf20](Elicitacao/ResquisitosCorrigidos.md), [NF22](Elicitacao/ResquisitosCorrigidos.md)                                                    |
+| Rastreabilidade     | [F05](Elicitacao/ResquisitosCorrigidos.md), [F07](Elicitacao/ResquisitosCorrigidos.md).                                               |
 
 Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
@@ -177,7 +177,7 @@ Tabela 6:  Caso de Uso: Atualização dos Contratos de Trabalho
 | Fluxos de exceção   | <b> FE04 </b> <ol> <li>Se ocorrer um erro na validação das alterações pelo sistema, uma mensagem de erro é exibida e o usuário (trabalhador) é orientado a corrigir os dados inseridos.</li> <li>Se houver um problema de comunicação com o banco de dados durante a atualização, uma mensagem de erro é exibida e o usuário (trabalhador) é instruído a tentar novamente mais tarde.</li> </ol> |
 | Pós-condições       | O contrato de trabalho é atualizado com sucesso no perfil do usuário (trabalhador). |
 | Data de Criação     | 18/05/2024                                                 |
-| Rastreabilidade     | [F06](Elicitacao/ResquisitosCorrigidos.md), [F22](Elicitacao/ResquisitosCorrigidos.md), [NF18](Elicitacao/ResquisitosCorrigidos.md), [NF16](Elicitacao/ResquisitosCorrigidos.md)               |
+| Rastreabilidade     | [F06](Elicitacao/ResquisitosCorrigidos.md)               |
 
 Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 </center>
@@ -204,7 +204,7 @@ A tabela 7 mostra quando o usuário(trabalhador) realiza denúnciar trabalhistas
 | Fluxos de exceção   | **FE05** <ol> <li>Se ocorrer um erro na validação das informações fornecidas pelo usuário (trabalhador): <ul><li>O sistema exibe uma mensagem de erro informando sobre a inconsistência dos dados.</li> <li>O usuário (trabalhador) é orientado a corrigir os dados inseridos.</li></ul> <li>Se os documentos ou mídias anexadas estiverem corrompidos ou não puderem ser verificados: <ul><li>O sistema exibe uma mensagem de erro informando que os arquivos anexados estão corrompidos ou não podem ser verificados.</li> <li>O usuário (trabalhador) é instruído a tentar novamente com arquivos válidos.</li></ul> </ol> |
 | Pós-condições       | A denúncia é enviada anonimamente para o departamento responsável para investigação e ação adequada.       |
 | Data de Criação     | 19/05/2024                                                                                                |
-| Rastreabilidade     | [F10](Elicitacao/ResquisitosCorrigidos.md), [F09](Elicitacao/ResquisitosCorrigidos.md), [F25](Elicitacao/ResquisitosCorrigidos.md), [FN09](Elicitacao/ResquisitosCorrigidos.md), [NF22](Elicitacao/ResquisitosCorrigidos.md)                                                                                                   |
+| Rastreabilidade     | [F10](Elicitacao/ResquisitosCorrigidos.md), [F09](Elicitacao/ResquisitosCorrigidos.md)                                                                                        |
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
@@ -232,7 +232,7 @@ A tabela 8 mostra quando o usuário(trabalhador) Escolhe Modo de Status de Procu
 | **Fluxos de Exceção** | **FE06** <ol> <li>Se ocorrer um erro na atualização do currículo ou na indicação da cidade de interesse:<ul><li>O sistema exibe uma mensagem de erro informando sobre a inconsistência dos dados.</li><li>O Usuário(trabalhador) é orientado a corrigir as informações inseridas.</li></ul></li><li>Se houver um problema de comunicação com o sistema de envio de currículos ou com a base de dados de vagas de emprego:<ul><li>O sistema exibe uma mensagem de erro informando sobre o problema de comunicação.</li><li>O Usuário(trabalhador) é instruído a tentar novamente mais tarde.</li></ul></li><li>Se o Usuário(trabalhador) escolher o modo "Procurando Emprego" mas não atualizar seu currículo ou indicar uma cidade de interesse:<ul><li>Uma mensagem de alerta é exibida recomendando a conclusão dessas ações para melhorar suas chances de encontrar emprego.</li></ul></li></ol> |
 | **Pós-condições**     | O modo de status é atualizado no perfil do Usuário(trabalhador). |
 | **Data de Criação**   | 19/05/2024                                     |
-| **Rastreabilidade**   | [F15](Elicitacao/ResquisitosCorrigidos.md), [F14](Elicitacao/ResquisitosCorrigidos.md), [FN16](Elicitacao/ResquisitosCorrigidos.md), [NF20](Elicitacao/ResquisitosCorrigidos.md) , [NF22](Elicitacao/ResquisitosCorrigidos.md) |
+| **Rastreabilidade**   | [F15](Elicitacao/ResquisitosCorrigidos.md), [F14](Elicitacao/ResquisitosCorrigidos.md). |
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
@@ -281,7 +281,7 @@ A tabela 10 mostra quando o usuário(trabalhador) consulta requerimentos de Segu
 <center>
 Tabela 10: Caso de uso UC08
 
-| UC01                | Consultar Benefício                                              |
+| UC08                | Consultar Benefício                                              |
 | ------------------- | ---------------------------------------------------------------- |
 | Descrição           | Permitir que o trabalhador consulte requerimentos de seguro desemprego. |
 | Atores              | Trabalhador (Usuário Primário); Sistema de Banco de Dados (Usuário Secundário); Órgão Governamental (Usuário Secundário) |
@@ -307,7 +307,7 @@ Tabela 10: Caso de uso UC08
 <center>
 <p align="center"> Tabela 11: Caso de uso UC09 </p>
 
-| UC0X | Verificar direitos trabalhistas do contrato atual |
+| UC09 | Verificar direitos trabalhistas do contrato atual |
 | ----------------------- | ----------------------- |
 | Descrição | O usuário é capaz de verificar os direitos trabalhistas do contrato atual. |
 | Atores | Trabalhador (Usuário Primário). |
@@ -324,6 +324,35 @@ Tabela 10: Caso de uso UC08
 
 </center>
 </details>
+
+### Verificar dados relacionados ao FGTS e INSS 
+
+A tabela 12 mostra quando o usuário(trabalhador) deseja ferificar os dados de INSS e FGTS em relação aos seus contratos de trabalho.
+
+<details>
+  <summary size="20"><b> Tabela 12: Verificar dados relacionados ao FGTS e INSS . </b></summary> 
+<center>
+ Tabela 12: Caso de uso: Verificar dados relacionados ao FGTS e INSS 
+
+
+| UC10               | Nome do caso                                                |
+| ------------------- | ----------------------------------------------------------- |
+| Descrição           | Permitir ao usuário (trabalhador) consultar e visualizar os dados do FGTS e INSS, exibidos em forma de gráficos ou tabelas. Além disso, informar inconsistências nas informações, como falta de pagamento, se ela estiver ocorrendo . |
+| Atores              | Usuário (trabalhador) (Usuário Primário); <br> Aplicativo do governo também relacionado ao meio trabalhista(Usuário Secundário). |
+| Frequência          | Conforme necessidade do usuário (trabalhador) para consultar seus dados do FGTS e INSS. |
+| Pré-condições       | <ul> <li> O usuário (trabalhador) deve estar autenticado no sistema. <li> O usuário (trabalhador) deve ter o aplicativo da carteira de trabalho digital instalado em seu smartphone. <li> O usuário (trabalhador) deve ter acesso à internet. <li> O aplicativo deve fazer ligação (integração com outros sistemas trabalhistas). <li> Aplicativo do governo com dados do FGTS e INSS deve estar atualizado e acessível. </ul> |
+| Fluxo Básico        | **FB10** <ol> <li> O usuário (trabalhador) faz login no aplicativo da carteira de trabalho digital. <li> O usuário (trabalhador) clica no ícone "Dados do FGTS/INSS" na interface do aplicativo. <li> O sistema recupera e exibe uma lista de todas as informações do FGTS e INSS do usuário (trabalhador). <li> O usuário (trabalhador) seleciona um dado específico da lista (FGTS ou INSS). <li> O sistema exibe os detalhes do dado selecionado, incluindo: <ul><li> Saldo do FGTS <li> Contribuições ao INSS <li> Histórico de contribuições <li> Gráficos de acompanhamento <li> Informações detalhadas sobre cada contribuição</ul> <li> O usuário (trabalhador) pode visualizar os dados em forma de gráficos ou tabelas. </o1> |
+| Fluxos Alternativos | **FA10** <ol> <li> Se o usuário (trabalhador) deseja exportar os detalhes dos dados do FGTS/INSS: <ul><li> O usuário (trabalhador) clica em "Exportar Dados" na interface do aplicativo. <li> O sistema gera um arquivo PDF com todos os detalhes do dado selecionado. <li> O usuário (trabalhador) faz o download do PDF.</ul></ol> |
+| Fluxos de exceção   | **FE10** <ol> <li> Se ocorrer um erro na recuperação dos dados: <ul><li> O usuário (trabalhador) clica no ícone "Dados do FGTS/INSS". <li> O sistema tenta recuperar os dados do banco de dados, mas falha. <li> O sistema exibe uma mensagem de erro: "Erro ao recuperar os dados. Por favor, tente novamente mais tarde." <li> O usuário (trabalhador) clica em "OK" para fechar a mensagem de erro. <li> O usuário (trabalhador) pode verificar a conexão com a internet e tentar novamente mais tarde.</ul> <li> Se o usuário (trabalhador) não tiver dados do FGTS/INSS registrados: <ul><li> O usuário (trabalhador) clica no ícone "Dados do FGTS/INSS". <li> O sistema recupera os dados e verifica que não há dados registrados. <li> O sistema exibe uma mensagem: "Nenhum dado do FGTS/INSS disponível." <li> O usuário (trabalhador) clica em "OK" para fechar a mensagem.</ul> <li> Se houver um problema de comunicação com o outro aplicativo trabalhista: <ul><li> O usuário (trabalhador) clica no ícone "Dados do FGTS/INSS". <li> O sistema tenta se comunicar com o outro aplicativo, mas falha. <li> O sistema exibe uma mensagem de erro: "Problema de comunicação com o aplicativo. Tente novamente mais tarde." <li> O usuário (trabalhador) clica em "OK" para fechar a mensagem e pode tentar novamente mais tarde.</ul> <li> Se os dados do FGTS/INSS forem incompletos ou estiverem corrompidos: <ul><li> O usuário (trabalhador) seleciona um dado da lista. <li> O sistema tenta carregar os detalhes do dado, mas os dados estão incompletos ou corrompidos. <li> O sistema exibe uma mensagem de erro: "Dados do FGTS/INSS incompletos ou corrompidos. Entre em contato com o suporte técnico." <li> O usuário (trabalhador) clica em "OK" para fechar a mensagem e pode contatar o suporte técnico para resolver o problema.</ul> <li> Se o sistema identificar uma inconsistência nas informações, como a empresa não estar pagando o INSS ou FGTS: <ul><li> O usuário (trabalhador) seleciona um dado da lista. <li> O sistema verifica a consistência das informações e detecta um problema. <li> O sistema exibe uma mensagem de alerta: "Inconsistência detectada nas informações do FGTS/INSS. Por favor, verifique com seu empregador." <li> O usuário (trabalhador) clica em "OK" para fechar a mensagem e pode tomar as devidas providências.</ul> </ol> |
+| Pós-condições       | O usuário (trabalhador) visualiza os dados do FGTS/INSS selecionado. |
+| Data de Criação     | 18/05/2024                                                  |
+| Rastreabilidade     | [F11](Elicitacao/ResquisitosCorrigidos.md) |
+
+Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+</center>
+
+</center>
+ </details>
 
 ## Referências Bibliográficas
 1. <b>SERRANO</b>, Milene; SERRANO, Maurício. Requisitos – Aula 13. 2017. Apresentação de slides. Disponível em: <https://example.com/Requisitos-Aula-013a.pdf>. Acesso em: 19 mai. 2024.
@@ -353,4 +382,5 @@ Tabela 10: Caso de uso UC08
 | 2.4    | Retirada de alguns caso de uso | Larissa Stéfane | Iago Passaglia | 19/05/2024 | 
 | 2.5    | Adição do caso de uso: Trabalhador exporta relatório de vínculos empregatícios| Luana Medeiros | Iago Passaglia | 19/05/2024 | 
 | 2.6    | Adição do caso de uso: Verificar direitos trabalhistas do contrato atual | Breno Alexandre | Iago Passaglia | 19/05/2024
-| 2.7    | Adição diagramas de caso de uso |Caio Mesquita | Iago Passaglia | 19/05/2024
+| 2.7    | Adição diagramas de caso de uso |Caio Mesquita | Iago Passaglia | 19/05/2024 |
+| 2.8    | Adição diagramas de caso de uso sobre a consulta de FGTS e correções em outras tabelas | Larissa Stéfane | - | 20/05/2024 |
