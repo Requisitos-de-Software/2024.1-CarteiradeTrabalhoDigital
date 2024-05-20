@@ -27,3 +27,30 @@
 
 
   ## Segunda Versão
+
+Na segunda versão do diagrama, foram realizadas atualizações significativas baseadas no feedback dos monitores. Desse modo, as principais melhorias incluíram a redução do número de elipses para simplificar a visualização e a integração da legenda diretamente dentro do diagrama, facilitando a referência imediata aos elementos. Além disso, foram feitas outras correções menores para aprimorar a clareza e a precisão da representação dos casos de uso.
+
+A segunda versão do diagrama do usuário (trabalhador) com usuário primário está na figura 4 e a segunda versão do diagrama com o usuário (empresa) como usuário secundário está na figura 5.
+
+## Validação com Usuários
+
+Após a criação das segundas versões, foi realizada uma reunião com um usuário do aplicativo para ele dar sugestões e validar o diagrama. Essa reunião pode ser vista no vídeo 1, logo abaixo.
+
+
+## Terceira Versão
+
+Após a criação de algumas sugestões do usuário, as terceiras versões do diagrama estão em figura 6, com o usuário (trabalhador) como usuário primário, e na figura 7, com o usuário (empresa) como usuário primário.
+
+## Conclusão
+
+O processo de desenvolvimento do diagrama de caso de uso do aplicativo da Carteira de Trabalho Digital envolveu uma abordagem meticulosa e colaborativa para garantir sua precisão e utilidade. Assim, desde o estudo inicial e a criação da primeira versão baseada nos requisitos funcionais, até as várias iterações de melhorias feitas a partir do feedback, o processo foi conduzido para refinar e melhorar o diagrama. 
+
+## Histórico de Versão
+
+| Versão | Alteração                         | Responsável     | Revisor               | Data       |
+| ------ | --------------------------------- | --------------- | --------------------- | ---------- |
+| 1.0    | Criação do documento            | Larissa Stéfane  | -      | 19/05/2024 |
+
+
+
+  
