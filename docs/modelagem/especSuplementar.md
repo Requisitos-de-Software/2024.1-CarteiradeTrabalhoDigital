@@ -16,11 +16,46 @@ A Especificação Suplementar é um documento essencial em projetos de desenvolv
 ## Metodologia
 A metodologia FURPS+ é uma abordagem usada para classificar e organizar os requisitos de um sistema em uma Especificação Suplementar. A sigla FURPS+ representa diferentes categorias de requisitos: funcionalidade, usabilidade, confiabilidade, desempenho e suportabilidade. Funcionalidade refere-se aos requisitos funcionais que descrevem as ações e serviços que o sistema deve realizar. Usabilidade abrange requisitos relacionados à facilidade de uso, interface do usuário e experiência do usuário. Confiabilidade especifica a robustez, disponibilidade, tolerância a falhas e recuperação do sistema. Desempenho define a rapidez, eficiência, tempo de resposta e capacidade do sistema. Suportabilidade aborda a facilidade de manutenção, escalabilidade, adaptabilidade e suporte técnico. O "+" na sigla FURPS+ indica a inclusão de outros aspectos importantes, como requisitos de implementação, que envolvem conformidade com padrões e especificações técnicas; requisitos de interface, que dizem respeito à capacidade do sistema de se comunicar e funcionar em conjunto com outros sistemas; requisitos físicos, que consideram o ambiente físico onde o sistema será utilizado; e restrições de design, que são limitações e diretrizes específicas para o desenvolvimento do sistema. A FURPS+ fornece uma estrutura abrangente para assegurar que todos os aspectos críticos do sistema sejam considerados e documentados, garantindo um desenvolvimento mais completo e eficaz.
 
+## Confiabilidade
+
+Trata-se do quão confiável é o sistema, se baseando na frequência de falhas, possibilidade de recuperação e prevenção e tempo entre as falhas.
+
+Os requisitos identificados nesta categoria estão na tabela 1 a seguir.
+
+<p align="center"> Tabela 1 - Requisitos de confiabilidade. </p>
+
+| ID    | Descrição                                                                                                                          |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| CON01 | O sistema deve ser acessível 24 horas por dia, todos os dias.                                                                      |
+| CON02 | O sistema deve possuir as informações atualizadas e condizentes com a realidade.                                                   |
+| CON03 | O sistema deve manter íntegra as informações sobre o usuário e seus contratos de trabalho.                                         |
+| CON04 | O sistema deve seguir a Lei Geral de Proteção de Dados (LGPD).                                                                     |
+| CON05 | O sistema deve permitir que o usuário se recupere de problemas e erros.                                                            |
+| CON06 | O sistema deve impedir que o usuário realize atividades que possam colocar a integridade do sistema e de outros usuários em risco. |
+
+<b>Fonte:</b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>.
+
+## Desempenho
+
+Trata-se das condições que os requisitos devem executar. 
+Os requisitos identificados nesta categoria estão na tabela 2 a seguir.
+
+<p align="center"> Tabela 2 - Requisitos de desempenho. </p>
+
+| ID    | Descrição                                                                                          |
+| ----- | -------------------------------------------------------------------------------------------------- |
+| DES01 | O sistema não deve ter um tempo de resposta superior a 1 segundo.                                  |
+| DES02 | O sistema deve permitir mais de 500 mil de requisições por segundo.                                |
+| DES03 | O sistema deve possuir uma navegação fluida, sem engasgo e caminhos seguindo uma sequência lógica. |
+| DES04 | O sistema deve possuir uma interface leve, com no máximo 10 elementos na mesma tela.               |
+
+<b>Fonte:</b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>.
+
 ## Suportabilidade
 
-A tabela x a seguir apresenta os requisitos associados ao suporte e manutenção do sistema. Esses requisitos incluem a facilidade de manutenção, a capacidade de modificação e atualização do sistema, a disponibilidade de documentação adequada, e a facilidade de teste e diagnóstico de problemas.
+A tabela 3 a seguir apresenta os requisitos associados ao suporte e manutenção do sistema. Esses requisitos incluem a facilidade de manutenção, a capacidade de modificação e atualização do sistema, a disponibilidade de documentação adequada, e a facilidade de teste e diagnóstico de problemas.
 
-<font><p style="text-align: center">Tabela 1 - Requisitos de Suportabilidade.</p></font>
+<font><p style="text-align: center">Tabela 3 - Requisitos de Suportabilidade.</p></font>
 
 | ID    | Descrição                                                                                                                                                                                                                                                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -39,34 +74,34 @@ O app Carteira de Trabalho Digital deve adotar restrições de design rigorosas 
 
 ## Suplementares
 
-A tabela x a seguir apresenta os requisitos referentes ao "+" da metodologia escolhida, esses requisitos podem ser classificados como Requisitos de Implementação, Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line.
+A tabela 4 a seguir apresenta os requisitos referentes ao "+" da metodologia escolhida, esses requisitos podem ser classificados como Requisitos de Implementação, Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line.
 
 ### Requisitos de implementação
 
-<font><p style="text-align: center">Tabela 2 - Requisitos de Implementação.</p></font>
+<font><p style="text-align: center">Tabela 4 - Requisitos de Implementação.</p></font>
 
 | ID    | Descrição                                                                                                                                                   |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| F12   | Integração com eSocial                                                                                                                                         |
-| F13   | Integração com gov.br                                                                                                                                          |
-| F14   | Permitir integração com vários outros software                                                                                                                |
-| F17   | Estar adaptado para ser instalado em qualquer sistema operacional                                                                                             |
-| NF3 | Ter a capacidade de atender alterações de demanda no sistema, como mudanças em volumes de dados, de quantidade de transações ou de quantidade de usuários. |
-| NF6 | Seguir os manuais de interface de acordo com o gov.br. |
-| NF8 | Ter o básico de segurança: Autenticação, Criptografia, Controle de acesso, Auditoria, Atender as diretrizes e as práticas de segurança no controle de acesso à conta única. |
-| NF9 | Garantir as condições de preservação da privacidade das informações do cidadão. |
-| NF12 | Utilização de recursos como vocabulários controlados e taxonomias. |
+| RI01   | Integração com eSocial                                                                                                                                         |
+| RI02   | Integração com gov.br                                                                                                                                          |
+| RI03   | Permitir integração com vários outros software                                                                                                                |
+| RI04   | Estar adaptado para ser instalado em qualquer sistema operacional                                                                                             |
+| RI05 | Ter a capacidade de atender alterações de demanda no sistema, como mudanças em volumes de dados, de quantidade de transações ou de quantidade de usuários. |
+| RI06 | Seguir os manuais de interface de acordo com o gov.br. |
+| RI07 | Ter o básico de segurança: Autenticação, Criptografia, Controle de acesso, Auditoria, Atender as diretrizes e as práticas de segurança no controle de acesso à conta única. |
+| RI08 | Garantir as condições de preservação da privacidade das informações do cidadão. |
+| RI09 | Utilização de recursos como vocabulários controlados e taxonomias. |
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Izarias](https://github.com/Izarias).</p></font>
 
 ### Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line
 
-<font><p style="text-align: center">Tabela 3 - Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line.</p></font>
+<font><p style="text-align: center">Tabela 5 - Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line.</p></font>
 
 | ID | Descrição |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| NF6 | Seguir os manuais de interface de acordo com o gov.br. |
-| NF12 | Utilização de recursos como vocabulários controlados e taxonomias. |
+| RSD01 | Seguir os manuais de interface de acordo com o gov.br. |
+| RSD02 | Utilização de recursos como vocabulários controlados e taxonomias. |
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Izarias](https://github.com/Izarias).</p></font>
 
@@ -75,7 +110,7 @@ A tabela x a seguir apresenta os requisitos referentes ao "+" da metodologia esc
 
 O desenvolvimento de aplicativos governamentais requer não apenas funcionalidades eficientes, mas também conformidade com uma série de normas, regulamentos e diretrizes legais. Assim, no contexto da carteira digital do trabalho, é fundamental que o sistema atenda aos requisitos não funcionais relacionados a normas para garantir uma melhor e mais segura experiência para o usuário. Com isso, abaixo, a tabela 2 detalha os requisitos relacionados a normas que o aplicativo da carteira digital do trabalho deve seguir para o cumprimento dos padrões governamentais.
 
-**Tabela 4:** Normas que precisam ser seguidas
+**Tabela 6:** Normas que precisam ser seguidas
 
 | ID    | Descrição                                                                                                                                                                                                                                                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -90,7 +125,9 @@ O desenvolvimento de aplicativos governamentais requer não apenas funcionalidad
 
 ## Padrões Aplicáveis
 
-### Tabela 5: Padrões e Normas que Precisam ser Seguidos
+O sistema deve seguir os padrões definidos pelas normas internacionais para garantir qualidade, segurança e compatibilidade. Os padrões aplicáveis incluem:
+
+### Tabela 7: Padrões e Normas que Precisam ser Seguidos
 
 | ID    | Descrição                                                   |
 |-------|-------------------------------------------------------------|
@@ -119,7 +156,7 @@ O desenvolvimento de aplicativos governamentais requer não apenas funcionalidad
 
 O sistema deve ser compatível com diversos dispositivos, garantindo acessibilidade e experiência consistente para todos os usuários:
 
-### Tabela 6: Padrões e Normas Estabelecidos
+### Tabela 8: Padrões e Normas Estabelecidos
 
 | ID    | Descrição                                                        |
 |-------|------------------------------------------------------------------|
@@ -127,7 +164,20 @@ O sistema deve ser compatível com diversos dispositivos, garantindo acessibilid
 | FIS02 | Deve ser otimizado para tablets e smartphones com navegação responsiva. |
 | FIS03 | Deve operar em sistemas Android 5.0 ou superior e iOS 11.0 ou posterior. |
 | FIS04 | Recursos adicionais devem estar especificados nos manuais dos sistemas operacionais. |
-
+| FIS05 | O aplicativo deve funcionar corretamente em uma variedade de resoluções de tela, ajustando o layout de forma responsiva. |
+| FIS06 | O aplicativo deve exigir no máximo 100 MB de espaço de armazenamento no dispositivo para instalação e operação regular. |
+| FIS07 | O aplicativo deve funcionar em dispositivos com no mínimo 2 GB de RAM, garantindo um desempenho fluido. |
+| FIS08 | O aplicativo deve ser capaz de operar em redes 3G, 4G, 5G e Wi-Fi, com funcionalidades básicas disponíveis offline e sincronização de dados quando a conectividade for restaurada. |
+| FIS09 | O aplicativo deve suportar autenticação por impressão digital e reconhecimento facial, disponíveis em dispositivos que possuam esses recursos. |
+| FIS10 | O aplicativo deve ser capaz de utilizar o GPS do dispositivo para funções que requeiram geolocalização, como registro de ponto geolocalizado. |
+| FIS11 | O aplicativo deve utilizar a câmera do dispositivo para funcionalidades como captura de documentos e reconhecimento facial. |
+| FIS12 | O aplicativo deve aproveitar os módulos de segurança do hardware, como Secure Enclave em dispositivos Apple ou Trusted Execution Environment (TEE) em dispositivos Android, para proteger dados sensíveis. |
+| FIS13 | O aplicativo deve poder acessar sensores do dispositivo, como acelerômetro e giroscópio, para funções que possam requerer essas capacidades. |
+| FIS14 | O aplicativo deve ser compatível com dispositivos que possuem Near Field Communication (NFC) para funções como leitura de documentos compatíveis ou autenticação segura. |
+| FIS15 | O aplicativo deve ser otimizado para minimizar o consumo de energia, prolongando a vida útil da bateria dos dispositivos móveis. |
+| FIS16 | O aplicativo deve ser compatível com os sistemas de backup nativos dos dispositivos (iCloud para iOS, Google Drive para Android) para garantir a recuperação de dados em caso de perda ou troca de aparelho. |
+| FIS17 | O aplicativo deve ser capaz de rodar em dispositivos com processadores de 64 bits para garantir desempenho adequado e suporte a futuras atualizações. |
+| FIS18 | O aplicativo deve garantir consistência de funcionalidades e design em todas as plataformas suportadas (iOS, Android), proporcionando uma experiência de usuário unificada e eficiente. |
 
 **Fonte:** [Bruno Araújo](https://github.com/brunocva)
 
@@ -146,4 +196,6 @@ https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/doc
 | 1.2 |   Adição dos requisitos suplementares  | Pedro Izarias |   Iago Passaglia |  19/05/2024  |
 | 1.3 | Adição de observações legais ou normas | Larissa Stéfane | Bruno Araújo  |  19/05/2024  |
 | 1.4 | Adição de Padrões Apláveis e Requisitos Físicos | Bruno Araújo | Iago Passaglia  |  19/05/2024  |
-| 1.5 | Correção de tabelas | Iago Passaglia | -  |  19/05/2024  |
+| 1.5 | Correção de tabelas | Iago Passaglia | Breno Alexandre  |  19/05/2024  |
+| 1.6 | Adição dos tópicos "Confiabilidade" e "Desempenho" | Breno Alexandre | -  |  19/05/2024  |
+| 1.7 | Correção das tabelas | Pedro Izarias | -  |  19/05/2024  |

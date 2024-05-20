@@ -234,10 +234,37 @@ A tabela 8 mostra o cenário para quando um trabalhador deseja atualizar suas in
  </center> 
  </details>
 
-## Referências Bibliográficas
+ ### Verificar direitos trabalhistas do contrato atual
 
-1.BRASIL. Ministério do Trabalho e Emprego. Passo a passo CTPS Digital APP e WEB. Disponível em: https://empregabrasil.mte.gov.br/wp-content/uploads/2023/02/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf. Acesso em: 19 maio 2024.
-2. UNIVERSIDADE DE BRASÍLIA. Requisitos - Aula 013a. Disponível em: https://aprender3.unb.br/pluginfile.php/2845007/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf. Acesso em: 19 maio 2024.
+ A tabela 9 mostra o cenário para quando um trabalhador deseja verificar os direitos caso seja demitido sem justa causa.
+
+<details>
+  <summary size="20"><b> Tabela 9: Trabalhador deseja verificar os direitos caso seja demitido sem justa causa. </b></summary>
+
+<center>
+<p align="center"> Tabela 9: Trabalhador deseja verificar os direitos caso seja demitido sem justa causa. </p>
+
+| Denominação | Verificar direitos trabalhistas do contrato atual |
+| ----------- | ------------------------------------------------- |
+| Objetivo/meta | Permitir a visualização completa da opção "Direitos" na aba "Benefícios" do aplicativo.
+| Contexto | <b>Contexto:</b> O usuário já possui um login ativo na plataforma Carteira de Trabalho Digital através do gov.br. O usuário deseja acessar todas as funcionalidades disponíveis da opção “Direitos” na aba "Benefícios" do aplicativo. <b>Pré-condição:</b> O trabalhador deve estar autenticado no sistema.
+| Atores | Trabalhador (Usuário Primário).
+| Recursos | Smartphone; Conexão à internet; Aplicativo Carteira de Trabalho Digital instalado e atualizado; Conta ativa no gov.br para login.
+| Episódios | 1. O trabalhador faz login no aplicativo da carteira de trabalho digital. 2. O trabalhador acessa a aba "Benefícios". 3. O trabalhador seleciona a opção “Direitos”. 4. O sistema exibe os direitos em forma de tópicos, além de cálculos nos valores que dependem de outros valores e porcentagens. 
+| Exceção | 1. Se o usuário (trabalhador) acessar a página de direitos e lá estiver vazia ou não é exibida corretamente, o aplicativo exibe uma mensagem de erro informando que não foi possível carregar e recomenda tentar novamente mais tarde. 2. Se o usuário (trabalhador) acessar a página de direitos e o aplicativo exibe uma mensagem de erro informando que não foi possível carregar, aparecerá uma mensagem falando que recomenda tentar novamente mais tarde.
+| Restrição | 1. O trabalhador deve estar autenticado no sistema para efetuar o cadastro. 2. A conexão com a internet deve estar estável durante o processo de solicitação.
+
+<b>Fonte:</b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>.
+
+</center>
+</details>
+
+
+## Bibliografia
+
+<b>BRASIL</b>. Ministério do Trabalho e Emprego. Passo a passo CTPS Digital APP e WEB. Disponível em: https://empregabrasil.mte.gov.br/wp-content/uploads/2023/02/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf. Acesso em: 19 maio 2024.
+
+<b>UNIVERSIDADE DE BRASÍLIA</b>. Requisitos - Aula 013a. Disponível em: https://aprender3.unb.br/pluginfile.php/2845007/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf. Acesso em: 19 maio 2024.
 
 
 ## Histórico de Versão
@@ -258,3 +285,4 @@ A tabela 8 mostra o cenário para quando um trabalhador deseja atualizar suas in
 | 2.1 | Adição do cenário de consulta de seguro desemprego  | Pedro Izarias | - | 19/05/2024 |
 | 2.2 |  Criação do cenário de trabalhador Exportar Relatório de Vínculos Empregatícios | Luana Medeiros | - | 19/05/2024 |
 | 2.3 |  Criação do cenário de trabalhador Atualizar informações pessoais | Caio Mesquita | - | 19/05/2024 |
+| 2.4 |  Criação do cenário de trabalhador Verificar direitos trabalhistas | Breno Alexandre | - | 19/05/2024 |
