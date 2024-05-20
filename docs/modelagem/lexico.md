@@ -39,7 +39,7 @@ Tabela 2: Léxicos do tipo Verbo
 |Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
 |-|-|-|-|-|
 | Solicitar Benefício | [Bruno](https://github.com/brunocva.png) | O trabalhador deseja solicitar um benefício e utiliza o aplicativo para enviar a solicitação juntamente com os documentos necessários. | O trabalhador inicia a solicitação de um benefício, como Seguro Desemprego ou Abono Salarial. O sistema valida a solicitação e informa o trabalhador sobre o status do pedido. | Requerer Benefício, Pedir Benefício |
-| | [Breno](https://github.com/brenoalexandre0.png) | | | |
+| Verificar direitos trabalhistas do contrato atual | <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a> | O usuário é capaz de verificar os direitos trabalhistas do contrato atual. | O trabalhador entra na opção “Direitos” e é direcionado para uma página que exibe os direitos trabalhistas do contrato atual. | Revisar direitos do trabalhador no contrato em vigor |
 |Atualizar dados pessoais| [Caio](https://github.com/caiomesvie) |Ato de realizar mudanças no cadastro do usuário em seus dados pessoais. |assegura que as informações mais recentes estejam disponíveis tanto para o trabalhador quanto para o empregador, evitando discrepâncias e facilitando a conformidade com as exigências legais. | Sincronizar dados, integrar dados.|
 | Enviar carteira de trabalho | [Iago](https://github.com/Paxxaglia) | O trabalhador precisa exportar o documento da carteira de trabalho para algum outro aplicativo | O trabalhador escolhe as opções de exportação da carteira e pode gerar um PDF | Expedir a carteira profissional, Encaminhar a carteira de trabalho, Despachar o registro de trabalho |
 | Adicionar Novo Contrato de Trabalho            | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Incluir novos contratos de trabalho na carteira de trabalho digital | Inserção de novos registros de contratos na carteira digital para empresas | Inserir     |
@@ -57,7 +57,7 @@ Tabela 3: Léxicos do tipo Objeto
 |Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
 |-|-|-|-|-|
 | Contrato de Trabalho | [Bruno](https://github.com/brunocva.png) | O contrato de trabalho contém informações sobre o vínculo empregatício entre o trabalhador e a empresa, incluindo dados como período trabalhado, salário e tipo de contrato. | O trabalhador pode visualizar, atualizar ou encerrar um contrato de trabalho. O sistema mantém um registro detalhado dos contratos de trabalho do usuário. | Acordo de Trabalho, Vínculo Empregatício, Emprego |
-| | [Breno](https://github.com/brenoalexandre0.png) | | | |
+| Atestado Médico | <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a> | Documento que comprova a necessidade de afastamento do trabalhador por motivos de saúde. | O trabalhador pode enviar o atestado pelo aplicativo para que o empregador tome as medidas necessárias. | Comprovante de Saúde, Certificado Médico |
 | Empregador | [Caio](https://github.com/caiomesvie) | Pessoa física ou jurídica que contrata um trabalhador para prestar serviços de forma contínua e remunerada. | O usuário depende de seu empregador para que seja realizado o envio da documentação necessária para o registro em sua carteira de trabalho digital |Empresa, Patrão, Contratante. |
 | Benefício | [Iago](https://github.com/Paxxaglia) | Representa os auxílios ofertados para os trabalhadores contemplados |  O usuário pode solicitar diversos benefícios como Abono salarial, Seguro-desemprego, benefício emergencial entre outros. | Bônus, Auxílio, Comodidade |
 | Perfil do Trabalhador                          | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Conjunto de informações pessoais | Fonte de dados sobre o usuário | Registro do usuário(trabalhador) |
@@ -76,7 +76,7 @@ Tabela 4: Léxicos do tipo Estado
 |Símbolo|Autor|Noção (denotação)|Impacto (conotação)|Sinônimo|
 |-|-|-|-|-|
 | Benefício Aprovado | [Bruno](https://github.com/brunocva.png) | O sistema verifica a solicitação do benefício e, após aprovação, muda o status do pedido para "Aprovado". | O benefício solicitado pelo trabalhador foi aprovado. O sistema atualiza o status do benefício e notifica o trabalhador. | Benefício Concedido, Benefício Confirmado |
-| | [Breno](https://github.com/brenoalexandre0.png) | | | |
+| Rescisão Processada | <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a> | Indica que o processo de rescisão foi concluído e todas as obrigações foram cumpridas. | O trabalhador é notificado sobre a conclusão da rescisão e pode acessar os detalhes pelo aplicativo. | Rescisão Concluída, Fim do Contrato |
 |Contrato Finalizado | [Caio](https://github.com/caiomesvie) | O contrato de trabalho foi finalizado devido ao período de tempo pré-determinado | Tanto a empresa quanto o empregado são notificados sobre o fim do contrato | Contrato Concluído, Contrato Terminado. |
 | Tempo de serviço | [Iago](https://github.com/Paxxaglia) | O sistema verifica os registros do usuário e os ordena em ordem de tempo de serviço | A visualização se adapta após o click na opção | O usuário pode visualizar uma visão mais ampla relacionada aos seus contratos de trabalho |
 | Em Processo de Validação                 | [Larissa Stéfane](https://github.com/SkywalkerSupreme)| Estado onde as informações fornecidas estão sendo verificadas pelo sistema | Garante que os dados inseridos são corretos antes de serem aceitos no banco de dados | Verificação           |
@@ -93,19 +93,22 @@ Fonte: Citados ao longo da tabela
 A definição clara e precisa de termos e expressões no léxico do aplicativo da Carteira de Trabalho Digital é fundamental para garantir uma comunicação eficaz entre o usuário e o sistema, melhorando a usabilidade e a experiência do usuário.
 
 ## Bibliografia
+<b>PASSO A PASSO CARTEIRA DE TRABALHO DIGITAL APP E WEB</b>. Ministério do Trabalho e Emprego, 2023.
 
-1. SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 14/05/2023.
-2. SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. 2017. Apresentação de slides. Disponível em: <https://example.com/Requisitos-Aula-013a.pdf>. Acesso em: 19 mai. 2024.
-3. Passo a Passo Carteira de Trabalho Digital APP e WEB. Ministério do Trabalho e Emprego, 2023.
+<b>SERRANO, Milene</b>. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 14/05/2023.
+
+<b>SERRANO, Milene; SERRANO, Maurício</b>. Requisitos – Aula 13. 2017. Apresentação de slides. Disponível em: <https://example.com/Requisitos-Aula-013a.pdf>. Acesso em: 19 mai. 2024.
+
 
 ## Histórico de Versão
 
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 | Criação de documentação                      | Pedro Augusto  | Iago Passaglia | 18/05/2024 |
-| 1.1 | Adição do Léxico                             | Bruno Araújo   | Iago Passaglia | 19/05/2024 |
-| 1.2 | Adição dos Léxicos de verbo, objeto e estado | Iago Passaglia | Larissa Stéfane | 19/05/2024 |
-| 1.3 | Adição dos Léxicos de verbo, objeto e estado | Luana Medeiros | Larissa Stéfane | 19/05/2024 |
-| 1.4 |  Adição dos Léxicos de verbo, objeto e estado | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
-| 1.5 |  Adição dos Léxicos de verbo, objeto e estado | Pedro Izarias | Iago Passaglia | 19/05/2024 |
-| 1.6 |  Adição dos Léxicos de verbo, objeto e estado | Caio Mesquita | Iago Passaglia | 19/05/2024 |
+| Versão | Alteração                                    | Responsável     | Revisor         | Data       |
+| ------ | -------------------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação de documentação                      | Pedro Izarias   | Iago Passaglia  | 18/05/2024 |
+| 1.1    | Adição do Léxico                             | Bruno Araújo    | Iago Passaglia  | 19/05/2024 |
+| 1.2    | Adição dos Léxicos de verbo, objeto e estado | Iago Passaglia  | Larissa Stéfane | 19/05/2024 |
+| 1.3    | Adição dos Léxicos de verbo, objeto e estado | Luana Medeiros  | Larissa Stéfane | 19/05/2024 |
+| 1.4    | Adição dos Léxicos de verbo, objeto e estado | Larissa Stéfane | Iago Passaglia  | 19/05/2024 |
+| 1.5    | Adição dos Léxicos de verbo, objeto e estado | Pedro Izarias   | Iago Passaglia  | 19/05/2024 |
+| 1.6    | Adição dos Léxicos de verbo, objeto e estado | Caio Mesquita   | Iago Passaglia  | 19/05/2024 |
+| 1.7    | Adição dos Léxicos de verbo, objeto e estado | Breno Alexandre | -               | 19/05/2024 |
