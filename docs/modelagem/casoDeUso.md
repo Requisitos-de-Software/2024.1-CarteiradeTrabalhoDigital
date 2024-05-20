@@ -110,7 +110,7 @@ Tabela 4: Caso de uso UC02
 | ------------------- | ---------------------------------------------------------------- |
 | Descrição           | Permitir ao trabalhador acessar e completar informações pessoais para visualizar a aba "Emprego". |
 | Atores              | Trabalhador (Usuário Primário); Plataforma gov.br (Usuário Secundário) |
-| Frequência          | Sempre que o trabalhador precisar visualizar ou atualizar suas informações de emprego. |
+| Frequência          | A primeira vez em que o trabalhador acessa a aba "Emprego". |
 | Pré-condições       | O trabalhador deve estar autenticado no sistema.                 |
 | Fluxo Básico        | <b> FB02 </b> <ol> <li>O trabalhador faz login no aplicativo da carteira de trabalho digital. <li>O trabalhador acessa a aba "Emprego". <li>O trabalhador seleciona a opção "Quero me cadastrar". <li>O sistema exibe o formulário de "Dados Pessoais". <li>O trabalhador preenche o formulário de "Dados Pessoais". <li>O sistema exibe o formulário de "Endereço". <li>O trabalhador preenche o formulário de "Endereço". <li>O sistema exibe o formulário de "Contato". <li>O trabalhador preenche o formulário de "Contato". <li>O trabalhador envia os formulários e conclui a tarefa. </ol> |
 | Fluxos Alternativos | <b> FA02 </b> <ol> <li>Se o trabalhador optar por abandonar a tarefa, ele fecha o aplicativo ou volta à tela inicial sem completar o processo de preenchimento dos formulários. |
