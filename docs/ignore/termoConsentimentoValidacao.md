@@ -13,6 +13,8 @@ A imagem 1 mostra o termo de consentimento assinado:
     <br>
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/novasimagensEntrega3/WhatsApp%20Image%202024-05-20%20at%2016.09.09.jpeg">
    
+
+
 **Fonte:** José Santos
 
 ## Histórico de Versão
