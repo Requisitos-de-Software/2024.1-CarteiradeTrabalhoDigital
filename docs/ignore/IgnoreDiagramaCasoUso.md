@@ -122,6 +122,27 @@ A segunda versão do diagrama do usuário (trabalhador) com usuário primário e
 
 Após a criação das segundas versões, foi realizada uma reunião com um usuário do aplicativo para ele dar sugestões e validar o diagrama. Essa reunião pode ser vista no vídeo 1, logo abaixo.
 
+O vídeo 1 mostra a reunião com o usuário José Santos
+
+<center> 
+vídeo 1: Requisitos - Validação do diagrama de casos de uso com o usuário José Santos
+  
+<iframe width="700" height="400" src="https://www.youtube.com/embed/NZe3Yx7stqU" title="Requisitos - Validação do diagrama de casos de uso com o usuário José Santos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Fonte**:  [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+
+</center>
+
+
+Caso o vídeo acima não funcione, use este [link](https://www.youtube.com/watch?v=NZe3Yx7stqU) 
+
+
+### Termo de Consentimento
+
+Este link leva termo de consentimento assinado pelo usuário
+
+Clique em: [Termo de consentimento assinado]() 
 
 ## Terceira Versão
 
