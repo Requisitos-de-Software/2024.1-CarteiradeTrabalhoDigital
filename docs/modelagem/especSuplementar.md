@@ -82,15 +82,15 @@ A tabela x a seguir apresenta os requisitos referentes ao "+" da metodologia esc
 
 | ID    | Descrição                                                                                                                                                   |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| F12   | Integração com eSocial                                                                                                                                         |
-| F13   | Integração com gov.br                                                                                                                                          |
-| F14   | Permitir integração com vários outros software                                                                                                                |
-| F17   | Estar adaptado para ser instalado em qualquer sistema operacional                                                                                             |
-| NF3 | Ter a capacidade de atender alterações de demanda no sistema, como mudanças em volumes de dados, de quantidade de transações ou de quantidade de usuários. |
-| NF6 | Seguir os manuais de interface de acordo com o gov.br. |
-| NF8 | Ter o básico de segurança: Autenticação, Criptografia, Controle de acesso, Auditoria, Atender as diretrizes e as práticas de segurança no controle de acesso à conta única. |
-| NF9 | Garantir as condições de preservação da privacidade das informações do cidadão. |
-| NF12 | Utilização de recursos como vocabulários controlados e taxonomias. |
+| RI01   | Integração com eSocial                                                                                                                                         |
+| RI02   | Integração com gov.br                                                                                                                                          |
+| RI03   | Permitir integração com vários outros software                                                                                                                |
+| RI04   | Estar adaptado para ser instalado em qualquer sistema operacional                                                                                             |
+| RI05 | Ter a capacidade de atender alterações de demanda no sistema, como mudanças em volumes de dados, de quantidade de transações ou de quantidade de usuários. |
+| RI06 | Seguir os manuais de interface de acordo com o gov.br. |
+| RI07 | Ter o básico de segurança: Autenticação, Criptografia, Controle de acesso, Auditoria, Atender as diretrizes e as práticas de segurança no controle de acesso à conta única. |
+| RI08 | Garantir as condições de preservação da privacidade das informações do cidadão. |
+| RI09 | Utilização de recursos como vocabulários controlados e taxonomias. |
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Izarias](https://github.com/Izarias).</p></font>
 
@@ -100,8 +100,8 @@ A tabela x a seguir apresenta os requisitos referentes ao "+" da metodologia esc
 
 | ID | Descrição |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| NF6 | Seguir os manuais de interface de acordo com o gov.br. |
-| NF12 | Utilização de recursos como vocabulários controlados e taxonomias. |
+| RSD01 | Seguir os manuais de interface de acordo com o gov.br. |
+| RSD02 | Utilização de recursos como vocabulários controlados e taxonomias. |
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Izarias](https://github.com/Izarias).</p></font>
 
