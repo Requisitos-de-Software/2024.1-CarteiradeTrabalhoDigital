@@ -282,7 +282,7 @@ A tabela 8 mostra o cenário para quando um trabalhador deseja atualizar suas in
 | 1.8 |  Adição de introdução, metodologia e desenvolvimento do modelo de tabela para cenários |  Iago Passaglia   |   Bruno Araújo   |   19/05/2024     |
 | 1.9 |  Criação do cenário Solicitar Benefício   |  Bruno Araújo   | Caio Mesquita   |   19/05/2024    |
 | 2.0 | Retirada de 5 Cenários | Larissa Stéfane | Pedro Izarias | 19/05/2024 |
-| 2.1 | Adição do cenário de consulta de seguro desemprego  | Pedro Izarias | - | 19/05/2024 |
-| 2.2 |  Criação do cenário de trabalhador Exportar Relatório de Vínculos Empregatícios | Luana Medeiros | - | 19/05/2024 |
+| 2.1 | Adição do cenário de consulta de seguro desemprego  | Pedro Izarias | Iago Passaglia | 19/05/2024 |
+| 2.2 |  Criação do cenário de trabalhador Exportar Relatório de Vínculos Empregatícios | Luana Medeiros | Iago Passaglia | 19/05/2024 |
 | 2.3 |  Criação do cenário de trabalhador Atualizar informações pessoais | Caio Mesquita | Pedro Izarias | 19/05/2024 |
 | 2.4 |  Criação do cenário de trabalhador Verificar direitos trabalhistas | Breno Alexandre | Pedro Izarias | 19/05/2024 |
