@@ -20,7 +20,7 @@ A metodologia FURPS+ é uma abordagem usada para classificar e organizar os requ
 
 A tabela x a seguir apresenta os requisitos associados ao suporte e manutenção do sistema. Esses requisitos incluem a facilidade de manutenção, a capacidade de modificação e atualização do sistema, a disponibilidade de documentação adequada, e a facilidade de teste e diagnóstico de problemas.
 
-<font><p style="text-align: center">Tabela x - Requisitos de Suportabilidade.</p></font>
+<font><p style="text-align: center">Tabela 1 - Requisitos de Suportabilidade.</p></font>
 
 | ID    | Descrição                                                                                                                                                                                                                                                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -43,7 +43,7 @@ A tabela x a seguir apresenta os requisitos referentes ao "+" da metodologia esc
 
 ### Requisitos de implementação
 
-<font><p style="text-align: center">Tabela x - Requisitos de Implementação.</p></font>
+<font><p style="text-align: center">Tabela 2 - Requisitos de Implementação.</p></font>
 
 | ID    | Descrição                                                                                                                                                   |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -61,7 +61,7 @@ A tabela x a seguir apresenta os requisitos referentes ao "+" da metodologia esc
 
 ### Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line
 
-<font><p style="text-align: center">Tabela x - Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line.</p></font>
+<font><p style="text-align: center">Tabela 3 - Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line.</p></font>
 
 | ID | Descrição |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
