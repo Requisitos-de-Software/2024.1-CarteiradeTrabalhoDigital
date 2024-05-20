@@ -126,8 +126,9 @@ https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/doc
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 |   Adição da Suportabilidade           | Iago Passaglia |    |  19/05/2024  |
-| 1.1 |   Adição da Introdução e Metodologia  | Luana Medeiros |     |  19/05/2024  |
-| 1.2 |   Adição dos requisitos suplementares  | Pedro Izarias |   -  |  19/05/2024  |
+| 1.0 |   Adição da Suportabilidade           | Iago Passaglia |  Bruno Araújo   |  19/05/2024  |
+| 1.1 |   Adição da Introdução e Metodologia  | Luana Medeiros |  Iago Passaglia   |  19/05/2024  |
+| 1.2 |   Adição dos requisitos suplementares  | Pedro Izarias |   Iago Passaglia |  19/05/2024  |
 | 1.3 | Adição de observações legais ou normas | Larissa Stéfane | Bruno Araújo  |  19/05/2024  |
-| 1.4 | Adição de Padrões Apláveis e Requisitos Físicos | Bruno Araújo | -  |  19/05/2024  |
+| 1.4 | Adição de Padrões Apláveis e Requisitos Físicos | Bruno Araújo | Iago Passaglia  |  19/05/2024  |
+| 1.5 | Correção de tabelas | Iago Passaglia | -  |  19/05/2024  |
