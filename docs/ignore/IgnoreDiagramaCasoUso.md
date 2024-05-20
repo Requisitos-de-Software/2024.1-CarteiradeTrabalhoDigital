@@ -3,6 +3,7 @@
 ## Sumário
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
+* [Cronograma](#Cronograma)
 * [Primeira Versão](#Primeira-Versão)
 * [Segunda Versão](#Segunda-Versão)
 * [Validação com Usuários](#Validação-com-Usuários)
@@ -20,6 +21,26 @@
   O desenvolvimento do diagrama de caso de uso do aplicativo da Carteira de Trabalho Digital seguirá uma metodologia estruturada e iterativa. Inicialmente, será realizado um estudo básico sobre o tema, complementado por vídeo-aulas que fornecerão uma compreensão aprofundada dos conceitos e práticas essenciais. Com base nos requisitos funcionais elicitados, a primeira versão do diagrama será criada. Esta versão inicial será submetida à verificação por monitores, que identificarão e pontuarão áreas para melhorias.
 
   Após a implementação das sugestões de melhoria dos monitores, a segunda versão do diagrama será desenvolvida. Em seguida, uma reunião será realizada com um usuário, durante a qual ele verificará, analisará e sugerirá alguns pequenos pontos de melhoria no diagrama. Com base no feedback recebido, a terceira versão será criada. Esta versão final, que incorporará todas as melhorias apontadas, será utilizada como base para a especificação dos casos de uso.
+
+## Cronograma
+A tabela 1 mostra como foi a organização do cronograma durante o desenvolvimento do diagrama de caso de uso.
+
+</center>
+
+Tabela 1: Cronograma.
+
+| Data       | Atividade                                             |
+|------------|-------------------------------------------------------|
+| 16/05/2024 | Criação da primeira versão do diagrama                |
+| 17/05/2024 | Entrar em contato com os monitores para ter o feedback 
+| 18/05/2024 | Criação da segunda versão do diagrama e entrar em contato com o usuário para marcar a validação  |
+| 19/05/2024 | Reunião com o usuário para a validação às 15:30 |
+| 19/05/2024 | Criação da terceira versão do diagrama |
+| 20/05/2024 | Criação da quarta versão do diagrama |
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
 
   ## Primeira Versão
 
@@ -166,7 +187,7 @@ Após a criação de algumas sugestões do usuário, as terceiras versões do di
 </details>
 
 <details>
-  <summary size="20"><b>  Figura 5: Versão 3 - Diagrama caso de Uso: Empresa. </b></summary> 
+  <summary size="20"><b>  Figura 7: Versão 3 - Diagrama caso de Uso: Empresa. </b></summary> 
 <div align="center">
      Figura 7: Versão 3 - Diagrama caso de Uso: Empresa
     <br>
@@ -181,6 +202,26 @@ Após a criação de algumas sugestões do usuário, as terceiras versões do di
   caso deseje visualizar em maior dimensão, clique em: [Versão 3 - Diagrama caso de Uso: Empresa](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/DiagramaCasoUso_Empresa_ver3_page-0001.jpg)
   
 </details>
+
+## Quarta Versão
+
+Após mais algumas sugestões dos monitores, foi decidido que, ao invés de ter dois diagramas, um para o usuário(trabalhador) como primário e outro para o usuário(empresa) como primário, o ideal seria apenas um com usuário(trabalhador) como primário e com o usuário(empresa) apenas como secundário, uma vez que a equipe irá trabalhar apenas com a visão de trabalhadores.
+
+Abaixo, a figura 6 mostra o diagrama em sua quarta versão.
+
+<details>
+  <summary size="20"><b>  Figura 8: Versão 4 - Diagrama caso de Uso: Trabalhador. </b></summary> 
+<div align="center">
+     Figura 8: Versão 4 - Diagrama caso de Uso: Trabalhador
+    <br>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/novasimagensEntrega3/DiagramaCasoUso_Trabalhador_Ver4.drawio_page-0001.jpg">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+  
+</div>
+
+  caso deseje visualizar em maior dimensão, clique em: [Versão 4 - Diagrama caso de Uso: Trabalhador](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/novasimagensEntrega3/DiagramaCasoUso_Trabalhador_Ver4.drawio_page-0001.jpg)
 
 ## Conclusão
 
@@ -198,6 +239,7 @@ O processo de desenvolvimento do diagrama de caso de uso do aplicativo da Cartei
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
 | 1.0    | Criação do documento            | Larissa Stéfane  | Iago Passaglia | 19/05/2024 |
 | 1.1    | Adição da reunião com o usuário | Larissa Stéfane  | Iago Passaglia | 19/05/2024 |
+| 1.2    | Adição da quarta versão         | Larissa Stéfane  |   -  | 20/05/2024 |
 
 
 
