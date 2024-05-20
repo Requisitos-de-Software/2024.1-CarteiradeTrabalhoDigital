@@ -35,21 +35,13 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 As figuras abaixo demonstram os diagramas de casos de uso do aplicativo da Carteira de Trabalho Digital. Devido ao amplo escopo, ele foi dividido em dois digramas para seguir o princípio da fácil interpretação de um modelo.
 
 <center>
-Imagem 1: Diagrama de casos de uso 1
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/DiagramaCasoUso_funcionario_Ver3_page-0001.jpg" alt="Diagrama de Casos de Uso 1" >
+Imagem 1: Diagrama de casos de uso 
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/novasimagensEntrega3/DiagramaCasoUso_Trabalhador_Ver4.drawio_page-0001.jpg" alt="Diagrama de Casos de Uso " >
 
 Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </center>
 
-<center>
-Imagem 1: Diagrama de casos de uso 2
-
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/DiagramaCasoUso_Empresa_ver3_page-0001.jpg" alt="Diagrama de Casos de Uso 2">
-
-Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
-
-</center>
 
 ## Especificação dos Casos de uso
 
@@ -383,4 +375,5 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 | 2.5    | Adição do caso de uso: Trabalhador exporta relatório de vínculos empregatícios| Luana Medeiros | Iago Passaglia | 19/05/2024 | 
 | 2.6    | Adição do caso de uso: Verificar direitos trabalhistas do contrato atual | Breno Alexandre | Iago Passaglia | 19/05/2024
 | 2.7    | Adição diagramas de caso de uso |Caio Mesquita | Iago Passaglia | 19/05/2024 |
+| 2.9    | Adição do diagrama atualizado | Larissa Stéfane | - | 20/05/2024 |
 | 2.8    | Adição diagramas de caso de uso sobre a consulta de FGTS e correções em outras tabelas | Larissa Stéfane | - | 20/05/2024 |
