@@ -125,6 +125,8 @@ O desenvolvimento de aplicativos governamentais requer não apenas funcionalidad
 
 ## Padrões Aplicáveis
 
+O sistema deve seguir os padrões definidos pelas normas internacionais para garantir qualidade, segurança e compatibilidade. Os padrões aplicáveis incluem:
+
 ### Tabela 5: Padrões e Normas que Precisam ser Seguidos
 
 | ID    | Descrição                                                   |
@@ -162,7 +164,20 @@ O sistema deve ser compatível com diversos dispositivos, garantindo acessibilid
 | FIS02 | Deve ser otimizado para tablets e smartphones com navegação responsiva. |
 | FIS03 | Deve operar em sistemas Android 5.0 ou superior e iOS 11.0 ou posterior. |
 | FIS04 | Recursos adicionais devem estar especificados nos manuais dos sistemas operacionais. |
-
+| FIS05 | O aplicativo deve funcionar corretamente em uma variedade de resoluções de tela, ajustando o layout de forma responsiva. |
+| FIS06 | O aplicativo deve exigir no máximo 100 MB de espaço de armazenamento no dispositivo para instalação e operação regular. |
+| FIS07 | O aplicativo deve funcionar em dispositivos com no mínimo 2 GB de RAM, garantindo um desempenho fluido. |
+| FIS08 | O aplicativo deve ser capaz de operar em redes 3G, 4G, 5G e Wi-Fi, com funcionalidades básicas disponíveis offline e sincronização de dados quando a conectividade for restaurada. |
+| FIS09 | O aplicativo deve suportar autenticação por impressão digital e reconhecimento facial, disponíveis em dispositivos que possuam esses recursos. |
+| FIS10 | O aplicativo deve ser capaz de utilizar o GPS do dispositivo para funções que requeiram geolocalização, como registro de ponto geolocalizado. |
+| FIS11 | O aplicativo deve utilizar a câmera do dispositivo para funcionalidades como captura de documentos e reconhecimento facial. |
+| FIS12 | O aplicativo deve aproveitar os módulos de segurança do hardware, como Secure Enclave em dispositivos Apple ou Trusted Execution Environment (TEE) em dispositivos Android, para proteger dados sensíveis. |
+| FIS13 | O aplicativo deve poder acessar sensores do dispositivo, como acelerômetro e giroscópio, para funções que possam requerer essas capacidades. |
+| FIS14 | O aplicativo deve ser compatível com dispositivos que possuem Near Field Communication (NFC) para funções como leitura de documentos compatíveis ou autenticação segura. |
+| FIS15 | O aplicativo deve ser otimizado para minimizar o consumo de energia, prolongando a vida útil da bateria dos dispositivos móveis. |
+| FIS16 | O aplicativo deve ser compatível com os sistemas de backup nativos dos dispositivos (iCloud para iOS, Google Drive para Android) para garantir a recuperação de dados em caso de perda ou troca de aparelho. |
+| FIS17 | O aplicativo deve ser capaz de rodar em dispositivos com processadores de 64 bits para garantir desempenho adequado e suporte a futuras atualizações. |
+| FIS18 | O aplicativo deve garantir consistência de funcionalidades e design em todas as plataformas suportadas (iOS, Android), proporcionando uma experiência de usuário unificada e eficiente. |
 
 **Fonte:** [Bruno Araújo](https://github.com/brunocva)
 
