@@ -163,7 +163,7 @@ Caso o vídeo acima não funcione, use este [link](https://www.youtube.com/watch
 
 Este link leva termo de consentimento assinado pelo usuário
 
-Clique em: [Termo de consentimento assinado]() 
+Clique em: [Termo de consentimento assinado](ignore/termoConsentimentoValidacao.md) 
 
 ## Terceira Versão
 
@@ -222,6 +222,8 @@ Abaixo, a figura 6 mostra o diagrama em sua quarta versão.
 </div>
 
   caso deseje visualizar em maior dimensão, clique em: [Versão 4 - Diagrama caso de Uso: Trabalhador](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/novasimagensEntrega3/DiagramaCasoUso_Trabalhador_Ver4.drawio_page-0001.jpg)
+
+</details>
 
 ## Conclusão
 
