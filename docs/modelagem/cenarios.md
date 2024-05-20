@@ -219,7 +219,7 @@ A tabela 8 mostra o cenário para quando um trabalhador deseja atualizar suas in
 
 **Tabela 8**: Atualização das informações pessoais.
 
-| Denominação | Atualização de Contrato |
+| Denominação | Atualização de informações |
 | - | - |
 | Objetivo/meta | Permitir que o trabalhador atualize suas informações pessoais no sistema, como endereço, telefone e email. |
 | Contexto | **Contexto:** O trabalhador mudou de endereço ou alterou seu número de telefone/email e deseja atualizar essas informações no sistema.  <br> **Local:** Na aba "Configurações de Conta" no aplicativo.  <br> **Tempo:**  A atualização de informações pessoais pode levar de 5 a 10 minutos. <br> **Pré-condição:** O trabalhador deve estar autenticado no sistema.  |
