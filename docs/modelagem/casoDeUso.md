@@ -287,6 +287,33 @@ Tabela x: Caso de uso UC00
 
 </center>
  </details>
+
+ ### Verificar direitos trabalhistas do contrato atual
+
+<details>
+  <summary size="20"><b> Tabela X: Verificar direitos trabalhistas do contrato atual </b></summary>
+
+<center>
+<p align="center"> Tabela X: Caso de uso UC0X </p>
+
+| UC0X | Verificar direitos trabalhistas do contrato atual |
+| ----------------------- | ----------------------- |
+| Descrição | O usuário é capaz de verificar os direitos trabalhistas do contrato atual. |
+| Atores | Trabalhador (Usuário Primário). |
+| Frequência | Sempre que o trabalhador precisar visualizar seus direitos. |
+| Pré-condições | O trabalhador deve estar autenticado no sistema e ter um contrato de trabalho. |
+| Fluxo Básico | <b> FB0X </b> <ol><li>O usuário (trabalhador) acessa o aplicativo da carteira de trabalho digital. <li>O usuário (trabalhador) faz login no aplicativo da carteira de trabalho digital. <li>O trabalhador acessa a aba "Benefícios". <li>O trabalhador seleciona a opção "Direitos". <li> O sistema exibe os direitos em forma de tópicos, além de cálculos nos valores que dependem de outros valores e porcentagens. </ol> |
+| Fluxos Alternativos | <b> FA0X </b>  <ol><li>O usuário (trabalhador) faz login no aplicativo da carteira de trabalho digital. <li>O usuário (trabalhador) acessa a aba "Canal de Denúncias Trabalhistas". <li> O sistema exibe uma opção de verificar os direitos trabalhistas.</ol> |
+| Fluxos de exceção | <b> FE0X </b> <ol> <li>O usuário (trabalhador) acessa o aplicativo da carteira de trabalho digital. <li>O usuário (trabalhador) faz login no aplicativo da carteira de trabalho digital. <li>O trabalhador seleciona a opção "Direitos". <li> A página de direitos está vazia ou não é exibida corretamente. </ol> <b> FE0X </b> <ol> <li>O usuário (trabalhador) acessa o aplicativo da carteira de trabalho digital. <li>O usuário (trabalhador) faz login no aplicativo da carteira de trabalho digital. <li>O trabalhador seleciona a opção "Direitos". <li> O aplicativo exibe uma mensagem de erro informando que não foi possível carregar e recomenda tentar novamente mais tarde. </ol> |
+| Pós-condições | As informações serão exibidas para o usuário. |
+| Data de Criação  | 19/05/2024 |
+| Rastreabilidade  | [Requisitos Funcionais RF28] (Elicitacao/RequisitosCorrigidos.md) |
+
+<b>Fonte:</b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>.
+
+</center>
+</details>
+
  
 ## Bibliografia
 
@@ -315,3 +342,4 @@ Tabela x: Caso de uso UC00
 | 2.3    | Adição do caso de uso:Consultar Seguro Desemprego | Pedro Izarias | - | 19/05/2024 |
 | 2.4    | Retirada de alguns caso de uso | Larissa Stéfane | - | 19/05/2024 | 
 | 2.5    | Adição do caso de uso: Trabalhador exporta relatório de vínculos empregatícios| Luana Medeiros | - | 19/05/2024 | 
+| 2.6    | Adição do caso de uso: Verificar direitos trabalhistas do contrato atual | Breno Alexandre | - | 19/05/2024
