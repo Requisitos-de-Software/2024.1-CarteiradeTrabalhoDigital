@@ -3,7 +3,9 @@
 ## Sumário
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
+* [Cenários](#Cenários)
 * [Histórico de versão](#Histórico-de-versão)
+* 
 ## Introdução
 
 Um cenário é uma descrição detalhada de uma situação específica na qual o aplicação do Carteira de Trabalho Digital será utilizado. Esses cenários ajudam a capturar as necessidades e expectativas dos usuários, fornecendo contexto sobre como o software deve funcionar em condições reais. Eles são fundamentais para orientar o desenvolvimento e garantir que todas as funcionalidades relevantes sejam contempladas. Além disso, servem como uma base para testes, validação e refinamento dos requisitos ao longo do ciclo de vida do projeto.
