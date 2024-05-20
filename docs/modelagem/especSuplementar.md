@@ -90,29 +90,44 @@ O desenvolvimento de aplicativos governamentais requer não apenas funcionalidad
 
 ## Padrões Aplicáveis
 
-O sistema deve seguir os padrões definidos pelas normas internacionais para garantir qualidade, segurança e compatibilidade. Os padrões aplicáveis incluem:
+### Tabela 5: Padrões e Normas que Precisam ser Seguidos
 
-**Tabela 5:** Padrões e normas que precisam ser seguidos
-| ID    | Descrição                                                                            |
-| ----- | ------------------------------------------------------------------------------------ |
-| PAD01 | O sistema deve seguir as diretrizes de acessibilidade WCAG.                          |
-| PAD02 | Deve estar em conformidade com a norma ISO 9241-11 sobre usabilidade.                |
-| PAD03 | Deve cumprir as normas de qualidade ISO 9000 e ISO 9001-3.                           |
-| PAD04 | Deve seguir a norma ISO 12207 para processos de ciclo de vida de software.           |
-| PAD05 | Deve atender aos requisitos de segurança da ISO 27001.                               |
-| PAD06 | O design e interface devem seguir os guias de estilo dos sistemas Android e iOS.     |
+| ID    | Descrição                                                   |
+|-------|-------------------------------------------------------------|
+| PAD01 | O sistema deve seguir as diretrizes de acessibilidade WCAG. |
+| PAD02 | Deve estar em conformidade com a norma ISO 9241-11 sobre usabilidade. |
+| PAD03 | Deve cumprir as normas de qualidade ISO 9000 e ISO 9001-3.  |
+| PAD04 | Deve seguir a norma ISO 12207 para processos de ciclo de vida de software. |
+| PAD05 | Deve atender aos requisitos de segurança da ISO 27001.      |
+| PAD06 | O design e interface devem seguir os guias de estilo dos sistemas Android e iOS. |
+| PAD07 | O aplicativo deve ser capaz de funcionar corretamente em uma variedade de resoluções de tela, ajustando o layout de forma responsiva. |
+| PAD08 | O aplicativo deve exigir no máximo 100 MB de espaço de armazenamento no dispositivo para instalação e operação regular. |
+| PAD09 | O aplicativo deve funcionar em dispositivos com no mínimo 2 GB de RAM, garantindo um desempenho fluido. |
+| PAD10 | O aplicativo deve ser capaz de operar em redes 3G, 4G, 5G e Wi-Fi, com funcionalidades básicas disponíveis offline e sincronização de dados quando a conectividade for restaurada. |
+| PAD11 | O aplicativo deve suportar autenticação por impressão digital e reconhecimento facial, disponíveis em dispositivos que possuam esses recursos. |
+| PAD12 | O aplicativo deve ser capaz de utilizar o GPS do dispositivo para funções que requeiram geolocalização, como registro de ponto geolocalizado. |
+| PAD13 | O aplicativo deve utilizar a câmera do dispositivo para funcionalidades como captura de documentos e reconhecimento facial. |
+| PAD14 | O aplicativo deve aproveitar os módulos de segurança do hardware, como Secure Enclave em dispositivos Apple ou Trusted Execution Environment (TEE) em dispositivos Android, para proteger dados sensíveis. |
+| PAD15 | O aplicativo deve poder acessar sensores do dispositivo, como acelerômetro e giroscópio, para funções que possam requerer essas capacidades. |
+| PAD16 | O aplicativo deve ser compatível com dispositivos que possuem Near Field Communication (NFC) para funções como leitura de documentos compatíveis ou autenticação segura. |
+| PAD17 | O aplicativo deve ser otimizado para minimizar o consumo de energia, prolongando a vida útil da bateria dos dispositivos móveis. |
+| PAD18 | O aplicativo deve ser compatível com os sistemas de backup nativos dos dispositivos (iCloud para iOS, Google Drive para Android) para garantir a recuperação de dados em caso de perda ou troca de aparelho. |
+| PAD19 | O aplicativo deve ser capaz de rodar em dispositivos com processadores de 64 bits para garantir desempenho adequado e suporte a futuras atualizações. |
+| PAD20 | O aplicativo deve garantir consistência de funcionalidades e design em todas as plataformas suportadas (iOS, Android), proporcionando uma experiência de usuário unificada e eficiente. |
 
 ## Requisitos Físicos
 
 O sistema deve ser compatível com diversos dispositivos, garantindo acessibilidade e experiência consistente para todos os usuários:
 
-**Tabela 6:** Padrões e normas estabelecidos.
-| ID    | Descrição                                                                                       |
-| ----- | ------------------------------------------------------------------------------------------------|
-| FIS01 | O sistema deve ser compatível com computadores desktop e laptops modernos.                      |
-| FIS02 | Deve ser otimizado para tablets e smartphones com navegação responsiva.                         |
-| FIS03 | Deve operar em sistemas Android 5.0 ou superior e iOS 11.0 ou posterior.                        |
-| FIS04 | Recursos adicionais devem estar especificados nos manuais dos sistemas operacionais.           |
+### Tabela 6: Padrões e Normas Estabelecidos
+
+| ID    | Descrição                                                        |
+|-------|------------------------------------------------------------------|
+| FIS01 | O sistema deve ser compatível com computadores desktop e laptops modernos. |
+| FIS02 | Deve ser otimizado para tablets e smartphones com navegação responsiva. |
+| FIS03 | Deve operar em sistemas Android 5.0 ou superior e iOS 11.0 ou posterior. |
+| FIS04 | Recursos adicionais devem estar especificados nos manuais dos sistemas operacionais. |
+
 
 **Fonte:** [Bruno Araújo](https://github.com/brunocva)
 
