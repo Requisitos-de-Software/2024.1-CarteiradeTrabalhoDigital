@@ -32,7 +32,7 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 ## Diagrama de Casos de Uso
 
-As figuras abaixo demonstram os diagramas de casos de uso do aplicativo da Carteira de Trabalho Digital. Devido ao amplo escopo, ele foi dividido em dois digramas para seguir o princípio da fácil interpretação de um modelo.
+As figuras abaixo demonstram os diagramas de casos de uso do aplicativo da Carteira de Trabalho Digital. Devido ao amplo escopo, ele foi dividido em dois digramas para seguir o princípio da fácil interpretação de um modelo. Para mais detalhes sobre a construção do diagrama de casos de uso acesse o documento neste [link](/ignore/IgnoreDiagramaCasoUso.md)
 
 <center>
 Imagem 1: Diagrama de casos de uso 
@@ -130,7 +130,7 @@ A tabela 5 mostra quando o usuário(trabalhador) deseja acessar detalhes dos con
 Tabela 5: Caso de uso: Acessar Detalhes dos Contratos de Trabalho
 
 
-| UC03                | Nome do caso                                               |
+| UC03                | Trabalhador acessa detalhes dos contratos de trabalho                                          |
 | ------------------- | ---------------------------------------------------------- |
 | Descrição           | Permitir ao usuário(trabalhador) visualizar os detalhes dos seus vínculos trabalhistas, incluindo anotações, observações e gráficos sobre sua vida laboral. |
 | Atores              | Usuário(trabalhador) (Usuário Primário); <br> Sistema de Banco de Dados (Usuário Secundário). |
@@ -327,7 +327,7 @@ A tabela 12 mostra quando o usuário(trabalhador) deseja ferificar os dados de I
  Tabela 12: Caso de uso: Verificar dados relacionados ao FGTS e INSS 
 
 
-| UC10               | Nome do caso                                                |
+| UC10               |   Verificar dados relacionados ao FGTS e INSS                                              |
 | ------------------- | ----------------------------------------------------------- |
 | Descrição           | Permitir ao usuário (trabalhador) consultar e visualizar os dados do FGTS e INSS, exibidos em forma de gráficos ou tabelas. Além disso, informar inconsistências nas informações, como falta de pagamento, se ela estiver ocorrendo . |
 | Atores              | Usuário (trabalhador) (Usuário Primário); <br> Aplicativo do governo também relacionado ao meio trabalhista(Usuário Secundário). |
@@ -375,5 +375,5 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 | 2.5    | Adição do caso de uso: Trabalhador exporta relatório de vínculos empregatícios| Luana Medeiros | Iago Passaglia | 19/05/2024 | 
 | 2.6    | Adição do caso de uso: Verificar direitos trabalhistas do contrato atual | Breno Alexandre | Iago Passaglia | 19/05/2024
 | 2.7    | Adição diagramas de caso de uso |Caio Mesquita | Iago Passaglia | 19/05/2024 |
-| 2.9    | Adição do diagrama atualizado | Larissa Stéfane | - | 20/05/2024 |
-| 2.8    | Adição diagramas de caso de uso sobre a consulta de FGTS e correções em outras tabelas | Larissa Stéfane | - | 20/05/2024 |
+| 2.9    | Adição do diagrama atualizado | Larissa Stéfane | Caio Mesquita | 20/05/2024 |
+| 2.8    | Adição diagramas de caso de uso sobre a consulta de FGTS e correções em outras tabelas | Larissa Stéfane | Caio Mesquita | 20/05/2024 |
