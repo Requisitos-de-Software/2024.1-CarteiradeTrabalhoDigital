@@ -221,7 +221,7 @@ Abaixo, a figura 6 mostra o diagrama em sua quarta versão.
   
 </div>
 
-  caso deseje visualizar em maior dimensão, clique em: [Versão 4 - Diagrama caso de Uso: Trabalhador](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/novasimagensEntrega3/DiagramaCasoUso_Trabalhador_Ver4.drawio_page-0001.jpg)
+  Caso deseje visualizar em maior dimensão, clique em: [Versão 4 - Diagrama caso de Uso: Trabalhador](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/novasimagensEntrega3/DiagramaCasoUso_Trabalhador_Ver4.drawio_page-0001.jpg)
 
 </details>
 
@@ -231,17 +231,18 @@ O processo de desenvolvimento do diagrama de caso de uso do aplicativo da Cartei
 
 ## Bibliografia
 
-1. Lucid Software. **Tutorial de Caso de Uso UML**. Disponível em <https://www.youtube.com/watch?v=ab6eDdwS3rA>.  Acesso em 18 e 19 de maio de 2024.
-2. Milene e Maurício Serrano. **Aula de requisitos 13 - UML: Diagrama de Casos de Uso**. Disponível em <https://aprender3.unb.br/pluginfile.php/2845007/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf>. Acesso em 18 e 19 de maio de 2024.
+<b>LUCID SOFTWARE</b>. **Tutorial de Caso de Uso UML**. Disponível em <https://www.youtube.com/watch?v=ab6eDdwS3rA>.  Acesso em 18 e 19 de maio de 2024.
+
+<b>MILENE E MAURÍCIO SERRANO</b>. **Aula de requisitos 13 - UML: Diagrama de Casos de Uso**. Disponível em <https://aprender3.unb.br/pluginfile.php/2845007/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf>. Acesso em 18 e 19 de maio de 2024.
 
 
 ## Histórico de Versão
 
-| Versão | Alteração                         | Responsável     | Revisor               | Data       |
-| ------ | --------------------------------- | --------------- | --------------------- | ---------- |
-| 1.0    | Criação do documento            | Larissa Stéfane  | Iago Passaglia | 19/05/2024 |
-| 1.1    | Adição da reunião com o usuário | Larissa Stéfane  | Iago Passaglia | 19/05/2024 |
-| 1.2    | Adição da quarta versão         | Larissa Stéfane  |   -  | 20/05/2024 |
+| Versão | Alteração                       | Responsável     | Revisor         | Data       |
+| ------ | ------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação do documento            | Larissa Stéfane | Iago Passaglia  | 19/05/2024 |
+| 1.1    | Adição da reunião com o usuário | Larissa Stéfane | Iago Passaglia  | 19/05/2024 |
+| 1.2    | Adição da quarta versão         | Larissa Stéfane | Breno Alexandre | 20/05/2024 |
 
 
 
