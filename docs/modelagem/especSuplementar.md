@@ -11,7 +11,6 @@
 * [Restrições de Design](#Restrições-de-Design)
 * [Requisitos de Implementação](#Requisitos-de-Implementação)
 * [Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line](#Requisitos-de-Sistema-de-Ajuda-e-de-Documentação-de-Usuário-On-line)
-* [Requisitos de Licenciamento](#Requisitos-de-Licenciamento)
 * [Observações Legais - Normas a serem seguidas](#Observações-Legais---Normas-a-serem-seguidas)
 * [Padrões Aplicáveis](#Padrões-Aplicáveis)
 * [Requisitos Físicos](#Requisitos-Físicos)
@@ -218,17 +217,16 @@ SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Dispon�
 https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/modelagem/especificacao-suplementar.md
 
 ## Histórico de Versão
-
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 |   Adição da Suportabilidade           | Iago Passaglia |  Bruno Araújo   |  19/05/2024  |
-| 1.1 |   Adição da Introdução e Metodologia  | Luana Medeiros |  Iago Passaglia   |  19/05/2024  |
-| 1.2 |   Adição dos requisitos suplementares  | Pedro Izarias |   Iago Passaglia |  19/05/2024  |
-| 1.3 | Adição de observações legais ou normas | Larissa Stéfane | Bruno Araújo  |  19/05/2024  |
-| 1.4 | Adição de Padrões Apláveis e Requisitos Físicos | Bruno Araújo | Iago Passaglia  |  19/05/2024  |
-| 1.5 | Correção de tabelas | Iago Passaglia | Breno Alexandre  |  19/05/2024  |
-| 1.6 | Adição dos tópicos "Confiabilidade" e "Desempenho" | Breno Alexandre | -  |  19/05/2024  |
-| 1.7 | Correção das tabelas | Pedro Izarias | -  |  19/05/2024  |
-| 1.8 | Adição de Funcionalidade e usabilidade| Caio Mesquita | -  |  19/05/2024  |
-| 1.8.1 | Correção em requisitos físicos| Caio Mesquita | -  |  19/05/2024  |
+| Versão | Alteração                                          | Responsável     | Revisor         | Data         |
+| ------ | -------------------------------------------------- | --------------- | --------------- | ------------ |
+| 1.0    | Adição da Suportabilidade                          | Iago Passaglia  | Bruno Araújo    |  19/05/2024  |
+| 1.1    | Adição da Introdução e Metodologia                 | Luana Medeiros  | Iago Passaglia  |  19/05/2024  |
+| 1.2    | Adição dos requisitos suplementares                | Pedro Izarias   | Iago Passaglia  |  19/05/2024  |
+| 1.3    | Adição de observações legais ou normas             | Larissa Stéfane | Bruno Araújo    |  19/05/2024  |
+| 1.4    | Adição de Padrões Apláveis e Requisitos Físicos    | Bruno Araújo    | Iago Passaglia  |  19/05/2024  |
+| 1.5    | Correção de tabelas                                | Iago Passaglia  | Breno Alexandre |  19/05/2024  |
+| 1.6    | Adição dos tópicos "Confiabilidade" e "Desempenho" | Breno Alexandre | -               |  19/05/2024  |
+| 1.7    | Correção das tabelas                               | Pedro Izarias   | Breno Alexandre |  19/05/2024  |
+| 1.8    | Adição de Funcionalidade e usabilidade             | Caio Mesquita   | Breno Alexandre |  19/05/2024  |
+| 1.9    | Correção em requisitos físicos                     | Caio Mesquita   | Breno Alexandre |  19/05/2024  |
 
