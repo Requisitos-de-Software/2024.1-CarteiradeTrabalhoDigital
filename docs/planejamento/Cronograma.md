@@ -270,6 +270,6 @@ Na Tabela 14, está explicitado o cronograma executado das atividades da parte d
 | 1.5    | Complementação da tabela de cronograma executado para a 2 entrega | Larissa Stéfane  | Luana Medeiros | 15/04/2024 |
 | 1.6    | Correção do cronograma da entrega 2 | Luana Medeiros  | Breno Alexandre | 15/04/2024 |
 | 1.7    | Atualização cronograma completo | Luana Medeiros  | Breno Alexandre | 16/04/2024 |
-|1.8     | Cronograma da entrega 3 | Caio Mesquita |   | 18/05/2024 |
-|2.0     | Mudança do cronograma pós greve | Caio Mesquita |   | 20/05/2024 |
+|1.8     | Cronograma da entrega 3 | Caio Mesquita | Breno Alexandre  | 18/05/2024 |
+|2.0     | Mudança do cronograma pós greve | Caio Mesquita | Breno Alexandre  | 20/05/2024 |
 
