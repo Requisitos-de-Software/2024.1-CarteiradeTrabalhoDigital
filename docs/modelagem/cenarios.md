@@ -297,21 +297,21 @@ A tabela 10 mostra o cenário para quando um trabalhador deseja verificar dados 
 
 ## Histórico de Versão
 
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 |  Criação do cenário de trabalhador Visualizar Dados de Contratos de Trabalho   |  Larissa Stéfane   | Bruno Araújo   |   18/05/2024    |
-| 1.1 |  Criação do cenário de trabalhador Atualizar dos Contratos de Trabalho   |  Larissa Stéfane   | Bruno Araújo    |   18/05/2024     |
-| 1.2 |  Criação do cenário de trabalhador em canal de denúncias   |  Larissa Stéfane   | Bruno Araújo    |    18/05/2024    |
-| 1.3 |  Criação do cenário de trabalhador escolhe Modo de Status de Procura de Emprego   |  Larissa Stéfane   |  Bruno Araújo  |   18/05/2024     |
-| 1.4 |  Criação do cenário de empresa escolhe Modo de Status de oferta de Emprego   |   Larissa Stéfane  | Bruno Araújo    |  18/05/2024      |
-| 1.5 |  Criação do cenário de empresa adiciona novos contratos de trabalho  |   Larissa Stéfane  | Bruno Araújo    |    18/05/2024    |
-| 1.6 |  Criação do cenário de empresa atualiza contratos de trabalho  |  Larissa Stéfane   |  Bruno Araújo   |    18/05/2024    |
-| 1.7 |  Criação do cenário de empresa encerra contratos de trabalho  |  Larissa Stéfane   | Bruno Araújo    |   18/05/2024     |
-| 1.8 |  Adição de introdução, metodologia e desenvolvimento do modelo de tabela para cenários |  Iago Passaglia   |   Bruno Araújo   |   19/05/2024     |
-| 1.9 |  Criação do cenário Solicitar Benefício   |  Bruno Araújo   | Caio Mesquita   |   19/05/2024    |
-| 2.0 | Retirada de 5 Cenários | Larissa Stéfane | Pedro Izarias | 19/05/2024 |
-| 2.1 | Adição do cenário de consulta de seguro desemprego  | Pedro Izarias | Iago Passaglia | 19/05/2024 |
-| 2.2 |  Criação do cenário de trabalhador Exportar Relatório de Vínculos Empregatícios | Luana Medeiros | Iago Passaglia | 19/05/2024 |
-| 2.3 |  Criação do cenário de trabalhador Atualizar informações pessoais | Caio Mesquita | Pedro Izarias | 19/05/2024 |
-| 2.4 |  Criação do cenário de trabalhador Verificar direitos trabalhistas | Breno Alexandre | Pedro Izarias | 19/05/2024 |
-| 2.5 |  Criação do cenário de trabalhador visualiza dados trabalhistas (FGTS e INSS)   |  Larissa Stéfane   | -   |    20/05/2024    |
+| Versão | Alteração                                                                             | Responsável     | Revisor         | Data       |
+| ------ | ------------------------------------------------------------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação do cenário de trabalhador Visualizar Dados de Contratos de Trabalho           | Larissa Stéfane | Bruno Araújo    | 18/05/2024 |
+| 1.1    | Criação do cenário de trabalhador Atualizar dos Contratos de Trabalho                 | Larissa Stéfane | Bruno Araújo    | 18/05/2024 |
+| 1.2    | Criação do cenário de trabalhador em canal de denúncias                               | Larissa Stéfane | Bruno Araújo    | 18/05/2024 |
+| 1.3    | Criação do cenário de trabalhador escolhe Modo de Status de Procura de Emprego        | Larissa Stéfane | Bruno Araújo    | 18/05/2024 |
+| 1.4    | Criação do cenário de empresa escolhe Modo de Status de oferta de Emprego             | Larissa Stéfane | Bruno Araújo    | 18/05/2024 |
+| 1.5    | Criação do cenário de empresa adiciona novos contratos de trabalho                    | Larissa Stéfane | Bruno Araújo    | 18/05/2024 |
+| 1.6    | Criação do cenário de empresa atualiza contratos de trabalho                          | Larissa Stéfane | Bruno Araújo    | 18/05/2024 |
+| 1.7    | Criação do cenário de empresa encerra contratos de trabalho                           | Larissa Stéfane | Bruno Araújo    | 18/05/2024 |
+| 1.8    | Adição de introdução, metodologia e desenvolvimento do modelo de tabela para cenários | Iago Passaglia  | Bruno Araújo    | 19/05/2024 |
+| 1.9    | Criação do cenário Solicitar Benefício                                                | Bruno Araújo    | Caio Mesquita   | 19/05/2024 |
+| 2.0    | Retirada de 5 Cenários                                                                | Larissa Stéfane | Pedro Izarias   | 19/05/2024 |
+| 2.1    | Adição do cenário de consulta de seguro desemprego                                    | Pedro Izarias   | Iago Passaglia  | 19/05/2024 |
+| 2.2    | Criação do cenário de trabalhador Exportar Relatório de Vínculos Empregatícios        | Luana Medeiros  | Iago Passaglia  | 19/05/2024 |
+| 2.3    | Criação do cenário de trabalhador Atualizar informações pessoais                      | Caio Mesquita   | Pedro Izarias   | 19/05/2024 |
+| 2.4    | Criação do cenário de trabalhador Verificar direitos trabalhistas                     | Breno Alexandre | Pedro Izarias   | 19/05/2024 |
+| 2.5    | Criação do cenário de trabalhador visualiza dados trabalhistas (FGTS e INSS)          | Larissa Stéfane | Breno Alexandre | 20/05/2024 |
