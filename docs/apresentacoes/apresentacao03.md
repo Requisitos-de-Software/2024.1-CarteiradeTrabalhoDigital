@@ -9,13 +9,12 @@ Neste documento está contido o vídeo de apresentação da terceira entrega da 
 <center>
 
 **Apresentação 02**
+<iframe width="697" height="392" src="https://www.youtube.com/embed/eaOcepLLWQ0" title="Requisitos de Software/Grupo 2/Carteira de Trabalho Digital - Apresentação 3/Modelagem de Requisitos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="697" height="392" src="" title="Requisitos de software Apresentação 03 - G02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-**Fonte:** [Caio Mesquita](https://github.com/Caiomesvie).
+**Fonte:** [Breno Alexandre](https://github.com/brenoalexandre0).
 </center>
 
-Caso vídeo não esteja disponível, acessar por meio deste [link]().
+Caso vídeo não esteja disponível, acessar por meio deste [link](https://www.youtube.com/watch?v=eaOcepLLWQ0).
 
 
 ## Avaliação da entrega
@@ -35,15 +34,24 @@ A git page possui?  | Sim/Não/Incompleto
 7 - Um texto fazendo uma introdução dos artefatos? | SIM
 8 - A(s) ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc) | SIM
 9 - A gravação da reunião do grupo. | SIM
-10 - A Especificação do Perfil do usuário possui informação de: idade (criança, jovem, adulto, terceira idade etc.); experiência (leigo/ novato, especialista);  atitudes (tecnófilos, tecnófobos); tarefas primárias (compra, venda) | SIM
-11 - Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | SIM
-12 - No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor)? Técnica(s): Análise de Documentos / Observação / Entrevista /Análise de protocolo/ Prototipação / Brainstorming /Entrevista em grupo / Storytelling / Análise de discurso /Introspecção / Etnografia / JAD / Questionários / Reuniões / Grupo Focal / Workshops/ Outra técnica? | SIM
-13 - A participação do cliente e/ou persona na elicitação de requisitos? | SIM
-14 - A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade)? | SIM
-15 - Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto? | SIM
-16 - No mínimo duas técnicas de priorização (quanto mais melhor)? MoSCoW* / 100$* / First thing First / ROI / QFD / TQM / Outra técnica?  'A técnica de MoSCoW / 100$ só devem ser utilizados no projeto após a utilização de outras duas técnicas de priorização no projeto.' | SIM
-17 - A participação do cliente e/ou persona no processo de priorização? | SIM
-18 - A gravação e o(s) registro(s) da atividade de priorização dos requisitos? | SIM
+10 - As especificações dos cenários para o projeto | SIM 
+11 - Os cenários possuem os elementos básicos de um cenário (Título, Metas/Objetivo, Contexto, Atores, Recursos, Exceção e Episódios) | SIM
+12 - As especificações dos Léxicos? | SIM
+13 - A definição do usuário nos Léxicos? | SIM
+14 - Os léxicos possuem ligações entre si | SIM
+15 - Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)? | SIM
+16 - A especificação dos caso de uso? | SIM
+17 - Os atores principais e atores secundários no diagrama de caso de uso? | SIM
+18 - O ator principal está do lado esquerdo do sistema no diagrama de caso de uso? | SIM
+19 - Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso? | SIM
+20 - A especificação do diagrama de caso de uso (com Nome, Descrição, Atores, Pré-Condição,PósCondição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.)? | SIM
+21 – No diagrama de Caso de Uso há ao menos um caso de uso com pontos de extensão? | SIM
+21 - A participação do cliente e/ou persona na validação do Diagrama de Casa de Uso? | SIM
+22 - A especificação suplementar? | SIM
+23- O artefato segue o modelo FURPS+? | SIM
+24 - O documento especifica o tempo de resposta, no Desempenho? | SIM
+25 - O documento especifica qual plataforma o aplicativo pode ser executado? | SIM
+26 - Todos os requisitos podem ser testados (RF e RNF)? | SIM
 
 <center>
 
@@ -54,5 +62,5 @@ A git page possui?  | Sim/Não/Incompleto
 
 | Versão | Alteração                                                                 | Responsável     | Revisor      | Data       |
 | ------ | ------------------------------------------------------------------------- | --------------- | ------------ | ---------- |
-| 1.0    | Criação do documento                                                      | Caio Mesquita   |  | 19/05/2024 |
+| 1.0    | Criação do documento                                                      | Caio Mesquita   | Breno Alexandre | 19/05/2024 |
 
