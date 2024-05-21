@@ -116,15 +116,15 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira 
 
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
-| Correções e pendências após a entrega 2   | 18/04/2024 | 19/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 19/04/2024 - 20/04/2024 |
-| Modelagem de Requisitos: Cenários         | 20/04/2024 | 30/04/2024 | A definir          | A definir        | 30/04/2024 - 04/05/2024 | 
-| Modelagem de Requisitos: Léxico           | 20/04/2024 | 30/04/2024 | A definir          | A definir        | 30/04/2024 - 04/05/2024 | 
-| Modelagem de Requisitos: Use Case         | 20/04/2024 | 30/04/2024 | A definir          | A definir        | 30/04/2024 - 04/05/2024 | 
-| Modelagem de Requisitos: Especificação Suplementar | 20/04/2024 | 30/04/2024 | A definir          | A definir        | 30/04/2024 - 04/05/2024 | 
-| Gravar apresentação                       | 04/05/2024 | 04/05/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 04/05/2024 - 05/05/2024 |
-| Correção pós apresentação                 | 05/05/2024 | 05/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 05/05/2024 - 06/05/2024 |
+| Correções e pendências após a entrega 2   | 18/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 19/04/2024 - 20/04/2024 |
+| Modelagem de Requisitos: Cenários         | 20/04/2024 | 19/05/2024 |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro  |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro       | 30/04/2024 - 04/05/2024 | 
+| Modelagem de Requisitos: Léxico           | 20/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro        | 30/04/2024 - 04/05/2024 | 
+| Modelagem de Requisitos: Use Case         | 20/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro    | 30/04/2024 - 04/05/2024 | 
+| Modelagem de Requisitos: Especificação Suplementar | 20/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro     | 30/04/2024 - 04/05/2024 | 
+| Gravar apresentação                       | 19/05/2024 | 19/05/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 04/05/2024 - 05/05/2024 |
+| Correção pós apresentação                 | 20/05/2024 | 26/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 05/05/2024 - 06/05/2024 |
 
-<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros), [Caio Mesquita](https://github.com/Caiomesvie).</p></font>
 
 ### Executado
 
@@ -134,14 +134,14 @@ Na Tabela 6, está explicitado o cronograma executado das atividades da terceira
 
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
-| Correções e pendências após a entrega 2   | 18/04/2024 | 19/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 20/05/2024-26/05/2024 |
+| Correções e pendências após a entrega 2   | 18/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 20/05/2024-26/05/2024 |
 |Criação da estrutura da página|10/05/2024|18/05/2024|Caio|-|-|
 | Modelagem de Requisitos: Cenários         | 20/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 20/05/2024-26/05/2024 | 
 | Modelagem de Requisitos: Léxico           | 20/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 20/05/2024-26/05/2024 | 
 | Modelagem de Requisitos: Use Case         | 20/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro   | 20/05/2024-26/05/2024 | 
 | Modelagem de Requisitos: Especificação Suplementar | 20/04/2024 | 19/05/2024 |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro     | 20/05/2024-26/05/2024 | 
 | Gravar apresentação                       | 19/05/2024 | 19/05/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 19/05/2024 - 19/05/2024 |
-| Correção pós apresentação                 | 05/05/2024 | 05/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 20/05/2024-26/05/2024 |
+| Correção pós apresentação                 | 20/05/2024 | 26/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 20/05/2024-26/05/2024 |
 
 <center> 
 
@@ -159,14 +159,14 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta en
 
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
-| Correções e pendências após a entrega 3   | 07/05/2024 | 08/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 08/04/2024 - 09/04/2024 |
-| Modelagem de requisitos: Histórias de usuários | 08/05/2024 | 10/05/2024 | A definir | A definir | 10/05/2024 - 11/05/2024  |
-| Modelagem de requisitos: Backlog          | 08/05/2024 | 10/05/2024 | A definir | A definir | 10/05/2024 - 11/05/2024  |
-| NFR: Framework                            | 08/05/2024 | 10/05/2024 | A definir| A definir | 10/05/2024 - 11/05/2024  |
-| Gravar apresentação                       | 11/05/2024 | 11/05/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 11/05/2024 - 12/05/2024 |
-| Correção pós apresentação                 | 13/05/2024 | 14/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 14/05/2024 - 15/05/2024 |
+| Correções e pendências após a entrega 3   | 20/05/2024 | 27/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 28/05/2024 | 10/06/2024 |
+| Modelagem de requisitos: Histórias de usuários | 20/05/2024 | 27/05/2024 | A definir | A definir | 28/05/2024 | 10/06/2024   |
+| Modelagem de requisitos: Backlog          | 20/05/2024 | 27/05/2024 | A definir | A definir | 28/05/2024 | 10/06/2024   |
+| NFR: Framework                            | 20/05/2024 | 27/05/2024 | A definir| A definir |28/05/2024 | 10/06/2024   |
+| Gravar apresentação                       |20/05/2024 | 27/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 28/05/2024 | 10/06/2024  |
+| Correção pós apresentação                 | 28/05/2024 | 10/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 28/05/2024 | 10/06/2024  |
 
-<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros), [Caio Mesquita](https://github.com/Caiomesvie).</p></font>
 
 ### Executado
 
@@ -177,8 +177,7 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da quarta e
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 
-## Entrega 5.1 - Análise de Requisitos
-
+## Entrega 5.1 - Verificação e validação
 ### Planejado
 
 Na Tabela 9, tem-se o cronograma planejado para todas as atividades da parte um da quinta entrega.
@@ -188,12 +187,12 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da parte um 
 
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
-| Correções e pendências após a entrega 4   | 14/05/2024 | 15/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 15/05/2024 - 16/05/2024 |
-| Verificação e validação requisitos: Grupo 03 | 15/05/2024 | 20/05/2024 |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 19/05/2024 - 20/05/2024  |
-| Gravar apresentação                       | 20/05/2024 | 20/05/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 21/05/2024 - 21/05/2024 |
-| Correção pós apresentação                 | 22/05/2024 | 23/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 23/05/2024 - 24/05/2024 |
+| Correções e pendências após a entrega 4   | 23/05/2024 | 09/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 11/06/2024 | 17/06/2024  |
+| Verificação e validação requisitos: Grupo 03 | 23/05/2024 | 09/06/2024|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 11/06/2024 | 17/06/2024  |
+| Gravar apresentação                       | 09/06/2024 | 09/06/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro |11/06/2024 | 17/06/2024  |
+| Correção pós apresentação                 | 11/06/2024 | 17/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 11/06/2024 | 17/06/2024  |
 
-<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros), [Caio Mesquita](https://github.com/Caiomesvie).</p></font>
 
 ### Executado
 
@@ -204,7 +203,7 @@ Na Tabela 10, está explicitado o cronograma executado das atividades da parte u
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 
-## Entrega 5.2 - Análise de Requisitos
+## Entrega 5.2 - Verificação e validação
 
 ### Planejado
 
@@ -214,12 +213,12 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da parte do
 
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
-| Correções e pendências após a entrega 6  | 03/06/2024 | 04/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 04/06/2024 - 05/06/2024 |
-| Verificação e validação requisitos: Grupo 02 | 24/05/2024 | 13/06/2024 |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 05/06/2024 - 14/06/2024  |
-| Gravar apresentação                       | 14/06/2024 | 14/06/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 15/06/2024 - 15/06/2024 |
-| Correção pós apresentação                 | 17/06/2024 | 18/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 18/06/2024 - 19/06/2024 |
+| Correções e pendências após a entrega 6  | 18/06/2024 | 24/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|24/06/2024 | 01/07/2024 |
+| Verificação e validação requisitos: Grupo 02 |18/06/2024 | 24/06/2024 |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 24/06/2024 | 01/07/2024  |
+| Gravar apresentação                       |24/06/2024 | 24/06/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 24/06/2024 | 01/07/2024 |
+| Correção pós apresentação                 | 24/06/2024 | 01/07/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 24/06/2024 | 01/07/2024 |
 
-<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros), [Caio Mesquita](https://github.com/Caiomesvie).</p></font>
 
 
 ### Executado
@@ -242,13 +241,13 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sexta en
 
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
-| Correções e pendências após a entrega 5.1 | 22/05/2024 | 23/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 23/05/2024 - 24/05/2024 |
-| Pós-rastreabilidade: Backward-form        | 24/05/2024 | 01/06/2024 | A definir          | A definir        | 01/06/2024 - 01/06/2024 |
-| Pós-rastreabilidade: Forward-form         | 24/05/2024 | 01/06/2024 | A definir          | A definir        | 01/06/2024 - 01/06/2024 |
-| Gravar apresentação                       | 01/06/2024 | 01/06/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 02/06/2024 - 02/06/2024 |
-| Correção pós apresentação                 | 17/06/2024 | 18/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 03/06/2024 - 04/06/2024 |
+| Correções e pendências após a entrega 5.1 | 11/06/2024 | 17/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 18/06/2024 | 24/06/2024|
+| Pós-rastreabilidade: Backward-form        | 11/06/2024 | 17/06/2024 | A definir          | A definir        |18/06/2024 | 24/06/2024 |
+| Pós-rastreabilidade: Forward-form         | 11/06/2024 | 17/06/2024 | A definir          | A definir        | 18/06/2024 | 24/06/2024 |
+| Gravar apresentação                       | 17/06/2024 | 17/06/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 18/06/2024 | 24/06/2024 |
+| Correção pós apresentação                 | 18/06/2024 | 24/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 18/06/2024 | 24/06/2024 |
 
-<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros), [Caio Mesquita](https://github.com/Caiomesvie).</p></font>
 
 ### Executado
 
@@ -271,4 +270,6 @@ Na Tabela 14, está explicitado o cronograma executado das atividades da parte d
 | 1.5    | Complementação da tabela de cronograma executado para a 2 entrega | Larissa Stéfane  | Luana Medeiros | 15/04/2024 |
 | 1.6    | Correção do cronograma da entrega 2 | Luana Medeiros  | Breno Alexandre | 15/04/2024 |
 | 1.7    | Atualização cronograma completo | Luana Medeiros  | Breno Alexandre | 16/04/2024 |
-|1.8|Atualização pós greve e cronograma da entrega 3 | Caio Mesquita |   | 18/05/2024 |
+|1.8     | Cronograma da entrega 3 | Caio Mesquita |   | 18/05/2024 |
+|2.0     | Mudança do cronograma pós greve | Caio Mesquita |   | 20/05/2024 |
+
