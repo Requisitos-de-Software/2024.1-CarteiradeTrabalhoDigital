@@ -355,25 +355,24 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 <b>SERRANO</b>, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 14/05/2023.
 
 ## Histórico de Versão
-| Versão | Alteração                | Responsável     | Revisor         | Data       |
-| ------ | ------------------------ | --------------- | --------------- | ---------- |
-| 1.0    | Criação da documentação  | Bruno Araújo    | Iago Passaglia  | 19/05/2024 |
-| 1.1    | Caso de uso UC02         | Iago Passaglia  | Bruno Araújo    | 19/05/2024 |
-| 1.2    | Correção da bibliografia | Breno Alexandre | Larissa Stéfane               | 19/05/2024 |
-| 1.3    | Adição do caso de uso: Acessar Detalhes dos Contratos de Trabalho | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
-| 1.4    | Adição do caso de uso: Atualização dos Contratos de Trabalho | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
-| 1.5    | Adição do caso de uso: Denúncias trabalhistas. | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
-| 1.6    | Adição do caso de uso: Escolher Modo de Status de Procura de Emprego | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
-| 1.7    | Adição do caso de uso: Empresa anucia vagas/ofertas de emprego | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
-| 1.8    | Adição do caso de uso: Empresa adiciona novos contratos de emprego | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
-| 1.9    | Adição do caso de uso: Empresa atualiza contratos de emprego | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
-| 2.0    | Adição do caso de uso: Empresa encerra contratos de emprego | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
-| 2.1    | Compactar tabelas do caso 01 e 02 | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
-| 2.2    | Atualiação do sumário | Larissa Stéfane | Iago Passaglia | 19/05/2024 |
-| 2.3    | Adição do caso de uso:Consultar Seguro Desemprego | Pedro Izarias | Iago Passaglia | 19/05/2024 |
-| 2.4    | Retirada de alguns caso de uso | Larissa Stéfane | Iago Passaglia | 19/05/2024 | 
-| 2.5    | Adição do caso de uso: Trabalhador exporta relatório de vínculos empregatícios| Luana Medeiros | Iago Passaglia | 19/05/2024 | 
-| 2.6    | Adição do caso de uso: Verificar direitos trabalhistas do contrato atual | Breno Alexandre | Iago Passaglia | 19/05/2024
-| 2.7    | Adição diagramas de caso de uso |Caio Mesquita | Iago Passaglia | 19/05/2024 |
-| 2.9    | Adição do diagrama atualizado | Larissa Stéfane | Caio Mesquita | 20/05/2024 |
-| 2.8    | Adição diagramas de caso de uso sobre a consulta de FGTS e correções em outras tabelas | Larissa Stéfane | Caio Mesquita | 20/05/2024 |
+| Versão | Alteração                                                                                                             | Responsável     | Revisor         | Data       |
+| ------ | --------------------------------------------------------------------------------------------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação da documentação                                                                                               | Bruno Araújo    | Iago Passaglia  | 19/05/2024 |
+| 1.1    | Caso de uso UC02                                                                                                      | Iago Passaglia  | Bruno Araújo    | 19/05/2024 |
+| 1.2    | Correção da bibliografia                                                                                              | Breno Alexandre | Larissa Stéfane | 19/05/2024 |
+| 1.3    | Adição do caso de uso: Acessar Detalhes dos Contratos de Trabalho                                                     | Larissa Stéfane | Iago Passaglia  | 19/05/2024 |
+| 1.4    | Adição do caso de uso: Atualização dos Contratos de Trabalho                                                          | Larissa Stéfane | Iago Passaglia  | 19/05/2024 |
+| 1.5    | Adição do caso de uso: Denúncias trabalhistas                                                                         | Larissa Stéfane | Iago Passaglia  | 19/05/2024 |
+| 1.6    | Adição do caso de uso: Escolher Modo de Status de Procura de Emprego                                                  | Larissa Stéfane | Iago Passaglia  | 19/05/2024 |
+| 1.7    | Adição do caso de uso: Empresa anucia vagas/ofertas de emprego                                                        | Larissa Stéfane | Iago Passaglia  | 19/05/2024 |
+| 1.8    | Adição do caso de uso: Empresa adiciona novos contratos de emprego                                                    | Larissa Stéfane | Iago Passaglia  | 19/05/2024 |
+| 1.9    | Adição do caso de uso: Empresa atualiza contratos de emprego                                                          | Larissa Stéfane | Iago Passaglia  | 19/05/2024 |
+| 2.0    | Adição do caso de uso: Empresa encerra contratos de emprego                                                           | Larissa Stéfane | Iago Passaglia  | 19/05/2024 |
+| 2.1    | Compactar tabelas do caso 01 e 02                                                                                     | Larissa Stéfane | Iago Passaglia  | 19/05/2024 |
+| 2.2    | Atualiação do sumário                                                                                                 | Larissa Stéfane | Iago Passaglia  | 19/05/2024 |
+| 2.3    | Adição do caso de uso: Consultar Seguro Desemprego                                                                    | Pedro Izarias   | Iago Passaglia  | 19/05/2024 |
+| 2.4    | Retirada de alguns caso de uso                                                                                        | Larissa Stéfane | Iago Passaglia  | 19/05/2024 | 
+| 2.5    | Adição do caso de uso: Trabalhador exporta relatório de vínculos empregatícios                                        | Luana Medeiros  | Iago Passaglia  | 19/05/2024 | 
+| 2.6    | Adição do caso de uso: Verificar direitos trabalhistas do contrato atual                                              | Breno Alexandre | Iago Passaglia  | 19/05/2024 |
+| 2.7    | Adição diagramas de caso de uso                                                                                       | Caio Mesquita   | Iago Passaglia  | 19/05/2024 |
+| 2.8    | Adição do diagrama atualizado, adição diagramas de caso de uso sobre a consulta de FGTS e correções em outras tabelas | Larissa Stéfane | Caio Mesquita   | 20/05/2024 |
