@@ -40,7 +40,7 @@ Neste tópico, é visto a importância dos requisitos de usabilidade, que serão
 |ID|Descrição|
 |-|-|
 |US01|O aplicativo deve ser responsivo, adaptando-se automaticamente a diferentes tamanhos de tela e dispositivos, como smartphones, tablets e desktops.|
-|US02|As ações realizadas pelo usuário, como cliques e navegações entre telas, devem ter um tempo de resposta de no máximo 4 segundos.|
+|US02|As ações realizadas pelo usuário, como cliques e navegações entre telas, devem ter um tempo de resposta de no máximo 2 segundos.|
 |US03|O aplicativo deve incluir um tutorial interativo inicial que guie os novos usuários pelas funcionalidades principais na primeira vez que acessarem.|
 |US04|O aplicativo deve incluir uma função de busca eficiente que permita aos usuários encontrar informações rapidamente, com sugestões de autocompletar.|
 |US05|O aplicativo deve ter uma seção de ajuda e suporte de fácil acesso, com FAQs, tutoriais em vídeo e opção de contato com o suporte técnico.|
@@ -80,7 +80,7 @@ Os requisitos identificados nesta categoria estão na tabela 2 a seguir.
 
 | ID    | Descrição                                                                                          |
 | ----- | -------------------------------------------------------------------------------------------------- |
-| DES01 | O sistema não deve ter um tempo de resposta superior a 1 segundo.                                  |
+| DES01 | O sistema não deve ter um tempo de resposta superior a 2 segundo.                                  |
 | DES02 | O sistema deve permitir mais de 500 mil de requisições por segundo.                                |
 | DES03 | O sistema deve possuir uma navegação fluida, sem engasgo e caminhos seguindo uma sequência lógica. |
 | DES04 | O sistema deve possuir uma interface leve, com no máximo 10 elementos na mesma tela.               |
@@ -225,7 +225,7 @@ https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/doc
 | 1.3    | Adição de observações legais ou normas             | Larissa Stéfane | Bruno Araújo    |  19/05/2024  |
 | 1.4    | Adição de Padrões Apláveis e Requisitos Físicos    | Bruno Araújo    | Iago Passaglia  |  19/05/2024  |
 | 1.5    | Correção de tabelas                                | Iago Passaglia  | Breno Alexandre |  19/05/2024  |
-| 1.6    | Adição dos tópicos "Confiabilidade" e "Desempenho" | Breno Alexandre | -               |  19/05/2024  |
+| 1.6    | Adição dos tópicos "Confiabilidade" e "Desempenho" | Breno Alexandre | Caio Mesquita   |  19/05/2024  |
 | 1.7    | Correção das tabelas                               | Pedro Izarias   | Breno Alexandre |  19/05/2024  |
 | 1.8    | Adição de Funcionalidade e usabilidade             | Caio Mesquita   | Breno Alexandre |  19/05/2024  |
 | 1.9    | Correção em requisitos físicos                     | Caio Mesquita   | Breno Alexandre |  19/05/2024  |
