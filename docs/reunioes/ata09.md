@@ -78,21 +78,25 @@ Neste tópico, são lincadas as tarefas a serem realizadas na semana e quem ser�
 
 Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
 
+<b>NFR Framework:</b>
+Sumário, Introdução e Metodologia citando o SIG,
+Paricipantes, Requisitos Não Funcionais Elicitados anteriormente,
+Cartões de Especificação, Legendas, NFR 0 - Template,
+<b>Definir NFRs: Usabilidade, Confiabilidade, Desempenho, Suporte, Restrições de Design, Ajuda e Documentação e Interfaces,</b>
+Requisitos Não Funcionais Elicitados após o Framework NFR
+
+<b>Backlog:</b>
+Sumário, Introdução e Metodologia,
+Requisitos Funcionais Elicitados anteriormente,
+
+
+
 <p align="center"> Tabela 3. Issues Sprint atual. </p>
-
-NFR Framework
-Backlog
-Histórias de Usuário
-
 
 | Identificador (Issue n) | Issue                                                       | Integrante(s) responsável(eis)                   | Data de entrega |
 | ----------------------- | ----------------------------------------------------------- | ------------------------------------------------ | --------------- |
 | Issue 1                 | Realizar a Ata da reunião                                   | Breno Alexandre                                  | 23/05/2024      |
 | Issue 2                 | Upar vídeo da reunião                                       | -                                                | 23/05/2024      |
-| Issue 3                 | <b>NFR Framework</b> Sumário, Introdução                    | -                                                | 24/05/2024      |
-
-
-
 | Issue N                 | Cronograma da etapa 4 e colapsar tabelas/entregas           | -                                                | NN/05/2024      |
 | Issue N                 | Gravação da apresentação da etapa 4                         | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | NN/05/2024      |
 | Issue N                 | Editar vídeo da apresentação da etapa 4                     | Breno Alexandre                                  | NN/05/2024      |
