@@ -80,10 +80,19 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 
 <p align="center"> Tabela 3. Issues Sprint atual. </p>
 
+NFR Framework
+Backlog
+Histórias de Usuário
+
+
 | Identificador (Issue n) | Issue                                                       | Integrante(s) responsável(eis)                   | Data de entrega |
 | ----------------------- | ----------------------------------------------------------- | ------------------------------------------------ | --------------- |
 | Issue 1                 | Realizar a Ata da reunião                                   | Breno Alexandre                                  | 23/05/2024      |
 | Issue 2                 | Upar vídeo da reunião                                       | -                                                | 23/05/2024      |
+| Issue 3                 | <b>NFR Framework</b> Sumário, Introdução                    | -                                                | 24/05/2024      |
+
+
+
 | Issue N                 | Cronograma da etapa 4 e colapsar tabelas/entregas           | -                                                | NN/05/2024      |
 | Issue N                 | Gravação da apresentação da etapa 4                         | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | NN/05/2024      |
 | Issue N                 | Editar vídeo da apresentação da etapa 4                     | Breno Alexandre                                  | NN/05/2024      |
