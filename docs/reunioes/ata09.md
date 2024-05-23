@@ -78,16 +78,17 @@ Neste tópico, são lincadas as tarefas a serem realizadas na semana e quem ser�
 
 Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
 
-<b>NFR Framework:</b>
-Sumário, Introdução e Metodologia citando o SIG,
-Paricipantes, Requisitos Não Funcionais Elicitados anteriormente,
-Cartões de Especificação, Legendas, NFR 0 - Template,
-<b>Definir NFRs: Usabilidade, Confiabilidade, Desempenho, Suporte, Restrições de Design, Ajuda e Documentação e Interfaces,</b>
-Requisitos Não Funcionais Elicitados após o Framework NFR
+### <b>NFR Framework:</b>
+- Sumário, Introdução e Metodologia citando o SIG,
+- Paricipantes, Requisitos Não Funcionais Elicitados anteriormente,
+- Cartões de Especificação, Legendas, NFR 0 - Template,
+- Definir NFRs HJ!!!!!!: Usabilidade, Confiabilidade, Desempenho, Suporte, Restrições de Design, Ajuda e Documentação e Interfaces,
+- Requisitos Não Funcionais Elicitados após o Framework NFR
 
-<b>Backlog:</b>
-Sumário, Introdução e Metodologia,
-Requisitos Funcionais Elicitados anteriormente,
+
+### <b>Backlog:</b>
+- Sumário, Introdução e Metodologia,
+- Requisitos Funcionais Elicitados anteriormente,
 
 
 
