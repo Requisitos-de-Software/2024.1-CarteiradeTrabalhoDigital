@@ -8,7 +8,7 @@
 <iframe width="700" height="800" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; 
   web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<strong> Fonte: </strong> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
 Caso não consiga ver o vídeo, acesse [aqui]().
 </center>
@@ -52,7 +52,7 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 
 <center>
   
-<strong> Fonte: </strong> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
 </center>
 
@@ -68,7 +68,7 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 
 <center>
   
-<strong> Fonte: </strong> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
 </center>
 
@@ -91,7 +91,7 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 
 <center>
   
-<strong> Fonte: </strong> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
 </center>
 
