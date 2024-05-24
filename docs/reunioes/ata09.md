@@ -30,9 +30,7 @@ Os presentes na reunião foram:
 - Breno Alexandre Soares Garcia
 - Bruno Cunha Vasconcelos de Araújo
 - Caio Mesquita Vieira
-- Iago Passaglia Perereia
 - Larissa Stéfane Barboza Santos
-- Luana de Lima Medeiros
 - Pedro Augusto Dourado Izarias
 
 ## Pontos de Discussão Importantes
@@ -47,8 +45,7 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 
 | Identificador (Dn) | Tema                                                                                                              |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| D1                 | Quais as pendências das entregas anteriores                                                                       |
-| D2                 | O que fazer para a entrega 4?                                                                                     |
+| D1                 |  O que fazer para a entrega 4?                                                                                    |
 
 <center>
   
