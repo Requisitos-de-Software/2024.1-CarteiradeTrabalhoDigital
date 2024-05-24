@@ -85,11 +85,21 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 - Definir NFRs HJ!!!!!!: Usabilidade, Confiabilidade, Desempenho, Suporte, Restrições de Design, Ajuda e Documentação e Interfaces,
 - Requisitos Não Funcionais Elicitados após o Framework NFR
 
-
 ### <b>Backlog:</b>
 - Sumário, Introdução e Metodologia,
 - Requisitos Funcionais Elicitados anteriormente,
+- Temas,
+- Introdução sobre Épicos e Features,
+- Épicos,
+- Backlog do produto
 
+### <b>Histórias de Usuário:</b>
+- Sumário, Introdução, Objetivos e Metodologia,
+- Paricipantes,
+- Validação das histórias de usuário,
+- Padrão de história de usuário,
+- Temmplate,
+- Histórias de usuário
 
 
 <p align="center"> Tabela 3. Issues Sprint atual. </p>
