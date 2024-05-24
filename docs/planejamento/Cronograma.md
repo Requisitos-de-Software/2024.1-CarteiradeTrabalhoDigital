@@ -101,8 +101,8 @@ Na Tabela 4, está explicitado o cronograma executado das atividades da segunda 
 | Definir técnicas de priorização que serão usadas    | 14/04/2024 | 14/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 14/04/2024 - 16/04/2024 |
 | Descrever a participação do cliente e/ou persona no processo de priorização | 14/04/2024 | 16/04/2024 | Caio e Larissa | Bruno e Breno| 16/04/2024 - 16/04/2024 |
 | Ajustes finais da entrega 2                         | 16/04/2024 | 17/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 16/04/2024 - 16/04/2024 |
-| Gravar apresentação               | - | -| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | - |
-| Correção pós apresentação         | - | - | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | - |
+| Gravar apresentação               | 17/04/2024 | 17/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 17/01/2024-17/04/2024  |
+| Correção pós apresentação         | 18/04/2024 | 19/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 20/05/2024-26/05/2024 |
 
 <font size="3"><p style="text-align: center">Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
