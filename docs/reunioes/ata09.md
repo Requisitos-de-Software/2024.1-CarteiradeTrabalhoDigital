@@ -78,49 +78,55 @@ Neste tópico, são lincadas as tarefas a serem realizadas na semana e quem ser�
 
 Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
 
-### <b>NFR Framework:</b>
-- Sumário, Introduçãos com fontes de evidência na literatura e Metodologia citando o SIG, = Larissa Stéfane
-- Participantes e Requisitos Não Funcionais Elicitados anteriormente, = Breno Alexandre
-- Cartões de Especificação, = Todo mundo
-- Legendas, NFR 0 - Template, = Caio Mesquita
-- NFR 1: Usabilidade, = Caio Mesquita
-- NFR 2: Desempenho, = Pedro Izarias
-- NFR 3: Restrições de Design, = Larissa Stéfane
-- NFR 4: Interfaces, = Luana Medeiros
-- NFR 5: Acessibilidade, = Bruno Araújo
-- Requisitos Não Funcionais Elicitados após o Framework NFR = Iago Passaglia
-
-### <b>Backlog:</b>
-- Sumário, Introdução e Metodologia, = Caio Mesquita
-- Requisitos Funcionais Elicitados anteriormente, = Larissa Stéfane
-- Temas seguindo casos de uso, = Breno Alexandre
-- Introdução sobre Épicos e Features, = Pedro Izarias
-- Épicos, = Todo mundo
-- Backlog do produto = Todo mundo
-
-### <b>Histórias de Usuário:</b>
-- Sumário, Introdução, Objetivos e Metodologia, Participantes = Larissa Stéfane
-- <b>Validação das histórias de usuário</b>, = Iago e Bruno
-- Padrão de história de usuário, Template, = Pedro Izarias
-- Histórias de usuário = Todo mundo
-
-
 <p align="center"> Tabela 3. Issues Sprint atual. </p>
 
-| Identificador (Issue n) | Issue                                                       | Integrante(s) responsável(eis)                   | Data de entrega |
-| ----------------------- | ----------------------------------------------------------- | ------------------------------------------------ | --------------- |
-| Issue 1                 | Realizar a Ata da reunião                                   | Breno Alexandre                                  | 23/05/2024      |
-| Issue 2                 | Upar vídeo da reunião                                       | -                                                | 23/05/2024      |
-| Issue N                 | Cronograma da etapa 4 e colapsar tabelas/entregas           | -                                                | NN/05/2024      |
-| Issue N                 | Gravação da apresentação da etapa 4                         | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | NN/05/2024      |
-| Issue N                 | Editar vídeo da apresentação da etapa 4                     | Breno Alexandre                                  | NN/05/2024      |
-| Issue N                 | Criação do documento de apresentação e avaliação da etapa 4 | -                                                | NN/05/2024      |
+| Identificador (Issue n) | Issue                                                                     | Integrante(s) responsável(eis)                   | Data de entrega |
+| ----------------------- | ------------------------------------------------------------------------- | ------------------------------------------------ | --------------- |
+| Issue 1                 | Realizar a Ata da reunião                                                 | Breno Alexandre                                  | 23/05/2024      |
+| Issue 2                 | Upar vídeo da reunião                                                     | Breno Alexandre                                  | 23/05/2024      |
+| ----------------------- | ------------------------------------------------------------------------- | ------------------------------------------------ | --------------- |
+| <b>Issue 3*</b>         | <b>NFR Framework:</b> Sumário, Introdução e Metodologia                   | Larissa Stéfane                                  | 24/05/2024      |
+| Issue 4                 | <b>NFR Framework:</b> Participantes e RNFs Elicitados anteriormente       | Breno Alexandre                                  | 24/05/2024      |
+| Issue 5                 | <b>NFR Framework:</b> Cartões de Especificação                            | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 24/05/2024      |
+| Issue 6                 | <b>NFR Framework:</b> Legendas e NFR 0 - Template                         | Caio Mesquita                                    | 24/05/2024      |
+| Issue 7                 | <b>NFR Framework:</b> NFR 1: Usabilidade                                  | Caio Mesquita                                    | 24/05/2024      |
+| Issue 8                 | <b>NFR Framework:</b> NFR 2: Desempenho                                   | Pedro Izarias                                    | 24/05/2024      |
+| Issue 9                 | <b>NFR Framework:</b> NFR 3: Restrições de Design                         | Larissa Stéfane                                  | 24/05/2024      |
+| Issue 10                | <b>NFR Framework:</b> NFR 4: Interfaces                                   | Luana Medeiros                                   | 24/05/2024      |
+| Issue 11                | <b>NFR Framework:</b> NFR 5: Acessibilidade                               | Bruno Araújo                                     | 24/05/2024      |
+| Issue 12                | <b>NFR Framework:</b> RNFs Elicitados após o Framework NFR                | Iago Passaglia                                   | 24/05/2024      |
+| ----------------------- | ------------------------------------------------------------------------- | ------------------------------------------------ | --------------- |
+| Issue 13                | <b>Backlog:</b> Sumário, Introdução e Metodologia                         | Caio Mesquita                                    | 24/05/2024      |
+| Issue 14                | <b>Backlog:</b> RFs Elicitados anteriormente                              | Larissa Stéfane                                  | 24/05/2024      |
+| Issue 15                | <b>Backlog:</b> Temas seguindo casos de uso                               | Breno Alexandre                                  | 24/05/2024      |
+| Issue 16                | <b>Backlog:</b> Introdução sobre Épicos e Features                        | Pedro Izarias                                    | 24/05/2024      |
+| Issue 17                | <b>Backlog:</b> Épicos                                                    | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 24/05/2024      |
+| Issue 18                | <b>Backlog:</b> Backlog do produto                                        | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 24/05/2024      |
+| ----------------------- | ------------------------------------------------------------------------- | ------------------------------------------------ | --------------- |
+| Issue 19                | <b>Histórias de Usuário:</b> Sumário, Introdução, Objetivos e Metodologia | Larissa Stéfane                                  | 25/05/2024      |
+| Issue 20                | <b>Histórias de Usuário:</b> Participantes                                | Luana Medeiros                                   | 25/05/2024      |
+| Issue 21**              | <b>Histórias de Usuário:</b> Validação das histórias de usuário           | Iago e Bruno                                     | 25/05/2024      |
+| Issue 22                | <b>Histórias de Usuário:</b> Padrão de história de usuário e Template     | Iago e Passaglia                                 | 25/05/2024      |
+| Issue 23                | <b>Histórias de Usuário:</b> Histórias                                    | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 25/05/2024      |
+| ----------------------- | ------------------------------------------------------------------------- | ------------------------------------------------ | --------------- |
+| Issue 24                | Cronograma da etapa 4 e colapsar tabelas/entregas                         | Breno Alexandre                                  | 26/05/2024      |
+| Issue 25                | Gravação da apresentação da etapa 4                                       | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 26/05/2024      |
+| Issue 26                | Editar vídeo da apresentação da etapa 4                                   | Breno Alexandre                                  | 26/05/2024      |
+| Issue 27                | Criação do documento de apresentação e avaliação da etapa 4               | Caio Mesquita                                    | 26/05/2024      |
 
 <center>
   
 <b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
 </center>
+
+# AVISOS
+
+### *Obs na issue 3:
+Não esquecer de fazer a Introdução com fontes de evidência na literatura. E também não esquecer de citar o SIG(Softgoal Interdependency Graph) na Introdução e na Metodologia.
+
+### **Obs na issue 21:
+Fazer o quanto antes para não dar problema.
 
 ## Histórico de Versão
 
