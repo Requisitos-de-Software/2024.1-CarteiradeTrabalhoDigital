@@ -5,12 +5,11 @@
 <center> 
 <p align="center"> Vídeo 1: RS - Reunião 9. </p>
 
-<iframe width="700" height="800" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; 
-  web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="800" src="https://www.youtube-nocookie.com/embed/ZlidxIj2hxA?si=CYOjK3oHUW6LyK-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
-Caso não consiga ver o vídeo, acesse [aqui]().
+Caso não consiga ver o vídeo, acesse [aqui](https://youtu.be/ZlidxIj2hxA).
 </center>
 
 ## Ata da reunião do dia 23/05
