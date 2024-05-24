@@ -123,7 +123,7 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 Não esquecer de fazer a Introdução com fontes de evidência na literatura. E também não esquecer de citar o SIG(Softgoal Interdependency Graph) na Introdução e na Metodologia.
 
 ### **Obs na issue 21:
-Fazer o quanto antes para não dar problema.
+Após uma verificação da Larissa para saber se a entrevista precisa ser presencial ou não, fazer o quanto antes para não dar problema.
 
 ## Histórico de Versão
 
