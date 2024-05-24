@@ -80,7 +80,7 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 
 ### <b>NFR Framework:</b>
 - Sumário, Introdução e Metodologia citando o SIG,
-- Paricipantes, Requisitos Não Funcionais Elicitados anteriormente,
+- Participantes, Requisitos Não Funcionais Elicitados anteriormente,
 - Cartões de Especificação, Legendas, NFR 0 - Template,
 - Definir NFRs HJ!!!!!!: Usabilidade, Confiabilidade, Desempenho, Suporte, Restrições de Design, Ajuda e Documentação e Interfaces,
 - Requisitos Não Funcionais Elicitados após o Framework NFR
