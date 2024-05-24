@@ -19,7 +19,7 @@ Caso não consiga ver o vídeo, acesse [aqui]().
 
 - <b>Data:</b> 23/05/2024
 - <b>Horário de início previsto:</b> 21:00
-- <b>Horário de início:</b>
+- <b>Horário de início:</b> 21:30
 - <b>Duração:</b>
 - <b>Local:</b> Teams
 
