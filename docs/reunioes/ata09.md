@@ -79,27 +79,30 @@ Neste tópico, são lincadas as tarefas a serem realizadas na semana e quem ser�
 Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
 
 ### <b>NFR Framework:</b>
-- Sumário, Introduçãos com fontes de evidência na literatura e Metodologia citando o SIG,
-- Participantes, Requisitos Não Funcionais Elicitados anteriormente,
-- Cartões de Especificação, Legendas, NFR 0 - Template,
-- Definir NFRs HJ!!!!!!: Usabilidade, Confiabilidade, Desempenho, Suporte, Restrições de Design, Ajuda e Documentação e Interfaces,
-- Requisitos Não Funcionais Elicitados após o Framework NFR
+- Sumário, Introduçãos com fontes de evidência na literatura e Metodologia citando o SIG, = Larissa Stéfane
+- Participantes e Requisitos Não Funcionais Elicitados anteriormente, = Breno Alexandre
+- Cartões de Especificação, = Todo mundo
+- Legendas, NFR 0 - Template, = Caio Mesquita
+- NFR 1: Usabilidade, = Caio Mesquita
+- NFR 2: Desempenho, = Pedro Izarias
+- NFR 3: Restrições de Design, = Larissa Stéfane
+- NFR 4: Interfaces, = Luana Medeiros
+- NFR 5: Acessibilidade, = Bruno Araújo
+- Requisitos Não Funcionais Elicitados após o Framework NFR = Iago Passaglia
 
 ### <b>Backlog:</b>
-- Sumário, Introdução e Metodologia,
-- Requisitos Funcionais Elicitados anteriormente,
-- Temas,
-- Introdução sobre Épicos e Features,
-- Épicos,
-- Backlog do produto
+- Sumário, Introdução e Metodologia, = Caio Mesquita
+- Requisitos Funcionais Elicitados anteriormente, = Larissa Stéfane
+- Temas seguindo casos de uso, = Breno Alexandre
+- Introdução sobre Épicos e Features, = Pedro Izarias
+- Épicos, = Todo mundo
+- Backlog do produto = Todo mundo
 
 ### <b>Histórias de Usuário:</b>
-- Sumário, Introdução, Objetivos e Metodologia,
-- Paricipantes,
-- Validação das histórias de usuário,
-- Padrão de história de usuário,
-- Temmplate,
-- Histórias de usuário
+- Sumário, Introdução, Objetivos e Metodologia, Participantes = Larissa Stéfane
+- <b>Validação das histórias de usuário</b>, = Iago e Bruno
+- Padrão de história de usuário, Template, = Pedro Izarias
+- Histórias de usuário = Todo mundo
 
 
 <p align="center"> Tabela 3. Issues Sprint atual. </p>
