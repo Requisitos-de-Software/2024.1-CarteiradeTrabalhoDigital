@@ -37,9 +37,9 @@ Para criar os cartões de especificação dos requisitos não funcionais, será 
 
 Cada cartão de especificação também incluirá a origem ou a fonte do requisito, pois terá como eles foram elicitados, por exemplo, [análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md). Além disso, serão documentadas as interdependências com outros requisitos ou componentes do sistema, o que ajudará a entender como os diferentes aspectos do sistema se relacionam. Ademais, com base na priorização dos requisitos, a prioridade de cada requisito será categorizada como alta, média ou baixa, auxiliando na gestão e na implementação das necessidades mais críticas. Assim, essa estrutura garantirá que os requisitos não funcionais sejam claramente definidos, compreendidos e ajudará a que eles sejam implementados de forma eficaz.
 
-### Templete
+### Template
 
-Para ser mais fácil de ser visualizado e planejado, a tabela 1 mostra o templete do cartão de especificação que será utilizado.
+Para ser mais fácil de ser visualizado e planejado, a tabela 1 mostra o Template do cartão de especificação que será utilizado.
 
 **Tabela 1:** Cartão de Especificação de Requisitos Não Funcionais
 
@@ -106,6 +106,6 @@ Abaixo, as tabelas de 2 a 5 mostram os cartões de especificação de design par
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 |  Adição da explicação do que é NFR e o que é framework  |   Larissa Stéfane  |     |    26/05/2024   |
-| 1.1 |  Adição da metodologia e do templete dos cartões de especificação  |   Larissa Stéfane  |     |    26/05/2024   |
-| 1.2 | Adicionar  Cartões de Especfiicação de Restrições de Design |   Larissa Stéfane  |     |    26/05/2024   |
+| 1.0 |  Adição da explicação do que é NFR e o que é framework  |   Larissa Stéfane  |  Iago Passaglia   |    26/05/2024   |
+| 1.1 |  Adição da metodologia e do Template dos cartões de especificação  |   Larissa Stéfane  |  Iago Passaglia   |    26/05/2024   |
+| 1.2 | Adicionar  Cartões de Especfiicação de Restrições de Design |   Larissa Stéfane  |  Iago Passaglia   |    26/05/2024   |
