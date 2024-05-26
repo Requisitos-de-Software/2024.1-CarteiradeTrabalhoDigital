@@ -76,4 +76,4 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 |     |     |     |       |
+| 1.0 |  Adição da introdução, da definição e dos objetivos, da metodologia e do templete   |  Larissa Stéfane   |     | 26/05/2024  |
