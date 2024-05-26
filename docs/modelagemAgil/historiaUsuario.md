@@ -5,7 +5,7 @@
 * [Definição das Histórias dos Usuários](#Definição-das-Histórias-dos-Usuários)
 * [Motivações e Objetivos](#Motivações-e-Objetivos)
 * [Metodologia](#Metodologia)
-* [Templete](#Templete)
+* [Template](#Template)
 * [Histórias de Usuários](#Histórias-de-Usuários)
 * [Participantes](#Participantes)
 * [Validação com Usuário](#Validação-com-Usuário)
@@ -47,7 +47,7 @@ Assim, os objetivos que buscam ser alcançados são:
 
 A metodologia da criação das histórias dos usuários será baseada no artigo “O que são as histórias de usuário e como escrevê-las bem?”². Assim, inicialmente, cada integrante do grupo irá revisar individualmente o conteúdo dos artigos para compreender os princípios e diretrizes para escrever histórias de usuário eficazes. Após essa etapa, cada membro irá elaborar suas próprias histórias de usuário com base nas funcionalidades que trabalhou nos [casos de uso](modelagem/casoDeUso.md), seguindo o formato padronizado sugerido no templete. Em seguida, as histórias serão validadas por um usuário.
 
-## Templete
+## Template
 
 Há um conjunto de questões que precisam ser respondidas e pontuadas nas histórias de usuário, desse modo, a tabela 1 mostra o templete que deve ser seguido.
 
