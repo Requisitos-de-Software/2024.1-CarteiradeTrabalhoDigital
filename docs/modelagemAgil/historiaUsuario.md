@@ -72,6 +72,11 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 ## Referências Bibliográficas
 
+1. Reis, J. C. dos, Maike, V. R. M. L., Duarte, E. F., Gonçalves, F. M., França, B. B. N. de, Bonacin, R., Pereira, R., & Baranauskas, M. C. C. (2018). **Combinando Design Participativo e História de Usuários para Levantamento de Funcionalidades no OpenDesign**. Instituto de Computação, Universidade Estadual de Campinas (UNICAMP), Disponível em <https://www.ic.unicamp.br/~reltech/2018/18-12.pdf>. Acessado em 26 de maio de 2024.
+
+2. Gustavo Guasti, Italo. Carneiro, Tiago. **O que são as histórias de usuário e como escrevê-las bem?**. TerraLab. Disponível em <https://www2.decom.ufop.br/terralab/o-que-sao-as-historias-de-usuario-e-como-escreve-las-bem/>  Acessado em 26 de maio de 2024.
+
+
 ## Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
