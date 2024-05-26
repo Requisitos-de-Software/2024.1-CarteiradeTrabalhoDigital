@@ -45,15 +45,15 @@ Assim, os objetivos que buscam ser alcançados são:
 
 ## Metodologia
 
-A metodologia da criação das histórias dos usuários será baseada no artigo “O que são as histórias de usuário e como escrevê-las bem?”². Assim, inicialmente, cada integrante do grupo irá revisar individualmente o conteúdo dos artigos para compreender os princípios e diretrizes para escrever histórias de usuário eficazes. Após essa etapa, cada membro irá elaborar suas próprias histórias de usuário com base nas funcionalidades que trabalhou nos [casos de uso](modelagem/casoDeUso.md), seguindo o formato padronizado sugerido no templete. Em seguida, as histórias serão validadas por um usuário.
+A metodologia da criação das histórias dos usuários será baseada no artigo “O que são as histórias de usuário e como escrevê-las bem?”². Assim, inicialmente, cada integrante do grupo irá revisar individualmente o conteúdo dos artigos para compreender os princípios e diretrizes para escrever histórias de usuário eficazes. Após essa etapa, cada membro irá elaborar suas próprias histórias de usuário com base nas funcionalidades que trabalhou nos [casos de uso](modelagem/casoDeUso.md), seguindo o formato padronizado sugerido no template. Em seguida, as histórias serão validadas por um usuário.
 
 ## Template
 
-Há um conjunto de questões que precisam ser respondidas e pontuadas nas histórias de usuário, desse modo, a tabela 1 mostra o templete que deve ser seguido.
+Há um conjunto de questões que precisam ser respondidas e pontuadas nas histórias de usuário, desse modo, a tabela 1 mostra o template que deve ser seguido.
 
 <center>
 
-** Tabela 1:** Templete dos casos de uso.
+** Tabela 1:** Template dos casos de uso.
 
 | Código Requisito | - |
 |------------------|--------|
@@ -76,4 +76,4 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 |  Adição da introdução, da definição e dos objetivos, da metodologia e do templete   |  Larissa Stéfane   |     | 26/05/2024  |
+| 1.0 |  Adição da introdução, da definição e dos objetivos, da metodologia e do template   |  Larissa Stéfane   |   Iago Passaglia  | 26/05/2024  |
