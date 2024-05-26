@@ -3,6 +3,7 @@
   - [apresentação 01](/apresentacoes/apresentacao01.md)
   - [apresentação 02](/apresentacoes/apresentacao02.md)
   - [apresentação 03](/apresentacoes/apresentacao03.md)
+  - [apresentação 04](/apresentacoes/apresentacao04.md)
 
 * Reuniões
   - [Reunião 01](reunioes/ata01.md)
@@ -71,12 +72,12 @@
   - [Caso de uso](/modelagem/casoDeUso.md)
   - [Especificação Suplementar](/modelagem/especSuplementar.md)
 
-<!-- * Modelagem - Ágil
-  - [História de Usuário](/docs/modelagemAgil/historiaUsuario.md)
-  - [Backlogs do Produto](/docs/modelagemAgil/backlog.md)
-  - [NFR Framework](/docs/modelagemAgil/NFR.md)
+* Modelagem - Ágil
+  - [História de Usuário](modelagemAgil/historiaUsuario.md)
+  - [Backlogs do Produto](modelagemAgil/backlog.md)
+  - [NFR Framework](modelagemAgil/NFR.md)
 
-
+<!-- 
 * Verificação
 
     * Grupo 3
