@@ -51,13 +51,16 @@ A metodologia da criação das histórias dos usuários será baseada no artigo 
 
 Há um conjunto de questões que precisam ser respondidas e pontuadas nas histórias de usuário, desse modo, a tabela 1 mostra o template que deve ser seguido.
 
+O código da história de usuário é HU + Número.
+
 <center>
 
 ** Tabela 1:** Template dos casos de uso.
 
-| Código Requisito | - |
+| Código História de Usuário | - |
 |------------------|--------|
 | Título           | - |
+| Código do requisito funcional | - |
 | Rastreabilidade  | -  |
 | Quem?           | - |
 | O que é?           | - |
