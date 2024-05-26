@@ -95,7 +95,7 @@ Abaixo, as tabelas de 2 a 5 mostram os cartões de especificação de design par
 
 ### Cartões de Especificação deInterface 
 
-### Cartões de Assecibilidade
+### Cartões de Acessiibilidade
 
 
 ### 
