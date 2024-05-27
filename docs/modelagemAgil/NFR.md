@@ -213,7 +213,7 @@ Abaixo, as tabelas de 3 a 6 mostram os cartões de especificação de design par
 
 | **Elemento**               | **Detalhes**                                                                                                                                          |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Identificador na lista de requisitos**          | [RNF12[(Elicitacao/ResquisitosCorrigidos.md)                                                                                   |
+| **Identificador na lista de requisitos**          | [RNF12](Elicitacao/ResquisitosCorrigidos.md)                                                                                   |
 | **Nome do Requisito**      | Vocabulários Controlados e Taxonomias                                                                                                                 |
 | **Tipo de Requisito**      | Restrição de Design                                                                                                                                    |
 | **Descrição**              | O sistema deve utilizar vocabulários controlados e taxonomias padrão do governo, conforme especificado na documentação em [Princípios de UX Writing](https://www.gov.br/ds/padroes/writing/principios-writing) e [Microcopy](https://www.gov.br/ds/padroes/writing/microcopy)                               |
