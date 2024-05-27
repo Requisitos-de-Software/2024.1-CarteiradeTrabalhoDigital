@@ -102,7 +102,60 @@ Abaixo, as tabelas de 2 a 5 mostram os cartões de especificação de design par
 
 ### Cartões de Especificação Design de Desempenho
 
-### Cartões de Especificação deInterface 
+### Cartões de Especificação de Interface 
+Abaixo, as tabelas de X a X mostram os cartões de de especificação de interface.
+
+<details>
+  <summary size="20"><b> Conformidade com os manuais de interface gov.br </b></summary> 
+ 
+</center>
+
+**Tabela X:** Conformidade com os manuais de interface gov.br
+
+| **Elemento**               | **Detalhes**                                                                                                                                          |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Identificador**          | [RNF06](Elicitacao/ResquisitosCorrigidos.md)                                                                                                          |
+| **Nome do Requisito**      | Conformidade com os manuais de interface gov.br                                                                                                                      |
+| **Tipo de Requisito**      | Interface                                                                                                                                   |
+| **Descrição**              | O sistema da Carteira de Trabalho Digital deve seguir estritamente os manuais de interface definidos pelo portal gov.br, assegurando que todas as interfaces de usuário estejam em conformidade com os padrões e diretrizes estabelecidos pelo governo brasileiro em [Fundamentos Visuais](https://www.gov.br/ds/fundamentos-visuais/visao-geral).                     |
+| **Justificativa/Racionalidade** | A conformidade com os manuais de interface do gov.br é crucial para garantir uma experiência de usuário consistente e familiar aos cidadãos. Esses padrões são projetados para melhorar a usabilidade, acessibilidade e a coerência visual dos aplicativos governamentais, promovendo uma navegação intuitiva e uma melhor prestação de serviços digitais.                 |
+| **Critérios de Aceitação** |  <li> Todas as telas e elementos de interface devem estar em conformidade com as diretrizes visuais e de usabilidade do manual gov.br. <li> As cores, tipografias, ícones e espaçamentos devem seguir as especificações detalhadas no manual gov.br. <li> Todos os componentes de interface, como botões, menus, formulários e tabelas, devem ser implementados conforme as recomendações do manual gov.br.<li> O sistema deve passar por uma revisão de conformidade com os padrões gov.br antes de ser lançado ou atualizado. <li> As interfaces devem ser testadas para garantir que atendem aos critérios de acessibilidade definidos no manual gov.br, incluindo compatibilidade com leitores de tela e navegabilidade por teclado.<li> Documentação de conformidade deve ser mantida, detalhando como cada aspecto das diretrizes do gov.br foi implementado no sistema. </ul>                                                      |
+| **Origem/Fonte**           | [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md)                                                                       |
+| **Prioridade**             | Alta Prioridade                                                                                                                                         |
+| **Interdependências**      |                                                                                                 |
+| **Notas e Comentários**    | <li> Todos os desenvolvedores e designers envolvidos no projeto devem estar familiarizados com o conteúdo do manual de interface do gov.br. <li> O manual de interface do gov.br pode ser acessado através do site oficial do governo e deve ser consultado regularmente para garantir conformidade com as atualizações e revisões. <li> Considerar a realização de treinamentos específicos para a equipe sobre as diretrizes e melhores práticas estabelecidas pelo gov.br. </ul>                                                 |  
+
+**Fonte:** [Luana Medeiros](https://github.com/LuaMedeiros)
+
+</center>
+
+</details>
+
+<details>
+  <summary size="20"><b> Incluir todos os elementos básicos de design do Padrão Digital de Governo.   </b></summary> 
+ 
+</center>
+
+**Tabela X:** Incluir todos os elementos básicos de design do Padrão Digital de Governo.  
+
+| **Elemento**               | **Detalhes**                                                                                                                                          |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Identificador**          | [RNF07](Elicitacao/ResquisitosCorrigidos.md)                                                                                                          |
+| **Nome do Requisito**      | Incluir todos os elementos básicos de design do Padrão Digital de Governo.                                                                                                                  |
+| **Tipo de Requisito**      | Interface                                                                                                                                   |
+| **Descrição**              | A interface do sistema da Carteira de Trabalho Digital deve incorporar todos os elementos básicos de design especificados no Padrão Digital de Governo, garantindo que a aparência e a funcionalidade estejam em conformidade com as diretrizes oficiais do governo brasileiro em [Fundamentos Visuais](https://www.gov.br/ds/fundamentos-visuais/visao-geral).                  |
+| **Justificativa/Racionalidade** | A implementação dos elementos básicos de design do Padrão Digital de Governo é essencial para assegurar uma experiência de usuário consistente, acessível e intuitiva em todos os serviços digitais oferecidos pelo governo. Esses padrões foram estabelecidos para melhorar a eficiência, usabilidade e acessibilidade dos sistemas governamentais, promovendo uma identidade visual unificada.         |
+| **Critérios de Aceitação** |  <li> As cores utilizadas na interface devem seguir a paleta oficial do Padrão Digital de Governo. <li>As fontes utilizadas devem ser “Raleway” ou “sans-serif”. <li> Ícones devem ser selecionados de acordo com a coleção “Font Awesome” (versão 5.10.2). <li> O tamanho da fonte base deve ser de 14px (1em) e peso da fonte normal (400). <li> Botões devem ter tamanhos, espaçamentos e estilos definidos no Padrão Digital de Governo. <li> Formulários devem incluir campos, etiquetas e mensagens de erro padronizados. <li> Cabeçalhos e rodapés devem ser implementados conforme as especificações do Padrão Digital de Governo.<li> Tabelas devem seguir o estilo e estrutura definidos no Padrão Digital de Governo. <li> Todas as imagens na interface devem incluir textos alternativos. <li> A estrutura de navegação deve ser clara e lógica, garantindo compatibilidade com leitores de tela. <li> A interface deve permitir a navegabilidade completa via teclado. <li> Implementar contrastes de cores adequados para acessibilidade visual conforme as diretrizes. <li> Realizar testes de usabilidade com uma amostra de usuários representativa. <li> Ajustar a interface conforme o feedback obtido nos testes de usabilidade. <li> Garantir que a interface seja intuitiva e fácil de usar, conforme os princípios de usabilidade do Padrão Digital de Governo. <li> Manter uma documentação detalhada que demonstre como cada elemento da interface segue o Padrão Digital de Governo. <li> Documentar as decisões de design e as implementações específicas realizadas. <li> Registrar os resultados dos testes de conformidade e usabilidade, incluindo quaisquer ajustes feitos com base no feedback. </ul>                                                      |
+| **Origem/Fonte**           | [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md)                                                                       |
+| **Prioridade**             | Alta Prioridade                                                                                                                                         |
+| **Interdependências**      |                                                                                                 |
+| **Notas e Comentários**    | <li> O Padrão Digital de Governo pode ser acessado no portal oficial do gov.br e deve ser consultado regularmente para garantir que a interface esteja sempre em conformidade com as atualizações e revisões. <li> Todos os membros da equipe de desenvolvimento e design devem estar familiarizados com o Padrão Digital de Governo e participar de treinamentos se necessário. <li> A conformidade com o padrão deve ser verificada durante as fases de desenvolvimento e antes de cada lançamento de atualização do sistema. </ul>                                                 |  
+
+**Fonte:** [Luana Medeiros](https://github.com/LuaMedeiros)
+
+</center>
+
+</details>
 
 ### Cartões de Acessiibilidade
 
@@ -124,3 +177,4 @@ Abaixo, as tabelas de 2 a 5 mostram os cartões de especificação de design par
 | 1.0 |  Adição da explicação do que é NFR e o que é framework  |   Larissa Stéfane  |  Iago Passaglia   |    26/05/2024   |
 | 1.1 |  Adição da metodologia e do Template dos cartões de especificação  |   Larissa Stéfane  |  Iago Passaglia   |    26/05/2024   |
 | 1.2 | Adicionar  Cartões de Especfiicação de Restrições de Design |   Larissa Stéfane  |  Iago Passaglia   |    26/05/2024   |
+| 1.3 | Adicionar  Cartões de Especfiicação de Interface |   Luana Medeiros |  -   |    27/05/2024   |
