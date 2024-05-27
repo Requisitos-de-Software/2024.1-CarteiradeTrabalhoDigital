@@ -4,7 +4,7 @@
 * [Introdução](#Introdução)
 * [O que é NFR?](#O-que-é-NFR?)
 * [O que é NFR framework?](#O-que-é-NFR-framework?)
-* [Cartões de Especiicação](#Cartões-de-Especiicação)
+* [Cartões de Especificação](#Cartões-de-Especificação)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de Versão](#Histórico-de-Versão)
   
