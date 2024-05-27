@@ -81,29 +81,29 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 | Issue 1                 | Realizar a Ata da reunião                                                 | Breno Alexandre                                  | 23/05/2024      |
 | Issue 2                 | Upar vídeo da reunião                                                     | Breno Alexandre                                  | 23/05/2024      |
 | ----------------------- | ------------------------------------------------------------------------- | ------------------------------------------------ | --------------- |
-| <b>Issue 3*</b>         | <b>NFR Framework:</b> Sumário, Introdução e Metodologia                   | Larissa Stéfane                                  | 24/05/2024      |
-| Issue 4                 | <b>NFR Framework:</b> Participantes e RNFs Elicitados anteriormente       | Breno Alexandre                                  | 24/05/2024      |
-| Issue 5                 | <b>NFR Framework:</b> Cartões de Especificação                            | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 24/05/2024      |
-| Issue 6                 | <b>NFR Framework:</b> Legendas e NFR 0 - Template                         | Caio Mesquita                                    | 24/05/2024      |
-| Issue 7                 | <b>NFR Framework:</b> NFR 1: Usabilidade                                  | Caio Mesquita                                    | 24/05/2024      |
-| Issue 8                 | <b>NFR Framework:</b> NFR 2: Desempenho                                   | Pedro Izarias                                    | 24/05/2024      |
-| Issue 9                 | <b>NFR Framework:</b> NFR 3: Restrições de Design                         | Larissa Stéfane                                  | 24/05/2024      |
-| Issue 10                | <b>NFR Framework:</b> NFR 4: Interfaces                                   | Luana Medeiros                                   | 24/05/2024      |
-| Issue 11                | <b>NFR Framework:</b> NFR 5: Acessibilidade                               | Bruno Araújo                                     | 24/05/2024      |
-| Issue 12                | <b>NFR Framework:</b> RNFs Elicitados após o Framework NFR                | Iago Passaglia                                   | 24/05/2024      |
+| Issue 3                 | <b>Backlog:</b> Sumário, Introdução e Metodologia                         | Caio Mesquita                                    | 24/05/2024      |
+| Issue 4                 | <b>Backlog:</b> RFs Elicitados anteriormente                              | Larissa Stéfane                                  | 24/05/2024      |
+| Issue 5                 | <b>Backlog:</b> Temas seguindo casos de uso                               | Breno Alexandre                                  | 24/05/2024      |
+| Issue 6                 | <b>Backlog:</b> Introdução sobre Épicos e Features                        | Pedro Izarias                                    | 24/05/2024      |
+| Issue 7                 | <b>Backlog:</b> Épicos                                                    | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 24/05/2024      |
+| Issue 8                 | <b>Backlog:</b> Backlog do produto                                        | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 24/05/2024      |
 | ----------------------- | ------------------------------------------------------------------------- | ------------------------------------------------ | --------------- |
-| Issue 13                | <b>Backlog:</b> Sumário, Introdução e Metodologia                         | Caio Mesquita                                    | 24/05/2024      |
-| Issue 14                | <b>Backlog:</b> RFs Elicitados anteriormente                              | Larissa Stéfane                                  | 24/05/2024      |
-| Issue 15                | <b>Backlog:</b> Temas seguindo casos de uso                               | Breno Alexandre                                  | 24/05/2024      |
-| Issue 16                | <b>Backlog:</b> Introdução sobre Épicos e Features                        | Pedro Izarias                                    | 24/05/2024      |
-| Issue 17                | <b>Backlog:</b> Épicos                                                    | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 24/05/2024      |
-| Issue 18                | <b>Backlog:</b> Backlog do produto                                        | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 24/05/2024      |
+| Issue 9                 | <b>Histórias de Usuário:</b> Sumário, Introdução, Objetivos e Metodologia | Larissa Stéfane                                  | 25/05/2024      |
+| Issue 10                | <b>Histórias de Usuário:</b> Participantes                                | Luana Medeiros                                   | 25/05/2024      |
+| Issue 11*               | <b>Histórias de Usuário:</b> Validação das histórias de usuário           | Iago e Bruno                                     | 25/05/2024      |
+| Issue 12                | <b>Histórias de Usuário:</b> Padrão de história de usuário e Template     | Iago e Passaglia                                 | 25/05/2024      |
+| Issue 13                | <b>Histórias de Usuário:</b> Histórias                                    | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 25/05/2024      |
 | ----------------------- | ------------------------------------------------------------------------- | ------------------------------------------------ | --------------- |
-| Issue 19                | <b>Histórias de Usuário:</b> Sumário, Introdução, Objetivos e Metodologia | Larissa Stéfane                                  | 25/05/2024      |
-| Issue 20                | <b>Histórias de Usuário:</b> Participantes                                | Luana Medeiros                                   | 25/05/2024      |
-| Issue 21**              | <b>Histórias de Usuário:</b> Validação das histórias de usuário           | Iago e Bruno                                     | 25/05/2024      |
-| Issue 22                | <b>Histórias de Usuário:</b> Padrão de história de usuário e Template     | Iago e Passaglia                                 | 25/05/2024      |
-| Issue 23                | <b>Histórias de Usuário:</b> Histórias                                    | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 25/05/2024      |
+| <b>Issue 14**</b>       | <b>NFR Framework:</b> Sumário, Introdução e Metodologia                   | Larissa Stéfane                                  | 25/05/2024      |
+| Issue 15                | <b>NFR Framework:</b> RNFs Elicitados anteriormente                       | Breno Alexandre                                  | 25/05/2024      |
+| Issue 16                | <b>NFR Framework:</b> Cartões de Especificação                            | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 25/05/2024      |
+| Issue 17                | <b>NFR Framework:</b> Legendas e NFR 0 - Template                         | Caio Mesquita                                    | 25/05/2024      |
+| Issue 18                | <b>NFR Framework:</b> NFR 1: Usabilidade                                  | Caio Mesquita                                    | 25/05/2024      |
+| Issue 19                | <b>NFR Framework:</b> NFR 2: Desempenho                                   | Pedro Izarias                                    | 25/05/2024      |
+| Issue 20                | <b>NFR Framework:</b> NFR 3: Restrições de Design                         | Larissa Stéfane                                  | 25/05/2024      |
+| Issue 21                | <b>NFR Framework:</b> NFR 4: Interfaces                                   | Luana Medeiros                                   | 25/05/2024      |
+| Issue 22                | <b>NFR Framework:</b> NFR 5: Acessibilidade                               | Bruno Araújo                                     | 25/05/2024      |
+| Issue 23                | <b>NFR Framework:</b> RNFs Elicitados após o Framework NFR                | Iago Passaglia                                   | 25/05/2024      |
 | ----------------------- | ------------------------------------------------------------------------- | ------------------------------------------------ | --------------- |
 | Issue 24                | Cronograma da etapa 4 e colapsar tabelas/entregas                         | Breno Alexandre                                  | 26/05/2024      |
 | Issue 25                | Gravação da apresentação da etapa 4                                       | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 26/05/2024      |
@@ -118,11 +118,11 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 
 # AVISOS
 
-### *Obs na issue 3:
-Não esquecer de fazer a Introdução com fontes de evidência na literatura. E também não esquecer de citar o SIG(Softgoal Interdependency Graph) na Introdução e na Metodologia.
-
-### **Obs na issue 21:
+### *Obs na issue 11:
 Após uma verificação da Larissa para saber se a entrevista precisa ser presencial ou não, fazer o quanto antes para não dar problema.
+
+### **Obs na issue 14:
+Não esquecer de fazer a Introdução com fontes de evidência na literatura. E também não esquecer de citar o SIG(Softgoal Interdependency Graph) na Introdução e na Metodologia.
 
 ## Histórico de Versão
 
