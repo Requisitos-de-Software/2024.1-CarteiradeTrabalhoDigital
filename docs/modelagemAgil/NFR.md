@@ -4,6 +4,7 @@
 * [Introdução](#Introdução)
 * [O que é NFR?](#O-que-é-NFR?)
 * [O que é NFR framework?](#O-que-é-NFR-framework?)
+* [Requisitos Não Funcionais Elicitados Anteriormente](#Requisitos-Não-Funcionais-Elicitados-Anteriormente)
 * [Cartões de Especificação](#Cartões-de-Especificação)
 * [Framework](#Framework)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
@@ -37,6 +38,53 @@ De acordo com Chung², Há três tipos de softgoals:
 
 - **Softgoals de Afirmação:** permitem que as características do domínio (como prioridades e carga de trabalho) sejam consideradas e devidamente refletidas no processo de tomada de decisão.
   - Servem como justificativa para apoiar ou negar a forma como os softgoals são priorizados.
+ 
+## Requisitos Não Funcionais Elicitados Anteriormente
+
+Segue na tabela 1 a lista dos Requisitos Não-Funcionais elicitados anteriormente.
+
+<details>
+  <summary size="20"><b> Requisitos Não Funcionais </b></summary>
+
+<center>
+
+<p align="center"> <b>Tabela 1:</b> Requisitos Não-Funcionais. </p>
+
+| Identificação do Requisito | Requisito                                                                                                                                              	| Técnica de Elicitação | Implementação |
+|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|---------------|
+| NF01                     	| O sistema deve processar solicitações da carteira de trabalho em no máximo 2 minutos.                                                                                                        	| Análise de documentos 	| Parcialmente      	|
+| NF02                     	| O sistema deve ser capaz de escalar para suportar até 1 milhão de usuários simultâneos e permitir personalização das interfaces de usuário.                                                                                      	| Análise de documentos 	| Parcialmente        	|
+| NF03                     	| O sistema deve suportar um aumento de 100% no volume de dados, transações e número de usuários sem degradação perceptível no desempenho. | Análise de documentos	| Sim       	|
+| NF04                     	| O sistema deve ser capaz de processar até 10.000 transações por segundo, mesmo em picos de uso nacional.                                               	| Análise de documentos 	| Parcialmente (Foi relatado casos de lentidão, talvez devido a grande demanda)      	|
+| NF05                     	| Todos os textos do sistema devem seguir os padrões tipográficos e de siglas, abreviações e erros conforme as normas.                                                                   	| Análise de documentos	| Sim       	|
+| NF06                     	| A interface do usuário deve estar em conformidade com os manuais de interface gov.br.                                                                                                 	| Análise de documentos 	| Parcialmente       	|
+| NF07                     	| A interface do sistema deve incluir todos os elementos básicos de design do Padrão Digital de Governo.                                                                                	| Análise de documentos	| Parcialmente       	|
+| NF08                     	| O sistema deve implementar autenticação multifator, criptografia AES-256, controle de acesso baseado em funções, e logs de auditoria detalhados. | Análise de documentos | Sim       	|
+| NF09                  	| O sistema deve garantir a conformidade com a LGPD (Lei Geral de Proteção de Dados).                                                                        	| Análise de documentos 	| Sim       	|
+| NF10                   	| O sistema deve oferecer suporte a ampliadores de telas, leitores de telas, programas de reconhecimento de voz, teclados alternativos e dispositivos apontadores alternativos, e ser testado com pelo menos duas ferramentas de acessibilidade diferentes. | Análise de documentos | Parcialmente      	|
+| NF11                     	| O sistema deve permitir a integração completa com os processos de negócios governamentais, conforme especificado na documentação de requisitos. | Análise de documentos e Storytelling | Parcialmente |
+| NF12                    	| O sistema deve utilizar vocabulários controlados e taxonomias padrão do governo, conforme especificado na documentação.| Análise de documentos | Sim |
+| NF13                     	| O sistema deve processar solicitações de carteira de trabalho em no máximo 2 minutos, com uma taxa de sucesso de 99%. | Análise de documentos e storytelling| Parcialmente (Algumas vezes o aplicativo apresenta erro) |
+| NF14                   	| O aplicativo deve seguir padrões de design aceitos por empresas e instituições, com uma taxa de conformidade de 95% nas avaliações de usabilidade. | Storytelling | Parcialmente |
+| NF15                     	| O acesso às funcionalidades principais do aplicativo deve exigir autenticação biométrica e ser completado em menos de 30 segundos. | Storytelling | Parcialmente |
+| NF16                     	| O sistema deve permitir ao usuário atualizar seus dados em no máximo 15 minutos, sem a necessidade de intermediários, com uma taxa de sucesso de 95%. | Storytelling | Parcialmente |
+| NF17                     	| O sistema deve apresentar dados pessoais com orientações claras e links para correção, com uma taxa de conformidade de 100% nas verificações. | Storytelling | Parcialmente |
+| NF18                     	| O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real. | Análise de documentos e storytelling | Parcialmente|
+| NF20                     	| O sistema deve ser totalmente integrado com o eSocial, com uma taxa de sincronização de dados de 99%. | Análise de documentos | Parcialmente |
+| NF21                     	| O sistema deve ser totalmente integrado com o portal gov.br, com uma taxa de sincronização de dados de 99%. | Análise de documentos | Parcialmente |
+| NF22                     	| O sistema deve permitir integração com pelo menos cinco outros sistemas de software, conforme especificado na documentação de requisitos. | Análise de documentos 	| Parcialmente      	|
+| NF23                     	| O sistema deve enviar notificações precisas com uma taxa de falsos positivos inferior a 5%. | Storytelling | Parcialmente |
+| NF24                     	| O aplicativo deve ser compatível com iOS, Android e Windows, sem apresentar falhas críticas em nenhum dos sistemas operacionais suportados. | Storytelling | Parcialmente (Apresenta problemas em iOS) |
+| NF25                     	| O sistema deve atualizar os dados do usuário automaticamente a cada 24 horas para evitar defasagem, com uma taxa de sucesso de 99%. | Storytelling | Parcialmente |
+
+<b>Fonte:</b>[Requisitos Não Funcionais](/Elicitacao/RequisitosCorrigidos.md/#Requisitos-Não-Funcionais)
+
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
+
+</center>
+
+</details>
+
 
 ## Cartões de Especificação
 
@@ -48,9 +96,9 @@ Cada cartão de especificação também incluirá a origem ou a fonte do requisi
 
 ### Template
 
-Para ser mais fácil de ser visualizado e planejado, a tabela 1 mostra o Template do cartão de especificação que será utilizado.
+Para ser mais fácil de ser visualizado e planejado, a tabela 2 mostra o Template do cartão de especificação que será utilizado.
 
-**Tabela 1:** Cartão de Especificação de Requisitos Não Funcionais
+**Tabela 2:** Cartão de Especificação de Requisitos Não Funcionais
 
 | **Elemento**               | **Detalhes**                            |
 |----------------------------|-----------------------------------------|
@@ -69,14 +117,14 @@ Para ser mais fácil de ser visualizado e planejado, a tabela 1 mostra o Templat
 
 ### Cartões de Especfiicação de Restrições de Design
 
-Abaixo, as tabelas de 2 a 5 mostram os cartões de especificação de design para as restrições de design.
+Abaixo, as tabelas de 3 a 6 mostram os cartões de especificação de design para as restrições de design.
 
 <details>
   <summary size="20"><b> Padrões Tipográficos e de Siglas </b></summary> 
  
 </center>
 
-**Tabela 2:** Padrões Tipográficos e de Siglas
+**Tabela 3:** Padrões Tipográficos e de Siglas
 
 | **Elemento**               | **Detalhes**                                                                                                                                          |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -425,19 +473,19 @@ Abaixo, as tabelas de X a X mostram os cartões de de especificação de interfa
 
 
 ## Referências Bibliográficas
+1. <b>SILVA, Reinaldo Antônio</b>. **NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados**. Recife, 2019. Disponível em <http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER20/21_WER_2020_paper_36.pdf> Acessado em 26/05/2024
 
- 1. SILVA, Reinaldo Antônio. **NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados**. Recife, 2019. Disponível em <http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER20/21_WER_2020_paper_36.pdf> Acessado em 26/05/2024
-
-2. ROBERTSON, James; ROBERTSON, Suzanne. Modelo para Especificações de Requisitos. Edição 14. Associação Atlântica de Sistemas, agosto 2009. Disponível em <https://www.volere.org/wp-content/uploads/2018/12/template14_ptbra.pdf> Acessado em 26/05/2024 
+2. <b>ROBERTSON, James</b>; ROBERTSON, Suzanne. Modelo para Especificações de Requisitos. Edição 14. Associação Atlântica de Sistemas, agosto 2009. Disponível em <https://www.volere.org/wp-content/uploads/2018/12/template14_ptbra.pdf> Acessado em 26/05/2024 
 
 
 
 ## Histórico de Versão
 
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 |  Adição da explicação do que é NFR e o que é framework  |   Larissa Stéfane  |  Iago Passaglia   |    26/05/2024   |
-| 1.1 |  Adição da metodologia e do Template dos cartões de especificação  |   Larissa Stéfane  |  Iago Passaglia   |    26/05/2024   |
-| 1.2 | Adicionar  Cartões de Especfiicação de Restrições de Design |   Larissa Stéfane  |  Iago Passaglia   |    26/05/2024   |
-| 1.3 | Adicionar  Cartões de Especfiicação de Interface |   Luana Medeiros |  Bruno Araújo   |    27/05/2024   |
-| 1.3 | Adicionar  Cartões de Especfiicação de Desempenho |   Pedro Izarias |  Bruno Araújo   |    27/05/2024   |
+| Versão | Alteração                                                         | Responsável     | Revisor        | Data       |
+| ------ | ----------------------------------------------------------------- | --------------- | -------------- | ---------- |
+| 1.0    |  Adição da explicação do que é NFR e o que é framework            | Larissa Stéfane | Iago Passaglia | 26/05/2024 |
+| 1.1    |  Adição da metodologia e do Template dos cartões de especificação | Larissa Stéfane | Iago Passaglia | 26/05/2024 |
+| 1.2    | Adicionar  Cartões de Especfiicação de Restrições de Design       | Larissa Stéfane | Iago Passaglia | 26/05/2024 |
+| 1.3    | Adicionar  Cartões de Especfiicação de Interface                  | Luana Medeiros  | Bruno Araújo   | 27/05/2024 |
+| 1.4    | Adicionar  Cartões de Especfiicação de Desempenho                 | Pedro Izarias   | Bruno Araújo   | 27/05/2024 |
+| 1.5    | Adição da tabela de RNFs elicitados anteriormente                 | Breno Alexandre | -              | 27/05/2024 |
