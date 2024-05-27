@@ -72,7 +72,7 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </center>
 
-### Histórias de usuário
+## Histórias de usuário
 
 </center>
 
