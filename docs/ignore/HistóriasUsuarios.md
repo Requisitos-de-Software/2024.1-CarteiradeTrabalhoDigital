@@ -98,3 +98,29 @@ Em relação às histórias de usuários elicitadas no [backlog](modelagemAgil/b
 </center>
 
 </details>
+
+<details>
+  <summary size="20"><b> HI10 - Reportar denúncias </b></summary> 
+ 
+<center>
+
+**Tabela 11:** Reportar denúncias
+
+| Código História de Usuário | HI10 |
+|------------------|--------|
+| Título           | Realização de Denúncias Trabalhistas |
+| Código do requisito funcional | RF10 |
+| Rastreabilidade  | Entrevistas |
+| Quem?           | Usuário Trabalhador de Carteira Assinada |
+| O que é?           | Permitir ao usuário reportar irregularidades e fazer denúncias trabalhistas contra uma empresa por meio do aplicativo. |
+| Por que ?         | O usuário deseja ter um canal oficial e conveniente para relatar problemas trabalhistas, como violações de direitos, más condições de trabalho ou práticas ilegais, garantindo a proteção de seus direitos e o cumprimento da legislação trabalhista. |
+| Critérios de Aceitação | <li>O sistema deve fornecer uma seção específica para denúncias trabalhistas, acessível a partir do perfil do usuário.<br><li>O usuário deve poder preencher um formulário de denúncia, incluindo detalhes sobre a empresa, a natureza da irregularidade e qualquer evidência disponível.<br><li>O sistema deve permitir que o usuário anexe documentos, fotos ou outros arquivos relevantes à sua denúncia.<br><li>O usuário deve receber uma confirmação após o envio da denúncia e ser informado sobre o status de sua solicitação.<br><li>O sistema deve garantir a confidencialidade das denúncias, protegendo a identidade do denunciante, se desejado.<br><li>O usuário deve poder acompanhar o progresso de sua denúncia e receber atualizações sobre as ações tomadas pela empresa ou autoridades competentes.<br><li>O sistema deve facilitar a comunicação entre o usuário e as autoridades responsáveis pela investigação da denúncia, se necessário. |
+| Prioridade       | Média |
+
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+
+</details>
+
