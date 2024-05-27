@@ -26,7 +26,7 @@ Segundo a dissertação “Um Catálogo de Requisitos Não-Funcionais para Siste
 
 ## O que é NFR framework?
 
-Segundo a dissertação “Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados”¹, de Reinaldo Antônio da Silva, o NFR (Non-Functional Requirements) framework, criado por Chung em 2000, é uma abordagem utilizada para o tratamento de Requisitos Não-Funcionais (RNFs) no desenvolvimento de sistemas. Isso porque este framework tem o objetivo de proporcionar uma rica representação desses requisitos, das suas relações e das suas correlações, o que ajuda os desenvolvedores a implementarem soluções personalizadas que atendam às necessidades específicas do sistema em questão.
+Segundo a dissertação “Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados”¹, de Reinaldo Antônio da Silva, o NFR (Non-Functional Requirements) framework, criado por Chung em 2000, é uma abordagem utilizada para o tratamento de Requisitos Não-Funcionais (RNFs) no desenvolvimento de sistemas. Isso porque este framework tem o objetivo de proporcionar uma rica representação desses requisitos, das suas relações e das suas correlações, o que ajuda os desenvolvedores a implementarem soluções personalizadas que atendam às necessidades específicas do aplicativo da carteira de trabalho digital.
 
 Para verificar os rameworks elaborasdos para o projeto, clique em [NFR framework](#Os-NFR-framework)
 
@@ -78,6 +78,12 @@ Segue na tabela 1 a lista dos Requisitos Não-Funcionais elicitados anteriorment
 
 
 ## Cartões de Especificação
+
+### O que são cartões de especificação?
+
+Novamente de acordo com a dissertação “Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados”¹, de Reinaldo Antônio da Silva, os cartões de especificação são instrumentos utilizados para detalhar os requisitos de um sistema. Para isso, eles contêm informações precisas e completas sobre cada requisito, servindo como uma referência para o desenvolvimento e a implementação do sistema. Por isso, esses cartões incluem descrições detalhadas, justificativas, critérios de aceitação, e quaisquer outras informações relevantes que assegurem a correta interpretação e implementação desses requisitos.
+
+Por isso, no projeto, serão desenvolvidos cartões de especificações para os requisitos não funcionais no aplicativo da Carteira de Trabalho Digital com o objetivo de a equipe entendê-los com mais detalhes.
 
 ### Metodologia dos cartões de especificação
 
