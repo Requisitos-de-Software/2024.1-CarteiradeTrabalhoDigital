@@ -221,5 +221,5 @@ Fonte: [Caio Mesquita]()
 | - | - | - | - | - |
 | 1.0 |  Adição da introdução e da metodologia   |  Caio Mesquita   |  Larissa Stéfane  |   26/05/2024   |
 | 1.1 |  Adição do reoteiro da reunião para o Backlog   |  Larissa Stéfane   |  Caio Mesquita |   26/05/2024   |
-| 1.2 | Adição da gravação da reunião   |  Caio Mesquita  |  - |   26/05/2024   |
+| 1.2 | Adição da gravação da reunião   |  Caio Mesquita  |  Bruno Araújo |   26/05/2024   |
 
