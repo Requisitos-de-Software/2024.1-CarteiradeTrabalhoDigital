@@ -1,7 +1,13 @@
 # NFR Framework
 
 ## Sumário
-
+* [Introdução](#Introdução)
+* [O que é NFR?](#O-que-é-NFR?)
+* [O que é NFR framework?](#O-que-é-NFR-framework?)
+* [Cartões de Especiicação](#Cartões-de-Especiicação)
+* [Referências Bibliográficas](#Referências-Bibliográficas)
+* [Histórico de Versão](#Histórico-de-Versão)
+  
 ## Introdução
 
 Este artefato tem como objetivo apresentar o framework de Requisitos Não Funcionais (RNF) para o desenvolvimento do aplicativo da Carteira de Trabalho Digital. Além disso, visa detalhar o cartão de especificação para os requisitos não funcionais identificados. Isso porque os RNF são fundamentais para garantir a qualidade, aeficiência e a usabilidade do aplicativo ao abordar  aspectos como desempenho, segurança, confiabilidade, entre outros. 
@@ -15,7 +21,7 @@ Segundo a dissertação “Um Catálogo de Requisitos Não-Funcionais para Siste
 2. RNFs descrevem atributos de qualidade que o produto deve possuir.
 
 
-## O que é NFR framework ?
+## O que é NFR framework?
 
 Segundo a dissertação “Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados”¹, de Reinaldo Antônio da Silva, o NFR (Non-Functional Requirements) framework, criado por Chung em 2000, é uma abordagem utilizada para o tratamento de Requisitos Não-Funcionais (RNFs) no desenvolvimento de sistemas. Isso porque este framework tem o objetivo de proporcionar uma rica representação desses requisitos, das suas relações e das suas correlações, o que ajuda os desenvolvedores a implementarem soluções personalizadas que atendam às necessidades específicas do sistema em questão.
 
@@ -35,7 +41,7 @@ De acordo com Chung², Há três tipos de softgoals:
 
 ### Metodologia
 
-Para criar os cartões de especificação dos requisitos não funcionais, será utilizado o modelo [Volere](https://www.volere.org/wp-content/uploads/2018/12/template14_ptbra.pdf), que oferece uma estrutura organizada e detalhada para capturar a maioria dos aspectos essenciais desses requisitos. Desse modo, inicialmente, será utilizado o código de identificação dos [requisitos não funcionais definidos na etapa de elicitação](Elicitacao/ResquisitosCorrigidos.md) com o intuito de garantir a sua rastreabilidade. Em seguida, será especificado o tipo de requisito (como desempenho, segurança, usabilidade, entre outros) para classificar adequadamente cada necessidade do sistema. Além disso, também haverá critérios de aceitação definidos para cada um deles, estabelecendo condições claras para a verificação da sua satisfação.
+Para criar os cartões de especificação dos requisitos não funcionais, será utilizado o modelo [Volere](https://www.volere.org/wp-content/uploads/2018/12/template14_ptbra.pdf)², que oferece uma estrutura organizada e detalhada para capturar a maioria dos aspectos essenciais desses requisitos. Desse modo, inicialmente, será utilizado o código de identificação dos [requisitos não funcionais definidos na etapa de elicitação](Elicitacao/ResquisitosCorrigidos.md) com o intuito de garantir a sua rastreabilidade. Em seguida, será especificado o tipo de requisito (como desempenho, segurança, usabilidade, entre outros) para classificar adequadamente cada necessidade do sistema. Além disso, também haverá critérios de aceitação definidos para cada um deles, estabelecendo condições claras para a verificação da sua satisfação.
 
 Cada cartão de especificação também incluirá a origem ou a fonte do requisito, pois terá como eles foram elicitados, por exemplo, [análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md). Além disso, serão documentadas as interdependências com outros requisitos ou componentes do sistema, o que ajudará a entender como os diferentes aspectos do sistema se relacionam. Ademais, com base na priorização dos requisitos, a prioridade de cada requisito será categorizada como alta, média ou baixa, auxiliando na gestão e na implementação das necessidades mais críticas. Assim, essa estrutura garantirá que os requisitos não funcionais sejam claramente definidos, compreendidos e ajudará a que eles sejam implementados de forma eficaz.
 
@@ -103,6 +109,12 @@ Abaixo, as tabelas de 2 a 5 mostram os cartões de especificação de design par
 ### 
 
 ## Referências Bibliográficas
+
+ 1. SILVA, Reinaldo Antônio. **NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados**. Recife, 2019. Disponível em <http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER20/21_WER_2020_paper_36.pdf> Acessado em 26/05/2024
+
+2. ROBERTSON, James; ROBERTSON, Suzanne. Modelo para Especificações de Requisitos. Edição 14. Associação Atlântica de Sistemas, agosto 2009. Disponível em <https://www.volere.org/wp-content/uploads/2018/12/template14_ptbra.pdf > Acessado em 26/05/2024 
+
+
 
 ## Histórico de Versão
 
