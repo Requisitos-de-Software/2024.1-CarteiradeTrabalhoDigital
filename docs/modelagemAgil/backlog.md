@@ -72,7 +72,7 @@ Por exemplo, dentro do tema "Gerenciamento de Perfil do Usuário", um épico pod
 
 #### Perguntas em relação aos requisitos funcionais elicitados
 
-** Cada um dos requisitos presentes na seguinte lista será apresentado ao participantes** 
+**Cada um dos requisitos presentes na seguinte lista será apresentado ao participantes** 
 
 <details>
   <summary size="20"><b> Requisitos Funcionais elicitados </b></summary> 
