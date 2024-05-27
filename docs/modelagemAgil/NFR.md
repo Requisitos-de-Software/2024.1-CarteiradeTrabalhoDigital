@@ -6,7 +6,8 @@
 * [O que é NFR framework?](#O-que-é-NFR-framework?)
 * [Requisitos Não Funcionais Elicitados Anteriormente](#Requisitos-Não-Funcionais-Elicitados-Anteriormente)
 * [Cartões de Especificação](#Cartões-de-Especificação)
-* [Framework](#Framework)
+* [SIG ou Softgoal Interdependency Graph](#SIG-ou-Softgoal-Interdependency-Graph)
+* [Os NFR framework](#Os-NFR-framework)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de Versão](#Histórico-de-Versão)
   
