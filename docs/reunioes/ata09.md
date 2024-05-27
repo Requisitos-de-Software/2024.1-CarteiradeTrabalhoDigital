@@ -95,7 +95,7 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 | Issue 13                | <b>Histórias de Usuário:</b> Histórias                                    | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 25/05/2024      |
 | ----------------------- | ------------------------------------------------------------------------- | ------------------------------------------------ | --------------- |
 | <b>Issue 14**</b>       | <b>NFR Framework:</b> Sumário, Introdução e Metodologia                   | Larissa Stéfane                                  | 25/05/2024      |
-| Issue 15                | <b>NFR Framework:</b> Participantes e RNFs Elicitados anteriormente       | Breno Alexandre                                  | 25/05/2024      |
+| Issue 15                | <b>NFR Framework:</b> RNFs Elicitados anteriormente                       | Breno Alexandre                                  | 25/05/2024      |
 | Issue 16                | <b>NFR Framework:</b> Cartões de Especificação                            | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 25/05/2024      |
 | Issue 17                | <b>NFR Framework:</b> Legendas e NFR 0 - Template                         | Caio Mesquita                                    | 25/05/2024      |
 | Issue 18                | <b>NFR Framework:</b> NFR 1: Usabilidade                                  | Caio Mesquita                                    | 25/05/2024      |
