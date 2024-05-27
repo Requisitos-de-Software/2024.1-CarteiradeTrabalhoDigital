@@ -89,8 +89,6 @@ A tabela 2 detalha os casos de uso do sistema de solicitação de benefícios, i
 
 **Tabela 2: Solicitação de Benefícios**
 
-**Tabela 1: Template dos casos de uso.**
-
 | Código História de Usuário | HU01 |
 |----------------------------|------|
 | **Título**                 | Preencher formulário de solicitação de benefício |
