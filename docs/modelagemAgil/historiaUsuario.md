@@ -366,8 +366,8 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
 | Código História de Usuário | HU24 |
 |----------------------------|------|
 | **Título**                 | Participar de fóruns de discussão sobre temas trabalhistas |
-| **Código do requisito funcional** | F24 |
-| **Rastreabilidade**        | RF24 |
+| **Código do requisito funcional** | F20 |
+| **Rastreabilidade**        | RF20 |
 | **Quem?**                  | Usuário |
 | **O que é?**               | Participar de fóruns de discussão sobre temas trabalhistas para trocar experiências e obter informações úteis |
 | **Por que ?**              | Para obter suporte e informações relevantes através da troca de experiências com outros usuários |
@@ -387,8 +387,8 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
 | Código História de Usuário | HU25 |
 |----------------------------|------|
 | **Título**                 | Acessar um canal de suporte direto pelo aplicativo |
-| **Código do requisito funcional** | F25 |
-| **Rastreabilidade**        | RF25 |
+| **Código do requisito funcional** | F20 |
+| **Rastreabilidade**        | RF20 |
 | **Quem?**                  | Usuário |
 | **O que é?**               | Acessar um canal de suporte direto pelo aplicativo para resolver dúvidas e problemas rapidamente |
 | **Por que ?**              | Para receber suporte imediato e eficiente em caso de problemas ou dúvidas sobre o uso do aplicativo |
@@ -408,8 +408,8 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
 | Código História de Usuário | HU26 |
 |----------------------------|------|
 | **Título**                 | Acessar um manual para o uso do aplicativo e possíveis dúvidas |
-| **Código do requisito funcional** | F26 |
-| **Rastreabilidade**        | RF26 |
+| **Código do requisito funcional** | F20 |
+| **Rastreabilidade**        | RF20 |
 | **Quem?**                  | Usuário |
 | **O que é?**               | Acessar um manual para o uso do aplicativo e possíveis dúvidas para me orientar no uso da plataforma |
 | **Por que ?**              | Para ter um guia de referência que ajude a entender e utilizar todas as funcionalidades do aplicativo |
