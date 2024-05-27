@@ -433,7 +433,7 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 |  Adição da introdução, da definição e dos objetivos, da metodologia e do template   |  Larissa Stéfane   |   Iago Passaglia  | 26/05/2024  |
-| 1.1 |  Adição História de Usuário e Título  |  Bruno Araújo   |   ---  | 27/05/2024  |
-| 1.2 |  Adição História de Usuário em relação ao épico 3: Contratos  |  Larissa Stéfane   |   ---  | 27/05/2024  |
-| 1.3 |  Adição História de Usuário em relação ao épico 6: Busca por empregos  |  Larissa Stéfane   |   ---  | 27/05/2024  |
-| 1.4 |  Adição História de Usuário em relação ao épico 8: Suporte  |  Pedro Izarias   |   ---  | 27/05/2024  |
+| 1.1 |  Adição História de Usuário e Título  |  Bruno Araújo   |   Iago Passaglia   | 27/05/2024  |
+| 1.2 |  Adição História de Usuário em relação ao épico 3: Contratos  |  Larissa Stéfane   |   Iago Passaglia   | 27/05/2024  |
+| 1.3 |  Adição História de Usuário em relação ao épico 6: Busca por empregos  |  Larissa Stéfane   |   Iago Passaglia   | 27/05/2024  |
+| 1.4 |  Adição História de Usuário em relação ao épico 8: Suporte  |  Pedro Izarias   |   Iago Passaglia   | 27/05/2024  |
