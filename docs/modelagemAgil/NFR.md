@@ -361,3 +361,4 @@ Abaixo, as tabelas de X a X mostram os cartões de de especificação de interfa
 | 1.1 |  Adição da metodologia e do Template dos cartões de especificação  |   Larissa Stéfane  |  Iago Passaglia   |    26/05/2024   |
 | 1.2 | Adicionar  Cartões de Especfiicação de Restrições de Design |   Larissa Stéfane  |  Iago Passaglia   |    26/05/2024   |
 | 1.3 | Adicionar  Cartões de Especfiicação de Interface |   Luana Medeiros |  -   |    27/05/2024   |
+| 1.3 | Adicionar  Cartões de Especfiicação de Desempenho |   Pedro Izarias |  -   |    27/05/2024   |
