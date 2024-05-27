@@ -10,8 +10,6 @@
 * []()
 
 
-
-
 ## Introdução
 
 O Backlog do produto é uma artefato proveniente de metodologias ágeis, onde há uma lista de funcionalidades a serem concebidas no projeto com o objetivo de manter a equipe alinhada com as tarefas que devem ser realizadas e dividir as tarefas de forma intuitiva e de fácil compreensão. Estas funcionalidades estão listadas de forma priorizadas com a participação do Product Owner (dono do produto) no processo de priorização.
@@ -25,125 +23,167 @@ Tabela 1: Modelo do Backlog do produto
 
 |Tema|Épico|História de Usuário|Prioridade|
 |-|-|-|-|
-|Generalizam o escopo das tarefas em grandes blocos mais abstratos |Formam o escopo das histórias de usuário mais bem definido, e menos abstrato que os temas | Neste documento serão citadas as histórias de usuário, as mesmas serão melhor detalhadas neste [link](modelagemAgil/historiaUsuario.md)| |
+|Generalizam o escopo das tarefas em grandes blocos mais abstratos |Formam o escopo das histórias de usuário mais bem definido, e menos abstrato que os temas | Neste documento serão citadas as histórias de usuário, as mesmas serão melhor detalhadas neste [link](modelagemAgil/historiaUsuario.md)| Nível de prioridade dividido em 3: Alto, médio e baixo. |
 
 Fonte: [Caio Mesquita]()
 
 </center>
 
-## Roteiro da Reunião para o Backlog
+## Entrevista com Product Owner
 
-### Apresentação do usuário/participante
+Foi realizado uma entrevista com um usuário fazendo o papel de Product Owner, que é detalhada abaixo, a fim de obter dados a respeito da divisão de tarefas a partir da ótica de um usuário do aplicativo.
+Foram apresentados os requisitos onde a usuária, a partir de sua concepção, se colocando como Product Owner da aplicação nos ajudou a definir o backlog do produto.
+A entrevista foi gravada e se encontra abaixo, caso não esteja disponível tente o acesso por este [link](https://youtu.be/vhNR2F1mrjQ)
 
-**Objetivo desta etapa:** Fazer a apresentação do usuário.
+### Cronograma e gravação
 
-- **Importante** - Perguntar sobre o consentimento: Falar sobre o porquê da reunião e falar sobre os seus direitos de armazenamentos de dados e perguntar se o participante concorda.
+Tabela 2: Cronograma entrevista Product Owner
+|||
+|:-:|:-:|
+|Entrevistador|Caio Mesquita|
+|Entrevistado|Natália Beatriz|
+|local|Microsoft Teams|
+|Horário e data|26/05/2024|
 
-#### Perguntas:
+Fonte: [Caio Mesquita]()
 
-- Qual o seu nome?
-- Desea complementar a sua apresentação?
-- Qual a sua relação com o aplicativo da carteira de trabalho digital?
+<center>
 
-### Revisão e análise dos requisitos
+Vídeo 1: Entrevista
 
-**Objetivo desta etapa:**  Entender o escopo de cada requisito e seu valor para o participante.
+<iframe width="680" height="520" src="https://www.youtube.com/embed/vhNR2F1mrjQ" title="Entrevista Natália Beatriz Backlog Requisitos G2 2024.1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### Explicar o que é backlog para o participante
 
-O backlog do produto é uma lista priorizada de itens que serão possivelmente desenvolvidos no sistema. Desse modo, é uma lista com prioridades dos requisitos ou funcionalidades do projeto que fornecem valor comercial.
+Fonte: [Caio Mesquita]()
+</center>
 
-É importante pontuar que novos itens podem ser adicionados a esse registro em qualquer momento (é assim que as alterações são introduzidas).
+## Backlog do produto
 
-#### Explicar o que são temas
+Após a entrevista, foram definidos 5 temas, onde na tabela abaixo será detalhado com seus épicos e histórias de usuário. Cada épico, tema e história possuirá um ID que o indentificará durante o processo de documentação.
 
-Temas são grandes áreas de funcionalidade ou objetivos gerais que agrupam vários requisitos relacionados. Eles ajudam a organizar o backlog em categorias amplas e permitem uma visão geral das funcionalidades que o sistema deve oferecer. 
 
-**Exemplo:** Um tema pode ser "Gerenciamento de Perfil do Usuário," o qual pode incluir todas as funcionalidades relacionadas ao cadastro, atualização e visualização de informações pessoais dos usuários.
+<center>
 
-#### Explicar o que são épicos
+Tabela 3: BackLog do produto
 
-Épicos são grandes histórias de usuário ou requisitos que representam uma funcionalidade complexa e de alto nível.
+<table>
+  <!-- Cabeçalho -->
+  <tr>
+    <th>Tema</th>
+    <th>Épico</th>
+    <th>História de Usuário</th>
+  </tr>
+  
+  <!-- Login e Perfil -->
+  <tr>
+    <td rowspan="5"><b>TM01 - Login e Perfil</b></td>
+    <td rowspan="3"><b>EP01 - Login</b></td>
+    <td>HI01 - Como usuário, eu quero entrar com meu CPF e senha para acessar minha conta.</td>
+  </tr>
+  <tr>
+    <td>HI02 - Como usuário, eu quero entrar com meu gov.br para acessar minha conta.</td>
+  </tr>
+  <tr>
+    <td>HI03 - Como usuário, eu quero recuperar minha senha usando meu email para voltar a acessar minha conta.</td>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>EP02 - Perfil</b></td>
+    <td>HI04 - Como usuário, eu quero visualizar meu perfil para ver minhas informações pessoais e profissionais.</td>
+  </tr>
+  <tr>
+    <td>HI05 - Como usuário, eu quero alterar os dados do meu perfil para mantê-los atualizados.</td>
+  </tr>
+  
+  <!-- Contratos de Trabalho e Benefícios -->
+  <tr>
+    <td rowspan="9"><b>TM02 - Contratos de Trabalho e Benefícios</b></td>
+    <td rowspan="5"><b>EP03 - Contratos</b></td>
+    <td>HI06 - Como usuário, eu quero visualizar meus contratos antigos para revisar minhas experiências anteriores.</td>
+  </tr>
+  <tr>
+    <td>HI07 - Como usuário, eu quero emitir contratos em PDF para ter uma cópia digital dos mesmos.</td>
+  </tr>
+  <tr>
+    <td>HI08 - Como usuário, eu quero visualizar gráficos com históricos de contratações e remunerações para entender minha trajetória profissional.</td>
+  </tr>
+  <tr>
+    <td>HI09 - Como usuário, eu quero realizar anotações sobre os contratos para adicionar informações relevantes.</td>
+  </tr>
+  <tr>
+    <td>HI10 - Como usuário, eu quero realizar denúncias trabalhistas para reportar irregularidades.</td>
+  </tr>
+  <tr>
+    <td rowspan="4"><b>EP04 - Benefícios</b></td>
+    <td>HI11 - Como usuário, eu quero consultar meus benefícios para saber o que tenho direito.</td>
+  </tr>
+  <tr>
+    <td>HI12 - Como usuário, eu quero solicitar benefícios diretamente pelo aplicativo para facilitar o processo.</td>
+  </tr>
+  <tr>
+    <td>HI13 - Como usuário, eu quero consultar dados a respeito de INSS e FGTS para acompanhar minhas contribuições.</td>
+  </tr>
+  <tr>
+    <td>HI14 - Como usuário, eu quero possuir um manual a respeito dos benefícios que tenho direito para entender melhor cada um deles.</td>
+  </tr>
+  
+  <!-- Integração com Empregadores -->
+  <tr>
+    <td rowspan="4"><b>TM03 - Integração com Empregadores</b></td>
+    <td rowspan="4"><b>EP05 - Usuário Empregador</b></td>
+    <td>HI15 - Como empregador, eu quero acessar o histórico de candidatos para verificar suas experiências anteriores.</td>
+  </tr>
+  <tr>
+    <td>HI16 - Como empregador, eu gostaria de lançar novos contratos no sistema para formalizar a contratação.</td>
+  </tr>
+  <tr>
+    <td>HI17 - Como empregador, eu quero alterar dados de contrato para manter as informações atualizadas.</td>
+  </tr>
+  <tr>
+    <td>HI18 - Como empregador, eu quero publicar vagas disponíveis no mural de vagas para atrair candidatos.</td>
+  </tr>
+  
+  <!-- Mural de Vagas -->
+  <tr>
+    <td rowspan="2"><b>TM04 - Mural de Vagas</b></td>
+    <td rowspan="2"><b>EP06 - Procura de Empregos</b></td>
+    <td>HI19 - Como usuário, eu gostaria de ter acesso a um mural de vagas disponíveis para encontrar oportunidades de emprego.</td>
+  </tr>
+  <tr>
+    <td>HI20 - Como usuário, eu gostaria de alterar meu status de contratação para informar minha disponibilidade no mercado de trabalho.</td>
+  </tr>
+  
+  <!-- Segurança e Suporte -->
+  <tr>
+    <td rowspan="6"><b>TM05 - Segurança e Suporte</b></td>
+    <td rowspan="3"><b>EP07 - Segurança</b></td>
+    <td>HI21 - Como usuário, eu quero configurar quem pode ver minhas informações para proteger minha privacidade.</td>
+  </tr>
+  <tr>
+    <td>HI22 - Como usuário, eu quero visualizar um relatório de todas as atividades na minha conta para monitorar acessos e ações.</td>
+  </tr>
+  <tr>
+    <td>HI23 - Como usuário, eu quero visualizar um relatório de todas as atividades na minha conta para monitorar acessos e ações.</td>
+  </tr>
+  <tr>
+    <td rowspan="3"><b>EP08 - Suporte</b></td>
+    <td>HI24 - Como usuário, eu quero participar de fóruns de discussão sobre temas trabalhistas para trocar experiências e obter informações úteis.</td>
+  </tr>
+  <tr>
+    <td>HI25 - Como usuário, eu quero acessar um canal de suporte direto pelo aplicativo para resolver dúvidas e problemas rapidamente.</td>
+  </tr>
+  <tr>
+    <td>HI26 - Como usuário, eu gostaria de um manual para o uso do aplicativo e possíveis dúvidas para me orientar no uso da plataforma.</td>
+  </tr>
+</table>
 
-Por exemplo, dentro do tema "Gerenciamento de Perfil do Usuário", um épico pode ser "Usuário pode atualizar suas informações pessoais" que depois pode ser decomposto em várias histórias de usuário menores, como "Usuário pode atualizar seu endereço" e "Usuário pode atualizar seu telefone".
-
-#### Perguntas em relação aos Temas:
-- Considerando o aplicativo da Carteira de Trabalho Digital, quais são os temas há no contexto?
-
-#### Perguntas em relação aos requisitos funcionais elicitados
-
-**Cada um dos requisitos presentes na seguinte lista será apresentado ao participantes** 
-
-<details>
-  <summary size="20"><b> Requisitos Funcionais elicitados </b></summary> 
 
 </center>
 
-**Tabela 2**: Requisitos Funcionais.
+<center>
 
+Fonte: [Caio Mesquita]()
 
-| Identificação do Requisito | Requisito | Técnica de Elicitação | Implementação |
-|-----------------------------|-----------|-----------------------|---------------|
-| RF01                          | Usuário se registrar no aplicativo | Análise de documentos | Sim |
-| RF02                          | Usuário poder fazer login para entrar na sua página pessoal | Análise de documentos | Sim |
-| RF03                          | Usuário pode consultar suas informações pessoais | Análise de documentos | Sim |
-| RF04                          | Usuário pode atualizar suas informações pessoais | entrevistas | Não |
-| RF05                          | Usuário trabalhador pode consultar contratos de trabalho | Análise de documentos | Sim |
-| RF06                          | Usuário trabalhador pode atualizar contratos de trabalho | Entrevistas | não |
-| RF07                          | Usuário pode gerar PDF com dados da carteira | Análise de documentos | Sim |
-| RF08                          | Usuário trabalhador visualizar gráficos com históricos e remunerações dos seus trabalhos | Análise de documentos | Sim |
-| RF09                          | Usuário pode realizar anotações | Análise de documentos | Sim |
-| RF10                          | Usuário trabalhador pode fazer denúncias trabalhistas contra a empresa | Entrevistas | Não |
-| RF11                          | Usuário trabalhador pode consultar informações sobre o FGTS e o INSS| Storytelling | Não |
-| RF12                          | Usuário trabalhador pode consultar benefícios (13º salário, férias remuneradas, adicional noturno, vale-transporte, vale-refeição, plano de saúde, abono salarial, benefício TAC-Taxista, Seguro Desemprego)| Análise de documentos, Entrevistas e Storytelling| incompleto |
-| RF13                          | Usuário trabalhador pode solicitar benefícios | Análise de documentos e entrevistas | Incompleto |
-| RF14                          | Usuário trabalhador pode atualizar(declarar) currículo | Entrevistas e Storytelling | Não |
-| RF15                          | Usuário trabalhador pode  ativar modo de status (procurando emprego ou não) | Entrevistas | Não |
-| RF16                          | Usuário trabalhador por verificar processor seletivos abertos | Análise de documentos | Incompleto |
-| RF17                          | Usuário pode ocultar dados sensíveis | Análise de documentos e storytelling | Sim |
-| RF18                          | Usuário trabalhador pode consultar o número da carteira e de série como CIPS | Storytelling | Não |
-| RF19                          | Usuário recebem notificações do aplicativo | Análise de documentos e Storytelling | Não |
-| RF20                          | Usuário pode consultar perguntas frequêntes | Storytelling e Entrevista| Não |
-| RF21                          | Usuário empresa pode consultar dados dos funcionários | Entrevistas e análse de documento | Sim |
-| RF22                          | Usuário empresa pode atualizar dados dos funcionários | Entrevistas e análse de documento | Incompleto |
-| RF23                          | Usuário empresa pode consultar contratos de trabalho | Entrevistas e análse de documento | Incompleto |
-| RF24                          | Usuário empresa pode gerar relatórios trabalhistas | Entrevistas | Incompleto |
-| RF25                          | Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos)| Entrevistas | Sim |
-| RF26                          | Usuário empresa pode cadastrar benefícios para a empresa | Entrevistas e análse de documento | Incompleto |
-| RF27                          | Usuário empresa pode gerenciar benefícios trabalhistas | Entrevistas | Incompleto |
-| RF28                          | Usuário empresa escolher modo de status: "Possui vagas de emprego" ou "Não posui vagas de emprego" | Entrevistas | Não |
-
-
-  **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
-
- </center> 
- </details>
-
-
-
-
-** Perguntas que devem ser feitas para cada um dos requisitos:**
-
-- Qual é o objetivo deste requisito?
-- Em qual tema você encaixa esse requisito?
-- Quem é o usuário principal para este requisito?
-- Por que o usuário precisa dessa funcionalidade (valor de negócio)?
-- Quais são os critérios de aceitação para esta funcionalidade?
-- Qual é o valor de negócio que este requisito proporciona? (importância para o sistema).
-- Qual é a prioridade deste requisito (baixa, média, alta)?
-- Este requisito é essencial para a funcionalidade básica do aplicativo?
-- Como podemos testar se este requisito foi implementado corretamente?
-- Quais recursos ou ferramentas serão necessários para implementar este requisito?
-- Como a decomposição desses épicos em histórias de usuário pode ser realizada de forma eficiente?
-
-### Perguntas finais – Após a apresentação dos requisitos elicitados.
-
-- Há algum requisito que você acha que precisa ser acrescentado na lista?
-
-- Há algum detalhe ou especificação em um requisito que precisa ser melhor esclarecido para garantir que a equipe de desenvolvimento entenda corretamente?
-
-
-
+</center>
 
 ## Bibliografia
 
