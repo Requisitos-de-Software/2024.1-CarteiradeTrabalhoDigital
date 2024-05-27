@@ -572,4 +572,4 @@ Abaixo, as tabelas de X a X mostram os cartões de de especificação de interfa
 | 1.2    | Adicionar  Cartões de Especfiicação de Restrições de Design       | Larissa Stéfane | Iago Passaglia | 26/05/2024 |
 | 1.3    | Adicionar  Cartões de Especfiicação de Interface                  | Luana Medeiros  | Bruno Araújo   | 27/05/2024 |
 | 1.4    | Adicionar  Cartões de Especfiicação de Desempenho                 | Pedro Izarias   | Bruno Araújo   | 27/05/2024 |
-| 1.5    | Adição da tabela de RNFs elicitados anteriormente                 | Breno Alexandre | -              | 27/05/2024 |
+| 1.5    | Adição da tabela de RNFs elicitados anteriormente                 | Breno Alexandre | Pedro Izarias        | 27/05/2024 |
