@@ -315,5 +315,5 @@ Em relação às histórias de usuários elicitadas no [backlog](modelagemAgil/b
 | - | - | - | - | - |
 | 1.0 |  Adição da introdução, da definição e dos objetivos, da metodologia e do template   |  Larissa Stéfane   |   Iago Passaglia  | 26/05/2024  |
 | 1.1 |  Adição História de Usuário e Título  |  Bruno Araújo   |   ---  | 27/05/2024  |
-
+| 1.2 |  Adição História de Usuário em relação ao épico 3: Contratos  |  Larissa Stéfane   |   ---  | 27/05/2024  |
 
