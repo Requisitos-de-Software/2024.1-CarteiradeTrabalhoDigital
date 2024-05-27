@@ -79,7 +79,7 @@ Segue na tabela 1 a lista dos Requisitos Não-Funcionais elicitados anteriorment
 
 ## Cartões de Especificação
 
-### Metodologia
+### Metodologia dos cartões de especificação
 
 Para criar os cartões de especificação dos requisitos não funcionais, será utilizado o modelo [Volere](https://www.volere.org/wp-content/uploads/2018/12/template14_ptbra.pdf)², que oferece uma estrutura organizada e detalhada para capturar a maioria dos aspectos essenciais desses requisitos. Desse modo, inicialmente, será utilizado o código de identificação dos [requisitos não funcionais definidos na etapa de elicitação](Elicitacao/ResquisitosCorrigidos.md) com o intuito de garantir a sua rastreabilidade. Em seguida, será especificado o tipo de requisito (como desempenho, segurança, usabilidade, entre outros) para classificar adequadamente cada necessidade do sistema. Além disso, também haverá critérios de aceitação definidos para cada um deles, estabelecendo condições claras para a verificação da sua satisfação.
 
