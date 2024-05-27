@@ -13,7 +13,7 @@
   
 ## Introdução
 
-Este artefato tem como objetivo apresentar o framework de Requisitos Não Funcionais (RNF) para o desenvolvimento do aplicativo da Carteira de Trabalho Digital. Além disso, visa detalhar o cartão de especificação para os requisitos não funcionais identificados. Isso porque os RNF são fundamentais para garantir a qualidade, aeficiência e a usabilidade do aplicativo ao abordar  aspectos como desempenho, segurança, confiabilidade, entre outros. 
+Este artefato tem como objetivo apresentar o framework de Requisitos Não Funcionais (RNF) para o desenvolvimento do aplicativo da Carteira de Trabalho Digital, assim, aqui serão mostrados sos cartões de especificação e o Softgoal Interdependency Graph (SIG). Isso porque os RNF são fundamentais para garantir a qualidade, a eficiência e a usabilidade do aplicativo ao abordar  aspectos como desempenho, segurança, confiabilidade, restrições de design, entre outros.. 
 
 ## O que é NFR?
 
