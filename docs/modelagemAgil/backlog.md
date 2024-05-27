@@ -38,8 +38,9 @@ A entrevista foi gravada e se encontra abaixo, caso não esteja disponível tent
 ### Cronograma e gravação
 
 Tabela 2: Cronograma entrevista Product Owner
+
 |||
-|:-:|:-:|
+|-|-|
 |Entrevistador|Caio Mesquita|
 |Entrevistado|Natália Beatriz|
 |local|Microsoft Teams|
