@@ -362,7 +362,7 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
  
 <center>
 
-**Tabela x:** Participar de fóruns de discussão sobre temas trabalhistas
+**Tabela 25:** Participar de fóruns de discussão sobre temas trabalhistas
 | Código História de Usuário | HU24 |
 |----------------------------|------|
 | **Título**                 | Participar de fóruns de discussão sobre temas trabalhistas |
@@ -383,7 +383,7 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
  
 <center>
 
-**Tabela x:**Acessar um canal de suporte direto pelo aplicativo
+**Tabela 26:**Acessar um canal de suporte direto pelo aplicativo
 | Código História de Usuário | HU25 |
 |----------------------------|------|
 | **Título**                 | Acessar um canal de suporte direto pelo aplicativo |
@@ -404,7 +404,7 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
  
 <center>
   
-**Tabela x:**Acessar um manual para o uso do aplicativo e possíveis dúvidas
+**Tabela 27:**Acessar um manual para o uso do aplicativo e possíveis dúvidas
 | Código História de Usuário | HU26 |
 |----------------------------|------|
 | **Título**                 | Acessar um manual para o uso do aplicativo e possíveis dúvidas |
