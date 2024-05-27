@@ -50,6 +50,9 @@ Consequentemente, esses SIGs servirão como ferramentas fundamentais para a desc
 
 Por meio do estudo dos requisitos não funcionais [RNF05](Elicitacao/ResquisitosCorrigidos.md), [RNF07](Elicitacao/ResquisitosCorrigidos.md), [RNF10](Elicitacao/ResquisitosCorrigidos.md) e [RNF12](Elicitacao/ResquisitosCorrigidos.md), foi elaborado um diagrama SIG para o campo de restrições de designe, sendo possível visualizá-lo na figura 2.
 
+<details>
+  <summary size="20"><b> Figura 2: NFR - Restrições de Design    </b></summary> 
+
  <center> 
   <font size="2"><p style="text-align: center">Figura 2: NFR restrições de Design. </p></font>
   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/ImagensEntrega4/RestricoesDesign_NFRframework2.png">
@@ -57,4 +60,6 @@ Por meio do estudo dos requisitos não funcionais [RNF05](Elicitacao/Resquisitos
  </center>
 
 Para visualizar melhor o diagrama, clique em [NFR - Restrições de Design](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/ImagensEntrega4/RestricoesDesign_NFRframework2.png) 
+
+</details>
 
