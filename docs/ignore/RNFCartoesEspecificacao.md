@@ -11,7 +11,7 @@
 
 | **Elemento**               | **Detalhes**                                                                                                                                          |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Identificador**          | [RNF05](Elicitacao/ResquisitosCorrigidos.md)                                                                                                          |
+| **Identificador na lista de requisitos**          | [RNF05](Elicitacao/ResquisitosCorrigidos.md)                                                                                   |
 | **Nome do Requisito**      | Padrões Tipográficos e de Siglas                                                                                                                      |
 | **Tipo de Requisito**      | Restrição de Design                                                                                                                                    |
 | **Descrição**              | Todos os textos do sistema devem seguir os padrões tipográficos, de ícones e de siglas, abreviações e erros conforme as normas dispostas em [Tipografia](https://www.gov.br/ds/fundamentos-visuais/tipografia), [Iconografia](https://www.gov.br/ds/fundamentos-visuais/iconografia), [Espaçamento](https://www.gov.br/ds/fundamentos-visuais/espacamento),         [Densidade](https://www.gov.br/ds/padroes/design/densidade)                      |
@@ -37,7 +37,7 @@
 
 | **Elemento**               | **Detalhes**                                                                                                                                          |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Identificador**          | RNF07                                                                                                                                                 |
+| **Identificador na lista de requisitos**          | [RNF07](Elicitacao/ResquisitosCorrigidos.md)                                                                                                                                                 |
 | **Nome do Requisito**      | Elementos básicos de design conforme padrão digital de governo                                                                                                                             |
 | **Tipo de Requisito**      | Restrição de Design                                                                                                                                    |
 | **Descrição**              | A interface do sistema deve incluir a iconografia de acordo com o definido em [design ajuda e comunicação](https://www.gov.br/ds/padroes/design/ajuda-comunicacao), o elemento flutuante de acordo com o [dropdown](https://www.gov.br/ds/padroes/design/dropdown), os gráficos de acordo com a [anatomia dos gráficos](https://www.gov.br/ds/padroes/design/grafico) e obedecer os [Princípios de UX Writing](https://www.gov.br/ds/padroes/writing/principios-writing). |
@@ -66,7 +66,7 @@
 
 | **Elemento**               | **Detalhes**                                                                                                                                          |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Identificador**          | RNF10                                                                                                                                                 |
+| **Identificador na lista de requisitos**          | [RNF10](Elicitacao/ResquisitosCorrigidos.md)                                                                             |
 | **Nome do Requisito**      | Suporte a Ferramentas de Acessibilidade                                                                                                               |
 | **Tipo de Requisito**      | Restrição de Design                                                                                                                                    |
 | **Descrição**              | O sistema deve oferecer suporte a ampliadores de telas, leitores de telas, programas de reconhecimento de voz, teclados alternativos e dispositivos apontadores alternativos, e ser testado com pelo menos duas ferramentas de acessibilidade diferentes de acordo com [acessibilidade](https://www.gov.br/ds/acessibilidade). |
@@ -93,7 +93,7 @@
 
 | **Elemento**               | **Detalhes**                                                                                                                                          |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Identificador**          | RNF12                                                                                                                                                 |
+| **Identificador na lista de requisitos**          | [RNF12[(Elicitacao/ResquisitosCorrigidos.md)                                                                                   |
 | **Nome do Requisito**      | Vocabulários Controlados e Taxonomias                                                                                                                 |
 | **Tipo de Requisito**      | Restrição de Design                                                                                                                                    |
 | **Descrição**              | O sistema deve utilizar vocabulários controlados e taxonomias padrão do governo, conforme especificado na documentação em [Princípios de UX Writing](https://www.gov.br/ds/padroes/writing/principios-writing) e [Microcopy](https://www.gov.br/ds/padroes/writing/microcopy)                               |
