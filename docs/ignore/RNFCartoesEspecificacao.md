@@ -1,5 +1,7 @@
 # Cartões de Especfiicação de Restrições de Design
 
+**Observação:** Os Critérios de aceitação foram retirados diretamento dos documentos análisados, pois eles possuem um conjunto de normas e diretrizer. Assim, esses documentos podem ser acessados por meio das palavras destacadas no campo de descrição da tabela.
+
 ## Padrões Tipográficos e de Siglas
 
 <details>
