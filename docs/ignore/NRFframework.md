@@ -63,3 +63,10 @@ Para visualizar melhor o diagrama, clique em [NFR - Restrições de Design](http
 
 </details>
 
+
+
+
+
+Novamente de acordo com a dissertação “Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados”¹, de Reinaldo Antônio da Silva, os cartões de especificação são instrumentos utilizados para detalhar os requisitos de um sistema. Para isso, eles contêm informações precisas e completas sobre cada requisito, servindo como uma referência para o desenvolvimento e a implementação do sistema. Por isso, esses cartões incluem descrições detalhadas, justificativas, critérios de aceitação, e quaisquer outras informações relevantes que assegurem a correta interpretação e implementação desses requisitos.
+
+Por isso, no projeto, serão desenvolvidos cartões de especificações para os requisitos não funcionais no aplicativo da Carteira de Trabalho Digital com o objetivo de a equipe entendê-los com mais detalhes.
