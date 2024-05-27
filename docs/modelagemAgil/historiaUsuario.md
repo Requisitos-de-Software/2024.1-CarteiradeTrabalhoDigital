@@ -439,6 +439,7 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
 <center>
 
 **Tabela 25:** Participar de fóruns de discussão sobre temas trabalhistas
+
 | Código História de Usuário | HU24 |
 |----------------------------|------|
 | **Título**                 | Participar de fóruns de discussão sobre temas trabalhistas |
@@ -450,6 +451,8 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
 | **Critérios de Aceitação** | <ul><li>Usuário deve conseguir acessar diferentes fóruns de discussão pelo aplicativo.</li><li>Usuário deve poder postar e responder a tópicos nos fóruns.</li><li>Os fóruns devem ser moderados para manter a relevância e respeito nas discussões.</li></ul> |
 | **Prioridade**             | Baixo |
 
+
+**Fonte:** [Pedro Izarias](https://github.com/Izarias)
 </center>
 
 </details>
@@ -460,6 +463,7 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
 <center>
 
 **Tabela 26:**Acessar um canal de suporte direto pelo aplicativo
+
 | Código História de Usuário | HU25 |
 |----------------------------|------|
 | **Título**                 | Acessar um canal de suporte direto pelo aplicativo |
@@ -471,6 +475,7 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
 | **Critérios de Aceitação** | <ul><li>Usuário deve conseguir acessar o canal de suporte diretamente pelo aplicativo.</li><li>O suporte deve estar disponível durante o horário comercial.</li><li>As respostas devem ser rápidas e úteis para resolver as dúvidas ou problemas dos usuários.</li></ul> |
 | **Prioridade**             | Alto |
 
+**Fonte:** [Pedro Izarias](https://github.com/Izarias)
 </center>
 
 </details>
@@ -481,6 +486,7 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
 <center>
   
 **Tabela 27:**Acessar um manual para o uso do aplicativo e possíveis dúvidas
+
 | Código História de Usuário | HU26 |
 |----------------------------|------|
 | **Título**                 | Acessar um manual para o uso do aplicativo e possíveis dúvidas |
@@ -492,6 +498,7 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
 | **Critérios de Aceitação** | <ul><li>Manual deve estar disponível diretamente no aplicativo.</li><li>Manual deve cobrir todas as principais funcionalidades do aplicativo.</li><li>Usuário deve poder buscar por tópicos específicos no manual.</li></ul> |
 | **Prioridade**             | Médio |
 
+**Fonte:** [Pedro Izarias](https://github.com/Izarias)
 </center>
 
 </details>
