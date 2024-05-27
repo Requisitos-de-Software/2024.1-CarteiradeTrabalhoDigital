@@ -4,10 +4,10 @@
 
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
-* [Roteiro da Reunião para o Backlog](#Roteiro-da-Reunião-para-o-Backlog)
-* []()
-* []()
-* []()
+* [Entrevista com Product Owner](#entrevista-com-product-owner)
+* [Backlog](#backlog)
+* [Bibliografia](#bibliografia)
+* [Histórico de versão](#histórico-de-versão)
 
 
 ## Introdução
@@ -57,7 +57,7 @@ Vídeo 1: Entrevista
 Fonte: [Caio Mesquita]()
 </center>
 
-## Backlog do produto
+## Backlog 
 
 Após a entrevista, foram definidos 5 temas, onde na tabela abaixo será detalhado com seus épicos e histórias de usuário. Cada épico, tema e história possuirá um ID que o indentificará durante o processo de documentação.
 
@@ -72,118 +72,140 @@ Tabela 3: BackLog do produto
     <th>Tema</th>
     <th>Épico</th>
     <th>História de Usuário</th>
+    <th>Prioridade</th>
   </tr>
-  
   <!-- Login e Perfil -->
   <tr>
     <td rowspan="5"><b>TM01 - Login e Perfil</b></td>
     <td rowspan="3"><b>EP01 - Login</b></td>
     <td>HI01 - Como usuário, eu quero entrar com meu CPF e senha para acessar minha conta.</td>
+    <td>Alto</td>
   </tr>
   <tr>
     <td>HI02 - Como usuário, eu quero entrar com meu gov.br para acessar minha conta.</td>
+    <td>Alto</td>
   </tr>
   <tr>
     <td>HI03 - Como usuário, eu quero recuperar minha senha usando meu email para voltar a acessar minha conta.</td>
+    <td>Alto</td>
   </tr>
   <tr>
     <td rowspan="2"><b>EP02 - Perfil</b></td>
     <td>HI04 - Como usuário, eu quero visualizar meu perfil para ver minhas informações pessoais e profissionais.</td>
+    <td>Alto</td>
   </tr>
   <tr>
     <td>HI05 - Como usuário, eu quero alterar os dados do meu perfil para mantê-los atualizados.</td>
+    <td>Alto</td>
   </tr>
-  
   <!-- Contratos de Trabalho e Benefícios -->
   <tr>
     <td rowspan="9"><b>TM02 - Contratos de Trabalho e Benefícios</b></td>
     <td rowspan="5"><b>EP03 - Contratos</b></td>
     <td>HI06 - Como usuário, eu quero visualizar meus contratos antigos para revisar minhas experiências anteriores.</td>
+    <td>Alto</td>
   </tr>
   <tr>
     <td>HI07 - Como usuário, eu quero emitir contratos em PDF para ter uma cópia digital dos mesmos.</td>
+    <td>Médio</td>
   </tr>
   <tr>
     <td>HI08 - Como usuário, eu quero visualizar gráficos com históricos de contratações e remunerações para entender minha trajetória profissional.</td>
+    <td>Baixo</td>
   </tr>
   <tr>
     <td>HI09 - Como usuário, eu quero realizar anotações sobre os contratos para adicionar informações relevantes.</td>
+    <td>Baixo</td>
   </tr>
   <tr>
     <td>HI10 - Como usuário, eu quero realizar denúncias trabalhistas para reportar irregularidades.</td>
+    <td>Médio</td>
   </tr>
   <tr>
     <td rowspan="4"><b>EP04 - Benefícios</b></td>
     <td>HI11 - Como usuário, eu quero consultar meus benefícios para saber o que tenho direito.</td>
+    <td>Alto</td>
   </tr>
   <tr>
     <td>HI12 - Como usuário, eu quero solicitar benefícios diretamente pelo aplicativo para facilitar o processo.</td>
+    <td>Alto</td>
   </tr>
   <tr>
     <td>HI13 - Como usuário, eu quero consultar dados a respeito de INSS e FGTS para acompanhar minhas contribuições.</td>
+    <td>Alto</td>
   </tr>
   <tr>
     <td>HI14 - Como usuário, eu quero possuir um manual a respeito dos benefícios que tenho direito para entender melhor cada um deles.</td>
+    <td>Médio</td>
   </tr>
-  
   <!-- Integração com Empregadores -->
   <tr>
     <td rowspan="4"><b>TM03 - Integração com Empregadores</b></td>
     <td rowspan="4"><b>EP05 - Usuário Empregador</b></td>
     <td>HI15 - Como empregador, eu quero acessar o histórico de candidatos para verificar suas experiências anteriores.</td>
+    <td>Médio</td>
   </tr>
   <tr>
     <td>HI16 - Como empregador, eu gostaria de lançar novos contratos no sistema para formalizar a contratação.</td>
+    <td>Alto</td>
   </tr>
   <tr>
     <td>HI17 - Como empregador, eu quero alterar dados de contrato para manter as informações atualizadas.</td>
+    <td>Alto</td>
   </tr>
   <tr>
     <td>HI18 - Como empregador, eu quero publicar vagas disponíveis no mural de vagas para atrair candidatos.</td>
+    <td>Médio</td>
   </tr>
-  
   <!-- Mural de Vagas -->
   <tr>
     <td rowspan="2"><b>TM04 - Mural de Vagas</b></td>
     <td rowspan="2"><b>EP06 - Procura de Empregos</b></td>
     <td>HI19 - Como usuário, eu gostaria de ter acesso a um mural de vagas disponíveis para encontrar oportunidades de emprego.</td>
+    <td>Baixo</td>
   </tr>
   <tr>
     <td>HI20 - Como usuário, eu gostaria de alterar meu status de contratação para informar minha disponibilidade no mercado de trabalho.</td>
+    <td>Baixo</td>
   </tr>
-  
   <!-- Segurança e Suporte -->
   <tr>
     <td rowspan="6"><b>TM05 - Segurança e Suporte</b></td>
     <td rowspan="3"><b>EP07 - Segurança</b></td>
     <td>HI21 - Como usuário, eu quero configurar quem pode ver minhas informações para proteger minha privacidade.</td>
+    <td>Alto</td>
   </tr>
   <tr>
     <td>HI22 - Como usuário, eu quero visualizar um relatório de todas as atividades na minha conta para monitorar acessos e ações.</td>
+    <td>Alto</td>
   </tr>
   <tr>
     <td>HI23 - Como usuário, eu quero visualizar um relatório de todas as atividades na minha conta para monitorar acessos e ações.</td>
+    <td>Alto</td>
   </tr>
   <tr>
     <td rowspan="3"><b>EP08 - Suporte</b></td>
     <td>HI24 - Como usuário, eu quero participar de fóruns de discussão sobre temas trabalhistas para trocar experiências e obter informações úteis.</td>
+    <td>Baixo</td>
   </tr>
   <tr>
     <td>HI25 - Como usuário, eu quero acessar um canal de suporte direto pelo aplicativo para resolver dúvidas e problemas rapidamente.</td>
+    <td>Alto</td>
   </tr>
   <tr>
     <td>HI26 - Como usuário, eu gostaria de um manual para o uso do aplicativo e possíveis dúvidas para me orientar no uso da plataforma.</td>
+    <td>Médio</td>
   </tr>
 </table>
-
-
-</center>
-
-<center>
 
 Fonte: [Caio Mesquita]()
 
 </center>
+
+
+
+
+
 
 ## Bibliografia
 
@@ -197,4 +219,6 @@ Fonte: [Caio Mesquita]()
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 |  Adição da introdução e da metodologia   |  Caio Mesquita   |  Larissa Stéfane  |   26/05/2024   |
-| 1.1 |  Adição do reoteiro da reunião para o Backlog   |  Larissa Stéfane   |  - |   26/05/2024   |
+| 1.1 |  Adição do reoteiro da reunião para o Backlog   |  Larissa Stéfane   |  Caio Mesquita |   26/05/2024   |
+| 1.2 | Adição da gravação da reunião   |  Caio Mesquita  |  - |   26/05/2024   |
+
