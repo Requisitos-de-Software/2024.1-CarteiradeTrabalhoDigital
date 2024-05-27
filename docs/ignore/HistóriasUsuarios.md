@@ -17,9 +17,8 @@ Em relação às histórias de usuários elicitadas no [backlog](modelagemAgil/b
 | Quem?           | Usuário Trabalhador de Carteira Assinada |
 | O que é?           | Permitir ao usuário visualizar uma lista de seus contratos antigos armazenados no sistema. |
 | Por que ?         | O usuário, que já trabalhou em múltiplos empregos de carteira assinada, deseja revisar suas experiências anteriores e os termos dos contratos para referência e reflexão sobre sua carreira profissional. |
-| Critérios de Aceitação | <li>O sistema exibe uma lista de contratos antigos do usuário, incluindo detalhes como nome da empresa, cargo, data de início e término do contrato.<br><li>O usuário pode acessar detalhes completos de cada contrato ao clicar em uma entrada da lista.<br><li>A lista de contratos é ordenada cronologicamente, com os contratos mais recentes no topo. |
+| Critérios de Aceitação | <li>O sistema deve exibir uma lista de contratos antigos do usuário, incluindo detalhes como nome da empresa, cargo, data de início e término do contrato.<br><li>O usuário deve poder acessar detalhes completos de cada contrato ao clicar em uma entrada da lista.<br><li>A lista de contratos deve ser ordenada cronologicamente, com os contratos mais recentes no topo. |
 | Prioridade       | Alta |
-
 
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
@@ -28,7 +27,12 @@ Em relação às histórias de usuários elicitadas no [backlog](modelagemAgil/b
 
 </details>
 
-
+<details>
+  <summary size="20"><b> HI07 - Emitir PDF </b></summary> 
+ 
+<center>
+  
+**Tabela 8:** Emitir PDF
 
 | Código História de Usuário | HI07 |
 |------------------|--------|
@@ -38,10 +42,21 @@ Em relação às histórias de usuários elicitadas no [backlog](modelagemAgil/b
 | Quem?           | Usuário Trabalhador de Carteira Assinada |
 | O que é?           | Permitir ao usuário gerar uma cópia digital em formato PDF de seus contratos armazenados no sistema. |
 | Por que ?         | O usuário deseja manter uma cópia digital segura e facilmente acessível de seus contratos para referência futura, compartilhamento com terceiros ou armazenamento pessoal. |
-| Critérios de Aceitação | <li>O sistema oferece a opção de gerar um arquivo PDF para cada contrato individualmente.<br><li>O usuário pode baixar o PDF do contrato em seu dispositivo após a emissão.<br><li>O PDF gerado inclui todos os detalhes do contrato, como nome da empresa, cargo, data de início e término, de forma clara e legível. |
+| Critérios de Aceitação | <li>O sistema deve oferecer a opção de gerar um arquivo PDF para cada contrato individualmente.<br><li>O usuário deve poder baixar o PDF do contrato em seu dispositivo após a emissão.<br><li>O PDF gerado deve incluir todos os detalhes do contrato, como nome da empresa, cargo, data de início e término, de forma clara e legível. |
 | Prioridade       | Média |
 
----
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+
+</details>
+
+<details>
+  <summary size="20"><b> HI08 - Visualizar gráficos de contratos </b></summary> 
+ 
+<center>
+
+**Tabela 9:** Visualizar contratos Antigos
 
 | Código História de Usuário | HI08 |
 |------------------|--------|
@@ -51,10 +66,21 @@ Em relação às histórias de usuários elicitadas no [backlog](modelagemAgil/b
 | Quem?           | Usuário Trabalhador de Carteira Assinada |
 | O que é?           | Permitir ao usuário visualizar gráficos que representam seu histórico de contratações e remunerações ao longo do tempo. |
 | Por que ?         | O usuário deseja entender melhor sua trajetória profissional, identificando tendências, padrões de contratação e variações salariais ao longo do tempo. |
-| Critérios de Aceitação | <li>O sistema gera gráficos intuitivos que mostram o número de contratações ao longo dos anos e a remuneração associada a cada contrato.<br><li>O usuário pode filtrar os gráficos por período específico, tipo de contrato, ou outras métricas relevantes.<br><li>Os gráficos são atualizados automaticamente conforme novos contratos são adicionados ou alterados. |
-| Prioridade       | Alta |
+| Critérios de Aceitação | <li>O sistema deve gerar gráficos intuitivos que mostram o número de contratações ao longo dos anos e a remuneração associada a cada contrato.<br><li>O usuário deve poder filtrar os gráficos por período específico, tipo de contrato, ou outras métricas relevantes.<br><li>Os gráficos devem ser atualizados automaticamente conforme novos contratos são adicionados ou alterados. |
+| Prioridade       | Baixa |
 
----
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+
+</details>
+
+<details>
+  <summary size="20"><b> HI09 - Realizar anotações em contratos </b></summary> 
+ 
+<center>
+
+**Tabela 10:** Visualizar contratos Antigos
 
 | Código História de Usuário | HI09 |
 |------------------|--------|
@@ -64,5 +90,11 @@ Em relação às histórias de usuários elicitadas no [backlog](modelagemAgil/b
 | Quem?           | Usuário Trabalhador de Carteira Assinada |
 | O que é?           | Permitir ao usuário adicionar notas e comentários personalizados aos contratos armazenados no sistema. |
 | Por que ?         | O usuário deseja ter a capacidade de registrar informações adicionais ou observações relevantes sobre seus contratos para referência futura ou para documentar detalhes específicos de sua experiência de trabalho. |
-| Critérios de Aceitação | <li>O sistema fornece uma interface para que o usuário adicione anotações aos contratos existentes.<br><li>As anotações são armazenadas junto com os detalhes do contrato e podem ser visualizadas a qualquer momento.<br><li>O usuário pode editar ou excluir suas anotações conforme necessário. |
-| Prioridade       | Média |
+| Critérios de Aceitação | <li>O sistema deve fornecer uma interface para que o usuário adicione anotações aos contratos existentes.<br><li>As anotações devem ser armazenadas junto com os detalhes do contrato e podem ser visualizadas a qualquer momento.<br><li>O usuário deve poder editar ou excluir suas anotações conforme necessário. |
+| Prioridade       | Baixa |
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+
+</details>
