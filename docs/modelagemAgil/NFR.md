@@ -342,8 +342,87 @@ Abaixo, as tabelas de X a X mostram os cartões de de especificação de interfa
 
 ### Cartões de Acessiibilidade
 
+</center>
 
-### 
+</details>
+
+<details>
+  <summary size="20"><b> Incluir todos os elementos básicos de design do Padrão Digital de Governo.   </b></summary> 
+ 
+</center>
+
+| **Elemento**               | **Detalhes**                                                                                                                                          |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Identificador**          | [NFR01](Elicitacao/ResquisitosCorrigidos.md)                                                                                                          |
+| **Nome do Requisito**      | Compatibilidade com Leitores de Tela                                                                                               |
+| **Tipo de Requisito**      | Acessibilidade                                                                                                                                    |
+| **Descrição**              | O aplicativo deve ser compatível com leitores de tela, para permitir que pessoas com deficiência visual utilizem todas as funcionalidades.                      |
+| **Justificativa/Racionalidade** | Garantir a inclusão e acessibilidade de todos os usuários, especialmente aqueles com deficiência visual.                   |
+| **Critérios de Aceitação** | <ul><li>O aplicativo deve ser totalmente funcional com os principais leitores de tela do mercado.</li></ul>                                                       |
+| **Origem/Fonte**           | [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md)                                                                  |
+| **Prioridade**             | Alta Prioridade                                                                                                                                    |
+| **Interdependências**      | NFR02 (Compatibilidade com leitores de tela está relacionada ao contraste adequado de texto e fundo para garantir acessibilidade completa).                                                                                        |
+| **Notas e Comentários**    |                                                                                                   |
+
+| **Elemento**               | **Detalhes**                                                                                                                                          |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Identificador**          | [NFR02](Elicitacao/ResquisitosCorrigidos.md)                                                                                                          |
+| **Nome do Requisito**      | Contraste Adequado entre Texto e Fundo                                                                                               |
+| **Tipo de Requisito**      | Acessibilidade                                                                                                                                    |
+| **Descrição**              | O aplicativo deve ter contraste adequado entre texto e fundo, para garantir a legibilidade por pessoas com baixa visão.                      |
+| **Justificativa/Racionalidade** | Facilitar a leitura e utilização do aplicativo por pessoas com baixa visão, promovendo inclusão e usabilidade.                   |
+| **Critérios de Aceitação** | <ul><li>O contraste deve seguir as diretrizes WCAG 2.1 de nível AA.</li></ul>                                                       |
+| **Origem/Fonte**           | [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md)                                                                  |
+| **Prioridade**             | Alta Prioridade                                                                                                                                    |
+| **Interdependências**      | NFR01 (Contraste adequado é necessário para compatibilidade com leitores de tela).                                                                                        |
+| **Notas e Comentários**    |                                                                                                   |
+
+| **Elemento**               | **Detalhes**                                                                                                                                          |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Identificador**          | [NFR03](Elicitacao/ResquisitosCorrigidos.md)                                                                                                          |
+| **Nome do Requisito**      | Navegabilidade via Teclado                                                                                               |
+| **Tipo de Requisito**      | Acessibilidade                                                                                                                                    |
+| **Descrição**              | Todos os elementos interativos devem ser navegáveis via teclado, para garantir acessibilidade a pessoas com mobilidade reduzida.                      |
+| **Justificativa/Racionalidade** | Garantir que usuários com mobilidade reduzida possam utilizar todas as funcionalidades do aplicativo sem barreiras.                   |
+| **Critérios de Aceitação** | <ul><li>Todos os elementos interativos devem ser acessíveis e utilizáveis apenas com o teclado.</li></ul>                                                       |
+| **Origem/Fonte**           | [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md)                                                                  |
+| **Prioridade**             | Alta Prioridade                                                                                                                                    |
+| **Interdependências**      | NFR04 (Navegabilidade via teclado é complementada por alternativas textuais para elementos não textuais).                                                                                        |
+| **Notas e Comentários**    |                                                                                                   |
+
+| **Elemento**               | **Detalhes**                                                                                                                                          |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Identificador**          | [NFR04](Elicitacao/ResquisitosCorrigidos.md)                                                                                                          |
+| **Nome do Requisito**      | Alternativas Textuais para Elementos Não Textuais                                                                                               |
+| **Tipo de Requisito**      | Acessibilidade                                                                                                                                    |
+| **Descrição**              | O aplicativo deve fornecer alternativas textuais para todos os elementos não textuais, como imagens e ícones, para ser acessível a pessoas com deficiência visual.                      |
+| **Justificativa/Racionalidade** | Garantir que informações transmitidas por elementos visuais também sejam acessíveis a usuários com deficiência visual.                   |
+| **Critérios de Aceitação** | <ul><li>Todas as imagens, ícones e outros elementos não textuais devem ter descrições alternativas adequadas.</li></ul>                                                       |
+| **Origem/Fonte**           | [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md)                                                                  |
+| **Prioridade**             | Alta Prioridade                                                                                                                                    |
+| **Interdependências**      | NFR03 (Alternativas textuais são necessárias para a navegação via teclado).                                                                                        |
+| **Notas e Comentários**    |                                                                                                   |
+
+| **Elemento**               | **Detalhes**                                                                                                                                          |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Identificador**          | [NFR05](Elicitacao/ResquisitosCorrigidos.md)                                                                                                          |
+| **Nome do Requisito**      | Instruções Claras para Preenchimento de Formulários                                                                                               |
+| **Tipo de Requisito**      | Usabilidade                                                                                                                                    |
+| **Descrição**              | As instruções para o preenchimento de formulários devem ser claras e descritivas, para garantir que todos os usuários possam fornecer as informações necessárias corretamente.                      |
+| **Justificativa/Racionalidade** | Facilitar a correta e eficiente utilização dos formulários, reduzindo erros e aumentando a satisfação do usuário.                   |
+| **Critérios de Aceitação** | <ul><li>Instruções devem ser detalhadas e compreensíveis, minimizando a necessidade de suporte adicional.</li></ul>                                                       |
+| **Origem/Fonte**           | [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md)                                                                  |
+| **Prioridade**             | Média Prioridade                                                                                                                                    |
+| **Interdependências**      |                                                                                                   |
+| **Notas e Comentários**    |                                                                                                   |
+
+
+
+[Bruno Araújo](https://github.com/brunocva)
+</center>
+
+</details>
+
 
 ## Referências Bibliográficas
 
