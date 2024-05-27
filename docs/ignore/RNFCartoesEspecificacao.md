@@ -54,3 +54,32 @@
 </center>
 
 </details>
+
+</details>
+
+<details>
+  <summary size="20"><b> Acessibilidade no design </b></summary> 
+ 
+</center>
+
+**Tabela 4:** Acessibilidade no design
+
+| **Elemento**               | **Detalhes**                                                                                                                                          |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Identificador**          | RNF10                                                                                                                                                 |
+| **Nome do Requisito**      | Suporte a Ferramentas de Acessibilidade                                                                                                               |
+| **Tipo de Requisito**      | Restrição de Design                                                                                                                                    |
+| **Descrição**              | O sistema deve oferecer suporte a ampliadores de telas, leitores de telas, programas de reconhecimento de voz, teclados alternativos e dispositivos apontadores alternativos, e ser testado com pelo menos duas ferramentas de acessibilidade diferentes de acordo com [acessibilidade](https://www.gov.br/ds/acessibilidade). |
+| **Justificativa/Racionalidade** | Garantir que o sistema seja acessível a todos os usuários, incluindo aqueles com deficiências. Isso porque a implementação de ferramentas de acessibilidade promove a inclusão digital e cumpre requisitos legais, além de melhorar a usabilidade geral do sistema para todos os usuários. |
+| **Critérios de Aceitação** | Diretrizes de acordo com o World Wide Web Consortium (W3C) e o Conteúdo Web (WCAG): <br>  <li> Diretriz 1.1 Alternativas em Texto: Fornecer alternativas textuais para qualquer conteúdo não textual, para que possa ser transformado em outras formas de acordo com as necessidades dos usuários, tais como impressão com tamanho de fontes maiores, braille, fala, símbolos ou linguagem mais simples;  <li>  Diretriz 1.2 Mídias com base em tempo: Fornecer alternativas para mídias baseadas em tempo;  <li>  Diretriz 1.3 Adaptável: Criar conteúdo que pode ser apresentado de diferentes maneiras, por exemplo um layout simplificado, sem perder informação ou estrutura; <li> Diretriz 1.4 Discernível: Facilitar a audição e a visualização de conteúdo aos usuários, incluindo a separação entre o primeiro plano e o plano de fundo. <li>  Diretriz 2.1: Acessível por Teclado: Fazer com que toda funcionalidade fique disponível a partir de um teclado.  <li> Diretriz 2.2 Tempo Suficiente: Fornecer aos usuários tempo suficiente para ler e utilizar o conteúdo;  <li> Diretriz 2.3 Convulsões e Reações Físicas: Não criar conteúdo de uma forma conhecida por causar convulsões e reações físicas; <li>  Diretriz 2.4 Navegável: Fornecer maneiras de ajudar os usuários a navegar, localizar conteúdos e determinar onde se encontram; <li>  Diretriz 2.5 Modalidades de Entrada: Torna mais fácil para os usuários operar a funcionalidade por meio de várias entradas além do teclado.  </ul>                                                             |
+| **Origem/Fonte**           | [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md)                                                                                                                                   |
+| **Prioridade**             | Alta                                                                                                                                                  |
+| **Interdependências**      | -                                                                                                   |
+| **Notas e Comentários**    | Pode ser necessários testes de usabilidade com usuários ou personas com deficiências para validar a eficácia das ferramentas de acessibilidade.                                   |
+
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+
+</details>
