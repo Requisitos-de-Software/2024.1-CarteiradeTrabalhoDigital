@@ -360,5 +360,5 @@ Abaixo, as tabelas de X a X mostram os cartões de de especificação de interfa
 | 1.0 |  Adição da explicação do que é NFR e o que é framework  |   Larissa Stéfane  |  Iago Passaglia   |    26/05/2024   |
 | 1.1 |  Adição da metodologia e do Template dos cartões de especificação  |   Larissa Stéfane  |  Iago Passaglia   |    26/05/2024   |
 | 1.2 | Adicionar  Cartões de Especfiicação de Restrições de Design |   Larissa Stéfane  |  Iago Passaglia   |    26/05/2024   |
-| 1.3 | Adicionar  Cartões de Especfiicação de Interface |   Luana Medeiros |  -   |    27/05/2024   |
-| 1.3 | Adicionar  Cartões de Especfiicação de Desempenho |   Pedro Izarias |  -   |    27/05/2024   |
+| 1.3 | Adicionar  Cartões de Especfiicação de Interface |   Luana Medeiros |  Bruno Araújo   |    27/05/2024   |
+| 1.3 | Adicionar  Cartões de Especfiicação de Desempenho |   Pedro Izarias |  Bruno Araújo   |    27/05/2024   |
