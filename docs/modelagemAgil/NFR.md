@@ -636,5 +636,5 @@ Para visualizar melhor o diagrama, clique em [NFR - Restrições de Design](http
 | 1.3    | Adicionar  Cartões de Especfiicação de Interface                  | Luana Medeiros  | Bruno Araújo   | 27/05/2024 |
 | 1.4    | Adicionar  Cartões de Especfiicação de Desempenho                 | Pedro Izarias   | Bruno Araújo   | 27/05/2024 |
 | 1.5    | Adição da tabela de RNFs elicitados anteriormente                 | Breno Alexandre | Pedro Izarias  | 27/05/2024 |
-| 1.6    | Adição da apresentação do SIG ou Softgoal Interdependency Graph (Definições e metodologia)   | Larissa Stéfane | -  | 27/05/2024 |
-| 1.7    | Adição do NFR - Restrições de Design   | Larissa Stéfane | -  | 27/05/2024 |
+| 1.6    | Adição da apresentação do SIG ou Softgoal Interdependency Graph (Definições e metodologia)   | Larissa Stéfane | Pedro Izarias  | 27/05/2024 |
+| 1.7    | Adição do NFR - Restrições de Design   | Larissa Stéfane | Pedro Izarias  | 27/05/2024 |
