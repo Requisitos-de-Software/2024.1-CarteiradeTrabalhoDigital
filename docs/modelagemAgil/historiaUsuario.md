@@ -83,7 +83,11 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
  
 </center>
 
-**Tabela 2: Template dos casos de uso.**
+## Casos de Uso para Sistema de Solicitação de Benefícios
+
+A tabela 2 detalha os casos de uso do sistema de solicitação de benefícios, incluindo o código e título de cada história de usuário, requisitos funcionais, rastreabilidade, atores envolvidos, objetivos, razões, critérios de aceitação e prioridade. 
+
+**Tabela 2: Solicitação de Benefícios**
 
 | Código História de Usuário | US01 |
 |------------------|--------|
@@ -162,6 +166,7 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 | **Critérios de Aceitação** | <ul><li>Assistente virtual deve responder a perguntas comuns de forma precisa e rápida.</li><li>Usuário deve poder acessar o assistente virtual facilmente.</li><li>Respostas do assistente virtual devem ser úteis e relevantes.</li></ul> |
 | **Prioridade**       | Should    |
 
+Autor:[Bruno Araújo](https://github.com/brunocva)
 
 </center>
 
