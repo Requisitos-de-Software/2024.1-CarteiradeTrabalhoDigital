@@ -55,7 +55,7 @@ O código da história de usuário é HU + Número.
 
 <center>
 
-** Tabela 1:** Template dos casos de uso.
+**Tabela 1:** Template dos casos de uso.
 
 | Código História de Usuário | - |
 |------------------|--------|
