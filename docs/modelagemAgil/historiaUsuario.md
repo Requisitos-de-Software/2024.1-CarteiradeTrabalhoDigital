@@ -362,7 +362,7 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
  
 <center>
 
-### HI24
+**Tabela x:** Participar de fóruns de discussão sobre temas trabalhistas
 | Código História de Usuário | HU24 |
 |----------------------------|------|
 | **Título**                 | Participar de fóruns de discussão sobre temas trabalhistas |
@@ -383,7 +383,7 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
  
 <center>
 
-### HI25
+**Tabela x:**Acessar um canal de suporte direto pelo aplicativo
 | Código História de Usuário | HU25 |
 |----------------------------|------|
 | **Título**                 | Acessar um canal de suporte direto pelo aplicativo |
@@ -404,7 +404,7 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
  
 <center>
   
-### HI26
+**Tabela x:**Acessar um manual para o uso do aplicativo e possíveis dúvidas
 | Código História de Usuário | HU26 |
 |----------------------------|------|
 | **Título**                 | Acessar um manual para o uso do aplicativo e possíveis dúvidas |
@@ -436,4 +436,4 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
 | 1.1 |  Adição História de Usuário e Título  |  Bruno Araújo   |   ---  | 27/05/2024  |
 | 1.2 |  Adição História de Usuário em relação ao épico 3: Contratos  |  Larissa Stéfane   |   ---  | 27/05/2024  |
 | 1.3 |  Adição História de Usuário em relação ao épico 6: Busca por empregos  |  Larissa Stéfane   |   ---  | 27/05/2024  |
-
+| 1.4 |  Adição História de Usuário em relação ao épico 8: Suporte  |  Pedro Izarias   |   ---  | 27/05/2024  |
