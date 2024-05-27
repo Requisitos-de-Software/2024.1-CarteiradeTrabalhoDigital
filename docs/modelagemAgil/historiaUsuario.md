@@ -1,5 +1,3 @@
-# História de Usuários
-
 ## Sumário
 * [Introdução](#Introdução)
 * [Definição das Histórias dos Usuários](#Definição-das-Histórias-dos-Usuários)
@@ -78,13 +76,93 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </details>
 
+
+## EP01 - Login
+
 <details>
-  <summary size="20"><b> Solicitação de benefícios.   </b></summary> 
+  <summary size="20"><b> HI01 - Login com CPF e senha </b></summary> 
  
+<center>
+<br>
+  
+**Tabela 20:** Login com CPF e senha
+
+| Código História de Usuário | HI01 |
+|------------------|--------|
+| Título           | Login com CPF e senha |
+| Código do requisito funcional | RF02 |
+| Rastreabilidade  | Análise de documentos |
+| Quem?           | Usuário com ou sem carteira assinada |
+| O que é?        | Permitir ao usuário logar com seu CPF e sua senha. |
+| Por que ?         | O usuário deseja logar com CPF e senha para facilitar o acesso a múltiplos serviços governamentais de forma segura e centralizada. |
+| Critérios de Aceitação | <li>O usuário deve poder logar com CPF e senha válidos.<br><li>O sistema deve verificar a autenticidade do CPF e senha.<br><li>O usuário deve ter acesso a todos os serviços após o login bem-sucedido. |
+| Prioridade       | Alta |
+
+
+**Fonte:** [Iago Passaglia](https://github.com/Paxxaglia)
+
 </center>
+
+</details>
+
+<details>
+  <summary size="20"><b> HI02 - Login com gov.br </b></summary> 
+ 
+<center>
+<br>
+  
+**Tabela 20:** Login com gov.br
+
+| Código História de Usuário | HI02 |
+|------------------|--------|
+| Título           | Login com gov.br |
+| Código do requisito funcional | RF02 |
+| Rastreabilidade  | Análise de documentos |
+| Quem?           | Usuário com ou sem carteira assinada |
+| O que é?        | Permitir ao usuário logar com seu cadastro gov.br. |
+| Por que ?         | O usuário gostaria de logar no carteira digital de trabalho através do gov.br para acessar suas informações trabalhistas de maneira rápida e segura. |
+| Critérios de Aceitação | <li>O login deve ser seguro, utilizando autenticação de dois fatores (2FA).<br><li>O sistema deve fornecer mensagens claras sobre o status do login (sucesso ou falha).<br><li>O sistema deve estar em conformidade com a LGPD (Lei Geral de Proteção de Dados). |
+| Prioridade       | Alta |
+
+
+**Fonte:** [Iago Passaglia](https://github.com/Paxxaglia)
+
+</center>
+
+</details>
+
+
+<details>
+  <summary size="20"><b> HI03 - Recuperação de senha com email </b></summary> 
+ 
+<center>
+<br>
+  
+**Tabela 20:** Recuperação de senha com email
+
+| Código História de Usuário | HI03 |
+|------------------|--------|
+| Título           | Recuperação de senha via e-mail |
+| Código do requisito funcional | RF02 |
+| Rastreabilidade  | Análise de documentos |
+| Quem?            | Usuário do sistema com ou sem carteira de trabalho |
+| O que é?         | Recuperar a senha da conta |
+| Por que ?        | Para voltar a acessar a conta no caso de esquecimento da senha |
+| Critérios de Aceitação | <li> Usuário deve ser capaz de solicitar a recuperação de senha através do seu e-mail cadastrado.<br><li> O sistema deve enviar um e-mail com as instruções de recuperação de senha.<br><li> Usuário deve poder definir uma nova senha seguindo as instruções recebidas.<br><li>O sistema deve confirmar a alteração da senha e permitir o acesso com a nova senha. |
+| Prioridade       | Alta |
+
+**Fonte:** [Iago Passaglia](https://github.com/Paxxaglia)
+
+</center>
+
+</details>
+
+
 
 ## Casos de Uso para Sistema de Solicitação de Benefícios
 
+
+<details>
 A tabela 2 detalha os casos de uso do sistema de solicitação de benefícios, incluindo o código e título de cada história de usuário, requisitos funcionais, rastreabilidade, atores envolvidos, objetivos, razões, critérios de aceitação e prioridade. 
 
 **Tabela 2: Solicitação de Benefícios**
