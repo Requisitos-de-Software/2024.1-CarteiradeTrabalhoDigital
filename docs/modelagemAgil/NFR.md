@@ -112,7 +112,7 @@ Abaixo, as tabelas de 2 a 5 mostram os cartões de especificação de design par
 
  1. SILVA, Reinaldo Antônio. **NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados**. Recife, 2019. Disponível em <http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER20/21_WER_2020_paper_36.pdf> Acessado em 26/05/2024
 
-2. ROBERTSON, James; ROBERTSON, Suzanne. Modelo para Especificações de Requisitos. Edição 14. Associação Atlântica de Sistemas, agosto 2009. Disponível em <https://www.volere.org/wp-content/uploads/2018/12/template14_ptbra.pdf > Acessado em 26/05/2024 
+2. ROBERTSON, James; ROBERTSON, Suzanne. Modelo para Especificações de Requisitos. Edição 14. Associação Atlântica de Sistemas, agosto 2009. Disponível em <https://www.volere.org/wp-content/uploads/2018/12/template14_ptbra.pdf> Acessado em 26/05/2024 
 
 
 
