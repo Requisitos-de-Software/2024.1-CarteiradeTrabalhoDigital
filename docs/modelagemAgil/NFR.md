@@ -28,6 +28,8 @@ Segundo a dissertação “Um Catálogo de Requisitos Não-Funcionais para Siste
 
 Segundo a dissertação “Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados”¹, de Reinaldo Antônio da Silva, o NFR (Non-Functional Requirements) framework, criado por Chung em 2000, é uma abordagem utilizada para o tratamento de Requisitos Não-Funcionais (RNFs) no desenvolvimento de sistemas. Isso porque este framework tem o objetivo de proporcionar uma rica representação desses requisitos, das suas relações e das suas correlações, o que ajuda os desenvolvedores a implementarem soluções personalizadas que atendam às necessidades específicas do sistema em questão.
 
+Para verificar os rameworks elaborasdos para o projeto, clique em [NFR framework](#Os-NFR-framework)
+
 ## Requisitos Não Funcionais Elicitados Anteriormente
 
 Segue na tabela 1 a lista dos Requisitos Não-Funcionais elicitados anteriormente.
