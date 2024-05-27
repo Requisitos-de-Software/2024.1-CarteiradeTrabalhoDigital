@@ -79,7 +79,7 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 </details>
 
 <details>
-  <summary size="20"><b> Incluir todos os elementos básicos de design do Padrão Digital de Governo.   </b></summary> 
+  <summary size="20"><b> Solicitação de benefícios.   </b></summary> 
  
 </center>
 
