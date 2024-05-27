@@ -158,100 +158,6 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 </details>
 
 
-
-## Casos de Uso para Sistema de Solicitação de Benefícios
-
-
-<details>
-A tabela 2 detalha os casos de uso do sistema de solicitação de benefícios, incluindo o código e título de cada história de usuário, requisitos funcionais, rastreabilidade, atores envolvidos, objetivos, razões, critérios de aceitação e prioridade. 
-
-**Tabela 2: Solicitação de Benefícios**
-
-| Código História de Usuário | HU01 |
-|----------------------------|------|
-| **Título**                 | Preencher formulário de solicitação de benefício |
-| **Código do requisito funcional** | F01 |
-| **Rastreabilidade**        | RF01 |
-| **Quem?**                  | Usuário |
-| **O que é?**               | Preencher um formulário de solicitação de benefício de forma simples e guiada |
-| **Por que ?**              | Para garantir que todas as informações necessárias sejam fornecidas corretamente |
-| **Critérios de Aceitação** | <ul><li>O formulário deve ser fácil de entender e preencher.</li><li>Deve haver orientações claras para cada campo.</li><li>Usuário deve ser capaz de submeter o formulário com sucesso.</li></ul> |
-| **Prioridade**             | Obrigatório |
-
-| Código História de Usuário | HU02 |
-|----------------------------|------|
-| **Título**                 | Anexar documentos no aplicativo |
-| **Código do requisito funcional** | F02 |
-| **Rastreabilidade**        | RF02 |
-| **Quem?**                  | Usuário |
-| **O que é?**               | Anexar documentos diretamente no aplicativo |
-| **Por que ?**              | Para facilitar o processo de solicitação de benefício |
-| **Critérios de Aceitação** | <ul><li>Usuário deve poder anexar documentos em diferentes formatos.</li><li>O processo de anexar documentos deve ser simples e rápido.</li><li>Documentos anexados devem ser salvos e enviados com a solicitação.</li></ul> |
-| **Prioridade**             | Obrigatório |
-
-| Código História de Usuário | HU03 |
-|----------------------------|------|
-| **Título**                 | Receber notificações sobre o status da solicitação de benefício |
-| **Código do requisito funcional** | F03 |
-| **Rastreabilidade**        | RF03 |
-| **Quem?**                  | Usuário |
-| **O que é?**               | Receber notificações sobre o status da solicitação de benefício |
-| **Por que ?**              | Para estar sempre informado sobre o andamento |
-| **Critérios de Aceitação** | <ul><li>Usuário deve ser notificado em cada etapa do processo de solicitação.</li><li>Notificações devem ser claras e informativas.</li><li>Usuário deve poder visualizar o histórico de notificações.</li></ul> |
-| **Prioridade**             | Importante |
-
-| Código História de Usuário | HU04 |
-|----------------------------|------|
-| **Título**                 | Visualizar o status detalhado da solicitação de benefício |
-| **Código do requisito funcional** | F04 |
-| **Rastreabilidade**        | RF04 |
-| **Quem?**                  | Usuário |
-| **O que é?**               | Visualizar o status detalhado da solicitação de benefício, incluindo previsão de pagamento |
-| **Por que ?**              | Para acompanhar de perto o processo |
-| **Critérios de Aceitação** | <ul><li>Usuário deve ver um resumo detalhado do status de cada solicitação.</li><li>Previsão de pagamento deve ser atualizada regularmente.</li><li>Detalhes devem ser facilmente acessíveis.</li></ul> |
-| **Prioridade**             | Obrigatório |
-
-| Código História de Usuário | HU05 |
-|----------------------------|------|
-| **Título**                 | Visualizar o histórico detalhado de todos os benefícios solicitados e recebidos |
-| **Código do requisito funcional** | F05 |
-| **Rastreabilidade**        | RF05 |
-| **Quem?**                  | Usuário |
-| **O que é?**               | Visualizar o histórico detalhado de todos os benefícios solicitados e recebidos |
-| **Por que ?**              | Para ter um controle completo e organizado das minhas solicitações |
-| **Critérios de Aceitação** | <ul><li>Usuário deve acessar facilmente o histórico de solicitações.</li><li>Histórico deve incluir todas as solicitações e benefícios recebidos.</li><li>Informações devem ser apresentadas de forma clara e organizada.</li></ul> |
-| **Prioridade**             | Importante |
-
-| Código História de Usuário | HU06 |
-|----------------------------|------|
-| **Título**                 | Personalizar notificações sobre benefícios |
-| **Código do requisito funcional** | F06 |
-| **Rastreabilidade**        | RF06 |
-| **Quem?**                  | Usuário |
-| **O que é?**               | Personalizar as notificações que recebe sobre benefícios |
-| **Por que ?**              | Para receber apenas informações relevantes |
-| **Critérios de Aceitação** | <ul><li>Usuário deve poder escolher que notificações deseja receber.</li><li>Configurações de notificações devem ser fáceis de ajustar.</li><li>Notificações personalizadas devem ser enviadas de acordo com as preferências do usuário.</li></ul> |
-| **Prioridade**             | Desejável |
-
-| Código História de Usuário | HU07 |
-|----------------------------|------|
-| **Título**                 | Interagir com um assistente virtual para obter respostas rápidas e suporte |
-| **Código do requisito funcional** | F07 |
-| **Rastreabilidade**        | RF07 |
-| **Quem?**                  | Usuário |
-| **O que é?**               | Interagir com um assistente virtual para obter respostas rápidas e suporte |
-| **Por que ?**              | Para melhorar minha experiência no uso do aplicativo |
-| **Critérios de Aceitação** | <ul><li>Assistente virtual deve responder a perguntas comuns de forma precisa e rápida.</li><li>Usuário deve poder acessar o assistente virtual facilmente.</li><li>Respostas do assistente virtual devem ser úteis e relevantes.</li></ul> |
-| **Prioridade**             | Importante |
-
-
-
-Autor:[Bruno Araújo](https://github.com/brunocva)
-
-</center>
-
-</details>
-
 ## EP03 - Contratos
 
 Em relação às histórias de usuários elicitadas no [backlog](modelagemAgil/backlog.md), as tabelas 7, 8, 9, 10 e 11 mostram as histórias de usuário detalhadas referentes ao épico de contratos.
@@ -373,6 +279,201 @@ Em relação às histórias de usuários elicitadas no [backlog](modelagemAgil/b
 
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+
+</details>
+
+## EP04 - Benefícios
+
+<details>
+A tabela 2 detalha os casos de uso do sistema de solicitação de benefícios, incluindo o código e título de cada história de usuário, requisitos funcionais, rastreabilidade, atores envolvidos, objetivos, razões, critérios de aceitação e prioridade. 
+
+*Tabela 2: Solicitação de Benefícios*
+
+| Código História de Usuário | HU01 |
+|----------------------------|------|
+| *Título*                 | Preencher formulário de solicitação de benefício |
+| *Código do requisito funcional* | F01 |
+| *Rastreabilidade*        | RF01 |
+| *Quem?*                  | Usuário |
+| *O que é?*               | Preencher um formulário de solicitação de benefício de forma simples e guiada |
+| *Por que ?*              | Para garantir que todas as informações necessárias sejam fornecidas corretamente |
+| *Critérios de Aceitação* | <ul><li>O formulário deve ser fácil de entender e preencher.</li><li>Deve haver orientações claras para cada campo.</li><li>Usuário deve ser capaz de submeter o formulário com sucesso.</li></ul> |
+| *Prioridade*             | Obrigatório |
+
+| Código História de Usuário | HU02 |
+|----------------------------|------|
+| *Título*                 | Anexar documentos no aplicativo |
+| *Código do requisito funcional* | F02 |
+| *Rastreabilidade*        | RF02 |
+| *Quem?*                  | Usuário |
+| *O que é?*               | Anexar documentos diretamente no aplicativo |
+| *Por que ?*              | Para facilitar o processo de solicitação de benefício |
+| *Critérios de Aceitação* | <ul><li>Usuário deve poder anexar documentos em diferentes formatos.</li><li>O processo de anexar documentos deve ser simples e rápido.</li><li>Documentos anexados devem ser salvos e enviados com a solicitação.</li></ul> |
+| *Prioridade*             | Obrigatório |
+
+| Código História de Usuário | HU03 |
+|----------------------------|------|
+| *Título*                 | Receber notificações sobre o status da solicitação de benefício |
+| *Código do requisito funcional* | F03 |
+| *Rastreabilidade*        | RF03 |
+| *Quem?*                  | Usuário |
+| *O que é?*               | Receber notificações sobre o status da solicitação de benefício |
+| *Por que ?*              | Para estar sempre informado sobre o andamento |
+| *Critérios de Aceitação* | <ul><li>Usuário deve ser notificado em cada etapa do processo de solicitação.</li><li>Notificações devem ser claras e informativas.</li><li>Usuário deve poder visualizar o histórico de notificações.</li></ul> |
+| *Prioridade*             | Importante |
+
+| Código História de Usuário | HU04 |
+|----------------------------|------|
+| *Título*                 | Visualizar o status detalhado da solicitação de benefício |
+| *Código do requisito funcional* | F04 |
+| *Rastreabilidade*        | RF04 |
+| *Quem?*                  | Usuário |
+| *O que é?*               | Visualizar o status detalhado da solicitação de benefício, incluindo previsão de pagamento |
+| *Por que ?*              | Para acompanhar de perto o processo |
+| *Critérios de Aceitação* | <ul><li>Usuário deve ver um resumo detalhado do status de cada solicitação.</li><li>Previsão de pagamento deve ser atualizada regularmente.</li><li>Detalhes devem ser facilmente acessíveis.</li></ul> |
+| *Prioridade*             | Obrigatório |
+
+| Código História de Usuário | HU05 |
+|----------------------------|------|
+| *Título*                 | Visualizar o histórico detalhado de todos os benefícios solicitados e recebidos |
+| *Código do requisito funcional* | F05 |
+| *Rastreabilidade*        | RF05 |
+| *Quem?*                  | Usuário |
+| *O que é?*               | Visualizar o histórico detalhado de todos os benefícios solicitados e recebidos |
+| *Por que ?*              | Para ter um controle completo e organizado das minhas solicitações |
+| *Critérios de Aceitação* | <ul><li>Usuário deve acessar facilmente o histórico de solicitações.</li><li>Histórico deve incluir todas as solicitações e benefícios recebidos.</li><li>Informações devem ser apresentadas de forma clara e organizada.</li></ul> |
+| *Prioridade*             | Importante |
+
+| Código História de Usuário | HU06 |
+|----------------------------|------|
+| *Título*                 | Personalizar notificações sobre benefícios |
+| *Código do requisito funcional* | F06 |
+| *Rastreabilidade*        | RF06 |
+| *Quem?*                  | Usuário |
+| *O que é?*               | Personalizar as notificações que recebe sobre benefícios |
+| *Por que ?*              | Para receber apenas informações relevantes |
+| *Critérios de Aceitação* | <ul><li>Usuário deve poder escolher que notificações deseja receber.</li><li>Configurações de notificações devem ser fáceis de ajustar.</li><li>Notificações personalizadas devem ser enviadas de acordo com as preferências do usuário.</li></ul> |
+| *Prioridade*             | Desejável |
+
+| Código História de Usuário | HU07 |
+|----------------------------|------|
+| *Título*                 | Interagir com um assistente virtual para obter respostas rápidas e suporte |
+| *Código do requisito funcional* | F07 |
+| *Rastreabilidade*        | RF07 |
+| *Quem?*                  | Usuário |
+| *O que é?*               | Interagir com um assistente virtual para obter respostas rápidas e suporte |
+| *Por que ?*              | Para melhorar minha experiência no uso do aplicativo |
+| *Critérios de Aceitação* | <ul><li>Assistente virtual deve responder a perguntas comuns de forma precisa e rápida.</li><li>Usuário deve poder acessar o assistente virtual facilmente.</li><li>Respostas do assistente virtual devem ser úteis e relevantes.</li></ul> |
+| *Prioridade*             | Importante |
+
+
+
+Autor:[Bruno Araújo](https://github.com/brunocva)
+
+</center>
+
+</details>
+
+## EP05 - Usuário Empregador
+Em relação às histórias de usuários elicitadas no backlog, as tabelas X, X, X e X mostram as histórias de usuário detalhadas referentes ao Usuário Empregador.
+
+<details>
+  <summary size="20"><b> HI15 - Acessar o histórico de candidatos </b></summary> 
+ 
+<center>
+
+*Tabela X:* Acessar o histórico de candidatos
+
+| Código História de Usuário | HI15 |
+|------------------|--------|
+| Título           | Acessar o histórico de candidatos |
+| Código do requisito funcional | RF08 |
+| Rastreabilidade  | 	Análise de documentos |
+| Quem?           | Usuário Empregador |
+| O que é?           | Permitir ao empregador acessar o histórico de candidatos para verificar suas experiências anteriores. |
+| Por que ?         | O empregador deseja verificar as experiências de trabalho anteriores dos candidatos para tomar decisões informadas durante o processo de contratação. |
+| Critérios de Aceitação | <li>O empregador deve poder acessar uma lista de candidatos.<br><li> Para cada candidato, o empregador deve poder visualizar detalhes de suas experiências anteriores, incluindo nome do empregador anterior, datas de início e término do vínculo, cargos ocupados, e responsabilidades principais. <br><li> O sistema deve garantir que as informações exibidas sejam precisas e atualizadas.<br><li> O empregador deve poder filtrar candidatos com base em critérios como período de experiência, setor de atuação, e cargo ocupado. <br><li> O empregador deve poder exportar o histórico de candidatos para um formato de arquivo comum (ex. PDF, CSV) para análise offline. <br><li> O acesso ao histórico de candidatos deve ser protegido por autenticação e respeitar as políticas de privacidade e consentimento dos candidatos.|
+| Prioridade       | Média |
+
+
+*Fonte:* [Luana Medeiros](https://github.com/LuaMedeiros)
+
+</center>
+
+</details>
+
+<details>
+  <summary size="20"><b> HI16 - Lançar novos contratos </b></summary> 
+ 
+<center>
+
+*Tabela X:* Lançar novos contratos
+
+| Código História de Usuário | HI16 |
+|------------------|--------|
+| Título           | Lançar novos contratos |
+| Código do requisito funcional | RF25 |
+| Rastreabilidade  | Entrevistas |
+| Quem?           | Usuário Empregador |
+| O que é?           | Permitir ao empregador lançar novos contratos no sistema para formalizar a contratação. |
+| Por que ?         | O empregador deseja formalizar a contratação de novos funcionários de maneira eficiente e conforme as normas trabalhistas, garantindo que todas as informações necessárias sejam registradas e acessíveis. |
+| Critérios de Aceitação | <li>O empregador deve poder acessar um formulário para lançar um novo contrato de trabalho.<br><li> O formulário deve permitir a inserção de informações essenciais, como dados pessoais do empregado (nome, CPF, etc.), cargo, data de início, salário, carga horária e demais condições contratuais. <br><li> O sistema deve validar as informações inseridas para garantir que estão completas e corretas. <br><li> Após a inserção dos dados, o empregador deve poder revisar e confirmar o lançamento do contrato. <br><li> O sistema deve gerar um registro oficial do contrato e disponibilizar uma cópia digital para ambos, empregador e empregado. <br><li> O empregador deve poder acessar e gerenciar todos os contratos lançados, incluindo a edição ou cancelamento, se necessário. <br><li> O sistema deve enviar notificações ao empregado sobre o novo contrato e fornecer um meio para que ele possa revisar e aceitar os termos. <br><li> O sistema deve garantir que todas as informações e processos estejam em conformidade com a legislação trabalhista vigente. <br><li> O acesso e lançamento de contratos devem ser protegidos por autenticação para garantir a segurança e privacidade das informações.|
+| Prioridade       | Alta |
+
+
+*Fonte:* [Luana Medeiros](https://github.com/LuaMedeiros)
+
+</center>
+
+</details>
+
+<details>
+  <summary size="20"><b> HI17 - Alterar Dados de Contrato </b></summary> 
+ 
+<center>
+
+*Tabela X:* Alterar Dados de Contrato
+
+| Código História de Usuário | HI17 |
+|------------------|--------|
+| Título           | Alterar Dados de Contrato |
+| Código do requisito funcional | RF25 |
+| Rastreabilidade  | Entrevistas |
+| Quem?           | Usuário Empregador |
+| O que é?           | Permitir ao empregador alterar dados de contrato para manter as informações atualizadas. |
+| Por que ?         | O empregador deseja garantir que todas as informações contratuais dos funcionários estejam sempre corretas e atualizadas, refletindo quaisquer mudanças nas condições de trabalho. |
+| Critérios de Aceitação | <li>O empregador deve poder acessar uma lista de contratos existentes.<br><li> O empregador deve poder selecionar um contrato específico para edição. <br><li> O sistema deve permitir a alteração de informações contratuais, como cargo, salário, carga horária, e demais condições de trabalho. <br><li> O sistema deve validar as informações alteradas para garantir que estão completas e corretas. <br><li> Após a edição, o empregador deve poder revisar e confirmar as alterações. <br><li> O sistema deve gerar um registro oficial das alterações realizadas e disponibilizar uma cópia digital atualizada para ambos, empregador e empregado. <br><li> O empregado deve ser notificado sobre as alterações no contrato e fornecer um meio para que ele possa revisar e aceitar as mudanças. <br><li> O empregador deve poder acessar o histórico de alterações de cada contrato. <br><li> O sistema deve garantir que todas as alterações estejam em conformidade com a legislação trabalhista vigente. <br><li> O acesso e edição dos contratos devem ser protegidos por autenticação para garantir a segurança e privacidade das informações.|
+| Prioridade       | Alta |
+
+
+*Fonte:* [Luana Medeiros](https://github.com/LuaMedeiros)
+
+</center>
+
+</details>
+
+<details>
+  <summary size="20"><b> HI18 - Publicar Vagas Disponíveis no Mural de Vagas </b></summary> 
+ 
+<center>
+
+*Tabela X:* Publicar Vagas Disponíveis no Mural de Vagas
+
+| Código História de Usuário | HI18 |
+|------------------|--------|
+| Título           | Publicar Vagas Disponíveis no Mural de Vagas |
+| Código do requisito funcional | RF28 |
+| Rastreabilidade  | Entrevistas |
+| Quem?           | Usuário Empregador |
+| O que é?           | Permitir ao empregador publicar vagas disponíveis no mural de vagas para atrair candidatos. |
+| Por que ?         | O empregador deseja anunciar oportunidades de emprego para atrair candidatos qualificados de maneira eficiente e centralizada. |
+| Critérios de Aceitação | <li>O empregador deve poder acessar um formulário para criar um anúncio de vaga.<br><li> O formulário deve permitir a inserção de informações essenciais da vaga, como título do cargo, descrição das responsabilidades, requisitos, local de trabalho, tipo de contrato, salário oferecido e benefícios. <br><li> O sistema deve validar as informações inseridas para garantir que estão completas e corretas. <br><li> Após a inserção dos dados, o empregador deve poder revisar e confirmar a publicação da vaga. <br><li> O sistema deve publicar a vaga no mural de vagas acessível a todos os usuários registrados como candidatos. <br><li> O empregador deve poder acessar e gerenciar todas as vagas publicadas, incluindo a edição, desativação ou reativação das vagas conforme necessário. <br><li> O sistema deve notificar os candidatos registrados que correspondem ao perfil da vaga publicada. <br><li> O empregador deve poder visualizar estatísticas de visualizações e candidaturas recebidas para cada vaga publicada. <br><li> O acesso e publicação de vagas devem ser protegidos por autenticação para garantir a segurança e privacidade das informações. <br><li> O sistema deve garantir que todas as informações das vagas estejam em conformidade com as normas e regulamentações trabalhistas vigentes.|
+| Prioridade       | Alta |
+
+
+*Fonte:* [Luana Medeiros](https://github.com/LuaMedeiros)
 
 </center>
 
@@ -520,3 +621,4 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
 | 1.2 |  Adição História de Usuário em relação ao épico 3: Contratos  |  Larissa Stéfane   |   Iago Passaglia   | 27/05/2024  |
 | 1.3 |  Adição História de Usuário em relação ao épico 6: Busca por empregos  |  Larissa Stéfane   |   Iago Passaglia   | 27/05/2024  |
 | 1.4 |  Adição História de Usuário em relação ao épico 8: Suporte  |  Pedro Izarias   |   Iago Passaglia   | 27/05/2024  |
+| 1.5 |  Adição História de Usuário em relação ao épico 5: Usuário Empregador  |  Luana Medeiros  |   -   | 27/05/2024  |
