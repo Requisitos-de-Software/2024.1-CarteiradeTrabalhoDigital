@@ -124,3 +124,58 @@ Em relação às histórias de usuários elicitadas no [backlog](modelagemAgil/b
 
 </details>
 
+
+## EP06 - Procura de Empregos
+
+Um dos pontos que foi discutido durante as elicitações foi a questão de procura de empregos. Sendo assim, com base também no [backlog](modelagemAgil/backlog.md), as tabelas 20 e 21 mostram as histórias de usuário detalhadas referentes ao contexto de procura por empregos
+
+<details>
+  <summary size="20"><b> HI19 - Acesso à informações de vagas de emprego </b></summary> 
+ 
+<center>
+
+**Tabela 20:** Acesso à informações de vagas de emprego
+
+| Código História de Usuário | HI19 |
+|------------------|--------|
+| Título           | Acesso ao Mural de Vagas Disponíveis |
+| Código do requisito funcional | RF16 |
+| Rastreabilidade  | Análise de documentos |
+| Quem?           | Usuário Trabalhador de Carteira Assinada |
+| O que é?           | Permitir ao usuário acessar um mural de vagas disponíveis para encontrar oportunidades de emprego compatíveis com seu perfil e interesses. |
+| Por que ?         | O usuário deseja ter acesso a uma lista atualizada de vagas de emprego para facilitar sua busca por oportunidades de trabalho. |
+| Critérios de Aceitação | <li>O sistema deve fornecer um mural de vagas disponíveis acessível a partir do perfil do usuário.<br><li>O usuário deve poder visualizar informações detalhadas sobre cada vaga, incluindo título, descrição, requisitos e localização.<br><li>O sistema deve permitir que o usuário filtre as vagas por diferentes critérios, como localização, salário, tipo de contrato, entre outros.<br><li>O usuário deve poder marcar vagas de interesse para revisão posterior.<br><li>O sistema deve atualizar regularmente o mural de vagas para garantir a relevância das informações.<br><li>O usuário deve poder se candidatar a vagas diretamente pelo aplicativo, quando disponível.<br><li>O sistema deve fornecer uma função de pesquisa para facilitar a busca por vagas específicas.<br><li>O usuário deve poder receber notificações sobre novas vagas que correspondam ao seu perfil e interesses.<br><li>O sistema deve garantir a segurança e confidencialidade dos dados do usuário durante a busca por vagas. |
+| Prioridade       | Baixa |
+
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+
+</details>
+
+<details>
+  <summary size="20"><b> HI20 - Status de contratação </b></summary> 
+ 
+<center>
+
+**Tabela 20:** Status de contratação
+
+| Código História de Usuário | HI20 |
+|------------------|--------|
+| Título           | Alteração de Status de Contratação |
+| Código do requisito funcional | RF15 |
+| Rastreabilidade  | Entrevistas |
+| Quem?           | Usuário Trabalhador de Carteira Assinada |
+| O que é?           | Permitir ao usuário alterar seu status de contratação para informar sua disponibilidade no mercado de trabalho. |
+| Por que ?         | O usuário deseja poder indicar se está procurando emprego ou não, para que possa receber ofertas de emprego relevantes e adequadas ao seu perfil. |
+| Critérios de Aceitação | <li>O sistema deve fornecer uma opção para o usuário alterar seu status de contratação no perfil.<br><li>O usuário deve poder escolher entre os modos de "Procurando Emprego" e "Não Procurando Emprego".<br><li>Se o usuário escolher o modo "Procurando Emprego", ele deve ter a opção de atualizar seu currículo e indicar a cidade onde está procurando emprego.<br><li>O sistema deve permitir que o usuário altere seu status de contratação a qualquer momento, alternando entre "Procurando Emprego" e "Não Procurando Emprego".<br><li>O sistema deve atualizar automaticamente o perfil do usuário com o novo status de contratação.<br><li>O usuário deve poder receber notificações e ofertas de emprego com base no status de contratação selecionado.<br><li>O sistema deve garantir a segurança e confidencialidade das informações do usuário durante a alteração de status. |
+| Prioridade       | Baixa |
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+
+</details>
+
+
