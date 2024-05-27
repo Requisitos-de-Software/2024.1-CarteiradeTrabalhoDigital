@@ -72,6 +72,100 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </center>
 
+### Casos de Uso
+
+</center>
+
+</details>
+
+<details>
+  <summary size="20"><b> Incluir todos os elementos básicos de design do Padrão Digital de Governo.   </b></summary> 
+ 
+</center>
+
+**Tabela 2: Template dos casos de uso.**
+
+| Código História de Usuário | US01 |
+|------------------|--------|
+| **Título**           | Preencher formulário de solicitação de benefício |
+| **Código do requisito funcional** | F01 |
+| **Rastreabilidade**  | RF01  |
+| **Quem?**           | Usuário |
+| **O que é?**           | Preencher um formulário de solicitação de benefício de forma simples e guiada |
+| **Por que ?**         | Para garantir que todas as informações necessárias sejam fornecidas corretamente |
+| **Critérios de Aceitação** | <ul><li>O formulário deve ser fácil de entender e preencher.</li><li>Deve haver orientações claras para cada campo.</li><li>Usuário deve ser capaz de submeter o formulário com sucesso.</li></ul> |
+| **Prioridade**       | Must    |
+
+| Código História de Usuário | US02 |
+|------------------|--------|
+| **Título**           | Anexar documentos no aplicativo |
+| **Código do requisito funcional** | F02 |
+| **Rastreabilidade**  | RF02  |
+| **Quem?**           | Usuário |
+| **O que é?**           | Anexar documentos diretamente no aplicativo |
+| **Por que ?**         | Para facilitar o processo de solicitação de benefício |
+| **Critérios de Aceitação** | <ul><li>Usuário deve poder anexar documentos em diferentes formatos.</li><li>O processo de anexar documentos deve ser simples e rápido.</li><li>Documentos anexados devem ser salvos e enviados com a solicitação.</li></ul> |
+| **Prioridade**       | Must    |
+
+| Código História de Usuário | US03 |
+|------------------|--------|
+| **Título**           | Receber notificações sobre o status da solicitação de benefício |
+| **Código do requisito funcional** | F03 |
+| **Rastreabilidade**  | RF03  |
+| **Quem?**           | Usuário |
+| **O que é?**           | Receber notificações sobre o status da solicitação de benefício |
+| **Por que ?**         | Para estar sempre informado sobre o andamento |
+| **Critérios de Aceitação** | <ul><li>Usuário deve ser notificado em cada etapa do processo de solicitação.</li><li>Notificações devem ser claras e informativas.</li><li>Usuário deve poder visualizar o histórico de notificações.</li></ul> |
+| **Prioridade**       | Should    |
+
+| Código História de Usuário | US04 |
+|------------------|--------|
+| **Título**           | Visualizar o status detalhado da solicitação de benefício |
+| **Código do requisito funcional** | F04 |
+| **Rastreabilidade**  | RF04  |
+| **Quem?**           | Usuário |
+| **O que é?**           | Visualizar o status detalhado da solicitação de benefício, incluindo previsão de pagamento |
+| **Por que ?**         | Para acompanhar de perto o processo |
+| **Critérios de Aceitação** | <ul><li>Usuário deve ver um resumo detalhado do status de cada solicitação.</li><li>Previsão de pagamento deve ser atualizada regularmente.</li><li>Detalhes devem ser facilmente acessíveis.</li></ul> |
+| **Prioridade**       | Must    |
+
+| Código História de Usuário | US05 |
+|------------------|--------|
+| **Título**           | Visualizar o histórico detalhado de todos os benefícios solicitados e recebidos |
+| **Código do requisito funcional** | F05 |
+| **Rastreabilidade**  | RF05  |
+| **Quem?**           | Usuário |
+| **O que é?**           | Visualizar o histórico detalhado de todos os benefícios solicitados e recebidos |
+| **Por que ?**         | Para ter um controle completo e organizado das minhas solicitações |
+| **Critérios de Aceitação** | <ul><li>Usuário deve acessar facilmente o histórico de solicitações.</li><li>Histórico deve incluir todas as solicitações e benefícios recebidos.</li><li>Informações devem ser apresentadas de forma clara e organizada.</li></ul> |
+| **Prioridade**       | Should    |
+
+| Código História de Usuário | US06 |
+|------------------|--------|
+| **Título**           | Personalizar notificações sobre benefícios |
+| **Código do requisito funcional** | F06 |
+| **Rastreabilidade**  | RF06  |
+| **Quem?**           | Usuário |
+| **O que é?**           | Personalizar as notificações que recebe sobre benefícios |
+| **Por que ?**         | Para receber apenas informações relevantes |
+| **Critérios de Aceitação** | <ul><li>Usuário deve poder escolher que notificações deseja receber.</li><li>Configurações de notificações devem ser fáceis de ajustar.</li><li>Notificações personalizadas devem ser enviadas de acordo com as preferências do usuário.</li></ul> |
+| **Prioridade**       | Could    |
+
+| Código História de Usuário | US07 |
+|------------------|--------|
+| **Título**           | Interagir com um assistente virtual para obter respostas rápidas e suporte |
+| **Código do requisito funcional** | F07 |
+| **Rastreabilidade**  | RF07  |
+| **Quem?**           | Usuário |
+| **O que é?**           | Interagir com um assistente virtual para obter respostas rápidas e suporte |
+| **Por que ?**         | Para melhorar minha experiência no uso do aplicativo |
+| **Critérios de Aceitação** | <ul><li>Assistente virtual deve responder a perguntas comuns de forma precisa e rápida.</li><li>Usuário deve poder acessar o assistente virtual facilmente.</li><li>Respostas do assistente virtual devem ser úteis e relevantes.</li></ul> |
+| **Prioridade**       | Should    |
+
+
+</center>
+
+</details>
 
 ## Referências Bibliográficas
 
