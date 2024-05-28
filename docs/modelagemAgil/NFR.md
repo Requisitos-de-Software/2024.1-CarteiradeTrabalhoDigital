@@ -617,6 +617,23 @@ Para visualizar melhor o diagrama, clique em [NFR - Restrições de Design](http
 
 </details>
 
+### NFR - Desempenho
+
+Por meio do estudo dos requisitos não funcionais [RNF01](Elicitacao/ResquisitosCorrigidos.md), [RNF02](Elicitacao/ResquisitosCorrigidos.md), [RNF03](Elicitacao/ResquisitosCorrigidos.md), [RNF04](Elicitacao/ResquisitosCorrigidos.md), [RNF13](Elicitacao/ResquisitosCorrigidos.md), [RNF15](Elicitacao/ResquisitosCorrigidos.md) e [RNF16](Elicitacao/ResquisitosCorrigidos.md), foi elaborado um diagrama SIG para a classificação de desempenho, sendo possível visualizá-lo na figura 3.
+
+<details>
+  <summary size="20"><b> Figura 2: NFR - Desempenho    </b></summary> 
+
+ <center> 
+  <font size="2"><p style="text-align: center">Figura 3: NFR Desempenho. </p></font>
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/ImagensEntrega4/desempenho.jpeg">
+  <font size="2"><p style="text-align: center"> Autor: Pedro Izarias </p></font>
+ </center>
+
+Para visualizar melhor o diagrama, clique em [NFR - Restrições de Design](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/ImagensEntrega4/desempenho.jpeg) 
+
+</details>
+
 
 
 ## Referências Bibliográficas
