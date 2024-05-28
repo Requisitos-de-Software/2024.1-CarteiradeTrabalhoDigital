@@ -68,7 +68,7 @@ Segue na tabela 1 a lista dos Requisitos Não-Funcionais elicitados anteriorment
 | NF24                     	| O aplicativo deve ser compatível com iOS, Android e Windows, sem apresentar falhas críticas em nenhum dos sistemas operacionais suportados. | Storytelling | Parcialmente (Apresenta problemas em iOS) |
 | NF25                     	| O sistema deve atualizar os dados do usuário automaticamente a cada 24 horas para evitar defasagem, com uma taxa de sucesso de 99%. | Storytelling | Parcialmente |
 
-<b>Fonte: </b>[Requisitos Não Funcionais](Elicitacao/RequisitosCorrigidos.md/#Requisitos-Não-Funcionais)
+<b>Fonte: </b>[Requisitos Não Funcionais](Elicitacao/RequisitosCorrigidos.md/)
 
 <b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
@@ -653,4 +653,4 @@ Para visualizar melhor o diagrama, clique em [NFR - Desempenho](https://raw.gith
 | 1.5    | Adição da tabela de RNFs elicitados anteriormente                 | Breno Alexandre | Pedro Izarias  | 27/05/2024 |
 | 1.6    | Adição da apresentação do SIG ou Softgoal Interdependency Graph (Definições e metodologia)   | Larissa Stéfane | Pedro Izarias  | 27/05/2024 |
 | 1.7    | Adição do NFR - Restrições de Design   | Larissa Stéfane | Pedro Izarias  | 27/05/2024 |
-| 1.8    | Adição do NFR - Desempenho   | Pedro Izarias |  -  | 27/05/2024 |
+| 1.8    | Adição do NFR - Desempenho   | Pedro Izarias |  Bruno Araújo  | 27/05/2024 |
