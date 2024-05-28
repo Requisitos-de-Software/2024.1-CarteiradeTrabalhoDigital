@@ -227,8 +227,6 @@ Abaixo, as tabelas de 3 a 6 mostram os cartões de especificação de design par
 
 </details>
 
-## Cartões de Especificação de Usabilidade
-
 ## Cartões de Especificação Design de Desempenho
 
 <details>
