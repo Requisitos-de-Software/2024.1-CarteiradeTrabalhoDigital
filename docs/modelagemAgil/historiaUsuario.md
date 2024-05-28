@@ -598,6 +598,61 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
 
 </details>
 
+## EP07 - Segurança
+
+Das histórias de usuários elucidadas no [backlog](modelagemAgil/backlog.md), as tabelas 21 e 22 mostram as histórias de usuário referentes ao épico de segurança.
+
+<details>
+  <summary size="20"><b> HI21 - Configurações de privacidade. </b></summary>
+
+<center>
+
+<p align="center"> <b>Tabela 22:</b> Configurações de privacidade. </p>
+
+
+| Código História de Usuário    | HI21                                               |
+| ----------------------------- | -------------------------------------------------- |
+| Título                        | Configurações de privacidade                       |
+| Código do requisito funcional | RF17                                               |
+| Rastreabilidade               | Análise de documentos e storytelling               |
+| Quem?                         | Usuário                                            |
+| O que é?                      | Configurar quem pode ver as informações do usuário |
+| Por que ?                     |  Proteger a privacidade do usuário.                |
+| Critérios de Aceitação        |  <ul><li>O usuário deve ser capaz de ocultar suas informações. <li>O aplicativo deve permitir que os usuários escolham quais dados pessoais desejam compartilhar com terceiros. <li>O aplicativo de fornecer opções claras e eficazes para controlar o compartilhamento de dados.</ul> |
+| Prioridade                    | Alta                                               |
+
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
+
+</center>
+
+</details>
+
+<details>
+  <summary size="20"><b> HI22 - Visualizar relatório de atividades da conta. </b></summary>
+
+<center>
+
+<p align="center"> <b>Tabela 23:</b> Visualizar relatório de atividades da conta.  </p>
+
+
+| Código História de Usuário    | HI22                                                    |
+| ----------------------------- | ------------------------------------------------------- |
+| Título                        | Visualizar relatório de atividades da conta             |
+| Código do requisito funcional | RF05, RF08, RF19                                        |
+| Rastreabilidade               | Análise de documentos e storytelling                    |
+| Quem?                         | Usuário                                                 |
+| O que é?                      | Visualizar um relatório de todas as atividades na conta |
+| Por que ?                     | Para monitorar acessos e ações                          |
+| Critérios de Aceitação        | <ul><li>O usuário deve ser capaz de acessar o relatório de atividades da conta de forma intuitiva, sem dificuldades. <li>O relatório deve exibir todas as atividades relevantes da conta. <li>Cada atividade listada no relatório deve incluir informações claras. <li>O aplicativo deve permitir que os usuários filtrem e classifiquem as atividades conforme necessário. <li>O relatório não deve exibir informações confidenciais.</ul>
+| Prioridade                    | Alta                                                    |
+
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
+
+</center>
+
+</details>
+
+
 ## EP08 - Suporte
 
 <details>
@@ -682,11 +737,12 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 |  Adição da introdução, da definição e dos objetivos, da metodologia e do template   |  Larissa Stéfane   |   Iago Passaglia  | 26/05/2024  |
-| 1.1 |  Adição História de Usuário e Título  |  Bruno Araújo   |   Iago Passaglia   | 27/05/2024  |
-| 1.2 |  Adição História de Usuário em relação ao épico 3: Contratos  |  Larissa Stéfane   |   Iago Passaglia   | 27/05/2024  |
-| 1.3 |  Adição História de Usuário em relação ao épico 6: Busca por empregos  |  Larissa Stéfane   |   Iago Passaglia   | 27/05/2024  |
-| 1.4 |  Adição História de Usuário em relação ao épico 8: Suporte  |  Pedro Izarias   |   Iago Passaglia   | 27/05/2024  |
-| 1.5 |  Adição História de Usuário em relação ao épico 5: Usuário Empregador  |  Luana Medeiros  |   -   | 27/05/2024  | 
-| 1.6 |  Adição História de Usuário em relação ao épico 2  |  Caio Mesquita  |   -   | 27/05/2024  | 
-| 1.7 | Correção de erros na página |  Caio Mesquita  |   -   | 27/05/2024  | 
+| 1.0 | Adição da introdução, da definição e dos objetivos, da metodologia e do template   |  Larissa Stéfane   |   Iago Passaglia  | 26/05/2024  |
+| 1.1 | Adição História de Usuário e Título  |  Bruno Araújo   |   Iago Passaglia   | 27/05/2024  |
+| 1.2 | Adição História de Usuário em relação ao épico 3: Contratos  |  Larissa Stéfane   |   Iago Passaglia   | 27/05/2024  |
+| 1.3 | Adição História de Usuário em relação ao épico 6: Busca por empregos  |  Larissa Stéfane   |   Iago Passaglia   | 27/05/2024  |
+| 1.4 | Adição História de Usuário em relação ao épico 8: Suporte  |  Pedro Izarias   |   Iago Passaglia   | 27/05/2024  |
+| 1.5 | Adição História de Usuário em relação ao épico 5: Usuário Empregador  |  Luana Medeiros  |   -   | 27/05/2024  | 
+| 1.6 | Adição História de Usuário em relação ao épico 2  |  Caio Mesquita  |   -   | 27/05/2024  | 
+| 1.7 | Correção de erros na página |  Caio Mesquita  |  Breno Alexandre  | 27/05/2024  | 
+| 1.8 | Adição do épico de segurança  |  Breno Alexandre  |  -   | 27/05/2024  | 
