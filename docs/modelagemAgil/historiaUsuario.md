@@ -180,7 +180,7 @@ As tabelas a seguir demonstram as histórias de usuário relacionadas ao épico 
 | Critérios de Aceitação | <li> O usuário deve ter uma conta logada no aplicativo <br><li> O usuário deve ter acesso aos seus dados de forma clara e sucinta.<br> |
 | Prioridade       | Alta |
 
-**Fonte:** [Caio Mesquita]()
+**Fonte:** [Caio Mesquita](https://github.com/Caiomesvie)
 
 </center>
 
@@ -205,7 +205,7 @@ As tabelas a seguir demonstram as histórias de usuário relacionadas ao épico 
 | Critérios de Aceitação | <li> O usuário deve ter uma conta logada no aplicativo <br><li> O usuário deve ter acesso aos seus dados de forma clara e sucinta.<br><li> O usuário deve uma funcionalidade clara a mostra indicando onde irá para alterar os dados<br><li> O usuário deverá receber uma notificação clara o avisando que seus dados foram alterados com sucesso |
 | Prioridade       | Alta |
 
-**Fonte:** [Caio Mesquita]()
+**Fonte:** [Caio Mesquita](https://github.com/Caiomesvie)
 
 </center>
 
