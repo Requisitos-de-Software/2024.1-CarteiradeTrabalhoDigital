@@ -68,7 +68,7 @@ Segue na tabela 1 a lista dos Requisitos Não-Funcionais elicitados anteriorment
 | NF24                     	| O aplicativo deve ser compatível com iOS, Android e Windows, sem apresentar falhas críticas em nenhum dos sistemas operacionais suportados. | Storytelling | Parcialmente (Apresenta problemas em iOS) |
 | NF25                     	| O sistema deve atualizar os dados do usuário automaticamente a cada 24 horas para evitar defasagem, com uma taxa de sucesso de 99%. | Storytelling | Parcialmente |
 
-<b>Fonte: </b>[Requisitos Não Funcionais](Elicitacao/RequisitosCorrigidos.md/#Requisitos-Não-Funcionais)
+<b>Fonte: </b>[Requisitos Não Funcionais](Elicitacao/RequisitosCorrigidos.md/)
 
 <b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
