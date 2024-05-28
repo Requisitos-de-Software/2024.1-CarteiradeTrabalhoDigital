@@ -35,23 +35,23 @@ A git page possui?  | Sim/Não/Incompleto
 7 - Um texto fazendo uma introdução dos artefatos? | SIM
 8 - A(s) ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc) | SIM
 9 - A gravação da reunião do grupo. | SIM
-10 -  As Histórias de Usuário? | 
-11 -  Os títulos das histórias de usuário são auto-explicativo? |
-12 - O “quem”, “o que” e o “por que” estão definidos na história de usuário? |
-13 - A participação do cliente e/ou persona na validação das histórias de usuário? |
-14 - A história possui critérios de aceitação? |
-15 - Os critérios de aceitação das histórias foram definidos ? |
-16 - A participação do cliente e/ou persona na elicitação de requisitos? |
-17 - Todas as histórias de usuárioos podem ser testadas? |
-18 - backlogs |
-19 - O backlog possui épicos e temas bem definidos e descritos? |
-20 - As Histórias de Usuário seguem algum modelo ou padrão? |
-21 – NFR Framework |
-21 - a definição do RNF e as fontes de evidência na literatura? |
-23 - o cartão de especificação do RNF? |
-24 -  Os softgoals condizem com o contexto? |
-25 - Softgoals representam metas bem definidas? |
-26 - Os impactos foram corretamente propagados? |
+10 -  As Histórias de Usuário? | SIM
+11 -  Os títulos das histórias de usuário são auto-explicativo? | SIM
+12 - O “quem”, “o que” e o “por que” estão definidos na história de usuário? | SIM
+13 - A participação do cliente e/ou persona na validação das histórias de usuário? | NÃO
+14 - A história possui critérios de aceitação? | SIM
+15 - Os critérios de aceitação das histórias foram definidos ? | SIM
+16 - A participação do cliente e/ou persona na elicitação de requisitos? | NÃO
+17 - Todas as histórias de usuários podem ser testadas? | SIM
+18 - Backlogs | SIM
+19 - O backlog possui épicos e temas bem definidos e descritos? | SIM
+20 - As Histórias de Usuário seguem algum modelo ou padrão? | SIM
+21 – NFR Framework | SIM
+21 - A definição do RNF e as fontes de evidência na literatura? | SIM
+23 - O cartão de especificação do RNF? | SIM
+24 - Os softgoals condizem com o contexto? | SIM
+25 - Softgoals representam metas bem definidas? | SIM
+26 - Os impactos foram corretamente propagados? | NÃO
 
 <center>
 
@@ -60,6 +60,7 @@ A git page possui?  | Sim/Não/Incompleto
 
 ## Histórico de versão
 
-| Versão | Alteração                                                                 | Responsável     | Revisor      | Data       |
-| ------ | ------------------------------------------------------------------------- | --------------- | ------------ | ---------- |
+| Versão | Alteração                                                                 | Responsável     | Revisor         | Data       |
+| ------ | ------------------------------------------------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do documento                                                      | Caio Mesquita   | Breno Alexandre | 27/05/2024 |
+| 1.1    | Preenchimento da tabela                                                   | Breno Alexandre | -               | 27/05/2024 |
