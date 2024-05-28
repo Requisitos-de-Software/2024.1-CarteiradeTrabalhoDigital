@@ -622,7 +622,7 @@ Para visualizar melhor o diagrama, clique em [NFR - Restrições de Design](http
 Por meio do estudo dos requisitos não funcionais [RNF01](Elicitacao/ResquisitosCorrigidos.md), [RNF02](Elicitacao/ResquisitosCorrigidos.md), [RNF03](Elicitacao/ResquisitosCorrigidos.md), [RNF04](Elicitacao/ResquisitosCorrigidos.md), [RNF13](Elicitacao/ResquisitosCorrigidos.md), [RNF15](Elicitacao/ResquisitosCorrigidos.md) e [RNF16](Elicitacao/ResquisitosCorrigidos.md), foi elaborado um diagrama SIG para a classificação de desempenho, sendo possível visualizá-lo na figura 3.
 
 <details>
-  <summary size="20"><b> Figura 2: NFR - Desempenho    </b></summary> 
+  <summary size="20"><b> Figura 3: NFR - Desempenho    </b></summary> 
 
  <center> 
   <font size="2"><p style="text-align: center">Figura 3: NFR Desempenho. </p></font>
