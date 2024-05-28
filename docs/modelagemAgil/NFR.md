@@ -653,4 +653,4 @@ Para visualizar melhor o diagrama, clique em [NFR - Desempenho](https://raw.gith
 | 1.5    | Adição da tabela de RNFs elicitados anteriormente                 | Breno Alexandre | Pedro Izarias  | 27/05/2024 |
 | 1.6    | Adição da apresentação do SIG ou Softgoal Interdependency Graph (Definições e metodologia)   | Larissa Stéfane | Pedro Izarias  | 27/05/2024 |
 | 1.7    | Adição do NFR - Restrições de Design   | Larissa Stéfane | Pedro Izarias  | 27/05/2024 |
-| 1.8    | Adição do NFR - Desempenho   | Pedro Izarias |  -  | 27/05/2024 |
+| 1.8    | Adição do NFR - Desempenho   | Pedro Izarias |  Bruno Araújo  | 27/05/2024 |
