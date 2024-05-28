@@ -413,7 +413,7 @@ Abaixo, as tabelas de 3 a 6 mostram os cartões de especificação de design par
 
 
 ### Cartões de Especificação de Interface 
-Abaixo, as tabelas de 14 a X mostram os cartões de de especificação de interface.
+Abaixo, as tabelas de 14 a 15 mostram os cartões de de especificação de interface.
 
 <details>
   <summary size="20"><b> Conformidade com os manuais de interface gov.br </b></summary> 
