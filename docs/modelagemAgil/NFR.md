@@ -617,6 +617,23 @@ Para visualizar melhor o diagrama, clique em [NFR - Restrições de Design](http
 
 </details>
 
+### NFR - Desempenho
+
+Por meio do estudo dos requisitos não funcionais [RNF01](Elicitacao/ResquisitosCorrigidos.md), [RNF02](Elicitacao/ResquisitosCorrigidos.md), [RNF03](Elicitacao/ResquisitosCorrigidos.md), [RNF04](Elicitacao/ResquisitosCorrigidos.md), [RNF13](Elicitacao/ResquisitosCorrigidos.md), [RNF15](Elicitacao/ResquisitosCorrigidos.md) e [RNF16](Elicitacao/ResquisitosCorrigidos.md), foi elaborado um diagrama SIG para a classificação de desempenho, sendo possível visualizá-lo na figura 3.
+
+<details>
+  <summary size="20"><b> Figura 3: NFR - Desempenho    </b></summary> 
+
+ <center> 
+  <font size="2"><p style="text-align: center">Figura 3: NFR Desempenho. </p></font>
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/ImagensEntrega4/desempenho.jpeg">
+  <font size="2"><p style="text-align: center"> Autor: Pedro Izarias </p></font>
+ </center>
+
+Para visualizar melhor o diagrama, clique em [NFR - Desempenho](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/ImagensEntrega4/desempenho.jpeg) 
+
+</details>
+
 
 
 ## Referências Bibliográficas
@@ -638,3 +655,4 @@ Para visualizar melhor o diagrama, clique em [NFR - Restrições de Design](http
 | 1.5    | Adição da tabela de RNFs elicitados anteriormente                 | Breno Alexandre | Pedro Izarias  | 27/05/2024 |
 | 1.6    | Adição da apresentação do SIG ou Softgoal Interdependency Graph (Definições e metodologia)   | Larissa Stéfane | Pedro Izarias  | 27/05/2024 |
 | 1.7    | Adição do NFR - Restrições de Design   | Larissa Stéfane | Pedro Izarias  | 27/05/2024 |
+| 1.8    | Adição do NFR - Desempenho   | Pedro Izarias |  -  | 27/05/2024 |
