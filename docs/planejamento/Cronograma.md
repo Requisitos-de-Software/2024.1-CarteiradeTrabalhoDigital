@@ -177,10 +177,10 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da quarta e
 
 | *Atividade*                                    | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
 | ---------------------------------------------- | ---------- | ---------- | ------------------------------------------------ | ------------------------------------------------ | ----------------------- |
-| Modelagem de requisitos: Backlog               | 25/05/2024 | 27/05/2024 | Bruno, Caio e Larissa                            | Bruno, Caio e Larissa                            | 26/05/2024 - 27/05/2024 |
+| Modelagem de requisitos: Backlog               | 25/05/2024 | 27/05/2024 | Bruno, Caio e Larissa                            | Bruno, Caio, Larissa e Pedro                     | 26/05/2024 - 27/05/2024 |
 | Entrevista com a Product Owner                 | 26/05/2024 | 26/05/2024 | Caio Mesquita                                    | Breno Alexandre                                  | 27/05/2024 - 27/05/2024 |
-| Modelagem de requisitos: Histórias de usuários | 26/05/2024 | 27/05/2024 | Bruno, Iago e Larissa                            | Iago Passaglia                                   | 26/05/2024 - 27/05/2024 |
-| NFR: Framework                                 | 26/05/2024 | 27/05/2024 | Bruno, Iago, Larissa, Luana e Pedro              | Bruno e Iago                                     | 26/05/2024 - 27/05/2024 |
+| Modelagem de requisitos: Histórias de usuários | 26/05/2024 | 27/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Caio e Iago                                      | 26/05/2024 - 27/05/2024 |
+| NFR: Framework                                 | 26/05/2024 | 27/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro       | Bruno, Iago e Pedro                              | 26/05/2024 - 27/05/2024 |
 | Preenchimento do cronograma pra etapa 4        | 27/05/2024 | 27/05/2024 | Breno Alexandre                                  | Caio Mesquita                                    | 26/05/2024 - 26/05/2024 |
 
 <font size="3"><p style="text-align: center">Autor: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
