@@ -412,7 +412,7 @@ Abaixo, as tabelas de 3 a 6 mostram os cartões de especificação de design par
 
 
 
-### Cartões de Especificação de Interface 
+## Cartões de Especificação de Interface 
 Abaixo, as tabelas de 14 a 15 mostram os cartões de de especificação de interface.
 
 <details>
@@ -467,7 +467,7 @@ Abaixo, as tabelas de 14 a 15 mostram os cartões de de especificação de inter
 
 </details>
 
-### Cartões de Acessiibilidade
+## Cartões de Acessiibilidade
 
 </center>
 
