@@ -68,7 +68,7 @@ Segue na tabela 1 a lista dos Requisitos Não-Funcionais elicitados anteriorment
 | NF24                     	| O aplicativo deve ser compatível com iOS, Android e Windows, sem apresentar falhas críticas em nenhum dos sistemas operacionais suportados. | Storytelling | Parcialmente (Apresenta problemas em iOS) |
 | NF25                     	| O sistema deve atualizar os dados do usuário automaticamente a cada 24 horas para evitar defasagem, com uma taxa de sucesso de 99%. | Storytelling | Parcialmente |
 
-<b>Fonte: </b>[Requisitos Não Funcionais](/Elicitacao/RequisitosCorrigidos.md/#Requisitos-Não-Funcionais)
+<b>Fonte: </b>[Requisitos Não Funcionais](Elicitacao/RequisitosCorrigidos.md/#Requisitos-Não-Funcionais)
 
 <b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
@@ -124,7 +124,7 @@ Abaixo, as tabelas de 3 a 6 mostram os cartões de especificação de design par
  
 </center>
 
-**Tabela 2:** Padrões Tipográficos e de Siglas
+**Tabela 3:** Padrões Tipográficos e de Siglas
 
 | **Elemento**               | **Detalhes**                                                                                                                                          |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -150,7 +150,7 @@ Abaixo, as tabelas de 3 a 6 mostram os cartões de especificação de design par
  
 </center>
 
-**Tabela 3:** Elementos Básicos de Design do Padrão Digital de Governo
+**Tabela 4:** Elementos Básicos de Design do Padrão Digital de Governo
 
 | **Elemento**               | **Detalhes**                                                                                                                                          |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -179,7 +179,7 @@ Abaixo, as tabelas de 3 a 6 mostram os cartões de especificação de design par
  
 </center>
 
-**Tabela 4:** Acessibilidade no design
+**Tabela 5:** Acessibilidade no design
 
 | **Elemento**               | **Detalhes**                                                                                                                                          |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -206,7 +206,7 @@ Abaixo, as tabelas de 3 a 6 mostram os cartões de especificação de design par
  
 </center>
 
-**Tabela 5:** Vocabulários e taxonomia padrão
+**Tabela 6:** Vocabulários e taxonomia padrão
 
 | **Elemento**               | **Detalhes**                                                                                                                                          |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -234,7 +234,7 @@ Abaixo, as tabelas de 3 a 6 mostram os cartões de especificação de design par
  
 </center>
 
-**Tabela x:** Tempo de Processamento de Solicitações
+**Tabela 7:** Tempo de Processamento de Solicitações
 
 | **Elemento**               | **Detalhes**                                                                                                                                          |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -260,7 +260,7 @@ Abaixo, as tabelas de 3 a 6 mostram os cartões de especificação de design par
  
 </center>
 
-**Tabela x:** Escalabilidade do Sistema e Personalização de Interfaces de Usuário
+**Tabela 8:** Escalabilidade do Sistema e Personalização de Interfaces de Usuário
 
 | **Elemento**               | **Detalhes**                                                                                                                                          |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -286,7 +286,7 @@ Abaixo, as tabelas de 3 a 6 mostram os cartões de especificação de design par
  
 </center>
 
-**Tabela x:** Suporte a Aumento de Volume Sem Degradação de Desempenho
+**Tabela 9:** Suporte a Aumento de Volume Sem Degradação de Desempenho
 
 | **Elemento**               | **Detalhes**                                                                                                                                          |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -313,7 +313,7 @@ Abaixo, as tabelas de 3 a 6 mostram os cartões de especificação de design par
  
 </center>
 
-**Tabela x:** Capacidade de Processamento de Transações
+**Tabela 10:** Capacidade de Processamento de Transações
 
 | **Elemento**               | **Detalhes**                                                                                                                                          |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -338,7 +338,7 @@ Abaixo, as tabelas de 3 a 6 mostram os cartões de especificação de design par
   <summary size="20"><b>  Tempo de Processamento de Solicitações com Taxa de Sucesso </b></summary> 
  
 </center>
-**Tabela y:** Tempo de Processamento de Solicitações com Taxa de Sucesso
+**Tabela 11:** Tempo de Processamento de Solicitações com Taxa de Sucesso
 
 | **Elemento**               | **Detalhes**                                                                                                                                          |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -364,7 +364,7 @@ Abaixo, as tabelas de 3 a 6 mostram os cartões de especificação de design par
   <summary size="20"><b>  Autenticação Biométrica Rápida </b></summary> 
  
 </center>
-**Tabela z:** Autenticação Biométrica Rápida
+**Tabela 12:** Autenticação Biométrica Rápida
 
 | **Elemento**               | **Detalhes**                                                                                                                                          |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -389,7 +389,7 @@ Abaixo, as tabelas de 3 a 6 mostram os cartões de especificação de design par
   <summary size="20"><b>  Atualização de Dados do Usuário  </b></summary> 
  
 </center>
-**Tabela a:** Atualização de Dados do Usuário
+**Tabela 13:** Atualização de Dados do Usuário
 
 | **Elemento**               | **Detalhes**                                                                                                                                          |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -412,15 +412,15 @@ Abaixo, as tabelas de 3 a 6 mostram os cartões de especificação de design par
 
 
 
-### Cartões de Especificação de Interface 
-Abaixo, as tabelas de X a X mostram os cartões de de especificação de interface.
+## Cartões de Especificação de Interface 
+Abaixo, as tabelas de 14 a 15 mostram os cartões de de especificação de interface.
 
 <details>
   <summary size="20"><b> Conformidade com os manuais de interface gov.br </b></summary> 
  
 </center>
 
-**Tabela X:** Conformidade com os manuais de interface gov.br
+**Tabela 14:** Conformidade com os manuais de interface gov.br
 
 | **Elemento**               | **Detalhes**                                                                                                                                          |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -446,7 +446,7 @@ Abaixo, as tabelas de X a X mostram os cartões de de especificação de interfa
  
 </center>
 
-**Tabela X:** Incluir todos os elementos básicos de design do Padrão Digital de Governo.  
+**Tabela 15:** Incluir todos os elementos básicos de design do Padrão Digital de Governo.  
 
 | **Elemento**               | **Detalhes**                                                                                                                                          |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -467,7 +467,7 @@ Abaixo, as tabelas de X a X mostram os cartões de de especificação de interfa
 
 </details>
 
-### Cartões de Acessiibilidade
+## Cartões de Acessiibilidade
 
 </center>
 
