@@ -85,7 +85,7 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 <center>
 <br>
   
-**Tabela 20:** Login com CPF e senha
+**Tabela 2:** Login com CPF e senha
 
 | Código História de Usuário | HI01 |
 |------------------|--------|
@@ -111,7 +111,7 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 <center>
 <br>
   
-**Tabela 20:** Login com gov.br
+**Tabela 3:** Login com gov.br
 
 | Código História de Usuário | HI02 |
 |------------------|--------|
@@ -138,7 +138,7 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 <center>
 <br>
   
-**Tabela 20:** Recuperação de senha com email
+**Tabela 4:** Recuperação de senha com email
 
 | Código História de Usuário | HI03 |
 |------------------|--------|
@@ -152,6 +152,60 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 | Prioridade       | Alta |
 
 **Fonte:** [Iago Passaglia](https://github.com/Paxxaglia)
+
+</center>
+
+</details>
+
+## EP02 - Perfil
+
+As tabelas a seguir demonstram as histórias de usuário relacionadas ao épico 02 elicitado no backlog do produto.
+
+<details>
+  <summary size="20"><b> HI04 - Vizualizar o perfil e dados </b></summary> 
+ 
+<center>
+<br>
+  
+**Tabela 5:**  Vizualizar o perfil e dados
+
+| Código História de Usuário | HI04 |
+|------------------|--------|
+| Título           | Vizualizar o perfil e dados |
+| Código do requisito funcional | RF03 |
+| Rastreabilidade  | Análise de documentos |
+| Quem?            | Usuário do sistema com ou sem carteira de trabalho |
+| O que é?         | Vizualizar os dados do perfil |
+| Por que ?        | O usuário deseja consultar seus dados e seu perfil no aplicativo para fins pessoais |
+| Critérios de Aceitação | <li> O usuário deve ter uma conta logada no aplicativo <br><li> O usuário deve ter acesso aos seus dados de forma clara e sucinta.<br> |
+| Prioridade       | Alta |
+
+**Fonte:** [Caio Mesquita]()
+
+</center>
+
+</details>
+
+<details>
+  <summary size="20"><b> HI05 - Alterar os dados do perfil  </b></summary> 
+ 
+<center>
+<br>
+  
+**Tabela 6:** Alterar os dados do perfil
+
+| Código História de Usuário | HI05 |
+|------------------|--------|
+| Título           | Alterar os dados do perfil |
+| Código do requisito funcional | RF04 |
+| Rastreabilidade  | Análise de documentos |
+| Quem?            | Usuário do sistema com ou sem carteira de trabalho |
+| O que é?         | Alterar os dados do seu perfil |
+| Por que ?        | O usuário deseja alterar seus dados e seu perfil no aplicativo a fim de mantê-los atualizados. |
+| Critérios de Aceitação | <li> O usuário deve ter uma conta logada no aplicativo <br><li> O usuário deve ter acesso aos seus dados de forma clara e sucinta.<br><li> O usuário deve uma funcionalidade clara a mostra indicando onde irá para alterar os dados<br><li> O usuário deverá receber uma notificação clara o avisando que seus dados foram alterados com sucesso |
+| Prioridade       | Alta |
+
+**Fonte:** [Caio Mesquita]()
 
 </center>
 
@@ -286,89 +340,48 @@ Em relação às histórias de usuários elicitadas no [backlog](modelagemAgil/b
 
 ## EP04 - Benefícios
 
+As Tabelas a seguir detalham os casos de uso do sistema de solicitação de benefícios, incluindo o código e título de cada história de usuário, requisitos funcionais, rastreabilidade, atores envolvidos, objetivos, razões, critérios de aceitação e prioridade. 
+
+
 <details>
-A tabela 2 detalha os casos de uso do sistema de solicitação de benefícios, incluindo o código e título de cada história de usuário, requisitos funcionais, rastreabilidade, atores envolvidos, objetivos, razões, critérios de aceitação e prioridade. 
+  <summary size="20"><b> HI11 - Visualizar contratos Antigos </b></summary> 
+ 
+<center>
+Tabela 12: Visualizar contratos
 
-*Tabela 2: Solicitação de Benefícios*
+| Código História de Usuário | HI11 |
+|----------------------------|------|
+| *Título*                 | Visualizar o histórico detalhado de todos os benefícios solicitados e recebidos |
+| *Código do requisito funcional* | RF12 |
+| *Rastreabilidade*        |Análise de documentos, Entrevistas e Storytelling  |
+| *Quem?*                  | Usuário |
+| *O que é?*               | Visualizar o histórico detalhado de todos os benefícios solicitados e recebidos |
+| *Por que ?*              | Para ter um controle completo e organizado das minhas solicitações |
+| *Critérios de Aceitação* | <ul><li>Usuário deve acessar facilmente o histórico de solicitações.</li><li>Histórico deve incluir todas as solicitações e benefícios recebidos.</li><li>Informações devem ser apresentadas de forma clara e organizada.</li></ul> |
+| *Prioridade*             | Alto|
 
-| Código História de Usuário | HU01 |
+</center>
+
+</details>
+
+
+<details>
+  <summary size="20"><b> HI12 - Solicitar benefícios </b></summary> 
+ 
+<center>
+
+Tabela 13:Solicitar benefícios
+
+| Código História de Usuário | HI12 |
 |----------------------------|------|
 | *Título*                 | Preencher formulário de solicitação de benefício |
-| *Código do requisito funcional* | F01 |
-| *Rastreabilidade*        | RF01 |
+| *Código do requisito funcional* | RF13 |
+| *Rastreabilidade*        | Análise de documentos e entrevistas |
 | *Quem?*                  | Usuário |
 | *O que é?*               | Preencher um formulário de solicitação de benefício de forma simples e guiada |
 | *Por que ?*              | Para garantir que todas as informações necessárias sejam fornecidas corretamente |
 | *Critérios de Aceitação* | <ul><li>O formulário deve ser fácil de entender e preencher.</li><li>Deve haver orientações claras para cada campo.</li><li>Usuário deve ser capaz de submeter o formulário com sucesso.</li></ul> |
 | *Prioridade*             | Obrigatório |
-
-| Código História de Usuário | HU02 |
-|----------------------------|------|
-| *Título*                 | Anexar documentos no aplicativo |
-| *Código do requisito funcional* | F02 |
-| *Rastreabilidade*        | RF02 |
-| *Quem?*                  | Usuário |
-| *O que é?*               | Anexar documentos diretamente no aplicativo |
-| *Por que ?*              | Para facilitar o processo de solicitação de benefício |
-| *Critérios de Aceitação* | <ul><li>Usuário deve poder anexar documentos em diferentes formatos.</li><li>O processo de anexar documentos deve ser simples e rápido.</li><li>Documentos anexados devem ser salvos e enviados com a solicitação.</li></ul> |
-| *Prioridade*             | Obrigatório |
-
-| Código História de Usuário | HU03 |
-|----------------------------|------|
-| *Título*                 | Receber notificações sobre o status da solicitação de benefício |
-| *Código do requisito funcional* | F03 |
-| *Rastreabilidade*        | RF03 |
-| *Quem?*                  | Usuário |
-| *O que é?*               | Receber notificações sobre o status da solicitação de benefício |
-| *Por que ?*              | Para estar sempre informado sobre o andamento |
-| *Critérios de Aceitação* | <ul><li>Usuário deve ser notificado em cada etapa do processo de solicitação.</li><li>Notificações devem ser claras e informativas.</li><li>Usuário deve poder visualizar o histórico de notificações.</li></ul> |
-| *Prioridade*             | Importante |
-
-| Código História de Usuário | HU04 |
-|----------------------------|------|
-| *Título*                 | Visualizar o status detalhado da solicitação de benefício |
-| *Código do requisito funcional* | F04 |
-| *Rastreabilidade*        | RF04 |
-| *Quem?*                  | Usuário |
-| *O que é?*               | Visualizar o status detalhado da solicitação de benefício, incluindo previsão de pagamento |
-| *Por que ?*              | Para acompanhar de perto o processo |
-| *Critérios de Aceitação* | <ul><li>Usuário deve ver um resumo detalhado do status de cada solicitação.</li><li>Previsão de pagamento deve ser atualizada regularmente.</li><li>Detalhes devem ser facilmente acessíveis.</li></ul> |
-| *Prioridade*             | Obrigatório |
-
-| Código História de Usuário | HU05 |
-|----------------------------|------|
-| *Título*                 | Visualizar o histórico detalhado de todos os benefícios solicitados e recebidos |
-| *Código do requisito funcional* | F05 |
-| *Rastreabilidade*        | RF05 |
-| *Quem?*                  | Usuário |
-| *O que é?*               | Visualizar o histórico detalhado de todos os benefícios solicitados e recebidos |
-| *Por que ?*              | Para ter um controle completo e organizado das minhas solicitações |
-| *Critérios de Aceitação* | <ul><li>Usuário deve acessar facilmente o histórico de solicitações.</li><li>Histórico deve incluir todas as solicitações e benefícios recebidos.</li><li>Informações devem ser apresentadas de forma clara e organizada.</li></ul> |
-| *Prioridade*             | Importante |
-
-| Código História de Usuário | HU06 |
-|----------------------------|------|
-| *Título*                 | Personalizar notificações sobre benefícios |
-| *Código do requisito funcional* | F06 |
-| *Rastreabilidade*        | RF06 |
-| *Quem?*                  | Usuário |
-| *O que é?*               | Personalizar as notificações que recebe sobre benefícios |
-| *Por que ?*              | Para receber apenas informações relevantes |
-| *Critérios de Aceitação* | <ul><li>Usuário deve poder escolher que notificações deseja receber.</li><li>Configurações de notificações devem ser fáceis de ajustar.</li><li>Notificações personalizadas devem ser enviadas de acordo com as preferências do usuário.</li></ul> |
-| *Prioridade*             | Desejável |
-
-| Código História de Usuário | HU07 |
-|----------------------------|------|
-| *Título*                 | Interagir com um assistente virtual para obter respostas rápidas e suporte |
-| *Código do requisito funcional* | F07 |
-| *Rastreabilidade*        | RF07 |
-| *Quem?*                  | Usuário |
-| *O que é?*               | Interagir com um assistente virtual para obter respostas rápidas e suporte |
-| *Por que ?*              | Para melhorar minha experiência no uso do aplicativo |
-| *Critérios de Aceitação* | <ul><li>Assistente virtual deve responder a perguntas comuns de forma precisa e rápida.</li><li>Usuário deve poder acessar o assistente virtual facilmente.</li><li>Respostas do assistente virtual devem ser úteis e relevantes.</li></ul> |
-| *Prioridade*             | Importante |
-
-
 
 Autor:[Bruno Araújo](https://github.com/brunocva)
 
@@ -376,15 +389,68 @@ Autor:[Bruno Araújo](https://github.com/brunocva)
 
 </details>
 
+
+<details>
+  <summary size="20"><b> HI13 -  Consultar dados a respeito de INSS e FGTS  </b></summary> 
+ 
+<center>
+
+Tabela 14:Consultar dados a respeito de INSS e FGTS
+
+| Código História de Usuário | HI13 |
+|----------------------------|------|
+| *Título*                 | Consultar dados a respeito de INSS e FGTS |
+| *Código do requisito funcional* | RF11 |
+| *Rastreabilidade*        | Storytelling |
+| *Quem?*                  | Usuário |
+| *O que é?*               | Permitir ao usuário consultar dados detalhados sobre suas contribuições e saldos do INSS e FGTS. |
+| *Por que ?*              | O usuário deseja acompanhar suas contribuições previdenciárias e fundos de garantia, garantindo que estão sendo corretamente depositados e para planejamento financeiro pessoal. |
+| *Critérios de Aceitação* | <li> O sistema deve exibir o saldo atualizado das contribuições do INSS. <br><li> O sistema deve exibir o saldo atualizado do FGTS.<br><li> O usuário deve poder visualizar o histórico de contribuições de ambos os benefícios.<br> |
+| *Prioridade*             | alto |
+
+Autor:[Bruno Araújo](https://github.com/brunocva)
+
+</center>
+
+</details>
+
+
+<details>
+  <summary size="20"><b> HI14 -  manual a respeito dos benefícios que tenho direito </b></summary> 
+ 
+<center>
+
+Tabela 15: manual a respeito dos benefícios
+
+| Código História de Usuário | HI14 |
+|----------------------------|------|
+| *Título*                 |  manual a respeito dos benefícios que tenho direito|
+| *Código do requisito funcional* | - |
+| *Rastreabilidade*        | - |
+| *Quem?*                  | Usuário |
+| *O que é?*               | Permitir ao usuário acessar um manual detalhado sobre os benefícios a que tem direito.  |
+| *Por que ?*              | O usuário deseja conhecer todos os benefícios disponíveis, incluindo como acessá-los e os critérios de elegibilidade, para garantir que está aproveitando todos os direitos trabalhistas e previdenciários oferecidos. |
+| *Critérios de Aceitação* | <ul><li>O sistema deve fornecer acesso a um manual digital que descreve todos os benefícios disponíveis ao usuário</li><li>O manual deve incluir informações sobre como acessar cada benefício, os critérios de elegibilidade, e os documentos necessários.</li><li>O manual deve ser facilmente navegável e pesquisável, permitindo ao usuário encontrar rapidamente as informações que procura.</li></ul> |
+| *Prioridade*             | Obrigatório |
+
+Autor:[Bruno Araújo](https://github.com/brunocva)
+
+</center>
+
+</details>
+
+
+
+
 ## EP05 - Usuário Empregador
-Em relação às histórias de usuários elicitadas no backlog, as tabelas X, X, X e X mostram as histórias de usuário detalhadas referentes ao Usuário Empregador.
+Em relação às histórias de usuários elicitadas no backlog, as tabelas 16, 17, 18 e 19 mostram as histórias de usuário detalhadas referentes ao Usuário Empregador.
 
 <details>
   <summary size="20"><b> HI15 - Acessar o histórico de candidatos </b></summary> 
  
 <center>
 
-*Tabela X:* Acessar o histórico de candidatos
+*Tabela 16:* Acessar o histórico de candidatos
 
 | Código História de Usuário | HI15 |
 |------------------|--------|
@@ -409,7 +475,7 @@ Em relação às histórias de usuários elicitadas no backlog, as tabelas X, X,
  
 <center>
 
-*Tabela X:* Lançar novos contratos
+*Tabela 17:* Lançar novos contratos
 
 | Código História de Usuário | HI16 |
 |------------------|--------|
@@ -434,7 +500,7 @@ Em relação às histórias de usuários elicitadas no backlog, as tabelas X, X,
  
 <center>
 
-*Tabela X:* Alterar Dados de Contrato
+*Tabela 18:* Alterar Dados de Contrato
 
 | Código História de Usuário | HI17 |
 |------------------|--------|
@@ -459,7 +525,7 @@ Em relação às histórias de usuários elicitadas no backlog, as tabelas X, X,
  
 <center>
 
-*Tabela X:* Publicar Vagas Disponíveis no Mural de Vagas
+*Tabela 19:* Publicar Vagas Disponíveis no Mural de Vagas
 
 | Código História de Usuário | HI18 |
 |------------------|--------|
@@ -513,7 +579,7 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
  
 <center>
 
-**Tabela 20:** Status de contratação
+**Tabela 21:** Status de contratação
 
 | Código História de Usuário | HI20 |
 |------------------|--------|
@@ -535,13 +601,13 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
 ## EP08 - Suporte
 
 <details>
-  <summary size="20"><b> HI24 - Participar de fóruns de discussão sobre temas trabalhistas </b></summary> 
+  <summary size="20"><b> HI23 - Participar de fóruns de discussão sobre temas trabalhistas </b></summary> 
  
 <center>
 
-**Tabela 25:** Participar de fóruns de discussão sobre temas trabalhistas
+**Tabela 24:** Participar de fóruns de discussão sobre temas trabalhistas
 
-| Código História de Usuário | HU24 |
+| Código História de Usuário | HI23 |
 |----------------------------|------|
 | **Título**                 | Participar de fóruns de discussão sobre temas trabalhistas |
 | **Código do requisito funcional** | F20 |
@@ -559,13 +625,13 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
 </details>
 
 <details>
-  <summary size="20"><b> HI25 - Acessar um canal de suporte direto pelo aplicativo </b></summary> 
+  <summary size="20"><b> HI24 - Acessar um canal de suporte direto pelo aplicativo </b></summary> 
  
 <center>
 
-**Tabela 26:** Acessar um canal de suporte direto pelo aplicativo
+**Tabela 25:** Acessar um canal de suporte direto pelo aplicativo
 
-| Código História de Usuário | HU25 |
+| Código História de Usuário | HI24 |
 |----------------------------|------|
 | **Título**                 | Acessar um canal de suporte direto pelo aplicativo |
 | **Código do requisito funcional** | F20 |
@@ -582,13 +648,13 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
 </details>
 
 <details>
-  <summary size="20"><b> HI26 - Acessar um manual para o uso do aplicativo e possíveis dúvidas </b></summary> 
+  <summary size="20"><b> HI25 - Acessar um manual para o uso do aplicativo e possíveis dúvidas </b></summary> 
  
 <center>
   
-**Tabela 27:** Acessar um manual para o uso do aplicativo e possíveis dúvidas
+**Tabela 26:** Acessar um manual para o uso do aplicativo e possíveis dúvidas
 
-| Código História de Usuário | HU26 |
+| Código História de Usuário | HI25 |
 |----------------------------|------|
 | **Título**                 | Acessar um manual para o uso do aplicativo e possíveis dúvidas |
 | **Código do requisito funcional** | F20 |
@@ -621,4 +687,6 @@ Um dos pontos que foi discutido durante as elicitações foi a questão de procu
 | 1.2 |  Adição História de Usuário em relação ao épico 3: Contratos  |  Larissa Stéfane   |   Iago Passaglia   | 27/05/2024  |
 | 1.3 |  Adição História de Usuário em relação ao épico 6: Busca por empregos  |  Larissa Stéfane   |   Iago Passaglia   | 27/05/2024  |
 | 1.4 |  Adição História de Usuário em relação ao épico 8: Suporte  |  Pedro Izarias   |   Iago Passaglia   | 27/05/2024  |
-| 1.5 |  Adição História de Usuário em relação ao épico 5: Usuário Empregador  |  Luana Medeiros  |   -   | 27/05/2024  |
+| 1.5 |  Adição História de Usuário em relação ao épico 5: Usuário Empregador  |  Luana Medeiros  |   -   | 27/05/2024  | 
+| 1.6 |  Adição História de Usuário em relação ao épico 2  |  Caio Mesquita  |   -   | 27/05/2024  | 
+| 1.7 | Correção de erros na página |  Caio Mesquita  |   -   | 27/05/2024  | 

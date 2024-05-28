@@ -172,7 +172,7 @@ Tabela 3: BackLog do produto
   <!-- Segurança e Suporte -->
   <tr>
     <td rowspan="6"><b>TM05 - Segurança e Suporte</b></td>
-    <td rowspan="3"><b>EP07 - Segurança</b></td>
+    <td rowspan="2"><b>EP07 - Segurança</b></td>
     <td>HI21 - Como usuário, eu quero configurar quem pode ver minhas informações para proteger minha privacidade.</td>
     <td>Alto</td>
   </tr>
@@ -180,21 +180,18 @@ Tabela 3: BackLog do produto
     <td>HI22 - Como usuário, eu quero visualizar um relatório de todas as atividades na minha conta para monitorar acessos e ações.</td>
     <td>Alto</td>
   </tr>
-  <tr>
-    <td>HI23 - Como usuário, eu quero visualizar um relatório de todas as atividades na minha conta para monitorar acessos e ações.</td>
-    <td>Alto</td>
-  </tr>
+
   <tr>
     <td rowspan="3"><b>EP08 - Suporte</b></td>
-    <td>HI24 - Como usuário, eu quero participar de fóruns de discussão sobre temas trabalhistas para trocar experiências e obter informações úteis.</td>
+    <td>HI23 - Como usuário, eu quero participar de fóruns de discussão sobre temas trabalhistas para trocar experiências e obter informações úteis.</td>
     <td>Baixo</td>
   </tr>
   <tr>
-    <td>HI25 - Como usuário, eu quero acessar um canal de suporte direto pelo aplicativo para resolver dúvidas e problemas rapidamente.</td>
+    <td>HI24 - Como usuário, eu quero acessar um canal de suporte direto pelo aplicativo para resolver dúvidas e problemas rapidamente.</td>
     <td>Alto</td>
   </tr>
   <tr>
-    <td>HI26 - Como usuário, eu gostaria de um manual para o uso do aplicativo e possíveis dúvidas para me orientar no uso da plataforma.</td>
+    <td>HI25 - Como usuário, eu gostaria de um manual para o uso do aplicativo e possíveis dúvidas para me orientar no uso da plataforma.</td>
     <td>Médio</td>
   </tr>
 </table>
