@@ -630,7 +630,7 @@ Por meio do estudo dos requisitos não funcionais [RNF01](Elicitacao/Resquisitos
   <font size="2"><p style="text-align: center"> Autor: Pedro Izarias </p></font>
  </center>
 
-Para visualizar melhor o diagrama, clique em [NFR - Restrições de Design](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/ImagensEntrega4/desempenho.jpeg) 
+Para visualizar melhor o diagrama, clique em [NFR - Desempenho](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/ImagensDiagrama/ImagensEntrega4/desempenho.jpeg) 
 
 </details>
 
