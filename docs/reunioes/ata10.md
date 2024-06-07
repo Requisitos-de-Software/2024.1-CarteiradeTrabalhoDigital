@@ -16,7 +16,7 @@ Caso não consiga ver o vídeo, acesse [aqui]().
 
 ## Data, Horário, Duração e Local
 
-- <b>Data:</b> 23/05/2024
+- <b>Data:</b> 06/06/2024
 - <b>Horário de início previsto:</b> 21:00
 - <b>Horário de início:</b>
 - <b>Duração:</b> 
