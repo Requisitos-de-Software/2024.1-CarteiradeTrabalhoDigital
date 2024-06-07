@@ -90,7 +90,7 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 # AVISOS
 -------------------------------------------------------------------------
 PRÉ-RASTREABILIDADE
-**Lista de verificação pro Rich Picture** -
+**Lista de verificação pro Rich Picture** - Iago Passaglia
 **Avaliações**
 - Rich Picture principal dos correios - 
 - Serasa - 
@@ -102,10 +102,10 @@ PRÉ-RASTREABILIDADE
 - Meu SUS Digital - 
 -------------------------------------------------------------------------
 ELICITAÇÃO
-**Lista de verificação pro Perfil de Usuário** - 
+**Lista de verificação pro Perfil de Usuário** - Larissa Stéfane
 **Avaliação pro Perfil de Usuário** - 
 
-**Lista de verificação pra Personas** - 
+**Lista de verificação pra Personas** - Pedro Izarias
 **Avaliação pra Personas** - 
 
 **Lista de verificação pra Técnica Elicitação Análise Documental** - Larissa Stéfane
@@ -114,26 +114,26 @@ ELICITAÇÃO
 **Lista de verificação pra Técnica Elicitação Brainstorm** - Breno Alexandre
 **Avaliação pra Técnica Elicitação Brainstorm** - 
 
-**Lista de verificação pra Técnica Elicitação Observação** - 
+**Lista de verificação pra Técnica Elicitação Observação** - Luana Medeiros 
 **Avaliação pra Técnica Elicitação Observação** - 
 
-**Lista de verificação pra Técnica Elicitação Questionário** - 
+**Lista de verificação pra Técnica Elicitação Questionário** - Caio Mesquita
 **Avaliação pra Técnica Elicitação Questionário** - 
 
-**Lista de verificação pra Técnica Priorização 100 Dolares** - 
+**Lista de verificação pra Técnica Priorização 100 Dolares** - Bruno Araújo
 **Avaliação pra Técnica Priorização 100 Dolares** - 
 
-**Lista de verificação pra Técnica Priorização First Things First** - 
+**Lista de verificação pra Técnica Priorização First Things First** - Caio Mesquita
 **Avaliação pra Técnica Priorização First Things First** - 
 
-**Lista de verificação pra Técnica Priorização In or Out** - 
+**Lista de verificação pra Técnica Priorização In or Out** - Luana Medeiros
 **Avaliação pra Técnica Priorização In or Out** - 
 
-**Lista de verificação pros Requisitos Elicitados** - 
+**Lista de verificação pros Requisitos Elicitados** - Pedro Izarias
 **Avaliação pros Requisitos Elicitados** - 
 -------------------------------------------------------------------------
 MODELAGEM
-**Lista de verificação pro Cenários** - 
+**Lista de verificação pro Cenários** - Larissa Stéfane
 **Avaliações**
 - Calcular preços e prazos de entrega - 
 - Realizar compras na loja online -
@@ -144,7 +144,7 @@ MODELAGEM
 - Mudar endereço de recebimento -
 - Receber em um local não residencial -
 
-**Lista de verificação pro Casos de Uso** - 
+**Lista de verificação pro Casos de Uso** - Iago Passaglia
 **Avaliações**
 - Calcular preços e prazos de entrega - 
 - Realizar compras na loja online -
@@ -154,37 +154,30 @@ MODELAGEM
 - Buscar por documentos perdidos - 
 - Mudar endereço de recebimento -
 
-**Lista de verificação pra Validação Casos de Uso** - 
+**Lista de verificação pra Validação Casos de Uso** - Breno Alexandre
 **Avaliação pra Validação Casos de Uso** - 
 
-**Especificação Suplementar** - 
+**Especificação Suplementar**
 **Listas de Verificação**
-- Usabilidade -
-- Confiabilidade -
-- Desempenho -
-- Suportabilidade -
-- Ajuda e Documentação -
-- Restrições de Design -
+- Usabilidade - Larissa Stéfane
+- Confiabilidade - 
+- Desempenho - 
+- Suportabilidade - 
+- Ajuda e Documentação - 
+- Restrições de Design - 
 **Avaliações**
-- Usabilidade -
-- Confiabilidade -
-- Desempenho -
-- Suportabilidade -
-- Ajuda e Documentação -
+- Usabilidade - 
+- Confiabilidade - 
+- Desempenho - 
+- Suportabilidade - 
+- Ajuda e Documentação - 
 - Restrições de Design - 
 
-**Léxicos** - 
-**Listas de Verificação**
-- Objeto - 
-- Verbo - 
-- Estado -
-**Avaliações**
-- Objeto - 
-- Verbo - 
-- Estado -
+**Listas de Verificação do Léxicos** - Pedro Izarias
+**Avaliação pro Léxicos** - 
 
 ÁGIL
-**Lista de Verificação do Backlog** - 
+**Lista de Verificação do Backlog** - Caio Mesquita
 **Avaliações dos Temas, Épicos e Backlogs**
 - Rastreamento de encomendas -
 - Envio de encomendas -
