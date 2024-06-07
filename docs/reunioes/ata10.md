@@ -221,6 +221,24 @@ MODELAGEM
 - Desempenho -
 - Suportabilidade - 
 -------------------------------------------------------------------------
+CORREÇÕES
+- fonte para autor
+- formatar autor pro gitpage
+- hiperlink nos lexicos
+- lexicos em ordem alfabetico
+- mostrar origem de imagens e tabelas
+
+entrega 3:
+- falta metodologias
+
+entrega 4:
+- faltou cornograma pra reuniao do backlog
+- motivo de escolha do PO
+- onde, quem e quando entrevista com PO
+- requisitos tem que ser verificaveis e fontes
+- verificar os sigs
+- adicionar propagaçao de impactos
+- relatar todas as referencias, ainda mais pro nfr
 
 ## Histórico de Versão
 
