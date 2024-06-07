@@ -92,134 +92,133 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 PRÉ-RASTREABILIDADE
 **Lista de verificação pro Rich Picture** - Iago Passaglia
 **Avaliações**
-- Rich Picture principal dos correios - 
-- Serasa - 
-- CTD - 
-- CNPQ - 
-- NFS Mobile - 
-- Carteira Digital de Trânsito - 
-- App do consumidor - 
-- Meu SUS Digital - 
+- Rich Picture principal dos correios - Larissa Stéfane
+- Serasa - Breno Alexandre
+- CTD - Pedro Izarias
+- CNPQ - Bruno Araújo
+- NFS Mobile - Caio Mesquita
+- Carteira Digital de Trânsito - Iago Passaglia
+- App do consumidor - Luana Medeiros
+- Meu SUS Digital - Pedro Izarias
 -------------------------------------------------------------------------
 ELICITAÇÃO
 **Lista de verificação pro Perfil de Usuário** - Larissa Stéfane
-**Avaliação pro Perfil de Usuário** - 
+**Avaliação pro Perfil de Usuário** - Luana Medeiros
 
 **Lista de verificação pra Personas** - Pedro Izarias
-**Avaliação pra Personas** - 
+**Avaliação pra Personas** - Larissa Stéfane
 
 **Lista de verificação pra Técnica Elicitação Análise Documental** - Larissa Stéfane
-**Avaliação pra Técnica Elicitação Análise Documental** - 
+**Avaliação pra Técnica Elicitação Análise Documental** - Iago Passaglia
 
 **Lista de verificação pra Técnica Elicitação Brainstorm** - Breno Alexandre
-**Avaliação pra Técnica Elicitação Brainstorm** - 
+**Avaliação pra Técnica Elicitação Brainstorm** - Caio Mesquita
 
 **Lista de verificação pra Técnica Elicitação Observação** - Luana Medeiros 
-**Avaliação pra Técnica Elicitação Observação** - 
+**Avaliação pra Técnica Elicitação Observação** - Breno Alexandre
 
 **Lista de verificação pra Técnica Elicitação Questionário** - Caio Mesquita
-**Avaliação pra Técnica Elicitação Questionário** - 
+**Avaliação pra Técnica Elicitação Questionário** - Bruno Araújo
 
 **Lista de verificação pra Técnica Priorização 100 Dolares** - Bruno Araújo
-**Avaliação pra Técnica Priorização 100 Dolares** - 
+**Avaliação pra Técnica Priorização 100 Dolares** - Breno Alexandre
 
 **Lista de verificação pra Técnica Priorização First Things First** - Caio Mesquita
-**Avaliação pra Técnica Priorização First Things First** - 
+**Avaliação pra Técnica Priorização First Things First** - Iago Passaglia
 
 **Lista de verificação pra Técnica Priorização In or Out** - Luana Medeiros
-**Avaliação pra Técnica Priorização In or Out** - 
+**Avaliação pra Técnica Priorização In or Out** - Luana Medeiros
 
 **Lista de verificação pros Requisitos Elicitados** - Pedro Izarias
-**Avaliação pros Requisitos Elicitados** - 
+**Avaliação pros Requisitos Elicitados** - Larissa Stéfane
 -------------------------------------------------------------------------
 MODELAGEM
 **Lista de verificação pro Cenários** - Larissa Stéfane
 **Avaliações**
-- Calcular preços e prazos de entrega - 
-- Realizar compras na loja online -
-- Realizar pré-postagem -
-- Gerenciar minhas importações -
-- Rastrear encomendas -
-- Buscar por documentos perdidos - 
-- Mudar endereço de recebimento -
-- Receber em um local não residencial -
+- Calcular preços e prazos de entrega - Caio Mesquista
+- Realizar compras na loja online - Pedro Izarias
+- Realizar pré-postagem - Luana Medeiros
+- Gerenciar minhas importações - Breno Alexandre
+- Rastrear encomendas - Larissa Stéfane
+- Buscar por documentos perdidos - Iago Passaglia
+- Mudar endereço de recebimento - Bruno Araújo
+- Receber em um local não residencial - Breno Alexandre
 
 **Lista de verificação pro Casos de Uso** - Iago Passaglia
 **Avaliações**
-- Calcular preços e prazos de entrega - 
-- Realizar compras na loja online -
-- Realizar pré-postagem -
-- Gerenciar minhas importações -
-- Rastrear encomendas -
-- Buscar por documentos perdidos - 
-- Mudar endereço de recebimento -
-
+- Calcular preços e prazos de entrega - Larissa Stéfane
+- Realizar compras na loja online - Bruno Araújo
+- Realizar pré-postagem - Pedro Izarias
+- Gerenciar minhas importações - Breno Alexandre
+- Rastrear encomendas - Luana Medeiros
+- Buscar por documentos perdidos - Caio Mesquita
+- Mudar endereço de recebimento - Larissa Stéfane
 **Lista de verificação pra Validação Casos de Uso** - Breno Alexandre
-**Avaliação pra Validação Casos de Uso** - 
+**Avaliação pra Validação Casos de Uso** - Pedro Izarias
 
 **Especificação Suplementar**
 **Listas de Verificação**
 - Usabilidade - Larissa Stéfane
-- Confiabilidade - 
-- Desempenho - 
-- Suportabilidade - 
-- Ajuda e Documentação - 
-- Restrições de Design - 
+- Confiabilidade - Luana Medeiros
+- Desempenho - Iago Passaglia
+- Suportabilidade - Caio Mesquita
+- Ajuda e Documentação - Pedro Izarias
+- Restrições de Design - Bruno Araújo
 **Avaliações**
-- Usabilidade - 
-- Confiabilidade - 
-- Desempenho - 
-- Suportabilidade - 
-- Ajuda e Documentação - 
-- Restrições de Design - 
+- Usabilidade - Breno Alexandre
+- Confiabilidade - Larissa Stéfane
+- Desempenho - Iago Passaglia
+- Suportabilidade - Pedro Izarias
+- Ajuda e Documentação - Caio Mesquita
+- Restrições de Design - Luana Medeiros
 
 **Listas de Verificação do Léxicos** - Pedro Izarias
-**Avaliação pro Léxicos** - 
+**Avaliação pro Léxicos** - Bruno Araújo
 
 ÁGIL
 **Lista de Verificação do Backlog** - Caio Mesquita
 **Avaliações dos Temas, Épicos e Backlogs**
-- Rastreamento de encomendas -
-- Envio de encomendas -
-- Notificação e alertas -
-- Suporte e ajuda ao usuário -
-- Serviços de pagamento e importação -
-- Cadastro e login -
-- Busca e contato -
+- Rastreamento de encomendas - Breno Alexandre
+- Envio de encomendas - Iago Passaglia
+- Notificação e alertas - Luana Medeiros
+- Suporte e ajuda ao usuário - Bruno Araújo
+- Serviços de pagamento e importação - Pedro Izarias
+- Cadastro e login - Larissa Stéfane
+- Busca e contato - Caio Mesquita
 
-**Lista de Verificação de Histórias de Usuário** - 
+**Lista de Verificação de Histórias de Usuário** - Larissa Stéfane
 **Avaliações**
-- US01 -
-- US02 -
-- US03 -
-- US04 -
-- US05 -
-- US06 -
-- US07 -
-- US08 -
-- US09 -
-- US10 -
-- US11 -
-- US12 -
-- US13 -
-- US14 -
-- US15 -
-- US16 -
-- US17 -
-- US18 -
-- US19 -
-- US20 -
-- US21 -
-- US22 -
-**Lista de Verificação de Validação Histórias de Usuário** - 
-**Avaliação de Validação Histórias de Usuário** -
+- US01 - Breno Alexandre
+- US02 - Bruno Araújo
+- US03 - Caio Mesquita
+- US04 - Iago Passaglia
+- US05 - Larissa Stéfane
+- US06 - Luana Medeiros
+- US07 - Pedro Izarias
+- US08 - Breno Alexandre
+- US09 - Bruno Araújo
+- US10 - Caio Mesquita
+- US11 - Iago Passaglia
+- US12 - Larissa Stéfane
+- US13 - Luana Medeiros
+- US14 - Pedro Izarias
+- US15 - Breno Alexandre
+- US16 - Bruno Araújo
+- US17 - Caio Mesquita
+- US18 - Iago Passaglia
+- US19 - Larissa Stéfane
+- US20 - Luana Medeiros
+- US21 - Pedro Izarias
+- US22 - Breno Alexandre
+**Lista de Verificação de Validação Histórias de Usuário** - Iago Passaglia
+**Avaliação de Validação Histórias de Usuário** - Bruno Araújo
 
-**Lista de Verificação do NFR (SIG)** - 
+**Lista de Verificação do NFR (SIG)** - Larissa Stéfane
 **Avaliações**
-- Usabilidade - 
-- Confiabilidade -
-- Desempenho -
-- Suportabilidade - 
+- Usabilidade - Caio Mesquita
+- Confiabilidade - Luana Medeiros
+- Desempenho - Pedro Izarias
+- Suportabilidade - Breno Alexandre
 -------------------------------------------------------------------------
 CORREÇÕES
 - fonte para autor
