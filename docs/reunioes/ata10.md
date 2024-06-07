@@ -27,9 +27,10 @@ Caso não consiga ver o vídeo, acesse [aqui]().
 Os presentes na reunião foram:
 
 - Breno Alexandre Soares Garcia
-- Bruno Cunha Vasconcelos de Araújo
 - Caio Mesquita Vieira
+- Iago Passaglia Perereia
 - Larissa Stéfane Barboza Santos
+- Luana de Lima Medeiros
 - Pedro Augusto Dourado Izarias
 
 ## Pontos de Discussão Importantes
