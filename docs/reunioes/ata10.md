@@ -244,4 +244,4 @@ entrega 4:
 
 | Versão | Alteração                         | Responsável     | Revisor               | Data       |
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
-| 1.0    | Criação Ata da Reunião            | Breno Alexandre | -                     | 06/06/2024 |
+| 1.0    | Criação Ata da Reunião            | Breno Alexandre | Bruno Araújo                  | 06/06/2024 |
