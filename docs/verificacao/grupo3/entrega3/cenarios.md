@@ -1,6 +1,21 @@
 # Verificação dos Cenários
 
 
+
+
+
+
+## Lista de Verificação
+
+A tabela 1 apresenta a lista de verificação para os [cenários do projeto dos correios](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/cenarios/) com base em pontos citados em livros e artigos.
+
+Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastreabilidade**.
+
+<center>
+
+**Tabela 1:** Lista de verificação para os cenários
+
+
 | ID | Pergunta da Verificação | Explicação | Rastreabilidade |
 |----|------------------------|-----------------------|-----------------|
 | 1  | O título do cenário representa explicitamente o tema? | É necessário que o título do cenário seja descritivo e forneça uma ideia clara do conteúdo do cenário. | [Cenários - PUC-Rio](https://www-di.inf.puc-rio.br/~julio/bnncap3.pdf) |
@@ -20,4 +35,6 @@
 | 15 | Há uma descrição sobre o estado inicial e final do contexto no cenário? | Certificar-se de que o estado inicial e final estejam descritos. | [Retraining: Requirements Engineering](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-cenarios) |
 | 16 | Os requisitos presentes estão descritos no cenário? | Verificar se os requisitos ou  as funcionalidades e serviços esperados do sistema estão descritos e com rastreabilidade no projeto. | [Uso de cenários para especificação de requisitos de qualidade e avaliação de arquitetura](https://www.devmedia.com.br/uso-de-cenarios-para-especificacao-de-requisitos-de-qualidade-e-avaliacao-de-arquitetura/22528) |
 
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+</center>
