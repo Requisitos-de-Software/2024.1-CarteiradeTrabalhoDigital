@@ -3,7 +3,7 @@
 ## Sumário
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
-* [Lista-de-Verificação](#Lista-de-Verificação)
+* [Lista de Verificação](#Lista-de-Verificação)
 * [Avaliação](#Avaliação)
 * [Conclusão](#Conclusão)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
