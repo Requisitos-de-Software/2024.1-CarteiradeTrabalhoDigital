@@ -104,37 +104,60 @@ PRÉ-RASTREABILIDADE
 -------------------------------------------------------------------------
 ELICITAÇÃO
 **Lista de verificação pro Perfil de Usuário** - Larissa Stéfane
+
 **Avaliação pro Perfil de Usuário** - Luana Medeiros
 
+-------------------------------------------------------------------------
 **Lista de verificação pra Personas** - Pedro Izarias
+
 **Avaliação pra Personas** - Larissa Stéfane
 
+-------------------------------------------------------------------------
 **Lista de verificação pra Técnica Elicitação Análise Documental** - Larissa Stéfane
+
 **Avaliação pra Técnica Elicitação Análise Documental** - Iago Passaglia
 
+-------------------------------------------------------------------------
+
 **Lista de verificação pra Técnica Elicitação Brainstorm** - Breno Alexandre
+
 **Avaliação pra Técnica Elicitação Brainstorm** - Caio Mesquita
+-------------------------------------------------------------------------
 
 **Lista de verificação pra Técnica Elicitação Observação** - Luana Medeiros 
+
 **Avaliação pra Técnica Elicitação Observação** - Breno Alexandre
 
+-------------------------------------------------------------------------
+
 **Lista de verificação pra Técnica Elicitação Questionário** - Caio Mesquita
+
 **Avaliação pra Técnica Elicitação Questionário** - Bruno Araújo
 
+-------------------------------------------------------------------------
 **Lista de verificação pra Técnica Priorização 100 Dolares** - Bruno Araújo
+
 **Avaliação pra Técnica Priorização 100 Dolares** - Breno Alexandre
 
+-------------------------------------------------------------------------
 **Lista de verificação pra Técnica Priorização First Things First** - Caio Mesquita
+
 **Avaliação pra Técnica Priorização First Things First** - Iago Passaglia
 
+-------------------------------------------------------------------------
+
 **Lista de verificação pra Técnica Priorização In or Out** - Luana Medeiros
+
 **Avaliação pra Técnica Priorização In or Out** - Luana Medeiros
 
+-------------------------------------------------------------------------
 **Lista de verificação pros Requisitos Elicitados** - Pedro Izarias
+
 **Avaliação pros Requisitos Elicitados** - Larissa Stéfane
 -------------------------------------------------------------------------
 MODELAGEM
 **Lista de verificação pro Cenários** - Larissa Stéfane
+
 **Avaliações**
 - Calcular preços e prazos de entrega - Caio Mesquista
 - Realizar compras na loja online - Pedro Izarias
@@ -145,7 +168,10 @@ MODELAGEM
 - Mudar endereço de recebimento - Bruno Araújo
 - Receber em um local não residencial - Breno Alexandre
 
+-------------------------------------------------------------------------
+
 **Lista de verificação pro Casos de Uso** - Iago Passaglia
+
 **Avaliações**
 - Calcular preços e prazos de entrega - Larissa Stéfane
 - Realizar compras na loja online - Bruno Araújo
@@ -154,10 +180,16 @@ MODELAGEM
 - Rastrear encomendas - Luana Medeiros
 - Buscar por documentos perdidos - Caio Mesquita
 - Mudar endereço de recebimento - Larissa Stéfane
+
+-------------------------------------------------------------------------
 **Lista de verificação pra Validação Casos de Uso** - Breno Alexandre
+
 **Avaliação pra Validação Casos de Uso** - Pedro Izarias
 
+-------------------------------------------------------------------------
+
 **Especificação Suplementar**
+
 **Listas de Verificação**
 - Usabilidade - Larissa Stéfane
 - Confiabilidade - Luana Medeiros
@@ -165,6 +197,7 @@ MODELAGEM
 - Suportabilidade - Caio Mesquita
 - Ajuda e Documentação - Pedro Izarias
 - Restrições de Design - Bruno Araújo
+
 **Avaliações**
 - Usabilidade - Breno Alexandre
 - Confiabilidade - Larissa Stéfane
@@ -173,11 +206,17 @@ MODELAGEM
 - Ajuda e Documentação - Caio Mesquita
 - Restrições de Design - Luana Medeiros
 
+-------------------------------------------------------------------------
 **Listas de Verificação do Léxicos** - Pedro Izarias
+
 **Avaliação pro Léxicos** - Bruno Araújo
 
+-------------------------------------------------------------------------
+
 ÁGIL
+
 **Lista de Verificação do Backlog** - Caio Mesquita
+
 **Avaliações dos Temas, Épicos e Backlogs**
 - Rastreamento de encomendas - Breno Alexandre
 - Envio de encomendas - Iago Passaglia
@@ -187,7 +226,9 @@ MODELAGEM
 - Cadastro e login - Larissa Stéfane
 - Busca e contato - Caio Mesquita
 
+-------------------------------------------------------------------------
 **Lista de Verificação de Histórias de Usuário** - Larissa Stéfane
+
 **Avaliações**
 - US01 - Breno Alexandre
 - US02 - Bruno Araújo
@@ -211,9 +252,13 @@ MODELAGEM
 - US20 - Luana Medeiros
 - US21 - Pedro Izarias
 - US22 - Breno Alexandre
+-------------------------------------------------------------------------
+
 **Lista de Verificação de Validação Histórias de Usuário** - Iago Passaglia
+
 **Avaliação de Validação Histórias de Usuário** - Bruno Araújo
 
+-------------------------------------------------------------------------
 **Lista de Verificação do NFR (SIG)** - Larissa Stéfane
 **Avaliações**
 - Usabilidade - Caio Mesquita
@@ -221,12 +266,15 @@ MODELAGEM
 - Desempenho - Pedro Izarias
 - Suportabilidade - Breno Alexandre
 -------------------------------------------------------------------------
+
 CORREÇÕES
 - fonte para autor
 - formatar autor pro gitpage
 - hiperlink nos lexicos
 - lexicos em ordem alfabetico
 - mostrar origem de imagens e tabelas
+
+-------------------------------------------------------------------------
 
 entrega 3:
 - falta metodologias
@@ -245,3 +293,4 @@ entrega 4:
 | Versão | Alteração                         | Responsável     | Revisor               | Data       |
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
 | 1.0    | Criação Ata da Reunião            | Breno Alexandre | Bruno Araújo                  | 06/06/2024 |
+| 1.1    | Reorganização para faciitar leitura            | Larissa Stéfane | -                  | 09/06/2024 |
