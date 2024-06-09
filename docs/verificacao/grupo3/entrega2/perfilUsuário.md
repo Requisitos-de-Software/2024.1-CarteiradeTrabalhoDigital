@@ -5,7 +5,7 @@
 * [Metodologia](#Metodologia)
 * [Lista de Verificação](#Lista-de-Verificação)
 * [Avaliação](#Avaliação)
-* [Conclusão](#Conclusão)
+* [Conclusão e Observações](#Conclusão-e-Observações)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
 
@@ -55,7 +55,7 @@ A tabela 1 apresenta a lista de verificação para o perfil de usuário com base
 
 ## Avaliação
 
-## Conclusão
+## Conclusão e Observações
 
 ## Referências Bibliográficas
 
