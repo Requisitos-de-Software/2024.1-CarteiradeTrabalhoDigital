@@ -92,6 +92,7 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 -------------------------------------------------------------------------
 PRÉ-RASTREABILIDADE
 **Lista de verificação pro Rich Picture** - Iago Passaglia
+
 **Avaliações**
 - Rich Picture principal dos correios - Larissa Stéfane
 - Serasa - Breno Alexandre
@@ -103,6 +104,7 @@ PRÉ-RASTREABILIDADE
 - Meu SUS Digital - Pedro Izarias
 -------------------------------------------------------------------------
 ELICITAÇÃO
+
 **Lista de verificação pro Perfil de Usuário** - Larissa Stéfane
 
 **Avaliação pro Perfil de Usuário** - Luana Medeiros
@@ -300,7 +302,7 @@ entrega 4:
 
 ## Histórico de Versão
 
-| Versão | Alteração                         | Responsável     | Revisor               | Data       |
-| ------ | --------------------------------- | --------------- | --------------------- | ---------- |
-| 1.0    | Criação Ata da Reunião            | Breno Alexandre | Bruno Araújo                  | 06/06/2024 |
-| 1.1    | Reorganização para faciitar leitura            | Larissa Stéfane | -                  | 09/06/2024 |
+| Versão | Alteração                           | Responsável     | Revisor         | Data       |
+| ------ | ----------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação Ata da Reunião              | Breno Alexandre | Bruno Araújo    | 06/06/2024 |
+| 1.1    | Reorganização para faciitar leitura | Larissa Stéfane | Breno Alexandre | 09/06/2024 |
