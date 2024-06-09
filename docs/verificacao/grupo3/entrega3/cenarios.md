@@ -1,6 +1,19 @@
 # Verificação dos Cenários
 
+## Sumário
+* [Introdução](#Introdução)
+* [Metodologia](#Metodologia)
+* [Lista de Verificação](#Lista-de-Verificação)
+* [Avaliação](#Avaliação)
+* [Conclusão e Observações](#Conclusão-e-Observações)
+* [Referências Bibliográficas](#Referências-Bibliográficas)
+* [Histórico de versão](#Histórico-de-versão)
 
+
+## Introdução
+
+
+## Metodologia
 
 
 
@@ -40,6 +53,10 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 </center>
 
 
+## Avaliação
+
+## Conclusão e Observações
+
 ## Referências Bibliográficas
 
 1. Cenários. PUC-RIO. Disponível em: <https://www-di.inf.puc-rio.br/~julio/bnncap3.pdf> . Acesso em 09 junnho de 2024.
@@ -54,3 +71,9 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 
    
 
+## Histórico de versão
+
+| Versão | Alteração | Responsável | Revisor | Data |
+| - | - | - | - | - |
+| 1.0 | Adição da tabela de verificação | Larissa Stéfane | - | 09/06/2024 |
+| 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | - | 09/06/2024 |
