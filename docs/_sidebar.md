@@ -84,21 +84,21 @@
     * Grupo 3
       - [Planejamento](verificacao/grupo3/Planejamento.md)
       * Entrega 1
-        - [Rich Picture](/docs/verificacao/grupo3/entrega1/richPicture.md)
+        - [Rich Picture](verificacao/grupo3/entrega1/richPicture.md)
       * Entrega 2
-        - [Perfil de usuário](/docs/verificacao/grupo3/entrega2/perfilUsuário.md)
-        - [Personas](/docs/verificacao/grupo3/entrega2/personas.md)
-        - [Elicitação](/docs/verificacao/grupo3/entrega2/elicitacao.md)
-        - [Priorização](/docs/verificacao/grupo3/entrega2/priorizacao.md)
+        - [Perfil de usuário](verificacao/grupo3/entrega2/perfilUsuário.md)
+        - [Personas](verificacao/grupo3/entrega2/personas.md)
+        - [Elicitação](verificacao/grupo3/entrega2/elicitacao.md)
+        - [Priorização](verificacao/grupo3/entrega2/priorizacao.md)
       * Entrega 3
-        - [Cenários](/docs/verificacao/grupo3/entrega3/cenarios.md)
-        - [Léxicos](/docs/verificacao/grupo3/entrega3/lexicos.md)
-        - [Casos de uso](/docs/verificacao/grupo3/entrega3/casosDeUso.md)
-        - [Especificação sumplementar](/docs/verificacao/grupo3/entrega3/especSuplementar.md)
+        - [Cenários](verificacao/grupo3/entrega3/cenarios.md)
+        - [Léxicos](verificacao/grupo3/entrega3/lexicos.md)
+        - [Casos de uso](verificacao/grupo3/entrega3/casosDeUso.md)
+        - [Especificação sumplementar](verificacao/grupo3/entrega3/especSuplementar.md)
       * Entrega 4
-        - [Backlog do produto](/docs/verificacao/grupo3/entrega4/backlog.md)
-        - [Histórias de usuário](/docs/verificacao/grupo3/entrega4/historiasUsuario.md)
-        - [NFR Framework](/docs/verificacao/grupo3/entrega4/NFR.md)
+        - [Backlog do produto](verificacao/grupo3/entrega4/backlog.md)
+        - [Histórias de usuário](verificacao/grupo3/entrega4/historiasUsuario.md)
+        - [NFR Framework](verificacao/grupo3/entrega4/NFR.md)
 
 
 <!-- 
