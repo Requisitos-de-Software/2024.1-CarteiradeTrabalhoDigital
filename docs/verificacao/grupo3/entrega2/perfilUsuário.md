@@ -5,6 +5,10 @@
 
 Este documento tem como objetivo apresentar a lista de verificação e a avaliação do perfil de usuário elaborado para analisar e avaliar o projeto dos Correios, desenvolvido pelo grupo 3 da disciplina de Requisitos deste semestre, 2024.1. Sendo assim, a lista de verificação apresentada abaixo oferece um conjunto de critérios e diretrizes para assegurar a qualidade do perfil de usuário, enquanto a lista de avaliação proporciona uma análise sistemática e crítica do documento, visando identificar áreas de melhoria.
 
+## Metodologia 
+
+A metodologia para análise do perfil de usuários do projeto dos Correios será conduzida em duas etapas. Inicialmente, será elaborada uma lista de verificação composta por tópicos essenciais, os quais servirão como base para a avaliação do documento. Desse modo, esses tópicos abrangerão os dados principais dos usuários, desde os seus dados demográficos até as suas características específicas, como estilo e preferência de aprendizado. Em seguida, utilizando-se dessa lista de verificação como guia, será realizada uma avaliação detalhada do perfil de usuários, examinando cada aspecto individualmente e identificando pontos fortes, áreas de melhoria e eventuais lacunas no documento.
+
 ## Lista de Verificação
 
 <center>
@@ -45,3 +49,4 @@ Este documento tem como objetivo apresentar a lista de verificação e a avalia�
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Adição da tabela de verificação | Larissa Stéfane | - | 09/06/2024 |
+| 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | - | 09/06/2024 |
