@@ -163,6 +163,6 @@ Dentro do artefato de NFR FRamework foi feita a seguinte divisão:
 ## Histórico de versão
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 |  Criação do documento  |  Caio Mesquita   |  -  |  09/06/2024  |
+| 1.0 |  Criação do documento  |  Caio Mesquita   |  Bruno Araújo |  09/06/2024  |
 
 
