@@ -17,7 +17,7 @@
 
 ## Lista de Verificação
 
-A tabela 1 apresenta a lista de verificação para os Léxicos o com base nos pontos explicados no livro de Interação Humano-Computador e Experiência do Usuário¹, de Barbosa e Silva, no livro [About Face 3 The Essentials of Interaction Design](https://fall14se.wordpress.com/wp-content/uploads/2017/04/about_face_3__the_essentials_of_interaction_design.pdf)² e algumas normas e diretrizes.
+
 
 <center>
 
@@ -41,6 +41,7 @@ A tabela 1 apresenta a lista de verificação para os Léxicos o com base nos po
 | 14  |     |                           | |
 | 15  |     |                           | |
 | 16  |     |                           | |
+
 **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 </center>
