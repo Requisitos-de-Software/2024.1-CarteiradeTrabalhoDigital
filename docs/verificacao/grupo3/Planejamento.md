@@ -47,6 +47,7 @@ Tabela 1: divisão de verificação dos artefatos
 |Léxicos|Pedro Izarias|Bruno Araújo|
 |Backlog do produto|Caio Mesquita|Breno Alexandre, Bruno Araújo,  Caio Mesquita,  Iago Passaglia,  Larissa Stéfane,  Luana Medeiros e Pedro Izarias|
 |Histórias de usuário|Larissa Stéfane|Breno Alexandre, Bruno Araújo,  Caio Mesquita,  Iago Passaglia,  Larissa Stéfane,  Luana Medeiros e Pedro Izarias|
+|Validação de histórias de usuário| Iago Passaglia|Bruno Araújo|
 |NFR Framework|Larissa Stéfane|Caio Mesquita,  Luana Medeiros, Pedro Izarias e  Breno Alexandre|
  
 
