@@ -11,11 +11,11 @@
 
 ## Introdução
 
+Este documento apresenta a lista de verificação destinada à análise e à avaliação do artefato de análise de documentos do projeto dos Correios, desenvolvido pelo grupo 3. Assim,  por meio da lista de verificação, elaborada com base em livros e artigos, será realizada a avaliação.
 
 ## Metodologia
 
-
-
+A metodologia de avaliação adotada seguirá o seguinte processo: inicialmente, a integrante do grupo, [Larissa Stéfane](https://github.com/SkywalkerSupreme), será responsável pelo desenvolvimento e pela elaboração da lista de verificações destinada à análise do artefato documental.  Em seguida, o integrante [Iago Passaglia](https://github.com/Paxxaglia) assumirá o papel de avaliador e registrará  as suas observações, apontando tanto os pontos positivos quanto as possíveis áreas de melhoria identificadas.
 
 ## Lista de Verificação
 
