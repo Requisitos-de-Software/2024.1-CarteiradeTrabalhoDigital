@@ -78,7 +78,7 @@
   - [História de Usuário](modelagemAgil/historiaUsuario.md)
   - [NFR Framework](modelagemAgil/NFR.md)
 
-<!-- 
+
 * Verificação
 
     * Grupo 3
@@ -86,26 +86,12 @@
       - [Entrega 2](/docs/verficacao/grupo3/entrega02.md)
       - [Entrega 3](/docs/verficacao/grupo3/entrega03.md)
       - [Entrega 4](/docs/verficacao/grupo3/entrega04.md)
-
+<!-- 
     * Grupo 2
       - [Entrega 1](/docs/verficacao/grupo2/entrega01.md)
       - [Entrega 2](/docs/verficacao/grupo2/entrega02.md)
       - [Entrega 3](/docs/verficacao/grupo2/entrega03.md)
       - [Entrega 4](/docs/verficacao/grupo2/entrega04.md) 
-
-* Validação 
-
-    * Grupo 3
-      - [Entrega 1](/docs/verficacao/grupo3/entrega01.md)
-      - [Entrega 2](/docs/verficacao/grupo3/entrega02.md)
-      - [Entrega 3](/docs/verficacao/grupo3/entrega03.md)
-      - [Entrega 4](/docs/verficacao/grupo3/entrega04.md)
-      
-    * Grupo 2
-      - [Entrega 1](/docs/verficacao/grupo2/entrega01.md)
-      - [Entrega 2](/docs/verficacao/grupo2/entrega02.md)
-      - [Entrega 3](/docs/verficacao/grupo2/entrega03.md)
-      - [Entrega 4](/docs/verficacao/grupo2/entrega04.md)
 
 * Pós-Rastreabilidade 
   - [Foward-From](/docs/posRastreabilidade/fowardFrom.md)
