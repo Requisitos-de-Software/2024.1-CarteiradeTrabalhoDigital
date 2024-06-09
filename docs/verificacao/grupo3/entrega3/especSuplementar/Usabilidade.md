@@ -48,6 +48,15 @@ A tabela 1 apresenta a lista de verificação para a especificação suplementar
 
 ## Referências Bibliográficas
 
+1. DEVMEDIA. Como extrair os requisitos de usabilidade de uma aplicação. Artigo da Revista Engenharia de Software edição 13. Disponível em <https://www.devmedia.com.br/como-extrair-os-requisitos-de-usabilidade-de-uma-aplicacao/12821>. Acesso em 09  de junho de 2024.
+
+2. MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Templeta de Especificação Suplementar. Disponível em <https://pdp.mctic.gov.br/MCTI-PDP/guidances/examples/Especificacao%20Suplementar_4C68A4F4.html>. Acesso em 09  de junho de 2024.
+
+3. CONCEITOS: Requisitos. Disponível em <https://www.cin.ufpe.br/~rls2/processo_tg/Metodologia%20S&B/workproducts/resources/co_req.htm#Usability>. Acesso em 09  de junho de 2024.
+
+4. VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira de. Engenharia de Software de Requisitos – Software Orientado ao Negócio. Editoras FATTOS e Brasport. Disponível em <https://analisederequisitos.com.br/wp-content/uploads/2023/06/engenharia-de-requisitos-software-orientado-ao-negocio.pdf>. Acesso em 09  de junho de 2024.
+
+
 ## Histórico de versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
