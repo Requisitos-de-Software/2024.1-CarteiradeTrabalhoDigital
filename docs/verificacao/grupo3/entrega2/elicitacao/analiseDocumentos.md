@@ -19,6 +19,14 @@
 
 ## Lista de Verificação
 
+A tabela 1 apresenta a lista de verificação para a análise de documentos com base em pontos citados em livros e artigos.
+
+Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastreabilidade**.
+
+<center>
+
+**Tabela 1:** Lista de verificação para a análise de documentos utilizada para a elicitação de requisitos.
+
 | ID | Pergunta de Verificação | Explicação | Rastreabilidade |
 |----|-------------------------|------------|-----------------|
 | 1  | O documento identifica as necessidades do aplicativo de acordo com o documento de sua criação/Manual? | Verificar se o documento descreve as funcionalidades que o aplicativo dos correios deve ter. | [Livro: Engenharia de Requisitos - Software Orientado a Negócios](https://analisederequisitos.com.br/wp-content/uploads/2023/06/engenharia-de-requisitos-software-orientado-ao-negocio.pdf) e [Elicitação e Análise de Requisitos](http://www.univasf.edu.br/~ricardo.aramos/disciplinas/ESI2009_2/Aula10.pdf) |
@@ -29,6 +37,10 @@
 | 7  | O documento identifica os requisitos de usabilidade e de acessibilidade do aplicativo | Confirmar se requisitos de usabilidade, como facilidade de navegação, intuitividade e acessibilidade para usuários com necessidades especiais, são considerados na análise. | [LEGISLAÇÃO SOBRE ACESSIBILIDADE AO SOFTWARE](https://www.acessibilidade.net/software/legislacao_software.php)|
 | 8  | Os requisitos de desempenho e escalabilidade são considerados na análise de documentos? | Verificar se a análise inclui requisitos de desempenho, como tempo de resposta do aplicativo, capacidade de carga e escalabilidade para lidar com aumentos no número de usuários e transações. |  [Engenharia de Software Moderna – Tópico 3.3.2. Perguntas Frequentes](https://engsoftmoderna.info/cap3.html) |
 | 9  | Há uma lista dos requisitos não funcionais determinados pelos stakeholders? | Verificar se a análise inclui os requisitos não funcionais declarados pelos stakeholders. |  [Engenharia de Software Moderna – Tópico 1.2.1. Engenharia de Requisitos e 1.2.7 Gerência de Projetos](https://engsoftmoderna.info/cap1.html) |
+
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
 
 
 ## Referências Bibliográficas
