@@ -1,4 +1,4 @@
-|# Planejamento Verificação do Grupo 3
+# Planejamento Verificação do Grupo 3
 
 ## Sumário
 * [Introdução](#Introdução)
@@ -55,7 +55,10 @@ Tabela 1: divisão de verificação dos artefatos
  </center>
 
 
-<center> Autor: [Caio Mesquita]()</center>
+<center> 
+
+Autor: [Caio Mesquita](https://github.com/Caiomesvie)
+</center>
 
 
 Dentro dos artefatos Rich Picture, Cenários, Casos de uso, Especificação suplementar, Backlog do produto, Histórias de Usuário e NFR Framework, foram distribuídos os tópicos internos de cada artefato para os integrantes realizarem a Verificação.
