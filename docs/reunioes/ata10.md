@@ -153,13 +153,14 @@ ELICITAÇÃO
 
 **Lista de verificação pra Técnica Priorização In or Out** - Luana Medeiros
 
-**Avaliação pra Técnica Priorização In or Out** - Luana Medeiros
+**Avaliação pra Técnica Priorização In or Out** - Pedro Izarias
 
 -------------------------------------------------------------------------
 
 **Lista de verificação pros Requisitos Elicitados** - Pedro Izarias
 
 **Avaliação pros Requisitos Elicitados** - Larissa Stéfane
+
 -------------------------------------------------------------------------
 MODELAGEM
 
