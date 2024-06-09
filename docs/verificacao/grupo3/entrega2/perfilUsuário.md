@@ -1,5 +1,13 @@
 # Verificação para o Perfil do Usuário.
 
+## Sumário
+* [Introdução](#Introdução)
+* [Metodologia](#Metodologia)
+* [Lista-de-Verificação](#Lista-de-Verificação)
+* [Avaliação](#Avaliação)
+* [Conclusão](#Conclusão)
+* [Referências Bibliográficas](#Referências-Bibliográficas)
+* [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
 
@@ -10,6 +18,8 @@ Este documento tem como objetivo apresentar a lista de verificação e a avalia�
 A metodologia para análise do perfil de usuários do projeto dos Correios será conduzida em duas etapas. Inicialmente, será elaborada uma lista de verificação composta por tópicos essenciais, os quais servirão como base para a avaliação do documento. Desse modo, esses tópicos abrangerão os dados principais dos usuários, desde os seus dados demográficos até as suas características específicas, como estilo e preferência de aprendizado. Em seguida, utilizando-se dessa lista de verificação como guia, será realizada uma avaliação detalhada do perfil de usuários, examinando cada aspecto individualmente e identificando pontos fortes, áreas de melhoria e eventuais lacunas no documento.
 
 ## Lista de Verificação
+
+A tabela 1 apresenta a lista de verificação para o perfil de usuário com base nos pontos explicados no livro de Interação Humano-Computador e Experiência do Usuário¹, de Barbosa e Silva, no livro [About Face 3 The Essentials of Interaction Design](https://fall14se.wordpress.com/wp-content/uploads/2017/04/about_face_3__the_essentials_of_interaction_design.pdf)² e algumas normas e diretrizes.
 
 <center>
 
@@ -42,6 +52,12 @@ A metodologia para análise do perfil de usuários do projeto dos Correios será
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </center>
+
+## Avaliação
+
+## Conclusão
+
+## Referências Bibliográficas
 
 
 ## Histórico de versão
