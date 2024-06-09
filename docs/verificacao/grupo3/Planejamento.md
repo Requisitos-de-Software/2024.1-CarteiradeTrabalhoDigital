@@ -28,8 +28,8 @@ Para a realização desta etapa de verificação dos artefatos do grupo 3 foi fe
 Tabela 1: divisão de verificação dos artefatos
 
 
-|Artefato|Confecção da lista de vrificação|Responsável pela avaliação|
-|---------|-------------------------------|--------------------------|
+| Artefato  | Confecção da lista de verificação | Responsável pela avaliação |
+| --------- | --------------------------------- | -------------------------- |
 |Rich Picture|Iago passaglia|  Breno Alexandre, Bruno Araújo,  Caio Mesquita,  Iago Passaglia,  Larissa Stéfane,  Luana Medeiros e Pedro Izarias |
 |Perfil de usuário| Larissa Stéfane| Luana Medeiros|
 |Personas|Pedro Izarias|Larissa Stéfane|
@@ -39,10 +39,11 @@ Tabela 1: divisão de verificação dos artefatos
 |Técnica Elicitação - Questionário |Caio Mesquita|Bruno Araújo|
 |Técnica Priorização - 100 Dolares|Bruno Araújo| Breno Alexandre|
 |Técnica Priorização - First Things First|Caio Mesquita|Iago Passaglia|
-| Técnica Priorização - In or Out  | Luana Medeiros| Luana Medeiros|
+| Técnica Priorização - In or Out  | Luana Medeiros | Pedro Izarias |
 |Requisitos Elicitados|Pedro Izarias|Larissa Stéfane|
 |Cenários|Larissa Stéfane|Breno Alexandre, Bruno Araújo,  Caio Mesquita,  Iago Passaglia,  Larissa Stéfane,  Luana Medeiros e Pedro Izarias|
 |Casos de uso|Iago Passaglia|Breno Alexandre, Bruno Araújo,  Caio Mesquita,  Iago Passaglia,  Larissa Stéfane,  Luana Medeiros e Pedro Izarias|
+| Validação de Casos de Uso | Breno Alexandre | Pedro Izarias |
 |Especificação suplementar|Breno Alexandre, Bruno Araújo,  Caio Mesquita,  Iago Passaglia,  Larissa Stéfane,  Luana Medeiros e Pedro Izarias|Breno Alexandre, Bruno Araújo,  Caio Mesquita,  Iago Passaglia,  Larissa Stéfane,  Luana Medeiros e Pedro Izarias|
 |Léxicos|Pedro Izarias|Bruno Araújo|
 |Backlog do produto|Caio Mesquita|Breno Alexandre, Bruno Araújo,  Caio Mesquita,  Iago Passaglia,  Larissa Stéfane,  Luana Medeiros e Pedro Izarias|
@@ -57,7 +58,7 @@ Tabela 1: divisão de verificação dos artefatos
 
 <center> 
 
-Autor: [Caio Mesquita](https://github.com/Caiomesvie)
+<b> Autor: </b> <a href="https://github.com/Caiomesvie"> Caio Mesquita </a>
 </center>
 
 
@@ -161,8 +162,6 @@ Dentro do artefato de NFR FRamework foi feita a seguinte divisão:
 
 
 ## Histórico de versão
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 |  Criação do documento  |  Caio Mesquita   |  Bruno Araújo |  09/06/2024  |
-
-
+| Versão | Alteração                           | Responsável     | Revisor         | Data       |
+| ------ | ----------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação do documento                | Caio Mesquita   | Breno Alexandre | 09/06/2024 |
