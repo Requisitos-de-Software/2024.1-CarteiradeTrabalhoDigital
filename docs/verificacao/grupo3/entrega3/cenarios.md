@@ -38,3 +38,19 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </center>
+
+
+## Referências Bibliográficas
+
+1. Cenários. PUC-RIO. Disponível em: <https://www-di.inf.puc-rio.br/~julio/bnncap3.pdf> . Acesso em 09 junnho de 2024.
+
+2. Cenários. Retraining: Requirements Engineering. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-cenarios> . Acesso em 09 junnho de 2024.
+
+3. Interação Humano-Computador e Experiência do Usuário. Simone Diniz Junqueira Barbosa edição de 03 de maio de 2021.
+
+4. Uso de cenários para especificação de requisitos de qualidade e avaliação de arquitetura. DevMedia. Disponível em: <https://www.devmedia.com.br/uso-de-cenarios-para-especificacao-de-requisitos-de-qualidade-e-avaliacao-de-arquitetura/22528> . Acesso em 09 junnho de 2024.
+
+5. VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira de. Engenharia de Software de Requisitos – Software Orientado ao Negócio. Editoras FATTOS e Brasport. Disponível em: <https://analisederequisitos.com.br/wp-content/uploads/2023/06/engenharia-de-requisitos-software-orientado-ao-negocio.pdf> . Acesso em 09 junnho de 2024.
+
+   
+
