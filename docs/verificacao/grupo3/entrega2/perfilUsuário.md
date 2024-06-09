@@ -35,3 +35,10 @@
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </center>
+
+
+## Histórico de versão
+
+| Versão | Alteração | Responsável | Revisor | Data |
+| - | - | - | - | - |
+| 1.0 | Adição da tabela de verificação | Larissa Stéfane | - | 09/06/2024 |
