@@ -13,7 +13,11 @@
 
 ## Introdução
 
+Este documento apresenta uma lista de verificação para a avaliação do tópico de usabilidade na especificação suplementar do projeto dos Correios. Dessa maneira, através da lista de verificação, será buscado identificar de forma objetiva e detalhada os requisitos relacionados à usabilidade presentes na especificação suplementar ao garantir que eles estejam alinhados com as necessidades e com as expectativas dos usuários finais.
+
 ## Metodologia 
+
+Para conduzir a avaliação dos requisitos de usabilidade, inicialmente, será elaborado uma lista de verificações com base em materiais didáticos sobre a especificação suplementar. Em seguida, um integrante do grupo irá revisar essa especificação com base nesta lista.
 
 
 ## Lista de Verificação
