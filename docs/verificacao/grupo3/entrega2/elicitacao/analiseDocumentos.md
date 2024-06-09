@@ -5,7 +5,7 @@
 * [Metodologia](#Metodologia)
 * [Lista de Verificação](#Lista-de-Verificação)
 * [Avaliação](#Avaliação)
-* [Conclusão](#Conclusão)
+* [Conclusão e Observações](#Conclusão-e-Observações)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
 
@@ -42,6 +42,9 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 
 </center>
 
+## Avaliação
+
+## Conclusão e Observações
 
 ## Referências Bibliográficas
 
@@ -53,6 +56,14 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 
 4. PUC-Rio. Elicitação de Requisitos. Disponível em <https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF> . Acessado em 09 de junho de 2024.
 
-5. Valente, Marco Tulio. Engenharia de Software Moderna. Professor do ASERG/DCC/UFMG. Editora "UmLivro". Disponível em <https://engsoftmoderna.info/> Acessado em 09 de junho de 2024.
+5. Vazquez, Carlos Eduardo; Simões, Guilherme Siqueira de. Engenharia de Software de Requisitos – Software Orientado ao Negócio. Editoras FATTOS e Brasport. Disponível em: <https://analisederequisitos.com.br/wp-content/uploads/2023/06/engenharia-de-requisitos-software-orientado-ao-negocio.pdf> Acessado em 09 de junho de 2024.
+   
+6. Valente, Marco Tulio. Engenharia de Software Moderna. Professor do ASERG/DCC/UFMG. Editora "UmLivro". Disponível em <https://engsoftmoderna.info/> Acessado em 09 de junho de 2024.
 
 
+## Histórico de versão
+
+| Versão | Alteração | Responsável | Revisor | Data |
+| - | - | - | - | - |
+| 1.0 | Adição da tabela de verificação | Larissa Stéfane | - | 09/06/2024 |
+| 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | - | 09/06/2024 |
