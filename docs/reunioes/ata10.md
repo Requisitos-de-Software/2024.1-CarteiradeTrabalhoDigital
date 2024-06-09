@@ -122,6 +122,7 @@ ELICITAÇÃO
 **Lista de verificação pra Técnica Elicitação Brainstorm** - Breno Alexandre
 
 **Avaliação pra Técnica Elicitação Brainstorm** - Caio Mesquita
+
 -------------------------------------------------------------------------
 
 **Lista de verificação pra Técnica Elicitação Observação** - Luana Medeiros 
@@ -135,11 +136,13 @@ ELICITAÇÃO
 **Avaliação pra Técnica Elicitação Questionário** - Bruno Araújo
 
 -------------------------------------------------------------------------
+
 **Lista de verificação pra Técnica Priorização 100 Dolares** - Bruno Araújo
 
 **Avaliação pra Técnica Priorização 100 Dolares** - Breno Alexandre
 
 -------------------------------------------------------------------------
+
 **Lista de verificação pra Técnica Priorização First Things First** - Caio Mesquita
 
 **Avaliação pra Técnica Priorização First Things First** - Iago Passaglia
@@ -151,11 +154,13 @@ ELICITAÇÃO
 **Avaliação pra Técnica Priorização In or Out** - Luana Medeiros
 
 -------------------------------------------------------------------------
+
 **Lista de verificação pros Requisitos Elicitados** - Pedro Izarias
 
 **Avaliação pros Requisitos Elicitados** - Larissa Stéfane
 -------------------------------------------------------------------------
 MODELAGEM
+
 **Lista de verificação pro Cenários** - Larissa Stéfane
 
 **Avaliações**
@@ -182,6 +187,7 @@ MODELAGEM
 - Mudar endereço de recebimento - Larissa Stéfane
 
 -------------------------------------------------------------------------
+
 **Lista de verificação pra Validação Casos de Uso** - Breno Alexandre
 
 **Avaliação pra Validação Casos de Uso** - Pedro Izarias
@@ -227,6 +233,7 @@ MODELAGEM
 - Busca e contato - Caio Mesquita
 
 -------------------------------------------------------------------------
+
 **Lista de Verificação de Histórias de Usuário** - Larissa Stéfane
 
 **Avaliações**
@@ -259,7 +266,9 @@ MODELAGEM
 **Avaliação de Validação Histórias de Usuário** - Bruno Araújo
 
 -------------------------------------------------------------------------
+
 **Lista de Verificação do NFR (SIG)** - Larissa Stéfane
+
 **Avaliações**
 - Usabilidade - Caio Mesquita
 - Confiabilidade - Luana Medeiros
@@ -268,6 +277,7 @@ MODELAGEM
 -------------------------------------------------------------------------
 
 CORREÇÕES
+
 - fonte para autor
 - formatar autor pro gitpage
 - hiperlink nos lexicos
