@@ -82,7 +82,7 @@
 * Verificação
 
     * Grupo 3
-      - [Planejamento](docs/verificacao/grupo3/Planejamento.md)
+      - [Planejamento](verificacao/grupo3/Planejamento.md)
       * Entrega 1
         - [Rich Picture](/docs/verificacao/grupo3/entrega1/richPicture.md)
       * Entrega 2
