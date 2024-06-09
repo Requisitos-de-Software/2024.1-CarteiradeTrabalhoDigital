@@ -41,7 +41,7 @@
   - [Personas](Elicitacao/Personas/TodasPersonas.md)
   - [Termo de consentimento](Elicitacao/TecnicasElicitacao/Execucao/Storytelling/TermoConsentimento.md)
       
-  * Técnicas de Elicitação        
+  * Elicitação        
       - [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md)
       - [Encenação Adaptada](Elicitacao/TecnicasElicitacao/Execucao/EncenacaoAdaptada.md)
       * Questionário
@@ -82,20 +82,30 @@
 * Verificação
 
     * Grupo 3
-      - [Entrega 1](/docs/verficacao/grupo3/entrega01.md)
-      - [Entrega 2](/docs/verficacao/grupo3/entrega02.md)
-      - [Entrega 3](/docs/verficacao/grupo3/entrega03.md)
-      - [Entrega 4](/docs/verficacao/grupo3/entrega04.md)
+      - [Planejamento](/docs/verificacao/grupo3/Planejamento.md)
+      * Entrega 1
+        - [Rich Picture](/docs/verificacao/grupo3/entrega1/richPicture.md)
+      * Entrega 2
+        - [Perfil de usuário](/docs/verificacao/grupo3/entrega2/perfilUsuário.md)
+        - [Personas](/docs/verificacao/grupo3/entrega2/personas.md)
+        - [Elicitação](/docs/verificacao/grupo3/entrega2/elicitacao.md)
+        - [Priorização](/docs/verificacao/grupo3/entrega2/priorizacao.md)
+      * Entrega 3
+        - [Cenários](/docs/verificacao/grupo3/entrega3/cenarios.md)
+        - [Léxicos](/docs/verificacao/grupo3/entrega3/lexicos.md)
+        - [Casos de uso](/docs/verificacao/grupo3/entrega3/casosDeUso.md)
+        - [Especificação sumplementar](/docs/verificacao/grupo3/entrega3/especSuplementar.md)
+      * Entrega 4
+        - [Backlog do produto](/docs/verificacao/grupo3/entrega4/backlog.md)
+        - [Histórias de usuário](/docs/verificacao/grupo3/entrega4/historiasUsuario.md)
+        - [NFR Framework](/docs/verificacao/grupo3/entrega4/NFR.md)
+
+
 <!-- 
-    * Grupo 2
-      - [Entrega 1](/docs/verficacao/grupo2/entrega01.md)
-      - [Entrega 2](/docs/verficacao/grupo2/entrega02.md)
-      - [Entrega 3](/docs/verficacao/grupo2/entrega03.md)
-      - [Entrega 4](/docs/verficacao/grupo2/entrega04.md) 
 
 * Pós-Rastreabilidade 
   - [Foward-From](/docs/posRastreabilidade/fowardFrom.md)
   - [Backward-From](/docs/posRastreabilidade/backwardFrom.md)
   - [Matriz de Rastreabilidade](/docs/posRastreabilidade/matriz.md)
 
-* Entrega final -->
+* Entrega final --> 
