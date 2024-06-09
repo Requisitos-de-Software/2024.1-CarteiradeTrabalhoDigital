@@ -1,8 +1,11 @@
 # Verificação para o Perfil do Usuário.
 
 
+## Introdução
 
+Este documento tem como objetivo apresentar a lista de verificação e a avaliação do perfil de usuário elaborado para analisar e avaliar o projeto dos Correios, desenvolvido pelo grupo 3 da disciplina de Requisitos deste semestre, 2024.1. Sendo assim, a lista de verificação apresentada abaixo oferece um conjunto de critérios e diretrizes para assegurar a qualidade do perfil de usuário, enquanto a lista de avaliação proporciona uma análise sistemática e crítica do documento, visando identificar áreas de melhoria.
 
+## Lista de Verificação
 
 <center>
 
