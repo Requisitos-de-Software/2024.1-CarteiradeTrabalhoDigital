@@ -18,5 +18,16 @@
 | 9  | Há uma lista dos requisitos não funcionais determinados pelos stakeholders? | Verificar se a análise inclui os requisitos não funcionais declarados pelos stakeholders. |  [Engenharia de Software Moderna – Tópico 1.2.1. Engenharia de Requisitos e 1.2.7 Gerência de Projetos](https://engsoftmoderna.info/cap1.html) |
 
 
+## Referências Bibliográficas
+
+1. Aramos, Ricardo. Elicitação e Análise de Requisitos. Disponível em <http://www.univasf.edu.br/~ricardo.aramos/disciplinas/ESI2009_2/Aula10.pdf> . Acessado em 09 de junho de 2024. 
+
+2. LEGISLAÇÃO SOBRE ACESSIBILIDADE AO SOFTWARE. Decreto-Lei n.° 349/93. Disponível em <https://www.acessibilidade.net/software/legislacao_software.php> . Acessado em 09 de junho de 2024.
+
+3. Lima Junior, Eduardo Brandão et al. ANÁLISE DOCUMENTAL COMO PERCURSO METODOLÓGICO NA PESQUISA QUALITATIVA. Cadernos da Fucamp, v.20, n.44, p.36-51/2021. Disponível em <https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/ImagensDiagrama/2356-Texto%20do%20Artigo-8504-1-10-20210407.pdf> . Acessado em 09 de junho de 2024.
+
+4. PUC-Rio. Elicitação de Requisitos. Disponível em <https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF> . Acessado em 09 de junho de 2024.
+
+5. Valente, Marco Tulio. Engenharia de Software Moderna. Professor do ASERG/DCC/UFMG. Editora "UmLivro". Disponível em <https://engsoftmoderna.info/> Acessado em 09 de junho de 2024.
 
 
