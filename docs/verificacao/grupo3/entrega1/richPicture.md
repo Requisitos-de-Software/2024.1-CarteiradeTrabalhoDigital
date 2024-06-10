@@ -14,7 +14,7 @@ Este documento tem como objetivo avaliar se os Rich Pictures apresentados pelo G
 
 ## Metodologia
 
-Para a avaliação dos Rich Pictures do Grupo 3, desenvolvemos uma lista de verificação com x perguntas específicas criadas com base no livro de David Benyon, Interação Humano-Computador. São Paulo, 2a Edição, Pearson Prentice Hall, 2011 e no arquivo "Introducing Rich Pictures, CTEC2402" disponibilizados na plataforma Aprender pelo professor André Barros. Cada membro do nosso grupo irá avaliar um Rich Picture diferente utilizando essa lista e preenchendo uma tabela de avaliação. Após as avaliações individuais, compilaremos os resultados para fornecer um feedback abrangente e construtivo ao Grupo 3.
+Para a avaliação dos Rich Pictures do Grupo 3, desenvolvemos uma lista de verificação com 11 perguntas específicas criadas com base no livro de David Benyon, Interação Humano-Computador. São Paulo, 2a Edição, Pearson Prentice Hall, 2011 e no arquivo "Introducing Rich Pictures, CTEC2402" disponibilizados na plataforma Aprender pelo professor André Barros. Cada membro do nosso grupo irá avaliar um Rich Picture diferente utilizando essa lista e preenchendo uma tabela de avaliação. Após as avaliações individuais, compilaremos os resultados para fornecer um feedback abrangente e construtivo ao Grupo 3.
 
 ## Tabela de avaliação
 
@@ -282,7 +282,7 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 
 | Versão | Descrição                     | Autor           | Revisor | Data       |
 |--------|-------------------------------|-----------------|------------|---------|
-| 1.0    | Adição de introdução e metodologia | Iago Passaglia  | - | 09/06/2024 |
+| 1.0    | Adição de introdução e metodologia | Iago Passaglia  | Pedro Izarias | 09/06/2024 |
 | 1.1    | Adição das tabelas de avaliação | Iago Passaglia  | Pedro Izarias | 09/06/2024 |
-| 1.2    | Adição das respostas para o app CTD | Pedro Izarias  | - | 10/06/2024 |
-| 1.3    | Adição das respostas para o app do Consumidor | Luana Medeiros | - | 10/06/2024 |
+| 1.2    | Adição das respostas para o app CTD | Pedro Izarias  | Iago Passaglia | 10/06/2024 |
+| 1.3    | Adição das respostas para o app do Consumidor | Luana Medeiros | Iago Passaglia | 10/06/2024 |
