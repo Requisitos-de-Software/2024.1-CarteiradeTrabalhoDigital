@@ -18,7 +18,7 @@ Este documento tem como objetivo realizar uma verificação do NFR framework e d
 
 A metodologia adotada para a verificação do NFR framework e do SIG no projeto do Grupo 3 será realizada da seguinte forma, inicialmente, um integrante do grupo será designado para elaborar as listas de verificação, com foco na identificação dos softgoals, suas interdependências, refinamentos e contribuições. Além disso, essas listas serão desenvolvidas com base nas diretrizes estabelecidas para o NFR framework e do SIG. Em seguida, os demais membros do grupo serão responsáveis por analisar e avaliar a aplicação do NFR framework no projeto dos correios elabora pelo grupo 3. 
 
-## Lista de Verificação
+## Lista de Verificação do  SIG - Softgoal Interdependency Graph
 
 A tabela 1 mostra a lista de verificação dos SIGs.
 
