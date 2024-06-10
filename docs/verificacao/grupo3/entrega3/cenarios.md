@@ -54,6 +54,40 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 
 ## Avaliação
 
+<details>
+  <summary size="20"><b> Cenário 5 - Rastreamento de Encomendas </b></summary> 
+
+  <br>
+
+A tabela dois mostra a avaliação do cenário de rastreamento de encomendas.
+
+**Tabela 2**: Avaliação do cenário de rastreamento de encomendas.
+
+<br>
+
+| ID | Pergunta                      | Resposta <br> Sim/Não/Incompleto | Observação |
+|--------|-------------------------------| ---------| ---------| 
+|    1    | O título do cenário representa explicitamente o tema? | Sim | - | 
+|    2    | O objetivo do cenário está claramente definido? | Sim | - |
+|    3    | O contexto do cenário está bem descrito, incluindo pré-condições, local e tempo? | Sim | - |
+|    4    | Os recursos envolvidos no cenário estão identificados? | Incompleto | Os recursos não abrangem todas as possibilidades. Por exemplo, poderia se adicionar o uso de tablets. |
+|    5    | Os atores envolvidos no cenário estão definidos?| Sim | - |
+|    6    | Os episódios do cenário estão bem definidos? | Incompleto | Os espisódios poderiam ter mais passos mostrando o que o usuário realiza e explicá-los melhor. Por exemplo, a parte de inserir o código poderia ser mais explicada. |
+|    7    | As ações dos atores estão descritas de forma observável? | Incompleto | Os episódios estão bem apresentados, mas poderiam ser mais completos. |
+|    8    | As restrições e as exceções dos episódios estão explicitadas? | Incompleto | Algumas restrições faltaram, por exemplo, o aplicativo precisa estar atualizado. |
+|    9    | O ambiente ou contexto do cenário está detalhado? | Não | Faltou um campo ou um tópico explicando o porquê desse cenário ser relevante para o projeto. Não há uma explicação do porquê o usuário se sente motivado a realizar. |
+|    10   | O cenário está escrito em linguagem natural simples? | Sim | - |
+|    11   | Há a descrição do que o sistema e os usuários esperam quando o cenário se finalizar ? | Não | No início do cenário, na sua apresentação/contextualização não foi mostrado o que se espera no final, ou seja, não tem como comparar se o que acontece no final dos episodios realmente é o que realmente se espera com os objetivos. |
+|    12    | As possíveis falhas e as suas tratativas estão descritas? | Incompleto |  Não há as tratativas/soluções. |
+|    13    | As informações sobre outras atividades que podem acontecer ao mesmo tempo estão incluídas? | Sim | - | 
+|    14   | Há uma descrição sobre o estado inicial e o final do contexto no cenário? | Incompleto | Pois essas informações não estão explicitas e é algo que o leitor tira as próprias conclusões. Poderia-se adicionar esses tópicos para deixar esses pontos mais explicados e detalhados. |
+|    15   | Os requisitos presentes estão descritos no cenário? | Não | Não há uma rastreabilidade ou indicação de qual requisito que pede para fazer o rastreamento de encomendas. |
+<br>
+
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</details>
+
 ## Conclusão e Observações
 
 ## Referências Bibliográficas
