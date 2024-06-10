@@ -56,7 +56,8 @@ Aqui está a tabela com a coluna de observação preenchida para cada pergunta, 
 
 1. SILVA, J.; OLIVEIRA, M. Interação humano-computador e experiência do usuário. Editora Tech, 2020.
    
-   
+2. WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013.
+
 ## Histórico de versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
