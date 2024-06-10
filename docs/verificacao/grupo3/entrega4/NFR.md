@@ -54,4 +54,4 @@
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Adição da tabela de verificação | Larissa Stéfane | - | 09/06/2024 |
-| 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | Pedro Izarias | 09/06/2024 |
+| 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | - | 09/06/2024 |
