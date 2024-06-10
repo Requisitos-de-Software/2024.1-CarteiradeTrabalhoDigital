@@ -6,7 +6,7 @@
 * [Lista de Verificação](#Lista-de-Verificação)
 * [Avaliação](#Avaliação)
 * [Conclusão e Observações](#Conclusão-e-Observações)
-* [Referências Bibliográficas](#Referências-Bibliográficas)
+* [Bibliografia](#Bibliografia)
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
@@ -50,13 +50,19 @@ Para conduzir a avaliação, inicialmente, será elaborado uma lista de verifica
 
 ## Conclusão e Observações
 
-## Referências Bibliográficas
+## Bibliografia
 
-1. 
+1. WIEGERS, K. Software Requirements. 2. ed. Redmond, WA, USA: Microsoft Press, 2003.
 
-2. 
 
-3. 
+2. Requirements Engineering: Processes and Techniques. Gerald Kotonya, [s.d.].
+
+
+3. LEFFINGWELL, D.; WIDRIG, D. Managing software requirements: A use case approach. 2. ed. Boston, MA, USA: Addison-Wesley Educational, 2003.
+
+
+4. DICK, J. et al. Requirements Engineering. 2. ed. Londres, England: Springer, 2005.
+
 
 ## Histórico de versão
 
