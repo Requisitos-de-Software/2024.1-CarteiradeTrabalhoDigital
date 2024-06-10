@@ -34,13 +34,8 @@
 | 7  |  As noções ou denotações atribuídas a cada símbolo do trabalho sobre léxicos estão corretas e correspondem adequadamente aos conceitos que representam?   |                           | |
 | 8  |  Os impactos ou conotações atribuídos a cada símbolo no trabalho sobre léxicos estão corretamente descritos e se refletem adequadamente as implicações e associações contextuais desses termos?   |                           | |
 | 9  |  Os sinônimos atribuídos a cada símbolo no léxico foram cuidadosamente considerados e se correspondem de maneira precisa aos termos alternativos que podem ser utilizados no contexto do projeto?   |                           | |
-| 10  |     |                           | |
-| 11  |     |                           | |
-| 12  |     |                           | |
-| 13  |     |                           | |
-| 14  |     |                           | |
-| 15  |     |                           | |
-| 16  |     |                           | |
+| 10  |  Os tipos atribuídos a cada símbolo correspondem precisamente aos símbolos?   |                           | |
+| 11  |  Os léxicos neste trabalho foram designados com algum sistema de rotulagem ou convenção de nomenclatura específica para identificação?   |                           | |
 
 **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
