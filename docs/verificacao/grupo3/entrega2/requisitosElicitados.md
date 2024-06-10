@@ -25,8 +25,6 @@
 
 Aqui está a tabela com a coluna de observação preenchida para cada pergunta, incluindo a contextualização do motivo da pergunta:
 
-Aqui está a tabela com a coluna de observação preenchida para cada pergunta, incluindo a contextualização do motivo da pergunta:
-
 | ID  | Pergunta     | Observação    | Rastreabilidade |
 |-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | 1  |  Os requisitos elicitados foram identificados com base nas necessidades e objetivos dos usuários, conforme recomendado na literatura? | Identificar requisitos com base nas necessidades dos usuários garante que o sistema atenda às expectativas e resolva problemas reais. | SILVA, J.; OLIVEIRA, M. Interação humano-computador e experiência do usuário. Editora Tech, 2020. Pág 166. |
