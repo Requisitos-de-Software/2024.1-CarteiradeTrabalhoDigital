@@ -10,14 +10,13 @@
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
-
+O seguinte documento possui o intuito de criar uma lista de verificação para o artefato de Requisitos Elicitados pelo grupo 03 do aplicativo dos correios da disciplina de Requisitos de Software, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre os requisitos, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
 
 ## Metodologia 
-
+Após a construção do artefato de requisitos elicitados, será criada uma lista de verificação contendo perguntas e respostas sobre o artefato, baseada na literatura da disciplina. Com a conclusão das respostas, o grupo avaliado poderá realizar alterações e melhorias para assegurar que o artefato esteja em conformidade com as diretrizes estabelecidas.
 
 ## Lista de Verificação
-
-
+A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de requisitos elicitados, assim como observações sobre cada pergunta e sua rastreabilidade, com a referencia bibliográfica de onde cada pergunta veio.
 
 <center>
 
