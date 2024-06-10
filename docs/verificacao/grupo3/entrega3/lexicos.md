@@ -47,6 +47,8 @@
 
 ## Referências Bibliográficas
 
+1. SAYÃO, Miriam; CARVALHO, Gustavo R. de. Construção do léxico de aplicações. In: ANAIS DO CONGRESSO DE ALFAL, 2017. Disponível em: <https://www.mundoalfal.org/CDAnaisXVII/trabalhos/R0367-1.pdf>. Acesso em: 9 jun. 2024.
+   
 1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. 03 de maio de 2021. Acesso em 08 de junho de 2024.
 
 2. Cooper, A., Reimann, R., Cronin, D. (2007). About Face 3: The Essentials of Interaction Design. Whiley Publisher. Disponível em <https://fall14se.wordpress.com/wp-content/uploads/2017/04/about_face_3__the_essentials_of_interaction_design.pdf> Acesso em 08 de junho de 2024.
