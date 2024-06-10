@@ -11,6 +11,7 @@
 
 ## Introdução
 
+Este documento apresenta uma lista de verificação para a análise das histórias de usuário no projeto dos Correios. Nesse contexto, através desta lista de verificação abrangente, busca-se assegurar que cada história de usuário atenda aos critérios de independência, negociabilidade, valor, estimabilidade, adequação entre outros ponto necessários. 
 
 ## Metodologia
 
