@@ -10,7 +10,7 @@
 
 ## Introdução
 
-Será documentado neste artefato a lista de verificação para avaliar o artefato da [Validação de Casos de Uso do Grupo 3](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/casos_de_uso/), de forma que esta avaliação sirva como um guia do que melhorar no projeto do grupo avaliado.
+Será documentado neste artefato a lista de verificação para avaliar o artefato da [Validação de Casos de Uso do Grupo 3](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/validacao/), de forma que esta avaliação sirva como um guia do que melhorar no projeto do grupo avaliado.
 
 ## Metodologia
 
