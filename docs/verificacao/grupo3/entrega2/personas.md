@@ -64,6 +64,17 @@ A tabela 2 mostra a avaliação das personas com base na lista de veriicação.
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+O vídeo 1 mostra a avaliação do documento das personas com base na lista de verificação. Assim, a tabela 2 foi respondida durante o vídeo 1.
+
+
+**Vídeo 1:** Avaliação das personas
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/IobEpkCUgkI" title="Verificação das personas do projeto 3 - Correios." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+Caso o vídeo acima não funcione, aperte no [link](https://www.youtube.com/watch?v=IobEpkCUgkI) para ser redirecionado ao youtube.
+
 
 ## Conclusão e Observações
 
@@ -84,3 +95,4 @@ A tabela 2 mostra a avaliação das personas com base na lista de veriicação.
 | 1.0 | Criação do documento | Pedro Izarias | Larissa Stéfane | 09/06/2024 |
 | 1.1 |  Adição de introdução e metodologia  | Pedro Izarias | Larissa Stéfane | 10/06/2024 |
 | 1.2 |  Adição da avaliação das personas | Larissa Stéfane | - | 10/06/2024 |
+| 1.3 |  Adição do vídeo da avaliação das personas | Larissa Stéfane | - | 10/06/2024 |
