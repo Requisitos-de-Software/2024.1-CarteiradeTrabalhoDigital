@@ -48,7 +48,7 @@
 
 ## Referências Bibliográficas
 
-
+1. Silva, R. A. (2019). NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Recife: Universidade Federal de Pernambuco. 
 ## Histórico de versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
