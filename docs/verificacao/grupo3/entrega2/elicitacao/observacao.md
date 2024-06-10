@@ -10,10 +10,10 @@
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
-
+Este documento apresenta uma lista de verificação para a avaliação do tópico da técnica de elicitação de requisitos de observação do projeto dos Correios. Dessa maneira, através da lista de verificação, será buscado identificar de forma objetiva e detalhada os requisitos relacionados à técnica de observação ao garantir que eles estejam alinhados com as necessidades e com as expectativas dos usuários finais.
 
 ## Metodologia 
-
+Para conduzir a avaliação, inicialmente, será elaborado uma lista de verificações com base em materiais didáticos sobre a técnica de elicitação de requisitos de observação. Em seguida, um integrante do grupo irá revisar essa especificação com base nesta lista.
 
 ## Lista de Verificação
 
@@ -63,3 +63,4 @@
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Luana Medeiros | - | 09/06/2024 |
+| 1.1 | Adição de introdução e metodologia | Luana Medeiros | - | 09/06/2024 |
