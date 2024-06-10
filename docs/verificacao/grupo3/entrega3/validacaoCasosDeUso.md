@@ -18,20 +18,19 @@ Através de uma inspeção no documento que será avaliado, como citado acima, t
 
 ## Lista de Verificação
 
-A tabela 1 apresenta a lista de verificação da Validação de Casos de Uso com base em pontos citados em livros e artigos.
+A tabela 1 apresenta a lista de verificação da Validação de Casos de Uso.
 
-Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastreabilidade**.
 
 <center>
 
 **Tabela 1:** Lista de verificação para a Validação de Casos de Uso utilizado para a modelagem de requisitos.
 
-| ID | Pergunta de Verificação                                                                                | Rastreabilidade                                     |
-| -- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
-| 1  | As sessões envolveram entre 8 e 12 usuários?                                                           |  |
-
-
-
+| ID | Pergunta de Verificação                                         | Rastreabilidade |
+| -- | --------------------------------------------------------------- | --------------- |
+| 1  | O entrevistado está no perfil de usuário?                       | Breno Alexandre |
+| 2  | Os termos de consentimento foram concordados pelo entrevistado? | Breno Alexandre |
+| 3  | As sugestões do entrevistado foram anotadas?                    | Breno Alexandre |
+ 
 <b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>.
 
 </center>
@@ -40,18 +39,18 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 
 A tabela 2 apresenta a lista de verificação da Validação de Casos de Uso.
 
-| ID | Pergunta de Verificação | Sim/Não/Incompleto |
-| -- | ----------------------- | ------------------ |
-| 1  | As sessões envolveram entre 8 e 12 usuários?                                                           | |
+| ID | Pergunta de Verificação                                         | Sim/Não/Incompleto |
+| -- | --------------------------------------------------------------- | ------------------ |
+| 1  | O entrevistado está no perfil de usuário?                       |  |
+| 2  | Os termos de consentimento foram concordados pelo entrevistado? |  |
+| 3  | As sugestões do entrevistado foram anotadas?                    |  |
 
 
 <b> Autor: </b> <a href="https://github.com/Izarias"> Pedro Izarias </a>.
 
 ## Conclusão e Observações
- 
-## Referências Bibliográficas
 
-1. <b> 
+
 
 ## Histórico de versão
 
