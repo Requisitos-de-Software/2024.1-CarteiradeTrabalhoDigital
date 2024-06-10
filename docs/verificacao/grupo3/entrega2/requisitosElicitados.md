@@ -22,7 +22,6 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de requ
 
 **Tabela 1:** Lista de verificação para Requisitos Elicitados.
 
-Aqui está a tabela com a coluna de observação preenchida para cada pergunta, incluindo a contextualização do motivo da pergunta:
 
 | ID  | Pergunta     | Observação    | Rastreabilidade |
 |-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
