@@ -10,12 +10,11 @@
 
 ## Introdução
 
-Este documento tem como objetivo avaliar os casos de uso desenvolvidos por outros grupos na disciplina de Requisitos de Software. Através de uma lista de verificação contendo itens essenciais, buscaremos identificar a clareza, precisão, completude e adequação dos casos de uso em relação aos requisitos estabelecidos. Esta avaliação é crucial para garantir que os casos de uso atendam às necessidades do sistema e sirvam como uma base sólida para o desenvolvimento de software.
+Este documento tem como objetivo avaliar os casos de uso desenvolvidos pelo Grupo 3 na disciplina de Requisitos de Software. Através de uma lista de verificação contendo itens essenciais, buscaremos identificar a clareza, precisão, completude e adequação dos casos de uso em relação aos requisitos.
 
 ## Metodologia
 
-Para realizar esta avaliação, será utilizada a tabela 0 que contém uma lista de perguntas baseadas nos principais critérios de qualidade para casos de uso. Cada integrante do grupo será responsável por analisar um ou mais casos de uso, preenchendo a tabela com suas respostas e observações. Este método assegura uma análise detalhada e colaborativa, proporcionando uma visão abrangente e crítica dos casos de uso avaliados.
-
+Para realizar esta avaliação, será utilizada a tabela 0 que contém uma lista de perguntas baseadas nos principais critérios de qualidade para casos de uso. Cada integrante do grupo será responsável por analisar um ou mais casos de uso, preenchendo a tabela com suas respostas e observações.
 ## Tabela de Verificação
 
 <br>
