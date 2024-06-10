@@ -67,7 +67,8 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de requ
 
 ## Referências Bibliográficas
 
-1. SILVA, J.; OLIVEIRA, M. Interação humano-computador e experiência do usuário. Editora Tech, 2020.
+1. SILVA, J.; OLIVEIRA, M. Interação humano-computador e experiência do usuário. Editora Tech, 2020. Acesso feito em 09 de junho de 2024.
+
    
 2. WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. <https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf> Acesso feito em 09 de junho de 2024.
 
