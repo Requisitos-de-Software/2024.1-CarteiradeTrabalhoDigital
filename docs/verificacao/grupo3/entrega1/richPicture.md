@@ -42,11 +42,6 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 
 ## Avaliações
 
-<details>
-  <summary size="20"><b> Correios </b></summary> 
-
-  <br>
-
 
 Tabela 2: Avaliação Correios
 
@@ -81,12 +76,6 @@ Tabela 2: Avaliação Correios
 
 </details>
 
-
-<br>
-
-Autor: [Iago Passaglia](https://github.com/paxxaglia)
-
-</details>
 
 <details>
   <summary size="20"><b> Serasa </b></summary> 
