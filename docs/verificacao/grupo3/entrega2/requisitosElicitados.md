@@ -76,3 +76,4 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de requ
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Pedro Izarias | - | 09/06/2024 |
+| 1.1 | Adição da introdução e metodologia | Pedro Izarias | - | 10/06/2024 |
