@@ -46,22 +46,22 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de requ
 
 ## Avaliação
 
-| ID  | Pergunta     | Resposta  | 
-|-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| 1  |  Os requisitos elicitados foram identificados com base nas necessidades e objetivos dos usuários, conforme recomendado na literatura? |  | 
-| 2  |  Os requisitos elicitados foram definidos com rigor e detalhes, mantendo o foco nas necessidades dos usuários, como recomendado na literatura? |  | 
-| 3  |  Os requisitos elicitados foram classificados de acordo com sua natureza (funcionais, não funcionais, etc.) para facilitar a compreensão e implementação, conforme sugerido na literatura? |  |
-| 4  |  Os requisitos elicitados foram documentados de forma a permitir sua rastreabilidade ao longo do ciclo de vida do sistema, facilitando futuras atualizações e manutenções, conforme descrito na literatura? |  | 
-| 5  |  Os requisitos elicitados foram classificados em implementados ou não? |  | 
-| 6  | Os requisitos são testáveis e mensuráveis para garantir que possam ser verificados durante a implementação?  |  | 
-| 7  |  Todos os requisitos foram priorizados de acordo com sua importância para o sucesso do projeto? |  |
-| 8  |  Os requisitos são consistentes e não entram em conflito uns com os outros? |  |
-| 9  |  Os requisitos consideram os requisitos não funcionais, como desempenho, segurança e usabilidade? |  |
-| 10  |  Os requisitos foram documentados de forma abrangente e estão prontos para serem utilizados na fase de desenvolvimento do software? |  | 
-| 11 | Os requisitos abordam requisitos de conformidade, como regulamentações legais ou padrões da indústria que o sistema deve atender? |  | 
-| 12 | Os requisitos incluem requisitos de escalabilidade para garantir que o sistema possa lidar com um aumento no número de usuários? |  |
-| 13 | Os requisitos consideram os requisitos de segurança, como autenticação, autorização e criptografia de dados? |  |
-| 14 | Os requisitos abordam os requisitos de desempenho, como tempos de resposta esperados e capacidade de processamento? |  | 
+| ID  | Pergunta     | Resposta <br> |  Observação |
+|-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------| ---------- |
+| 1  |  Os requisitos elicitados foram identificados com base nas necessidades e objetivos dos usuários, conforme recomendado na literatura? | Sim | - |
+| 2  |  Os requisitos elicitados foram definidos com rigor e detalhes, mantendo o foco nas necessidades dos usuários, como recomendado na literatura? | Sim | - |
+| 3  |  Os requisitos elicitados foram classificados de acordo com sua natureza (funcionais, não funcionais, etc.) para facilitar a compreensão e implementação, conforme sugerido na literatura? | Incompleto | Alguns requisitos estão sem códigos ou estão localizados em locais errados. Por exemplo, na tabela de requisitos funcionais, a partir do RF48, não há numeração. <br> Além disso, há requisitos em locais errados, por exemplo, requisitos não funcionais na tabela de funcionais e requisitos não funcionais na tabela de funcionais. |
+| 4  |  Os requisitos elicitados foram documentados de forma a permitir sua rastreabilidade ao longo do ciclo de vida do sistema, facilitando futuras atualizações e manutenções, conforme descrito na literatura? | Sim | - |
+| 5  |  Os requisitos elicitados foram classificados em implementados ou não? | Sim | Seria interessante adicionar a opção de incompleto, pois, em muitos casos, há requisitos que começaram a ser implementados, mas que ainda não suprem todas as expectativas que o usuário espera deles. |
+| 6  | Os requisitos são testáveis e mensuráveis para garantir que possam ser verificados durante a implementação?  | Não/Incompleto | Há muitos requisitos que não podem ser testados e que estão muito genéricos. Por exemplo, “O uso tem que ser fácil”, isso é algo muito subjetivo, o ideal seria colocar medidas numéricas para comprovar a ideia. |
+| 7  |  Todos os requisitos foram priorizados de acordo com sua importância para o sucesso do projeto? | Não | Não há nenhum indício de que os requisitos apresentados passaram pela organização de priorização. <br> O que se percebe é que eles estão divididos conforme as técnicas de elicitação. |
+| 8  |  Os requisitos são consistentes e não entram em conflito uns com os outros? | Sim | Não há conflitos entre os requisitos entre si. Portanto, há um conjunto de requisitos que apresentam a mesma ideia ou objetivo (por exemplo, há três que poderiam ser representados por apenas um). |
+| 9  |  Os requisitos consideram os requisitos não funcionais, como desempenho, segurança e usabilidade? | Incompleto | Não há requisitos referentes ao desempenho e os de usabilidade e segurança estão genéricos e abrangentes, além de não serem testáveis. |
+| 10  |  Os requisitos foram documentados de forma abrangente e estão prontos para serem utilizados na fase de desenvolvimento do software? | Incompleto | Não é possível desenvolver requisitos que não são testáveis, pois isso é necessário para se planejar como eles serão implementados. |
+| 11 | Os requisitos abordam requisitos de conformidade, como regulamentações legais ou padrões da indústria que o sistema deve atender? | Não | Não há nenhuma referência de requisitos em relação às normas e leis. |
+| 12 | Os requisitos incluem requisitos de escalabilidade para garantir que o sistema possa lidar com um aumento no número de usuários? | Não | Não há requisitos referentes à escalabilidade. |
+| 13 | Os requisitos consideram os requisitos de segurança, como autenticação, autorização e criptografia de dados? | Incompleto | Há requisitos de segurança, porém eles estão mal elaborados e não são testáveis. Assim, por exemplo, não há uma explicação de como a segurança é/será implementada no aplicativo. |
+| 14 | Os requisitos abordam os requisitos de desempenho, como tempos de resposta esperados e capacidade de processamento? | Incompleto | Há requisitos de desempenho que são testáveis, porém outros não, pois não estão indicando o tempo desejado para algumas tarefas. |
 
 ## Conclusão e Observações
 
