@@ -51,7 +51,7 @@ Autor: [Caio Mesquita]()
 Tabela 1: Lista de verificação para priorização First Things First respondida
 
 |ID|Pergunta|Resposta(sim/não/incompleto)|
-|-|-|-|-|
+|-|-|-|
 |01|Há uma descrição da Técnica utilizada ? | Sim |
 |02|Há a participação de um steakholder no processo de priorização ? | Sim |
 |03|Há um cronograma da entrevista com o stakeholder para o processo de priorização ?| Não |
