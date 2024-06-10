@@ -55,13 +55,47 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 ## Avaliação
 
 <details>
+  <summary size="20"><b> Cenário 1 - Calcular preços e prazos de entrega </b></summary> 
+
+  <br>
+
+A tabela 2 mostra a avaliação do cenário de calcular preços e prazos de entrega.
+
+**Tabela 2**: Avaliação do cenário de calcular preços e prazos de entrega.
+
+<br>
+
+| ID | Pergunta | Resposta <br> Sim/Não/Incompleto | Observação |
+|--------|-------------------------------| ---------| ---------| 
+|    1    | O título do cenário representa explicitamente o tema? | Sim | - | 
+|    2    | O objetivo do cenário está claramente definido? | Sim | - |
+|    3    | O contexto do cenário está bem descrito, incluindo pré-condições, local e tempo? | Sim | - |
+|    4    | Os recursos envolvidos no cenário estão identificados? | Sim | -. |
+|    5    | Os atores envolvidos no cenário estão definidos?| Sim | - |
+|    6    | Os episódios do cenário estão bem definidos? | Sim | - |
+|    7    | As ações dos atores estão descritas de forma observável? | Incompleto | Falta detalhamento dos passos seguidos pelo autor |
+|    8    | As restrições e as exceções dos episódios estão explicitadas? | Incompleto | Falta restrições, poderia ser mais completo |
+|    9    | O ambiente ou contexto do cenário está detalhado? | Não | Falta especificar o motivo do usuário querer executar tal ação |
+|    10   | O cenário está escrito em linguagem natural simples? | Sim | - |
+|    11   | Há a descrição do que o sistema e os usuários esperam quando o cenário se finalizar ? | Incompleto | Falta detalhamento da expectativa do usuário |
+|    12   | As possíveis falhas e as suas tratativas estão descritas? | Incompleto |  Não possui possíveis soluções para as falhas |
+|    13   | As informações sobre outras atividades que podem acontecer ao mesmo tempo estão incluídas? | Sim | - | 
+|    14   | Há uma descrição sobre o estado inicial e o final do contexto no cenário? | Incompleto | Falta detalhamento do contexto, não é possível identificar com clareza o estado inicial nem o estado final do contexto |
+|    15   | Os requisitos presentes estão descritos no cenário? | Não | Não possui indicação de qual/quais requisitos estão ligados a ação de calcular preços e prazos de entrega |
+<br>
+
+**Autora:** [Luana Medeiros](https://github.com/LuaMedeiros)
+
+</details>
+
+<details>
   <summary size="20"><b> Cenário 5 - Rastreamento de Encomendas </b></summary> 
 
   <br>
 
-A tabela dois mostra a avaliação do cenário de rastreamento de encomendas.
+A tabela 3 mostra a avaliação do cenário de rastreamento de encomendas.
 
-**Tabela 2**: Avaliação do cenário de rastreamento de encomendas.
+**Tabela 3**: Avaliação do cenário de rastreamento de encomendas.
 
 <br>
 
@@ -123,5 +157,5 @@ Caso o vídeo não funcione, abra pelo [link](https://youtu.be/jFZn7e4QQOc)
 | 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | - | 09/06/2024 |
 | 1.2 | Adição da avaliação do cenário de rastreamento de encomendas | Larissa Stéfane | - | 10/06/2024 |
 | 1.3 | Adição do vídeo da  avaliação do cenário de rastreamento de encomendas | Larissa Stéfane | - | 10/06/2024 |
-
+| 1.4 | Adição da avaliação do cenário de calcular preços e prazos de entrega | Luana Medeiros | - | 10/06/2024 |
 
