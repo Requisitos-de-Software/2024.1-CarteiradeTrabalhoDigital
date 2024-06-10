@@ -1,5 +1,19 @@
 # Lista de Verificação de Histórias de Usuários
 
+## Sumário
+* [Introdução](#Introdução)
+* [Metodologia](#Metodologia)
+* [Lista de Verificação](#Lista-de-Verificação)
+* [Avaliação](#Avaliação)
+* [Conclusão e Observações](#Conclusão-e-Observações)
+* [Referências Bibliográficas](#Referências-Bibliográficas)
+* [Histórico de versão](#Histórico-de-versão)
+
+## Introdução
+
+
+## Metodologia
+
 
 
 ## Lista de Verificação
@@ -29,3 +43,18 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </center>
+
+
+## Avaliação
+
+## Conclusão e Observações
+
+## Referências Bibliográficas
+
+
+## Histórico de versão
+
+| Versão | Alteração | Responsável | Revisor | Data |
+| - | - | - | - | - |
+| 1.0 | Adição da tabela de verificação | Larissa Stéfane | - | 09/06/2024 |
+| 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | - | 09/06/2024 |
