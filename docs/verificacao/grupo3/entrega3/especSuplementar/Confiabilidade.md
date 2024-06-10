@@ -1,6 +1,5 @@
-# Verificação Especificação Suplementar – Usabilidade
+# Verificação Especificação Suplementar – Confiabilidade
 
-# Verificação para o Perfil do Usuário.
 
 ## Sumário
 * [Introdução](#Introdução)
