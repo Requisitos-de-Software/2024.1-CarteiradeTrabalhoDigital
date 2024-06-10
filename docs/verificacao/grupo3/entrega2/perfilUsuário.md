@@ -57,39 +57,35 @@ A tabela 1 apresenta a lista de verificação para o perfil de usuário com base
 
 **Tabela 2:** Tabela de Avaliação para perfil do usuário.
 
-| ID | Pergunta                      | Resposta | 
+| ID | Pergunta                      | Resposta | Observações |
 |--------|-------------------------------| ---------|
-| 1   | Apresenta o intervalo de faixa etária dos usuários no geral? | Sim |
-| 2   | Apresenta qual intervalo de idades é mais frequente? | Sim |
-| 3   | Especifica o gênero dos usuários com uma estipulação de porcentagem? | Sim |
-| 4   | Descreve a localização geográfica (país, cidade) dos usuários? | Nâo |
-| 5   | Indica o nível de escolaridade dos usuários? | Sim |
-| 6   | Inclui informações sobre o nível de alfabetismo dos usuários? | Sim |
-| 7   | Apresenta a forma de aprendizado do usuário? | Não |
-| 8   | Inclui informações sobre a ocupação ou profissão dos usuários? | Não |
-| 9   | Indica a experiência no cargo que ocupa? | Não |
-| 10  | Descreve a experiência dos usuários com tecnologia (leigo, intermediário, especialista)? | Incompleto |
-| 11  | Detalha a atitude dos usuários em relação à tecnologia (tecnófilos, tecnófobos)? | Sim |
-| 12  | Descreve a frequência de uso da tecnologia pelos usuários? | Sim |
-| 13  | Inclui informações sobre os principais objetivos e tarefas dos usuários ao utilizar o produto? | Sim |
-| 14  | Indica os comportametos dos usuários em relação às suas atitudes e valores? | Sim |
-| 15  | Indica o tipo de aprendizado do usuário? | Não |
-| 16  |  Inclui informações sobre necessidades especiais (deficiência visual, auditiva, motora)? | Não |
-| 17  | Descreve as preferências de interface dos usuários (tamanho de fonte, contraste de cores)? | Não |
-| 18  | Indica quais são os idioma que os usuários falam? | Não |
-| 19  | Indicação quais sãos as classes de jargões que os usuários utilizam no cotidiano? | Não |
-| 20  | Inclui informações sobre os principais objetivos e tarefas dos usuários ao utilizar o produto? | Sim |
-| 21  | Indica as funcionalidades mais utilizadas pelos usuários? | Sim |
+| 1   | Apresenta o intervalo de faixa etária dos usuários no geral? | Sim | - |
+| 2   | Apresenta qual intervalo de idades é mais frequente? | Sim | - |
+| 3   | Especifica o gênero dos usuários com uma estipulação de porcentagem? | Sim | - |
+| 4   | Descreve a localização geográfica (país, cidade) dos usuários? | Nâo | Falta descrever a localização geográfica, essencial para adaptar o produto a contextos culturais e regionais específicos.  |
+| 5   | Indica o nível de escolaridade dos usuários? | Sim | - |
+| 6   | Inclui informações sobre o nível de alfabetismo dos usuários? | Sim | - |
+| 7   | Apresenta a forma de aprendizado do usuário? | Não | É importante incluir a forma de aprendizado para personalizar a interface e a comunicação do produto de acordo com as preferências dos usuários. |
+| 8   | Inclui informações sobre a ocupação ou profissão dos usuários? | Não | Informações sobre a ocupação ajudam a entender melhor o contexto de uso do produto e as necessidades específicas dos usuários. |
+| 9   | Indica a experiência no cargo que ocupa? | Não | Detalhar a experiência no cargo é crucial para ajustar a interface e funcionalidades às capacidades dos usuários. |
+| 10  | Descreve a experiência dos usuários com tecnologia (leigo, intermediário, especialista)? | Incompleto | É necessário detalhar melhor a experiência tecnológica para ajustar a complexidade do sistema às habilidades dos usuários. |
+| 11  | Detalha a atitude dos usuários em relação à tecnologia (tecnófilos, tecnófobos)? | Sim | - |
+| 12  | Descreve a frequência de uso da tecnologia pelos usuários? | Sim | - |
+| 13  | Inclui informações sobre os principais objetivos e tarefas dos usuários ao utilizar o produto? | Sim | - |
+| 14  | Indica os comportametos dos usuários em relação às suas atitudes e valores? | Sim | - |
+| 15  | Indica o tipo de aprendizado do usuário? | Não | Especificar o tipo de aprendizado é importante para adaptar as funcionalidades e a interface do produto de forma eficiente. |
+| 16  |  Inclui informações sobre necessidades especiais (deficiência visual, auditiva, motora)? | Não | Incluir necessidades especiais é vital para garantir a acessibilidade do produto para todos os usuários.  |
+| 17  | Descreve as preferências de interface dos usuários (tamanho de fonte, contraste de cores)? | Não | Preferências de interface são fundamentais para melhorar a usabilidade e a satisfação dos usuários. |
+| 18  | Indica quais são os idioma que os usuários falam? | Não | Especificar os idiomas é crucial para internacionalização e adaptação linguística do produto. |
+| 19  | Indicação quais sãos as classes de jargões que os usuários utilizam no cotidiano? | Não | Conhecer os jargões ajuda a tornar a comunicação mais eficaz e o produto mais intuitivo para os usuários. |
+| 20  | Inclui informações sobre os principais objetivos e tarefas dos usuários ao utilizar o produto? | Sim | - |
+| 21  | Indica as funcionalidades mais utilizadas pelos usuários? | Sim | - |
 
 **Autora:** [Luana Medeiros](https://github.com/LuaMedeiros)
 
 ## Conclusão e Observações
 
-Após a avaliação do documento de Perfil de Usuário, identificamos que ele atende a várias áreas importantes, mas também possui algumas lacunas significativas. Primeiramente, é digno de nota que o documento apresenta claramente o intervalo de faixa etária dos usuários (ID 1), incluindo qual intervalo de idades é mais frequente (ID 2). Além disso, especifica o gênero dos usuários com porcentagens(ID 3), proporcionando uma boa visão demográfica. A inclusão de informações sobre o nível de escolaridade e alfabetismo dos usuários (ID 5) é essencial para entender a capacidade de compreensão do público. Também é positivo que o documento detalhe a atitude dos usuários em relação à tecnologia (ID 11), incluindo a frequência de uso (ID 12), ajudando a adaptar a interface e as funcionalidades às necessidades dos usuários. Além disso, ele descreve os principais objetivos e tarefas dos usuários (ID 20) ao utilizar o produto e indica os comportamentos em relação às atitudes e valores (ID 14).
-
-No entanto, algumas áreas necessitam de melhorias. O documento não descreve a localização geográfica (país, cidade) dos usuários (ID 4), o que pode ser crucial para adaptar o produto a contextos culturais e linguísticos específicos. Além disso, não apresenta informações sobre a forma de aprendizado dos usuários (ID 7) e suas ocupações ou profissões, aspectos que podem influenciar diretamente na usabilidade e nas necessidades do produto. Falta também detalhes sobre a experiência no cargo que ocupam (ID 9) e os jargões utilizados no cotidiano (ID 19), que são importantes para personalizar a interface e a comunicação do produto. Outro ponto crítico é a ausência de informações sobre necessidades especiais (ID 16), como deficiências visuais, auditivas e motoras, o que é vital para garantir a acessibilidade do produto. Adicionalmente, o documento não descreve as preferências de interface dos usuários (ID 17), como tamanho de fonte e contraste de cores, que são fundamentais para uma boa experiência do usuário. A falta de indicação dos idiomas que os usuários falam (ID 18) é uma lacuna importante, pois essa informação é crucial para a internacionalização e localização do produto.
-
-Para tornar o documento de Perfil de Usuário mais robusto e útil, sugerimos algumas melhorias. Primeiramente, seria benéfico incluir dados sobre a localização geográfica dos usuários para entender melhor as diferenças regionais. Além disso, adicionar informações sobre a forma de aprendizado dos usuários e suas profissões ajudaria a personalizar melhor o produto. É essencial documentar necessidades especiais que os usuários possam ter para garantir que o produto seja acessível a todos. Também é importante descrever as preferências de interface dos usuários para melhorar a usabilidade. Incluir informações sobre os idiomas falados pelos usuários e os jargões específicos pode melhorar a comunicação e a interface do usuário. Por fim, fornecer uma descrição mais completa da experiência dos usuários com tecnologia, incluindo exemplos específicos, completaria a análise. Implementar essas melhorias tornará o documento de Perfil de Usuário mais completo e fornecerá uma base sólida para o desenvolvimento de um produto que atenda melhor às necessidades e expectativas dos usuários.
+A avaliação do documento de Perfil de Usuário mostra que ele cobre áreas importantes como faixa etária, gênero, escolaridade, alfabetismo, atitudes e frequência de uso da tecnologia, objetivos e tarefas dos usuários, e comportamentos. No entanto, faltam informações sobre localização geográfica, forma de aprendizado, ocupações, experiência no cargo, jargões utilizados, necessidades especiais, preferências de interface e idiomas falados. Recomenda-se incluir esses dados para tornar o documento mais completo e fornecer uma base sólida para o desenvolvimento de um produto que atenda melhor às necessidades dos usuários.
 
 ## Referências Bibliográficas
 
