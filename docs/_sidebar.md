@@ -88,8 +88,15 @@
       * Entrega 2
         - [Perfil de usuário](verificacao/grupo3/entrega2/perfilUsuário.md)
         - [Personas](verificacao/grupo3/entrega2/personas.md)
-        - [Elicitação](verificacao/grupo3/entrega2/elicitacao.md)
-        - [Priorização](verificacao/grupo3/entrega2/priorizacao.md)
+        * Elicitação
+          -  [Análise de Documentos](verificacao/grupo3/entrega2/elicitacao/analiseDocumentos.md)
+          -  [Brainstorm](verificacao/grupo3/entrega2/elicitacao/brainstorm.md)
+          -  [Observação](verificacao/grupo3/entrega2/elicitacao/observacao.md)
+          -  [Questionários](verificacao/grupo3/entrega2/elicitacao/questionarios.md)
+         * Priorização
+            - [First Things First](verificacao/grupo3/entrega2/priorizacao/FirstThingsFirst.md) 
+            - [In or Out](verificacao/grupo3/entrega2/priorizacao/InOrOut.md) 
+            - [100$](verificacao/grupo3/entrega2/priorizacao/100$.md)
       * Entrega 3
         - [Cenários](verificacao/grupo3/entrega3/cenarios.md)
         - [Léxicos](verificacao/grupo3/entrega3/lexicos.md)
