@@ -72,20 +72,20 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 
 | Número da Pergunta | Pergunta                                                                 | Resposta |
 |--------------------|--------------------------------------------------------------------------|----------|
-| 1                  | O caso de uso está descrito de forma clara e precisa, evitando ambiguidades? |          |
-| 2                  | O caso de uso possui um identificador único e um nome descritivo?         |          |
-| 3                  | Os atores que interagem com o sistema estão claramente identificados e descritos? |          |
-| 4                  | O objetivo ou finalidade do caso de uso está claramente definido?         |          |
-| 5                  | As pré-condições (estado do sistema antes do início do caso de uso) estão claramente descritas? |          |
-| 6                  | As pós-condições (estado do sistema após a execução do caso de uso) estão claramente descritas? |          |
-| 7                  | O fluxo principal de eventos (caminho básico) está detalhado de forma sequencial e lógica? |          |
-| 8                  | Existem fluxos alternativos ou secundários descritos para situações excepcionais ou variantes do fluxo principal? |          |
-| 9                  | Existem fluxos de exceção claramente descritos para lidar com erros ou condições inesperadas? |          |
-| 10                 | Todos os elementos do caso de uso estão devidamente documentados (título, descrição, atores, pré-condições, pós-condições, fluxos, etc.)? |          |
+| 1                  | O caso de uso está descrito de forma clara e precisa, evitando ambiguidades? | Sim |
+| 2                  | O caso de uso possui um identificador único e um nome descritivo?         | Sim |
+| 3                  | Os atores que interagem com o sistema estão claramente identificados e descritos? | Incompleto |
+| 4                  | O objetivo ou finalidade do caso de uso está claramente definido?         | Não |
+| 5                  | As pré-condições (estado do sistema antes do início do caso de uso) estão claramente descritas? | Incompleto |
+| 6                  | As pós-condições (estado do sistema após a execução do caso de uso) estão claramente descritas? | Incompleto |
+| 7                  | O fluxo principal de eventos (caminho básico) está detalhado de forma sequencial e lógica? | Incompleto |
+| 8                  | Existem fluxos alternativos ou secundários descritos para situações excepcionais ou variantes do fluxo principal? | Sim |
+| 9                  | Existem fluxos de exceção claramente descritos para lidar com erros ou condições inesperadas? | Sim |
+| 10                 | Todos os elementos do caso de uso estão devidamente documentados (título, descrição, atores, pré-condições, pós-condições, fluxos, etc.)? | Sim |
 
 <br>
 
-Autor: [Iago Passaglia](https://github.com/paxxaglia)
+Autor: [Luana Medeiros](https://github.com/LuaMedeiros)
 
 </details>
 
@@ -220,3 +220,4 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 | Versão | Descrição                     | Autor           | Revisor | Data       |
 |--------|-------------------------------|-----------------|------------|---------|
 | 1.0    | Adição de introdução, metodologia e tabela de avaliação | Iago Passaglia  | Bruno Araújo | 09/06/2024 |
+| 1.1    | Adição da avaliação do caso de uso de Realizar compras na loja online| Luana Medeiros  | - | 10/06/2024 |
