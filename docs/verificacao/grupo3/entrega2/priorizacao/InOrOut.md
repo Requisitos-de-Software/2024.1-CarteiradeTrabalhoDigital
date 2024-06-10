@@ -65,6 +65,9 @@ Para conduzir a avaliação, inicialmente, será elaborado uma lista de verifica
 | 14  | O documento discute como os requisitos "Out" podem ser reconsiderados em futuras iterações? | |
 | 15  | O documento apresenta as lições aprendidas durante o processo de priorização "In Or Out"? |  |
 
+
+**Autor:** [Pedro Izarias](https://github.com/Izarias)
+
 ## Conclusão e Observações
 
 ## Bibliografia
