@@ -47,7 +47,7 @@
 
 ## Referências Bibliográficas
 
-1. SAYÃO, Miriam; CARVALHO, Gustavo R. de. Construção do léxico de aplicações. In: ANAIS DO CONGRESSO DE ALFAL, 2017. Disponível em: <file:///Users/usuario/Documents/8%20Peri%CC%81odo/Testes/0030.pdf>. Acesso em: 9 jun. 2024.
+1. SAYÃO, Miriam; CARVALHO, Gustavo R. de. Construção do léxico de aplicações. In: ANAIS DO CONGRESSO DE ALFAL, 2017. Disponível em: <file:///Users/usuario/Documents/8%20Peri%CC%81odo/Testes/0030.pdf> Acesso em 9 jun. 2024.
    
 1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. 03 de maio de 2021. Acesso em 08 de junho de 2024.
 
