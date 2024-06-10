@@ -31,11 +31,12 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 | 1  | As sessões envolveram entre 8 e 12 usuários?                                                           | [BARBOSA; SILVA, 2010](#Referências-Bibliográficas) |
 | 2  | Os usuários tem perfis semelhante?                                                                     | [BARBOSA; SILVA, 2010](#Referências-Bibliográficas) |
 | 3  | Teve um moderador para guiar as sessões?                                                               | [BARBOSA; SILVA, 2010](#Referências-Bibliográficas) |
-| 4  | No início das sessões, os participantes foram informados sobre o objetivo e procedimento da atividade? | [BARBOSA; SILVA, 2010](#Referências-Bibliográficas) |
-| 5  | Foi feita uma pergunta inicial para guiar os entrevistados?                                            | [BARBOSA; SILVA, 2010](#Referências-Bibliográficas) |
-| 6  | As sugestões dos entrevistados foram anotadas?                                                         | [BARBOSA; SILVA, 2010](#Referências-Bibliográficas) |
-| 6  | Os requisitos foram elicitados a partir das sugestões?                                                 | [BARBOSA; SILVA, 2010](#Referências-Bibliográficas) |
-
+| 4  | Os termos de consentimento foram concordados pelos entrevistados?                                      | Breno Alexandre                                     |
+| 5  | No início das sessões, os participantes foram informados sobre o objetivo e procedimento da atividade? | [BARBOSA; SILVA, 2010](#Referências-Bibliográficas) |
+| 6  | Foi feita uma pergunta inicial para guiar os entrevistados?                                            | [BARBOSA; SILVA, 2010](#Referências-Bibliográficas) |
+| 7  | As sugestões dos entrevistados foram anotadas?                                                         | [BARBOSA; SILVA, 2010](#Referências-Bibliográficas) |
+| 8  | Os requisitos foram elicitados a partir das sugestões?                                                 | [BARBOSA; SILVA, 2010](#Referências-Bibliográficas) |
+| 9  | Os requisitos são testáveis?                                                                           | Breno Alexandre                                     |
 
 <b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>.
 
@@ -50,10 +51,12 @@ A tabela 2 apresenta a lista de verificação da técnica de Brainstorm.
 | 1  | As sessões envolveram entre 8 e 12 usuários?                                                           | |
 | 2  | Os usuários tem perfis semelhante?                                                                     | |
 | 3  | Teve um moderador para guiar as sessões?                                                               | |
-| 4  | No início das sessões, os participantes foram informados sobre o objetivo e procedimento da atividade? | |
-| 5  | Foi feita uma pergunta inicial para guiar os entrevistados?                                            | |
-| 6  | As sugestões dos entrevistados foram anotadas?                                                         | |
-| 6  | Os requisitos foram elicitados a partir das sugestões?                                                 | |
+| 4  | Os termos de consentimento foram concordados pelos entrevistados?                                      | |
+| 5  | No início das sessões, os participantes foram informados sobre o objetivo e procedimento da atividade? | |
+| 6  | Foi feita uma pergunta inicial para guiar os entrevistados?                                            | |
+| 7  | As sugestões dos entrevistados foram anotadas?                                                         | |
+| 8  | Os requisitos foram elicitados a partir das sugestões?                                                 | |
+| 9  | Os requisitos são testáveis?                                                                           | |
 
 <b> Autor: </b> <a href="https://github.com/Caiomesvie"> Caio Mesquita </a>.
 
