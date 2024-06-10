@@ -43,20 +43,24 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Pers
 
 ## Avaliação
 
-| ID  | Pergunta     | Resposta |  
-|-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| 1  | A quantidade de personas está dentro da faixa recomendada por Courage e Baxter (entre 3 e 12 personas)?  | | 
-| 2  | As personas possuem características significativamente diferentes que representam perfis extremos de usuários, conforme sugerido na literatura?  | |
-| 3  | As personas possuem histórias e contextos de uso que ajudam na sua personificação e compreensão?  | |
-| 4  | As personas possuem metas e motivações claramente definidas, refletindo as razões por trás de seus comportamentos, de acordo com as diretrizes de construção de personas?   || 
-| 5  | As personas foram criadas de forma a representar tipos distintos de usuários com necessidades específicas, evitando a tentativa de agradar a todos os possíveis usuários, como recomendado na literatura?   | |
-| 6  | As personas foram desenvolvidas para serem facilmente compreendidas e usadas como ferramentas eficazes para comunicar e guiar o processo de design de interação, conforme recomendado na literatura?   |  |
-| 7  | As personas foram priorizadas adequadamente, com a identificação de uma persona primária que representa o principal alvo de design da interface, sem desconsiderar as necessidades das demais personas, seguindo as diretrizes de design de persona?  |  | 
-| 8  | As personas foram baseadas em padrões observados durante entrevistas e observações de usuários e potenciais usuários?   |  | 
-| 9  | As personas secundárias foram definidas de forma a complementar as necessidades não atendidas pela persona primária?  |  | 
-| 10  | As personas criadas possuem os elementos Motivações, Comportamentos, Atitudes, Aptidões, Atividades ou elementos equivalentes?   |  | 
-| 11 | As personas foram derivadas de um processo de investigação que levantou as características dos usuários e descreveu seus perfis, como sugerido na literatura? | |
-| 12 | As personas possuem detalhes específicos que as tornam eficazes como ferramentas de design e comunicação, como sugerido na literatura? |  | 
+| ID  | Pergunta     | Resposta <br> Sim, Não, Incompleto |  Observação |
+|-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------| --------------- |
+| 1  | A quantidade de personas está dentro da faixa recomendada por Courage e Baxter (entre 3 e 12 personas)?  | Sim | - |
+| 2  | As personas possuem características significativamente diferentes que representam perfis extremos de usuários, conforme sugerido na literatura?  | Não | As personas não possuem uma diversificação entre si, o que faz com que a representação dos usuários não seja tão efetiva. Por exemplo, só há uma mulher nas personas e ainda assim ela está como persona. Isso é um problema, pois muitas mulheres utilizam o aplicativo dos Correios. Da mesma forma, as personas não representam uma diversidade na faixa etária dos usuários. Seria legal ter um idoso, pois idosos têm algumas questões de acessibilidade que precisam ter no aplicativo. | 
+| 3  | As personas possuem histórias e contextos de uso que ajudam na sua personificação e compreensão?  | Incompleto | Não há um backstory ou histórias de vida das personas que possam torná-las mais reais a ponto de influenciar no processo de design. |
+| 4  | As personas possuem metas e motivações claramente definidas, refletindo as razões por trás de seus comportamentos, de acordo com as diretrizes de construção de personas?   | Incompleto | Não há motivações de vida ou uma explicação para as razões do seu comportamento em relação às experiências que elas viveram no passado. Contudo, há as motivações para elas usarem o aplicativo dos Correios. |
+| 5  | As personas foram criadas de forma a representar tipos distintos de usuários com necessidades específicas, evitando a tentativa de agradar a todos os possíveis usuários, como recomendado na literatura?   | Incompleto | As pessoas não representam o geral dos usuários, mostrando quem vai utilizar o aplicativo de forma diversificada. Pelo contrário, muitas das personas parecem ter perfis semelhantes em relação, por exemplo, as que utilizam são todas do sexo masculino e são jovens. |
+| 6  | As personas foram desenvolvidas para serem facilmente compreendidas e usadas como ferramentas eficazes para comunicar e guiar o processo de design de interação, conforme recomendado na literatura?   | Sim  | - |
+| 7  | As personas foram priorizadas adequadamente, com a identificação de uma persona primária que representa o principal alvo de design da interface, sem desconsiderar as necessidades das demais personas, seguindo as diretrizes de design de persona?  |  Sim | - | 
+| 8  | As personas foram baseadas em padrões observados durante entrevistas e observações de usuários e potenciais usuários?   | Incompleto | Observando o questionário, foi observado que as personas concordam. Contudo, os dados do questionário não mostram a diversidade real dos usuários dos Correios. Consequentemente, as personas também não representam bem todos os potenciais usuários. Desse modo, seria ideal utilizar os resultados de outras técnicas para melhorar mais a representação nas personas. |
+| 9  | As personas secundárias foram definidas de forma a complementar as necessidades não atendidas pela persona primária?  | Incompleto | Uma das personas secundários tem os seus objetivos e necessidades formulados de forma muito genérica. |
+| 10  | As personas criadas possuem os elementos Motivações, Comportamentos, Atitudes, Aptidões, Atividades ou elementos equivalentes?   | Sim - Incompleto | Sim, mas poderia ser mais complementado a fim de torná-las mais reais e, por conseguinte, as personas poderem ser mais bem aproveitadas durante o desenvolvimento do projeto. |
+| 11 | As personas foram derivadas de um processo de investigação que levantou as características dos usuários e descreveu seus perfis, como sugerido na literatura? | Incompleto | Sim, elas foram baseadas em algumas técnicas que o grupo utilizou. Porém, as personas elaboradas não foram elaboradas a ponto de descrever os perfis de acordo com a realidade de usuários. |
+| 12 | As personas possuem detalhes específicos que as tornam eficazes como ferramentas de design e comunicação, como sugerido na literatura? | Incompleto | Não são apresentadas todas as características para determinar o perfil da persona, por exemplo, não há um história de seu passado, sendo que isso pode ser utilizado como forma de evitar alguns problemas de uso. | 
+Não são apresentadas todas as características para determinar o perfil da persona, por exemplo, não há uma história de seu passado, sendo que isso pode ser utilizado como forma de evitar alguns problemas de uso. |
+
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
 
 ## Conclusão e Observações
 
@@ -76,3 +80,4 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Pers
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Pedro Izarias | Larissa Stéfane | 09/06/2024 |
 | 1.1 |  Adição de introdução e metodologia  | Pedro Izarias | Larissa Stéfane | 10/06/2024 |
+| 1.2 |  Adição da avaliação das personas | Larissa Stéfane | - | 10/06/2024 |
