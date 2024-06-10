@@ -48,13 +48,14 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 
 ## Referências Bibliográficas
 
-1. Aramos, Ricardo. Elicitação e Análise de Requisitos. Disponível em <http://www.univasf.edu.br/~ricardo.aramos/disciplinas/ESI2009_2/Aula10.pdf> . Acessado em 09 de junho de 2024. 
 
-2. LEGISLAÇÃO SOBRE ACESSIBILIDADE AO SOFTWARE. Decreto-Lei n.° 349/93. Disponível em <https://www.acessibilidade.net/software/legislacao_software.php> . Acessado em 09 de junho de 2024.
+1. LEGISLAÇÃO SOBRE ACESSIBILIDADE AO SOFTWARE. Decreto-Lei n.° 349/93. Disponível em <https://www.acessibilidade.net/software/legislacao_software.php> . Acessado em 09 de junho de 2024.
 
-3. Lima Junior, Eduardo Brandão et al. ANÁLISE DOCUMENTAL COMO PERCURSO METODOLÓGICO NA PESQUISA QUALITATIVA. Cadernos da Fucamp, v.20, n.44, p.36-51/2021. Disponível em <https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/ImagensDiagrama/2356-Texto%20do%20Artigo-8504-1-10-20210407.pdf> . Acessado em 09 de junho de 2024.
+2. Lima Junior, Eduardo Brandão et al. ANÁLISE DOCUMENTAL COMO PERCURSO METODOLÓGICO NA PESQUISA QUALITATIVA. Cadernos da Fucamp, v.20, n.44, p.36-51/2021. Disponível em <https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/ImagensDiagrama/2356-Texto%20do%20Artigo-8504-1-10-20210407.pdf> . Acessado em 09 de junho de 2024.
 
-4. PUC-Rio. Elicitação de Requisitos. Disponível em <https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF> . Acessado em 09 de junho de 2024.
+3. PUC-Rio. Elicitação de Requisitos. Disponível em <https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF> . Acessado em 09 de junho de 2024.
+
+4. SOMMERVILLE, Ian. Engenharia de Software. 9. ed. São Paulo: Pearson e ABDR, 2011. Disponível em: <https://www.facom.ufu.br/~william/Disciplinas%202018-2/BSI-GSI030-EngenhariaSoftware/Livro/engenhariaSoftwareSommerville.pdf>. Acesso em 09 de junho de 2024.
 
 5. Vazquez, Carlos Eduardo; Simões, Guilherme Siqueira de. Engenharia de Software de Requisitos – Software Orientado ao Negócio. Editoras FATTOS e Brasport. Disponível em: <https://analisederequisitos.com.br/wp-content/uploads/2023/06/engenharia-de-requisitos-software-orientado-ao-negocio.pdf> Acessado em 09 de junho de 2024.
    
