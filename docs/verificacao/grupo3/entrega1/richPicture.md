@@ -37,6 +37,8 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 <details>
   <summary size="20"><b> Correios </b></summary> 
 
+  <br>
+
 
 Tabela 2: Avaliação Correios
 
@@ -64,6 +66,7 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 <details>
   <summary size="20"><b> Serasa </b></summary> 
 
+<br>
 
 Tabela 2: Avaliação Serasa
 
@@ -91,6 +94,8 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 <details>
   <summary size="20"><b> Carteira digital de trabalho </b></summary> 
 
+  <br>
+
 Tabela 3: Avaliação Carteira Digital de Trabalho
 
 <br>
@@ -116,6 +121,8 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 
 <details>
   <summary size="20"><b> CNPQ </b></summary> 
+
+<br>
 
 Tabela 4: Avaliação CNPQ
 
@@ -143,6 +150,8 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 <details>
   <summary size="20"><b> NFS-e mobile </b></summary> 
 
+<br>
+
 Tabela 5: Avaliação NFS-e mobile
 
 <br>
@@ -168,6 +177,8 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 
 <details>
   <summary size="20"><b> Carteira digital de trânsito </b></summary> 
+
+<br>
 
 Tabela 6: Avaliação Carteira digital de trânsito
 
@@ -195,6 +206,8 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 <details>
   <summary size="20"><b> Consumidor </b></summary> 
 
+<br>
+
 Tabela 7: Avaliação Consumidor
 
 <br>
@@ -221,6 +234,8 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 
 <details>
   <summary size="20"><b> Meu SUS Digital </b></summary> 
+
+<br>
 
 
 Tabela 8: Avaliação Meu SUS Digital
