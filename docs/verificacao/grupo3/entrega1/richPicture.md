@@ -263,6 +263,13 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 </details>
 
 
+## Bibliografia
+
+1. David Benyon, Interação Humano-Computador. São Paulo, 2a Edição, Pearson Prentice Hall, 2011
+   
+2. Arquivo "Introducing Rich Pictures, CTEC2402", Autor desconhecido. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844957/mod_resource/content/2/1_5145791542719414573.pdf>
+
+
 ## Histórico de Versões
 
 | Versão | Descrição                     | Autor           | Data       |
