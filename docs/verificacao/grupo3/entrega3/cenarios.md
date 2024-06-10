@@ -157,7 +157,7 @@ A tabela 4 mostra a avaliação do cenário de Realizar compras na loja online.
 </details>
 
 <details>
-  <summary size="20"><b> Cenário 5 - Rastreamento de Encomendas </b></summary> 
+  <summary size="20"><b> Cenário 5 - Rastreamento de Encomendas - Larissa Stéfane </b></summary> 
 
   <br>
 
