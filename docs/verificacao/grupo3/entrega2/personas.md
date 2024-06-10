@@ -74,5 +74,5 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Pers
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento | Pedro Izarias | - | 09/06/2024 |
-| 1.1 |  Adição de introdução e metodologia  | Pedro Izarias | - | 10/06/2024 |
+| 1.0 | Criação do documento | Pedro Izarias | Larissa Stéfane | 09/06/2024 |
+| 1.1 |  Adição de introdução e metodologia  | Pedro Izarias | Larissa Stéfane | 10/06/2024 |
