@@ -70,18 +70,18 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 
 ### Tabela 2: Tabela de verificação para Realizar compras na loja online
 
-| Número da Pergunta | Pergunta                                                                 | Resposta |
-|--------------------|--------------------------------------------------------------------------|----------|
-| 1                  | O caso de uso está descrito de forma clara e precisa, evitando ambiguidades? | Sim |
-| 2                  | O caso de uso possui um identificador único e um nome descritivo?         | Sim |
-| 3                  | Os atores que interagem com o sistema estão claramente identificados e descritos? | Incompleto |
-| 4                  | O objetivo ou finalidade do caso de uso está claramente definido?         | Não |
-| 5                  | As pré-condições (estado do sistema antes do início do caso de uso) estão claramente descritas? | Incompleto |
-| 6                  | As pós-condições (estado do sistema após a execução do caso de uso) estão claramente descritas? | Incompleto |
-| 7                  | O fluxo principal de eventos (caminho básico) está detalhado de forma sequencial e lógica? | Incompleto |
-| 8                  | Existem fluxos alternativos ou secundários descritos para situações excepcionais ou variantes do fluxo principal? | Sim |
-| 9                  | Existem fluxos de exceção claramente descritos para lidar com erros ou condições inesperadas? | Sim |
-| 10                 | Todos os elementos do caso de uso estão devidamente documentados (título, descrição, atores, pré-condições, pós-condições, fluxos, etc.)? | Sim |
+| Número da Pergunta | Pergunta                                                                 | Resposta | Observações
+|--------------------|--------------------------------------------------------------------------|----------| --- |
+| 1                  | O caso de uso está descrito de forma clara e precisa, evitando ambiguidades? | Sim | - |
+| 2                  | O caso de uso possui um identificador único e um nome descritivo?         | Sim | - |
+| 3                  | Os atores que interagem com o sistema estão claramente identificados e descritos? | Incompleto | Falta uma descrição completa dos atores, essencial para entender todas as interações do sistema. |
+| 4                  | O objetivo ou finalidade do caso de uso está claramente definido?         | Não | É importante definir claramente o objetivo do caso de uso para garantir que o propósito e os resultados esperados sejam compreendidos. |
+| 5                  | As pré-condições (estado do sistema antes do início do caso de uso) estão claramente descritas? | Incompleto | A descrição das pré-condições está incompleta, o que é crucial para estabelecer o contexto inicial necessário para a execução do caso de uso. |
+| 6                  | As pós-condições (estado do sistema após a execução do caso de uso) estão claramente descritas? | Incompleto | Falta uma descrição detalhada das pós-condições, fundamental para entender o estado final do sistema após a execução do caso de uso. |
+| 7                  | O fluxo principal de eventos (caminho básico) está detalhado de forma sequencial e lógica? | Incompleto | A descrição do fluxo principal está incompleta, essencial para garantir que todos os passos do processo sejam seguidos corretamente. |
+| 8                  | Existem fluxos alternativos ou secundários descritos para situações excepcionais ou variantes do fluxo principal? | Sim | - |
+| 9                  | Existem fluxos de exceção claramente descritos para lidar com erros ou condições inesperadas? | Sim | - |
+| 10                 | Todos os elementos do caso de uso estão devidamente documentados (título, descrição, atores, pré-condições, pós-condições, fluxos, etc.)? | Sim | - |
 
 <br>
 
