@@ -42,26 +42,28 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 ## Avaliações
 
 <details>
-<summary>Calcular preços e prazos de entrega</summary>
+<summary>Calcular preços e prazos de entrega - Larissa Stéfane </summary>
+
+A tabela 1 mostra as respostas e observações da verificação e avaliação do caso de uso de "Calcular preços e prazos de entrega".
 
 ### Tabela 1: Tabela de verificação para Calcular preços e prazos de entrega
 
-| Número da Pergunta | Pergunta                                                                 | Resposta |
-|--------------------|--------------------------------------------------------------------------|----------|
-| 1                  | O caso de uso está descrito de forma clara e precisa, evitando ambiguidades? |          |
-| 2                  | O caso de uso possui um identificador único e um nome descritivo?         |          |
-| 3                  | Os atores que interagem com o sistema estão claramente identificados e descritos? |          |
-| 4                  | O objetivo ou finalidade do caso de uso está claramente definido?         |          |
-| 5                  | As pré-condições (estado do sistema antes do início do caso de uso) estão claramente descritas? |          |
-| 6                  | As pós-condições (estado do sistema após a execução do caso de uso) estão claramente descritas? |          |
-| 7                  | O fluxo principal de eventos (caminho básico) está detalhado de forma sequencial e lógica? |          |
-| 8                  | Existem fluxos alternativos ou secundários descritos para situações excepcionais ou variantes do fluxo principal? |          |
-| 9                  | Existem fluxos de exceção claramente descritos para lidar com erros ou condições inesperadas? |          |
-| 10                 | Todos os elementos do caso de uso estão devidamente documentados (título, descrição, atores, pré-condições, pós-condições, fluxos, etc.)? |          |
+| Número da Pergunta | Pergunta                                                                 | Resposta | Observações |
+|--------------------|--------------------------------------------------------------------------|----------| ---- |
+| 1                  | O caso de uso está descrito de forma clara e precisa, evitando ambiguidades? |     Não     | Alguns pontos do caso de uso estão confusos e pouco claros. Por exemplo, não é indicado qual o usuário específico e o contexto para o caso de uso. <br> A forma como algumas frases foram elaboradas também estão um pouco confusas. |
+| 2                  | O caso de uso possui um identificador único e um nome descritivo?         |    Sim      | - |
+| 3                  | Os atores que interagem com o sistema estão claramente identificados e descritos? |     Não     | Existe uma abundância de usuários que utilizam o aplicativo dos Correios, todos eles podem apresentar contextos e características distintas no contexto do caso de uso. Contudo, o usuário foi representado de forma muito genérica no caso de uso. |
+| 4                  | O objetivo ou finalidade do caso de uso está claramente definido?         |      Não    | Apesar de ser compreensível, a forma como o objetivo foi apresentado está vaga e confusa. |
+| 5                  | As pré-condições (estado do sistema antes do início do caso de uso) estão claramente descritas? |     Incompleto     | Poderia complementar mais as pré-condições. Por exemplo, é necessário que o ator/usuário saiba o CEP, entre outras informações que não foram elencadas nas pré-condições. |
+| 6                  | As pós-condições (estado do sistema após a execução do caso de uso) estão claramente descritas? |   Sim       | - |
+| 7                  | O fluxo principal de eventos (caminho básico) está detalhado de forma sequencial e lógica? |     Sim      | - |
+| 8                  | Existem fluxos alternativos ou secundários descritos para situações excepcionais ou variantes do fluxo principal? |     Sim/Incompleto     | Em fluxo alternativo, o fluxo 2 “Acesso à seção "Preços e Prazos" pelo menu” está praticamente idêntico ao fluxo principal. | 
+| 9                  | Existem fluxos de exceção claramente descritos para lidar com erros ou condições inesperadas? |    Sim      | - |
+| 10                 | Todos os elementos do caso de uso estão devidamente documentados (título, descrição, atores, pré-condições, pós-condições, fluxos, etc.)? |     Nao     | Existem elementos que estão faltando e alguns foram mal elaborados e descritos. |
 
 <br>
 
-Autor: [Iago Passaglia](https://github.com/paxxaglia)
+ **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </details>
 
@@ -221,3 +223,4 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 |--------|-------------------------------|-----------------|------------|---------|
 | 1.0    | Adição de introdução, metodologia e tabela de avaliação | Iago Passaglia  | Bruno Araújo | 09/06/2024 |
 | 1.1    | Adição da avaliação do caso de uso de Realizar compras na loja online| Luana Medeiros  | - | 10/06/2024 |
+| 1.2    | Adição da avaliação do caso de uso de Calcular preços e prazos de entrega | Larissa Stéfane  | - | 10/06/2024 |
