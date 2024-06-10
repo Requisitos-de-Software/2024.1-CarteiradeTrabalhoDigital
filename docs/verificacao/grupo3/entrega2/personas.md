@@ -46,6 +46,21 @@ Aqui está a tabela com a coluna de observação preenchida para cada pergunta, 
 
 ## Avaliação
 
+| ID  | Pergunta     | Resposta |  
+|-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1  | A quantidade de personas está dentro da faixa recomendada por Courage e Baxter (entre 3 e 12 personas)?  | | 
+| 2  | As personas possuem características significativamente diferentes que representam perfis extremos de usuários, conforme sugerido na literatura?  | |
+| 3  | As personas possuem histórias e contextos de uso que ajudam na sua personificação e compreensão?  | |
+| 4  | As personas possuem metas e motivações claramente definidas, refletindo as razões por trás de seus comportamentos, de acordo com as diretrizes de construção de personas?   || 
+| 5  | As personas foram criadas de forma a representar tipos distintos de usuários com necessidades específicas, evitando a tentativa de agradar a todos os possíveis usuários, como recomendado na literatura?   | |
+| 6  | As personas foram desenvolvidas para serem facilmente compreendidas e usadas como ferramentas eficazes para comunicar e guiar o processo de design de interação, conforme recomendado na literatura?   |  |
+| 7  | As personas foram priorizadas adequadamente, com a identificação de uma persona primária que representa o principal alvo de design da interface, sem desconsiderar as necessidades das demais personas, seguindo as diretrizes de design de persona?  |  | 
+| 8  | As personas foram baseadas em padrões observados durante entrevistas e observações de usuários e potenciais usuários?   |  | 
+| 9  | As personas secundárias foram definidas de forma a complementar as necessidades não atendidas pela persona primária?  |  | 
+| 10  | As personas criadas possuem os elementos Motivações, Comportamentos, Atitudes, Aptidões, Atividades ou elementos equivalentes?   |  | 
+| 11 | As personas foram derivadas de um processo de investigação que levantou as características dos usuários e descreveu seus perfis, como sugerido na literatura? | |
+| 12 | As personas possuem detalhes específicos que as tornam eficazes como ferramentas de design e comunicação, como sugerido na literatura? |  | 
+
 ## Conclusão e Observações
 
 ## Referências Bibliográficas
