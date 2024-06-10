@@ -1,9 +1,6 @@
 # Lista de Verificação para o SIG - 
 
 
-
-## Lista de Verificação
-
 ## Sumário
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
@@ -15,10 +12,15 @@
 
 ## Introdução
 
+Este documento tem como objetivo realizar uma verificação do NFR framework e do Softgoal Interdependency Graph (SIG) no [projeto de requisitos de software do correio, elaborado pelo grupo 3](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/nfr-framework/). Assim, serão elaboradas listas ou checklists para verificar os artefatos e eles serão avaliados com base nas mesmas.
+
 ## Metodologia
+
+A metodologia adotada para a verificação do NFR framework e do SIG no projeto do Grupo 3 será realizada da seguinte forma, inicialmente, um integrante do grupo será designado para elaborar as listas de verificação, com foco na identificação dos softgoals, suas interdependências, refinamentos e contribuições. Além disso, essas listas serão desenvolvidas com base nas diretrizes estabelecidas para o NFR framework e do SIG. Em seguida, os demais membros do grupo serão responsáveis por analisar e avaliar a aplicação do NFR framework no projeto dos correios elabora pelo grupo 3. 
 
 ## Lista de Verificação
 
+A tabela 1 mostra a lista de verificação dos SIGs.
 
 <center>
 
