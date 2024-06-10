@@ -20,6 +20,11 @@ A metodologia adotada para a verificação do NFR framework e do SIG no projeto 
 
 ## Lista de verificação dos cartões de especificação
 
+A tabela 1 mostra a lista de verificação dos cartões de especificação dos NFR.
+
+<center>
+
+**Tabela 1:** Lista de verificação para os cartões de especificação dos NFR.
 
 | ID  | Pergunta de Verificação                                                | Explicação                                                                                                         | Rastreabilidade                    |
 |-----|------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------|
@@ -35,16 +40,18 @@ A metodologia adotada para a verificação do NFR framework e do SIG no projeto 
 | 10 | Os critérios de aceitação cobrem todos os aspectos do requisito? | Verificar se todos os aspectos para o funcionamento do requisito são abordados pelos critérios de aceitação. | [Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados – Página 100](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%c3%87%c3%83O%20Reinaldo%20Ant%c3%b4nio%20da%20Silva.pdf)| 
 | 11 | Os critérios de aceitação estão alinhados com os objetivos do requisito? | Verificar se os critérios de aceitação estão alinhados com os objetivos do requisito | [Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados – Página 100](https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%c3%87%c3%83O%20Reinaldo%20Ant%c3%b4nio%20da%20Silva.pdf) |
 
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+</center>
 
 
 ## Lista de Verificação do  SIG Softgoal Interdependency Graph
 
-A tabela 1 mostra a lista de verificação dos SIGs.
+A tabela 2 mostra a lista de verificação dos SIGs.
 
 <center>
 
-**Tabela 1:** Lista de verificação para o SIG
+**Tabela 2:** Lista de verificação para o SIG
 
 | ID | Pergunta de Verificação                                              | Explicação                                                                                          | Rastreabilidade                              |
 |----|----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------|
@@ -78,5 +85,6 @@ A tabela 1 mostra a lista de verificação dos SIGs.
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Adição da tabela de verificação | Larissa Stéfane | - | 09/06/2024 |
+| 1.0 | Adição da tabela de verificação do SIG | Larissa Stéfane | - | 09/06/2024 |
 | 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | - | 09/06/2024 |
+| 1.2 | Adição da tabela de verificação dos cartões de especificação dos NFR | Larissa Stéfane | - | 09/06/2024 |
