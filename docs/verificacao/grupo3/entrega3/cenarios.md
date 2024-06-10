@@ -89,6 +89,41 @@ A tabela 2 mostra a avaliação do cenário de calcular preços e prazos de entr
 </details>
 
 <details>
+  <summary size="20"><b> Cenário 2 - Mudar endereço de recebimento </b></summary> 
+
+  <br>
+
+A tabela 3 mostra a avaliação do cenário de mudar endereço de recebimento.
+
+**Tabela 3**: Avaliação do cenário de mudar endereço de recebimento.
+
+<br>
+
+| ID | Pergunta | Resposta <br> Sim/Não/Incompleto | Observação |
+|--------|-------------------------------| ---------| ---------| 
+|    1    | O título do cenário representa explicitamente o tema? | Sim | - | 
+|    2    | O objetivo do cenário está claramente definido? | Sim | - |
+|    3    | O contexto do cenário está bem descrito, incluindo pré-condições, local e tempo? | Sim | - |
+|    4    | Os recursos envolvidos no cenário estão identificados? | Sim | - |
+|    5    | Os atores envolvidos no cenário estão definidos?| Sim | - |
+|    6    | Os episódios do cenário estão bem definidos? | Sim | - |
+|    7    | As ações dos atores estão descritas de forma observável? | Sim | - |
+|    8    | As restrições e as exceções dos episódios estão explicitadas? | Sim | - |
+|    9    | O ambiente ou contexto do cenário está detalhado? | Incompleto | Falta detalhar o ambiente de forma mais clara |
+|    10   | O cenário está escrito em linguagem natural simples? | Sim | - |
+|    11   | Há a descrição do que o sistema e os usuários esperam quando o cenário se finalizar ? | Sim | - |
+|    12   | As possíveis falhas e as suas tratativas estão descritas? | Sim | - |
+|    13   | As informações sobre outras atividades que podem acontecer ao mesmo tempo estão incluídas? | Não | Não menciona atividades simultâneas |
+|    14   | Há uma descrição sobre o estado inicial e o final do contexto no cenário? | Incompleto | Estado inicial e final poderiam ser mais detalhados |
+|    15   | Os requisitos presentes estão descritos no cenário? | Não | Não possui indicação de quais requisitos estão ligados a ação de mudar endereço de recebimento |
+<br>
+
+**Autor:** [Bruno Araújo](https://github.com/brunocva)
+
+</details>
+
+
+<details>
   <summary size="20"><b> Cenário 5 - Rastreamento de Encomendas </b></summary> 
 
   <br>
