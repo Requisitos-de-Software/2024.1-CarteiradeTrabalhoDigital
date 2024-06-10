@@ -1,5 +1,21 @@
 # Avaliação Rich Pictures Grupo 03
 
+## Sumário
+1. [Introdução](#introdução)
+2. [Metodologia](#metodologia)
+3. [Tabela de Avaliação](#tabela-de-avaliação)
+4. [Avaliações](#avaliações)
+   - [Correios](#correios)
+   - [Serasa](#serasa)
+   - [Carteira Digital de Trabalho](#carteira-digital-de-trabalho)
+   - [CNPQ](#cnpq)
+   - [NFS-e Mobile](#nfs-e-mobile)
+   - [Carteira Digital de Trânsito](#carteira-digital-de-trânsito)
+   - [Consumidor](#consumidor)
+   - [Meu SUS Digital](#meu-sus-digital)
+5. [Bibliografia](#bibliografia)
+6. [Histórico de Versões](#histórico-de-versões)
+
 ## Introdução
 
 Este documento tem como objetivo avaliar se os Rich Pictures apresentados pelo Grupo 3 estão de acordo com as métricas definidas para se fazer um rich picture. Os Rich Pictures são ferramentas visuais essenciais para representar e compreender sistemas complexos, destacando os principais componentes, stakeholders, fluxos de informação e interações.
