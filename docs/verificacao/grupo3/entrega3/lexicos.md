@@ -1,4 +1,4 @@
-# Verificação para o Perfil do Usuário.
+# Verificação para os Léxicos.
 
 ## Sumário
 * [Introdução](#Introdução)
