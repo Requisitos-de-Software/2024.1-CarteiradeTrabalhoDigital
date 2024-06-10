@@ -86,6 +86,17 @@ A tabela dois mostra a avaliação do cenário de rastreamento de encomendas.
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+Para realizar a avaliação do cenário 5, de rastreamento de encomendas, foi gravado um vídeo da avaliação, que se encontra no vídeo 1.
+
+**Vídeo 1:** Verificação do cenário de rastreamento de encomendas.
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/jFZn7e4QQOc" title="Requisitos - Verificação - Verificação do cenário 5 do projeto dos correios." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+Caso o vídeo não funcione, abra pelo [link](https://youtu.be/jFZn7e4QQOc)
+
+
 </details>
 
 ## Conclusão e Observações
@@ -111,4 +122,6 @@ A tabela dois mostra a avaliação do cenário de rastreamento de encomendas.
 | 1.0 | Adição da tabela de verificação | Larissa Stéfane | - | 09/06/2024 |
 | 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | - | 09/06/2024 |
 | 1.2 | Adição da avaliação do cenário de rastreamento de encomendas | Larissa Stéfane | - | 10/06/2024 |
+| 1.3 | Adição do vídeo da  avaliação do cenário de rastreamento de encomendas | Larissa Stéfane | - | 10/06/2024 |
+
 
