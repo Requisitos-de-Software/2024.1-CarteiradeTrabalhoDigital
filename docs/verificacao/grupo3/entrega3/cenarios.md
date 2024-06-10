@@ -129,7 +129,7 @@ A tabela 3 mostra a avaliação do cenário de mudar endereço de recebimento.
 
 A tabela 4 mostra a avaliação do cenário de Realizar compras na loja online.
 
-**Tabela 4**: Avaliação do cenário de calcular preços e prazos de entrega.
+**Tabela 4**: Avaliação do cenário de Realizar compras na loja online.
 
 <br>
 
@@ -225,5 +225,5 @@ Caso o vídeo não funcione, abra pelo [link](https://youtu.be/jFZn7e4QQOc)
 | 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | - | 09/06/2024 |
 | 1.2 | Adição da avaliação do cenário de rastreamento de encomendas | Larissa Stéfane | - | 10/06/2024 |
 | 1.3 | Adição do vídeo da  avaliação do cenário de rastreamento de encomendas | Larissa Stéfane | - | 10/06/2024 |
-| 1.4 | Adição da avaliação do cenário de calcular preços e prazos de entrega | Luana Medeiros | - | 10/06/2024 |
-
+| 1.4 | Adição da avaliação do cenário de calcular preços e prazos de entrega | Luana Medeiros | Pedro Izarias | 10/06/2024 |
+| 1.5 | Adição da avaliação do cenário de calcular Realizar compras na loja online | Pedro Izarias | - | 10/06/2024 |
