@@ -285,3 +285,4 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 | 1.1    | Adição das tabelas de avaliação | Iago Passaglia  | Pedro Izarias | 09/06/2024 |
 | 1.2    | Adição das respostas para o app CTD | Pedro Izarias  | Iago Passaglia | 10/06/2024 |
 | 1.3    | Adição das respostas para o app do Consumidor | Luana Medeiros | Iago Passaglia | 10/06/2024 |
+| 1.3    | Adição das respostas para o app do CDT | Iago Passaglia  | - | 10/06/2024 |
