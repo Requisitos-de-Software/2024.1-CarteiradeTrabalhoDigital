@@ -110,3 +110,5 @@ A tabela dois mostra a avaliação do cenário de rastreamento de encomendas.
 | - | - | - | - | - |
 | 1.0 | Adição da tabela de verificação | Larissa Stéfane | - | 09/06/2024 |
 | 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | - | 09/06/2024 |
+| 1.2 | Adição da avaliação do cenário de rastreamento de encomendas | Larissa Stéfane | - | 10/06/2024 |
+
