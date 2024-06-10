@@ -22,8 +22,6 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Pers
 
 **Tabela 1:** Lista de verificação para Personas.
 
-Aqui está a tabela com a coluna de observação preenchida para cada pergunta, incluindo a contextualização do motivo da pergunta:
-
 | ID  | Pergunta     | Observação    | Rastreabilidade |
 |-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | 1  | A quantidade de personas está dentro da faixa recomendada por Courage e Baxter (entre 3 e 12 personas)?  | Seguir a recomendação de quantidade de personas ajuda a garantir a representatividade sem sobrecarregar o processo de design.  | COURAGE, C.; BAXTER, K. Understanding your users: A practical guide to user research methods. San Francisco: Morgan Kaufmann, 2005. |
