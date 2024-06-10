@@ -23,11 +23,11 @@
 
 **Tabela 1:** Lista de verificação para perfil do usuário.
 
-| ID  | Pergunta                                                                                          | Observação                                                                                                                    | Rastreabilidade                                                                                          |
+| ID  | Pergunta     | Observação    | Rastreabilidade                                                                                          |
 |-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| 1  |     |                           | |
-| 2  |     |                           | |
-| 3  |     |                           | |
+| 1  | Os léxicos do aplicativo dos correios incluem símbolos para objetos, verbos e estados?    |  Os léxicos do aplicativo dos correios foram construídos considerando diferentes tipos de símbolos linguísticos para uma representação abrangente do domínio da aplicação.  | SAYÃO, Miriam; CARVALHO, Gustavo R. de. Construção do léxico de aplicações. ANAIS DO CONGRESSO DE ALFAL, 2017. Pág 11. |
+| 2  | Os léxicos do aplicativo dos correios foram elaborados com base no Léxico Ampliado da Linguagem (LAL) proposto por Leite?    | A utilização do LAL na construção dos léxicos do aplicativo dos correios proporciona uma estrutura mais detalhada e informativa em comparação com um glossário tradicional.   | SAYÃO, Miriam; CARVALHO, Gustavo R. de. Construção do léxico de aplicações. ANAIS DO CONGRESSO DE ALFAL, 2017. Pág 3. |
+| 3  | Os léxicos do aplicativo dos correios foram construídos considerando a frequência de uso dos símbolos?    |  A priorização dos símbolos com base na frequência de uso durante a construção dos léxicos do aplicativo dos correios reflete a importância relativa de cada termo no contexto da aplicação.    | SAYÃO, Miriam; CARVALHO, Gustavo R. de. Construção do léxico de aplicações. ANAIS DO CONGRESSO DE ALFAL, 2017. Pág 9. |
 | 4  |     |                           | |
 | 5  |     |                           | |
 | 6  |     |                           | |
