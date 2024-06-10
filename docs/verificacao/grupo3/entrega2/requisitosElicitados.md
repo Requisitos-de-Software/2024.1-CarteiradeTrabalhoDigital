@@ -46,6 +46,10 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de requ
 
 ## Avaliação
 
+A tabela 2 mostra o resultado da avaliação do documento dos requisitos elicitados com base na lista de verificação.
+
+**Tabela 2:** Avaliação dos requisitos elicitados
+
 | ID  | Pergunta     | Resposta <br> |  Observação |
 |-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------| ---------- |
 | 1  |  Os requisitos elicitados foram identificados com base nas necessidades e objetivos dos usuários, conforme recomendado na literatura? | Sim | - |
@@ -63,6 +67,8 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de requ
 | 13 | Os requisitos consideram os requisitos de segurança, como autenticação, autorização e criptografia de dados? | Incompleto | Há requisitos de segurança, porém eles estão mal elaborados e não são testáveis. Assim, por exemplo, não há uma explicação de como a segurança é/será implementada no aplicativo. |
 | 14 | Os requisitos abordam os requisitos de desempenho, como tempos de resposta esperados e capacidade de processamento? | Incompleto | Há requisitos de desempenho que são testáveis, porém outros não, pois não estão indicando o tempo desejado para algumas tarefas. |
 
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
 ## Conclusão e Observações
 
 ## Referências Bibliográficas
@@ -76,5 +82,7 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de requ
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento | Pedro Izarias | - | 09/06/2024 |
-| 1.1 | Adição da introdução e metodologia | Pedro Izarias | - | 10/06/2024 |
+| 1.0 | Criação do documento | Pedro Izarias | Larissa Stéfane | 09/06/2024 |
+| 1.1 | Adição da introdução e metodologia | Pedro Izarias | Larissa Stéfane | 10/06/2024 |
+| 1.2 | Adição da avaliação da lista de requisitos| Larissa Stéfane | - | 10/06/2024 |
+
