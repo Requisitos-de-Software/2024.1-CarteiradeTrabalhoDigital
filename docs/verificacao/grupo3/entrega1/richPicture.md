@@ -52,19 +52,36 @@ Tabela 2: Avaliação Correios
 
 <br>
 
-| Número | Pergunta                      | Resposta | 
-|--------|-------------------------------| ---------|
-|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | ------|
-|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | ------|
-|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | ------|
-|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | ------|
-|    5    | As interações e relações entre os stakeholders estão claramente ilustradas?| ------|
-|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | ------|
-|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | ------|
-|    8    | Existe uma legenda especificando o que cada simbolo significa? | ------|
-|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | ------|
-|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | ------|
-|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | ------|
+<details>
+  <summary size="20"><b> Correios </b></summary> 
+
+  <br>
+
+
+Tabela 2: Avaliação Correios
+
+<br>
+
+| Número | Pergunta                      | Resposta | Observações | 
+|--------|-------------------------------| ---------| ---------- |
+|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | Não | Os atores estão representados de forma muito genérica. Assim, por exemplo, falta especificar se o usuário está no papel de quem envia ou de quem recebe a encomenda. <br> Além disso, é necessário especificar que “Correios” indica uma agência física. <br> Também faltou o uso de outros aplicativos ou sistemas que indicam a localização da encomenda. |
+|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | Não | Os títulos dos atores estão genéricos e não retratam com clareza o que cada um deve indicar. Isso pode confundir uma pessoa que não entende do aplicativo e está lendo o rich picture. |
+|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | Incompleto | Algumas operações estão localizadas em uma ordem que quebra a lógica. Por exemplo, fazer login deveria ser uma das primeiras e estar no canto superior, uma vez que é a primeira coisa a ser feita no uso do aplicativo. |
+|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | Sim | Uma observação sobre esse rich picture é que ele está violando algumas normas que todo rich picture deve seguir. Por exemplo, o nome do sistema deve estar no canto superior interno (ao centro) do retângulo, porém, no apresentado, está localizado do lado de fora. |
+|    5    | As interações e relações entre os stakeholders estão claramente ilustradas?|  Sim | - | 
+|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | Sim| - |
+|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | Incompleto | Há algumas perspectivas faltando, por exemplo, é necessário dividir o usuário em usuário que recebe a encomenda e o que envia, pois eles vão utilizar funcionalidades diferentes do aplicativo e vão estar em contextos diferentes. <br> Além disso, há os pontos que citei no item 1. |
+|    8    | Existe uma legenda especificando o que cada simbolo significa? | Sim | - |
+|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | Sim| - |
+|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | Sim | - |
+|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | Sim | - |
+<br>
+
+ **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</details>
+
+
 <br>
 
 Autor: [Iago Passaglia](https://github.com/paxxaglia)
@@ -284,4 +301,5 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 | 1.1    | Adição das tabelas de avaliação | Iago Passaglia  | Pedro Izarias | 09/06/2024 |
 | 1.2    | Adição das respostas para o app CTD | Pedro Izarias  | Iago Passaglia | 10/06/2024 |
 | 1.3    | Adição das respostas para o app do Consumidor | Luana Medeiros | Iago Passaglia | 10/06/2024 |
-| 1.3    | Adição das respostas para o app do CDT | Iago Passaglia  | - | 10/06/2024 |
+| 1.4    | Adição das respostas para o app do CDT | Iago Passaglia  | - | 10/06/2024 |
+| 1.5    | Adição da avaliação para o rich picture dos correios | Larissa Stéfane  | - | 10/06/2024 |
