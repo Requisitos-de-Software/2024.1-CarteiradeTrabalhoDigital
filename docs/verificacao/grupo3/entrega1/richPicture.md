@@ -292,4 +292,4 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 | 1.3    | Adição das respostas para o app do Consumidor | Luana Medeiros | Iago Passaglia | 10/06/2024 |
 | 1.4    | Adição das respostas para o app do CDT | Iago Passaglia  | Bruno Araújo | 10/06/2024 |
 | 1.5    | Adição da avaliação para o rich picture dos correios | Larissa Stéfane  | Bruno Araújo | 10/06/2024 |
-| 1.6 | Adição das respostas para o app do CDT | Iago Passaglia  | Bruno Araújo | 10/06/2024 |
+| 1.6 | Adição das respostas para o app CNPQ | Bruno Araújo  | - | 10/06/2024 |
