@@ -86,4 +86,5 @@ Conclusão - O documento está muito bem estruturado, mas seria interessante ter
 ## Histórico de versão
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do documento                | Caio Mesquita   |  | 09/06/2024 |
+| 1.0    | Criação do documento                | Caio Mesquita   |  Iago Passaglia | 09/06/2024 |
+| 1.1    | Avaliação             | Iago Passagliaa  |  Pedro Izarias| 10/06/2024 |
