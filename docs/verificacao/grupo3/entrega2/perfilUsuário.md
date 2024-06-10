@@ -58,7 +58,7 @@ A tabela 1 apresenta a lista de verificação para o perfil de usuário com base
 **Tabela 2:** Tabela de Avaliação para perfil do usuário.
 
 | ID | Pergunta                      | Resposta | Observações |
-|--------|-------------------------------| ---------|
+|--------|-------------------------------| ---------| --- |
 | 1   | Apresenta o intervalo de faixa etária dos usuários no geral? | Sim | - |
 | 2   | Apresenta qual intervalo de idades é mais frequente? | Sim | - |
 | 3   | Especifica o gênero dos usuários com uma estipulação de porcentagem? | Sim | - |
