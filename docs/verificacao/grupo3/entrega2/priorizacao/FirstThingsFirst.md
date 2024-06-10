@@ -45,7 +45,7 @@ Autor: [Caio Mesquita]()
 </center>
 
 
-## Verificação
+## Avaliação
 
 <center>
 Tabela 1: Lista de verificação para priorização First Things First respondida
@@ -67,7 +67,7 @@ Autor: [Iago Passaglia](github.com/Paxxaglia)
 
 </center>
 
-## Observações e conclusão
+## Conclusão e Observações
 
 Pergunta 3 - Não temos acesso ao cronograma da entrevista com o stakeholder e muito menos à própria entrevista, apesar de os stakeholders estarem identificados no documento.
 
