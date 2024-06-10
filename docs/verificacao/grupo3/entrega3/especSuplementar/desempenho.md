@@ -1,4 +1,4 @@
-# Avaliação Rich Pictures Grupo 03
+# Avaliação Especificação Suplementar - Desempenho 03
 
 ## Sumário
 1. [Introdução](#introdução)
