@@ -46,7 +46,14 @@ A tabela 1 apresenta a lista de verificação para a especificação suplementar
 
 </center>
 
+
 ## Avaliação
+
+A tabela 2 apresenta a avaliação da especificação suplementar em relação ao tópico de confiabilidade.
+
+<center>
+
+**Tabela 2:** Avaliação da confiabilidade na especificação suplementar.
 
 | ID  | Pergunta  | Resposta   | Observação  |
 |-----|-----|-----|-----|
@@ -60,6 +67,10 @@ A tabela 1 apresenta a lista de verificação para a especificação suplementar
 | 8  | O documento inclui requisitos de manutenção preventiva? | Não | Não foi incluido requisitos de manutenção preventiva |
 | 9  | O documento descreve os procedimentos para atualizações e patches de software? | Não | Os procedimentos para atualizações e patches de software não são descritos |
 | 10  | O documento define como a confiabilidade será monitorada e reportada após a implementação? | Não | Não é definido como a confiabilidade será monitorada e reportada após a implementação |
+
+**Autor:** [Luana Medeiros](https://github.com/LuaMedeiros)
+
+</center>
 
 ## Conclusão e Observações
 
