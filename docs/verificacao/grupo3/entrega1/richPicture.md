@@ -51,7 +51,7 @@ Tabela 2: Avaliação Correios
   <summary size="20"><b> Correios </b></summary> 
 
   <br>
-
+A tabela 2 mostra as verificações e observações realizadas para o rich picture dos correios.
 
 Tabela 2: Avaliação Correios
 
@@ -74,7 +74,7 @@ Tabela 2: Avaliação Correios
 
  **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
- ### Vídeo gravado durante a avaliadação/verificação 
+ ### Vídeo gravado durante a avaliação/verificação 
 
  O vídeo 1 apresenta como foi realizada a verificação do rich picture dos correios enquanto se verificava a lista apresentada na tabela 1.
 
