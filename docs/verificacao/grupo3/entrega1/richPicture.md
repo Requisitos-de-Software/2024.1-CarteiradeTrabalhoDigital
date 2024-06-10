@@ -144,17 +144,17 @@ Tabela 4: Avaliação CNPQ
 
 | Número | Pergunta                      | Resposta | 
 |--------|-------------------------------| ---------|
-|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | ------|
-|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | ------|
-|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | ------|
-|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | ------|
-|    5    | As interações e relações entre os stakeholders estão claramente ilustradas?| ------|
-|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | ------|
-|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | ------|
-|    8    | Existe uma legenda especificando o que cada simbolo significa? | ------|
-|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | ------|
-|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | ------|
-|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | ------|
+|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | sim |
+|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | sim |
+|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | sim |
+|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | sim|
+|    5    | As interações e relações entre os stakeholders estão claramente ilustradas?| sim |
+|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | sim |
+|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | incompleto |
+|    8    | Existe uma legenda especificando o que cada simbolo significa? | sim |
+|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | sim|
+|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | sim|
+|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | não |
 <br>
 
 Autor: [Iago Passaglia](https://github.com/paxxaglia)
@@ -290,5 +290,6 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 | 1.1    | Adição das tabelas de avaliação | Iago Passaglia  | Pedro Izarias | 09/06/2024 |
 | 1.2    | Adição das respostas para o app CTD | Pedro Izarias  | Iago Passaglia | 10/06/2024 |
 | 1.3    | Adição das respostas para o app do Consumidor | Luana Medeiros | Iago Passaglia | 10/06/2024 |
-| 1.4    | Adição das respostas para o app do CDT | Iago Passaglia  | - | 10/06/2024 |
-| 1.5    | Adição da avaliação para o rich picture dos correios | Larissa Stéfane  | - | 10/06/2024 |
+| 1.4    | Adição das respostas para o app do CDT | Iago Passaglia  | Bruno Araújo | 10/06/2024 |
+| 1.5    | Adição da avaliação para o rich picture dos correios | Larissa Stéfane  | Bruno Araújo | 10/06/2024 |
+| 1.6 | Adição das respostas para o app do CDT | Iago Passaglia  | Bruno Araújo | 10/06/2024 |
