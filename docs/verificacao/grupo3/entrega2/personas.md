@@ -43,6 +43,10 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Pers
 
 ## Avaliação
 
+A tabela 2 mostra a avaliação das personas com base na lista de veriicação.
+
+**Tabela 2:** Avaliação para Personas.
+
 | ID  | Pergunta     | Resposta <br> Sim, Não, Incompleto |  Observação |
 |-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------| --------------- |
 | 1  | A quantidade de personas está dentro da faixa recomendada por Courage e Baxter (entre 3 e 12 personas)?  | Sim | - |
@@ -56,8 +60,7 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Pers
 | 9  | As personas secundárias foram definidas de forma a complementar as necessidades não atendidas pela persona primária?  | Incompleto | Uma das personas secundários tem os seus objetivos e necessidades formulados de forma muito genérica. |
 | 10  | As personas criadas possuem os elementos Motivações, Comportamentos, Atitudes, Aptidões, Atividades ou elementos equivalentes?   | Sim - Incompleto | Sim, mas poderia ser mais complementado a fim de torná-las mais reais e, por conseguinte, as personas poderem ser mais bem aproveitadas durante o desenvolvimento do projeto. |
 | 11 | As personas foram derivadas de um processo de investigação que levantou as características dos usuários e descreveu seus perfis, como sugerido na literatura? | Incompleto | Sim, elas foram baseadas em algumas técnicas que o grupo utilizou. Porém, as personas elaboradas não foram elaboradas a ponto de descrever os perfis de acordo com a realidade de usuários. |
-| 12 | As personas possuem detalhes específicos que as tornam eficazes como ferramentas de design e comunicação, como sugerido na literatura? | Incompleto | Não são apresentadas todas as características para determinar o perfil da persona, por exemplo, não há um história de seu passado, sendo que isso pode ser utilizado como forma de evitar alguns problemas de uso. | 
-Não são apresentadas todas as características para determinar o perfil da persona, por exemplo, não há uma história de seu passado, sendo que isso pode ser utilizado como forma de evitar alguns problemas de uso. |
+| 12 | As personas possuem detalhes específicos que as tornam eficazes como ferramentas de design e comunicação, como sugerido na literatura? | Incompleto | Não são apresentadas todas as características para determinar o perfil da persona, por exemplo, não há um história de seu passado, sendo que isso pode ser utilizado como forma de evitar alguns problemas de uso. | Não são apresentadas todas as características para determinar o perfil da persona, por exemplo, não há uma história de seu passado, sendo que isso pode ser utilizado como forma de evitar alguns problemas de uso. |
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
