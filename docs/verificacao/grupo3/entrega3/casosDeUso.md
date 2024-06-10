@@ -219,4 +219,4 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 
 | Versão | Descrição                     | Autor           | Revisor | Data       |
 |--------|-------------------------------|-----------------|------------|---------|
-| 1.0    | Adição de introdução, metodologia e tabela de avaliação | Iago Passaglia  | - | 09/06/2024 |
+| 1.0    | Adição de introdução, metodologia e tabela de avaliação | Iago Passaglia  | Bruno Araújo | 09/06/2024 |
