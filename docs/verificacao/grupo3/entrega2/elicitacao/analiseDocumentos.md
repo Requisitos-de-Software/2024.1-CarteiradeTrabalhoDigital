@@ -44,7 +44,27 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 
 ## Avaliação
 
+**Tabela 2:** Lista de verificação respondida.
+
+| ID | Pergunta de Verificação | Resposta |
+|----|-------------------------|------------|
+| 1  | O documento identifica as necessidades do aplicativo de acordo com o documento de sua criação/Manual? | Sim |
+| 2  | As partes interessadas estão explicitamente listadas na análise do documento? |  Sim |
+| 3  | Todas as partes interessadas, tanto chave quanto não chave, estão enumeradas? | Não | 
+| 4  | A análise de documentos inclui uma lista das normas e dos regulamentações relevantes que o aplicativo deve seguir? | Não |
+| 5  | Identifica as integrações necessárias com outros sistemas existentes? |  Não | 
+| 7  | O documento identifica os requisitos de usabilidade e de acessibilidade do aplicativo | Sim | 
+| 8  | Os requisitos de desempenho e escalabilidade são considerados na análise de documentos? | Sim | 
+| 9  | Há uma lista dos requisitos não funcionais determinados pelos stakeholders? | Sim | 
+
+
+**Autor:** [Iago Passaglia](https://github.com/Paxxaglia)
+
+
 ## Conclusão e Observações
+
+No geral, o documento está bem completo. Porém, alguns pontos chamaram atenção: As partes interessadas não estão numeradas então fica difícil entendê-las com mais clareza. Não são especificadas nenhuma das diretrizes dos correios que possam afetar os requisitos e nenhuma integração com outros sistemas já pré-existentes que poderiam auxiliar no desenvolvimento desses requisitos o que deixa à deriva a questão de como será feito o processo. 
+
 
 ## Referências Bibliográficas
 
@@ -66,5 +86,6 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Adição da tabela de verificação | Larissa Stéfane | - | 09/06/2024 |
-| 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | - | 09/06/2024 |
+| 1.0 | Adição da tabela de verificação | Larissa Stéfane | Iago Passaglia | 09/06/2024 |
+| 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | Iago Passaglia | 09/06/2024 |
+| 1.2| Adição da avaliação | Iago Passaglia | Pedro Izarias | 10/06/2024 |
