@@ -1,0 +1,56 @@
+# Verificação da Técnica de Priorização de Requisitos - Técnica de $100
+
+## Sumário
+* [Introdução](#Introdução)
+* [Metodologia](#Metodologia)
+* [Lista de Verificação](#Lista-de-Verificação)
+* [Avaliação](#Avaliação)
+* [Conclusão e Observações](#Conclusão-e-Observações)
+* [Bibliografia](#Bibliografia)
+* [Histórico de versão](#Histórico-de-versão)
+
+## Introdução
+
+Este documento apresenta o processo de verificação do artefato da técnica de priorização de requisitos utilizando a Técnica de $100 do Grupo número [3](https://requisitos-de-software.github.io/2024.1-Correios/), onde será verificado se o conteúdo do documento está em conformidade com os padrões estabelecidos pelo autor com base no conteúdo ministrado ao longo do projeto.
+
+## Metodologia 
+
+Foi elaborada uma lista de verificação em formato de checklist, apresentada na Tabela 1. Esta será utilizada por um dos integrantes da equipe (Distribuição de tarefas estabelecida no artefato de [planejamento](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/Planejamento)) para conduzir o processo de verificação, confirmando se o artefato está de acordo com os parâmetros estabelecidos, e apontando as correções necessárias.
+
+A Tabela deverá ser preenchida com "sim", "não" ou "incompleto" e a resposta deverá ser detalhada, em caso de "não" ou "incompleto", no tópico de [Conclusão](#Conclusão-e-Observações).
+
+## Lista de Verificação
+
+<center>
+
+Tabela 1: Lista de verificação da técnica de priorização $100
+|ID|Pergunta|Rastreabilidade|Resposta(sim/não/incompleto)|
+|-|-|-|-|
+|01|O documento apresenta uma explicação clara da metodologia de $100 utilizada?|Autor|-|
+|02|Há informações sobre onde e como a técnica de $100 foi aplicada?|Autor|-|
+|03|Os participantes foram instruídos sobre como distribuir os $100?|Autor|-|
+|04|Contém a descrição e os resultados detalhados de cada participante?|Autor|-|
+|05|Inclui um sumário dos resultados das alocações de dólares?|Autor|-|
+|06|Apresenta uma tabela com os requisitos priorizados e os valores alocados?|Autor|-|
+|07|Os requisitos estão devidamente identificados com IDs únicos?|Autor|-|
+|08|Os requisitos estão divididos em Funcionais e Não-Funcionais?|Sommerville, Ian. Engenharia de software. 08. ed. São Paulo: Pearson Addison Wesley, 2007.|-|
+|09|Os requisitos priorizados são testáveis?|Sommerville, Ian. Engenharia de software. 08. ed. São Paulo: Pearson Addison Wesley, 2007.|-|
+|10|Foi considerado o esforço necessário para implementar cada requisito?|Autor|-|
+|11|A técnica de $100 foi aplicada em mais de uma iteração para garantir consistência?|Autor|-|
+
+Autor: [Bruno Araújo]()
+
+</center>
+
+## Avaliação
+
+## Conclusão e Observações
+
+## Bibliografia
+
+- Sommerville, Ian. Engenharia de software. 08. ed. São Paulo: Pearson Addison Wesley, 2007.
+
+## Histórico de versão
+| Versão | Alteração                           | Responsável     | Revisor         | Data       |
+| ------ | ----------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação do documento                | Bruno Araújo    |                 | 10/06/2024 |
