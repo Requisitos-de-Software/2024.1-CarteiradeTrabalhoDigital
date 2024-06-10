@@ -35,6 +35,9 @@ Tabela 1: Lista de verificação do artefato Backlog do Produto
 </center>
 
 
+## Avaliação
+
+## Conclusão e Observações
 
 
 ## Bibliografia

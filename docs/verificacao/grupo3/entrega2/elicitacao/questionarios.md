@@ -11,12 +11,14 @@
 
 ## Introdução
 
+Este documento apresenta o processo de verificação do artefato da técnica de elicitação de [Questionários]() do Grupo número [3](), onde será verificado se o conteúdo do documento está em conformidade com os padrões estabelecidos pelos pelo autor com base no conteúdo ministrado ao longo do projeto.
+
 ## Metodologia 
 
 
+
+
 ## Lista de Verificação
-
-
 
 <center>
 
@@ -37,6 +39,10 @@ Autor: [Caio Mesquita]()
 
 </center>
 
+
+## Avaliação
+
+## Conclusão e Observações
 
 ## Bibliografia
 
