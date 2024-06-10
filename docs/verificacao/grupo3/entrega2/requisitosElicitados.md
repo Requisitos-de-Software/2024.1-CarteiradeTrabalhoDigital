@@ -52,20 +52,20 @@ Aqui está a tabela com a coluna de observação preenchida para cada pergunta, 
 
 | ID  | Pergunta     | Resposta  | 
 |-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-|1|||
-|2|||
-|3|||
-|4|||
-|5|||
-|6|||
-|7|||
-|8|||
-|9|||
-|10|||
-|11|||
-|12|||
-|13|||
-|14|||
+| 1  |  Os requisitos elicitados foram identificados com base nas necessidades e objetivos dos usuários, conforme recomendado na literatura? |  | 
+| 2  |  Os requisitos elicitados foram definidos com rigor e detalhes, mantendo o foco nas necessidades dos usuários, como recomendado na literatura? |  | 
+| 3  |  Os requisitos elicitados foram classificados de acordo com sua natureza (funcionais, não funcionais, etc.) para facilitar a compreensão e implementação, conforme sugerido na literatura? |  |
+| 4  |  Os requisitos elicitados foram documentados de forma a permitir sua rastreabilidade ao longo do ciclo de vida do sistema, facilitando futuras atualizações e manutenções, conforme descrito na literatura? |  | 
+| 5  |  Os requisitos elicitados foram classificados em implementados ou não? |  | 
+| 6  | Os requisitos são testáveis e mensuráveis para garantir que possam ser verificados durante a implementação?  |  | 
+| 7  |  Todos os requisitos foram priorizados de acordo com sua importância para o sucesso do projeto? |  |
+| 8  |  Os requisitos são consistentes e não entram em conflito uns com os outros? |  |
+| 9  |  Os requisitos consideram os requisitos não funcionais, como desempenho, segurança e usabilidade? |  |
+| 10  |  Os requisitos foram documentados de forma abrangente e estão prontos para serem utilizados na fase de desenvolvimento do software? |  | 
+| 11 | Os requisitos abordam requisitos de conformidade, como regulamentações legais ou padrões da indústria que o sistema deve atender? |  | 
+| 12 | Os requisitos incluem requisitos de escalabilidade para garantir que o sistema possa lidar com um aumento no número de usuários? |  |
+| 13 | Os requisitos consideram os requisitos de segurança, como autenticação, autorização e criptografia de dados? |  |
+| 14 | Os requisitos abordam os requisitos de desempenho, como tempos de resposta esperados e capacidade de processamento? |  | 
 
 ## Conclusão e Observações
 
