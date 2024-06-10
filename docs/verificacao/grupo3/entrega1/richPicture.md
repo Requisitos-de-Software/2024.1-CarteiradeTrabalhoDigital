@@ -22,19 +22,19 @@ Tabela 1: Perguntas para avaliação
 
 <br>
 
-| Número | Pergunta                      | Resposta | 
+| Número | Pergunta                      | Referência | 
 |--------|-------------------------------| ---------|
-|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | ------|
-|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | ------|
-|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | ------|
-|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | ------|
-|    5    | As interações e relações entre os stakeholders estão claramente ilustradas?| ------|
-|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | ------|
-|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | ------|
-|    8    | Existe uma legenda especificando o que cada simbolo significa? | ------|
-|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | ------|
-|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | ------|
-|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | ------|
+|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | [Referência](http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html)|
+|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | [Referência](http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html)
+|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | [Referência](http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html)
+|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | [Referência](http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html)
+|    5    | As interações e relações entre os stakeholders estão claramente ilustradas?| [Referência](https://aprender3.unb.br/pluginfile.php/2844957/mod_resource/content/2/1_5145791542719414573.pdf) |
+|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | [Referência](https://aprender3.unb.br/pluginfile.php/2844957/mod_resource/content/2/1_5145791542719414573.pdf) |
+|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | [Referência](https://aprender3.unb.br/pluginfile.php/2844957/mod_resource/content/2/1_5145791542719414573.pdf)|
+|    8    | Existe uma legenda especificando o que cada simbolo significa? | [Referência](https://aprender3.unb.br/pluginfile.php/2844957/mod_resource/content/2/1_5145791542719414573.pdf)|
+|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | [Referência](http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html)|
+|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | [Referência](http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html)|
+|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | [Referência](https://aprender3.unb.br/pluginfile.php/2844957/mod_resource/content/2/1_5145791542719414573.pdf)|
 <br>
 
 Autor: [Iago Passaglia](https://github.com/paxxaglia)
