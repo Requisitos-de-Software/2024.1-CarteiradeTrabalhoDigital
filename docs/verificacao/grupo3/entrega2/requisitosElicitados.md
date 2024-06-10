@@ -69,6 +69,19 @@ A tabela 2 mostra o resultado da avaliação do documento dos requisitos elicita
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+## Vídeo da Verificação
+
+O vídeo 1 mostra o processo de verificação com base na lista de verificação e como foi a avaliação dos requisitos elicitados.
+
+**Vídeo 1:** Avaliação com verificação do requisitos elicitados.
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/CBWQC7gHF1M" title="Requisitos - Verificação dos artefatos elicitados pelo grupo 3 para o aplicativo dos Correios." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+Caso o vídeo não funcione, para acessa-lo no youtube, clique no [link](https://www.youtube.com/watch?v=CBWQC7gHF1M)
+
 ## Conclusão e Observações
 
 ## Referências Bibliográficas
@@ -85,4 +98,5 @@ A tabela 2 mostra o resultado da avaliação do documento dos requisitos elicita
 | 1.0 | Criação do documento | Pedro Izarias | Larissa Stéfane | 09/06/2024 |
 | 1.1 | Adição da introdução e metodologia | Pedro Izarias | Larissa Stéfane | 10/06/2024 |
 | 1.2 | Adição da avaliação da lista de requisitos| Larissa Stéfane | - | 10/06/2024 |
+| 1.3 | Adição do vídeo da avaliação da lista de requisitos| Larissa Stéfane | - | 10/06/2024 |
 
