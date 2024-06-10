@@ -26,17 +26,18 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 
 **Tabela 1:** Lista de verificação para o Brainstorm utilizado para a elicitação de requisitos.
 
-| ID   | Pergunta de Verificação                                             | Explicação                                                      | Rastreabilidade |
-| ---- | ------------------------------------------------------------------- | --------------------------------------------------------------- | ----------------- |
-| 1    | O documento consta com os objetivos para a sessão de brainstorming? | Averiguar se o foco do brainstorming está definido no artefato. |  Guia completo sobre brainstorm[¹](#Referências-Bibliográficas) |
+| ID | Pergunta de Verificação                                                                                | Rastreabilidade                                     |
+| -- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
+| 1  | As sessões envolveram entre 8 e 12 usuários?                                                           | [BARBOSA; SILVA, 2010](#Referências-Bibliográficas) |
+| 2  | Os usuários tem perfis semelhante?                                                                     | [BARBOSA; SILVA, 2010](#Referências-Bibliográficas) |
+| 3  | Teve um moderador para guiar as sessões?                                                               | [BARBOSA; SILVA, 2010](#Referências-Bibliográficas) |
+| 4  | No início das sessões, os participantes foram informados sobre o objetivo e procedimento da atividade? | [BARBOSA; SILVA, 2010](#Referências-Bibliográficas) |
+| 5  | Foi feita uma pergunta inicial para guiar os entrevistados?                                            | [BARBOSA; SILVA, 2010](#Referências-Bibliográficas) |
+| 6  | As sugestões dos entrevistados foram anotadas?                                                         | [BARBOSA; SILVA, 2010](#Referências-Bibliográficas) |
+| 6  | Os requisitos foram elicitados a partir das sugestões?                                                 | [BARBOSA; SILVA, 2010](#Referências-Bibliográficas) |
 
 
-Quem são os principais interessados neste projeto?
-Quais são os maiores desafios que enfrentamos atualmente?
-Quais são algumas soluções possíveis para os desafios identificados?
-Como podemos melhorar o produto/serviço atual?
-
-<b> Autora: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>.
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>.
 
 </center>
 
@@ -46,15 +47,26 @@ A tabela 2 apresenta a lista de verificação da técnica de Brainstorm.
 
 | ID | Pergunta de Verificação | Sim/Não/Incompleto |
 | -- | ----------------------- | ------------------ |
-| 1  |                         |                    |
+| 1  | As sessões envolveram entre 8 e 12 usuários?                                                           | |
+| 2  | Os usuários tem perfis semelhante?                                                                     | |
+| 3  | Teve um moderador para guiar as sessões?                                                               | |
+| 4  | No início das sessões, os participantes foram informados sobre o objetivo e procedimento da atividade? | |
+| 5  | Foi feita uma pergunta inicial para guiar os entrevistados?                                            | |
+| 6  | As sugestões dos entrevistados foram anotadas?                                                         | |
+| 6  | Os requisitos foram elicitados a partir das sugestões?                                                 | |
+
+<b> Autor: </b> <a href="https://github.com/Caiomesvie"> Caio Mesquita </a>.
+
+## Conclusão e Observações
  
 ## Referências Bibliográficas
 
-1. <b> AEVO </b>. Guia completo sobre brainstorm: como fazer e técnicas essenciais. 2022. Disponível em: https://blog.aevo.com.br/brainstorm-guia/. Acesso em: 09 jun. 2024.
+1. <b> SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA </b>, Interação Humano-Computador, 1a.
+Edição, Editora Campus, 2010. (Versão grátis disponível em: https://leanpub.com/ihc-ux). Publicado em: 03/05/2021
 
 
 ## Histórico de versão
 
 | Versão | Alteração                       | Responsável     | Revisor | Data       |
 | ------ | ------------------------------- | --------------- | ------- | ---------- |
-| 1.0    | Adição da tabela de verificação | Breno Alexandre | -       | 09/06/2024 |
+| 1.0    | Adição da tabela de verificação | Breno Alexandre | -       | 10/06/2024 |
