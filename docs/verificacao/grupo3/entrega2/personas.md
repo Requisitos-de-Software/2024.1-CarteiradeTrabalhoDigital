@@ -10,14 +10,13 @@
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
-
+O seguinte documento possui o intuito de criar uma lista de verificação para o artefato de Personas criado pelo grupo 03 do aplicativo dos correios da disciplina de Requisitos de Software, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a criação das personas, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
 
 ## Metodologia 
-
+Após a construção do artefato de Personas, será criada uma lista de verificação contendo perguntas e respostas sobre o artefato, baseada na literatura da disciplina. Com a conclusão das respostas, o grupo avaliado poderá realizar alterações e melhorias para assegurar que o artefato esteja em conformidade com as diretrizes estabelecidas.
 
 ## Lista de Verificação
-
-
+A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Personas, assim como observações sobre cada pergunta e sua rastreabilidade, com a referencia bibliográfica de onde cada pergunta veio.
 
 <center>
 
@@ -78,3 +77,4 @@ Aqui está a tabela com a coluna de observação preenchida para cada pergunta, 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Pedro Izarias | - | 09/06/2024 |
+| 1.1 |  Adição de introdução e metodologia  | Pedro Izarias | - | 10/06/2024 |
