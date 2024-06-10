@@ -4,7 +4,7 @@
 1. [Introdução](#introdução)
 2. [Metodologia](#metodologia)
 3. [Tabela de Avaliação](#tabela-de-avaliação)
-4. [Avaliação](#avaliações)
+4. [Avaliação](#avaliação)
 5. [Bibliografia](#bibliografia)
 6. [Histórico de Versões](#histórico-de-versões)
 
