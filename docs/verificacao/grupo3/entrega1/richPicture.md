@@ -74,6 +74,18 @@ Tabela 2: Avaliação Correios
 
  **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+ ### Vídeo gravado durante a avaliadação/verificação 
+
+ O vídeo 1 apresenta como foi realizada a verificação do rich picture dos correios enquanto se verificava a lista apresentada na tabela 1.
+
+ **Vídeo 1:** Verificação do rich picture dos correios
+
+ <iframe width="1280" height="720" src="https://www.youtube.com/embed/lcTISbtxIWM" title="Requisitos - Lista de verificação/ avaliação do rich picture dos correios." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+  Para acessar o vídeo no youtube clique no [link](https://youtu.be/lcTISbtxIWM)
+
 </details>
 
 
@@ -293,3 +305,4 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 | 1.4    | Adição das respostas para o app do CDT | Iago Passaglia  | Bruno Araújo | 10/06/2024 |
 | 1.5    | Adição da avaliação para o rich picture dos correios | Larissa Stéfane  | Bruno Araújo | 10/06/2024 |
 | 1.6 | Adição das respostas para o app CNPQ | Bruno Araújo  | - | 10/06/2024 |
+| 1.7    | Adição do vídeo da avaliação para o rich picture dos correios | Larissa Stéfane  | - | 10/06/2024 |
