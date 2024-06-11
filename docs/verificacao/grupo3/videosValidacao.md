@@ -9,7 +9,9 @@
 
 Este documento tem como objetivo reunir as gravações feitas pelos estudantes do Grupo 02 realizando algumas das avaliações dos artefatos do Grupo 03.
 
-##Vídeos
+## Vídeos
+
+
 
 **Vídeo 1:** Luana Medeiros
 
