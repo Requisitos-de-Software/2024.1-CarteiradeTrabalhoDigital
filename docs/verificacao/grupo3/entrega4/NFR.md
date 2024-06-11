@@ -127,6 +127,50 @@ A tabela 2 mostra a lista de verificação dos SIGs.
 
 </details>
 
+<details>
+  <summary size="20"><b> Suportabilidade - Breno Alexandre  </b></summary> 
+<center>
+
+**Tabela 5: Suportabilidade - Cartão de Especificação**
+
+| ID | Pergunta da Verificação | Resposta | Observação |
+|----|------------------------|-----------------------|------------|
+| 1 | O cartão de especificação possui um número de identificação único? | Sim |  |
+| 2 | O cartão de especificação inclui a descrição completa do requisito? | Sim |  |
+| 3 | A razão/motivo para o requisito está documentada no cartão? | Sim |  |
+| 4 | A origem do requisito está indicada no cartão de especificação? | Sim |  |
+| 5 | O critério de prioridade está definido? | Sim |  |
+| 6 | As dependências entre requisitos estão indicadas? | Sim |  |
+| 7 | A origem do requisito está incluída no cartão de especificação? | Sim | |
+| 8 | O cartão de especificação menciona restrições ou conflitos com outros requisitos? | Sim |  |
+| 9 | Os critérios de aceitação são mensuráveis? | Sim |  |
+| 10 | Os critérios de aceitação cobrem todos os aspectos do requisito? | Sim |  |
+| 11 | Os critérios de aceitação estão alinhados com os objetivos do requisito? | Sim | |
+
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
+
+**Tabela 6: Suportabilidade - SIG**
+
+| ID | Pergunta da Verificação | Resposta | Observação |
+|----|------------------------|-----------------------|------------|
+| 1  | Os softgoals NFR foram utilizados corretamente?                      | Sim | |
+| 2  | As interdependências entre os softgoals foram definidas corretamente? | Sim | |
+| 3  | Os refinamentos dos softgoals foram feitos de forma adequada?         | Sim  | |
+| 4  | As contribuições dos softgoals descendentes foram identificadas corretamente? | Sim |  |
+| 5  | Os rótulos atribuídos aos softgoals refletem adequadamente seu estado de satisfação? | Sim | |
+| 6  | A análise dos softgoals de nível mais baixo impacta de forma apropriada nos softgoals de nível mais alto? | Sim | |
+| 7  | Os softgoals de afirmação foram utilizados conforme necessário?         | Sim | |
+| 8  | Os softgoals de operacionalização estão representando soluções de implementação de maneira adequada? | Sim | |
+| 9  | As contribuições dos softgoals foram documentadas de maneira clara e concisa? | Sim | |
+| 10 | O SIG mostra as decisões de desenvolvimento tomadas? | Sim | |
+| 11 | As relações entre os softgoals estão sendo representadas graficamente de acordo com as convenções estabelecidas? | Sim | |
+
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
+
+</center>
+
+</details>
+
 
 ## Conclusão e Observações
 
@@ -145,3 +189,4 @@ A tabela 2 mostra a lista de verificação dos SIGs.
 | 1.2 | Adição da tabela de verificação dos cartões de especificação dos NFR | Larissa Stéfane | Pedro Izarias | 09/06/2024 |
 | 1.3 | Adição da avaliação do NFR Confiabilidade| Luana Medeiros | Pedro Izarias | 10/06/2024 |
 | 1.4 | Adição da avaliação do NFR Desempenho| Pedro Izarias |  - | 10/06/2024 |
+| 1.5 | Adição da avaliação do NFR Suportabilidade | Breno Alexandre |  - | 10/06/2024 |
