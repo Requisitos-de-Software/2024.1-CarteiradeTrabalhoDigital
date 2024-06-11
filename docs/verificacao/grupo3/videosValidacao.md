@@ -51,7 +51,14 @@ Fonte: Caio Mesquita
 <br>
 <br>
 
+**Video 5:** Breno Alexandre
 
+<iframe width="400" height="800" src="https://www.youtube-nocookie.com/embed/bd69EH1_hUE?si=J4AE0WAqnk8cOhHW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Autor: Breno Alexandre
+
+<br>
+<br>
 
 
 ## Histórico de Versões
@@ -59,3 +66,4 @@ Fonte: Caio Mesquita
 | Versão | Descrição                     | Autor           | Revisor | Data       |
 |--------|-------------------------------|-----------------|------------|---------|
 | 1.0    | Criação do documento e adição dos vídeos de 1 a 4 | Iago Passaglia  | Pedro Izarias | 10/06/2024 |
+| 1.1    | Adição do vídeo 5|  | Breno Alexandre | - | 10/06/2024 |
