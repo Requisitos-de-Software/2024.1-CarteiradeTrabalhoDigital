@@ -182,6 +182,9 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da quarta e
 | Modelagem de requisitos: Histórias de usuários | 26/05/2024 | 27/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Caio e Iago                                      | 26/05/2024 - 27/05/2024 |
 | NFR: Framework                                 | 26/05/2024 | 27/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro       | Bruno, Iago e Pedro                              | 26/05/2024 - 27/05/2024 |
 | Preenchimento do cronograma pra etapa 4        | 27/05/2024 | 27/05/2024 | Breno Alexandre                                  | Caio Mesquita                                    | 26/05/2024 - 26/05/2024 |
+| Gravar apresentação                            | 27/05/2024 | 27/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 27/05/2024 - 27/05/2024 |
+| Documento de apresentação da etapa 4           | 27/05/2024 | 27/05/2024 | Caio Mesquita                                    | Luana Medeiros                                   | 27/05/2024 - 27/05/2024 |
+
 
 <font size="3"><p style="text-align: center">Autor: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
 
@@ -195,10 +198,10 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da parte um 
 
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
-| Correções e pendências após a entrega 4   | 23/05/2024 | 09/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 11/06/2024 | 17/06/2024  |
-| Verificação e validação requisitos: Grupo 03 | 23/05/2024 | 09/06/2024|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 11/06/2024 | 17/06/2024  |
-| Gravar apresentação                       | 09/06/2024 | 09/06/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro |11/06/2024 | 17/06/2024  |
-| Correção pós apresentação                 | 11/06/2024 | 17/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 11/06/2024 | 17/06/2024  |
+| Correções e pendências após a entrega 4   | 04/06/2024 | 07/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 07/06/2024 - 07/06/2024  |
+| Verificação e validação requisitos: Grupo 03 | 08/05/2024 | 09/06/2024|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 09/06/2024 - 09/06/2024  |
+| Gravar apresentação                       | 09/06/2024 | 09/06/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro |10/06/2024 - 10/06/2024  |
+| Correção pós apresentação                 | 11/06/2024 | 12/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 12/06/2024 - 12/06/2024  |
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros), [Caio Mesquita](https://github.com/Caiomesvie).</p></font>
 
@@ -210,6 +213,12 @@ Na Tabela 10, está explicitado o cronograma executado das atividades da parte u
 
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
+| Reunião 10                                | 06/06/2024 | 06/06/2024 | Breno, Caio, Iago, Larissa, Luana e Pedro | Breno | 06/06/2024 - 06/06/2024 |
+| Ata 10                                    | 06/06/2024 | 06/06/2024 | Breno e Larissa | Breno e Bruno | 06/06/2024 - 09/06/2024 |
+| Planejamento da confecção das listas de verificação e das avaliações | 09/06/2024 | 09/06/2024 | Caio Mesquita | Breno Alexandre | 09/06/2024 - 09/06/2024 |
+| Verificação e Avaliação do Grupo 03 | 10/05/2024 | 10/06/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 10/06/2024 - 10/06/2024  |
+| Artefato dos vídeos de avaliações | 10/06/2024 | 10/06/2024 | Iago Passaglia | Breno, Pedro e Larissa | 10/06/2024 - 10/06/2024 |
+| Gravar apresentação                       | 10/06/2024 | 10/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro |10/06/2024 - 10/06/2024  |
 
 ## Entrega 5.2 - Verificação e validação
 
@@ -281,3 +290,4 @@ Na Tabela 14, está explicitado o cronograma executado das atividades da parte d
 | 1.8    | Cronograma da entrega 3                                           | Caio Mesquita   | Breno Alexandre | 18/05/2024 |
 | 1.9    | Mudança do cronograma pós greve                                   | Caio Mesquita   | Breno Alexandre | 20/05/2024 |
 | 2.0    | Cronograma da entrega 4                                           | Breno Alexandre | -               | 27/05/2024 |
+| 2.1    | Cronograma da entrega 5.1                                         | Breno Alexandre | -               | 10/06/2024 |
