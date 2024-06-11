@@ -305,6 +305,42 @@ A tabela 8 mostra a avaliação do cenário de Receber em um local não residenc
 
 </details>
 
+
+<details>
+  <summary size="20"><b> Cenário 8 - Realizar pré-postagem </b></summary> 
+
+  <br>
+
+A tabela 9 mostra a avaliação do cenário de Realizar pré-postagem
+
+**Tabela 9**: Avaliação do cenário de Realizar pré-postagem
+
+<br>
+
+| ID | Pergunta | Resposta <br> Sim/Não/Incompleto | Observação |
+|--------|-------------------------------| ---------| ---------| 
+|    1    | O título do cenário representa explicitamente o tema? | sim | - | 
+|    2    | O objetivo do cenário está claramente definido? | sim | - |
+|    3    | O contexto do cenário está bem descrito, incluindo pré-condições, local e tempo? | Sim | - |
+|    4    | Os recursos envolvidos no cenário estão identificados? |  Sim | -. |
+|    5    | Os atores envolvidos no cenário estão definidos?| Sim | - |
+|    6    | Os episódios do cenário estão bem definidos? | Sim | - |
+|    7    | As ações dos atores estão descritas de forma observável? |  Sim | - |
+|    8    | As restrições e as exceções dos episódios estão explicitadas? |  |-|
+|    9    | O ambiente ou contexto do cenário está detalhado? | Sim|- |
+|    10   | O cenário está escrito em linguagem natural simples? | Sim | - |
+|    11   | Há a descrição do que o sistema e os usuários esperam quando o cenário se finalizar ? | Sim | - |
+|    12   | As possíveis falhas e as suas tratativas estão descritas? | Incompleto | Não há trativas para possiveis falhas |
+|    13   | As informações sobre outras atividades que podem acontecer ao mesmo tempo estão incluídas? | Não | - | 
+|    14   | Há uma descrição sobre o estado inicial e o final do contexto no cenário? | Sim | - |
+|    15   | Os requisitos presentes estão descritos no cenário? | Não | - |
+<br>
+
+**Autor:** [Caio Mesquita Vieira]()
+
+</details>
+
+
 ## Conclusão e Observações
 
 ## Referências Bibliográficas
@@ -333,3 +369,4 @@ A tabela 8 mostra a avaliação do cenário de Receber em um local não residenc
 | 1.5 | Adição da avaliação do cenário de calcular Realizar compras na loja online | Pedro Izarias | Iago Passaglia | 10/06/2024 |
 | 1.6 | Adição da avaliação do cenário de Buscar por documentos perdidos | Iago Passaglia  | Pedro Izarias | 10/06/2024 |
 | 1.7 | Adição da avaliação do cenário de Gerenciar minhas importações e Receber em um local não residencial | Breno Alexandre | -   | 10/06/2024 |
+| 1.7 | Adição da avaliação do cenário de Realizar pré-postagem | Caio Mesquita | -   | 10/06/2024 |
