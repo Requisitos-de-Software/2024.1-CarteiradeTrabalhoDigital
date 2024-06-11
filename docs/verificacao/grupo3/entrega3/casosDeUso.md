@@ -225,3 +225,4 @@ A tabela 7 mostra a verificação e avaliação do caso de uso de "Mudar endere�
 | 1.1    | Adição da avaliação do caso de uso de Realizar compras na loja online| Luana Medeiros  | Bruno Araújo | 10/06/2024 |
 | 1.2    | Adição da avaliação do caso de uso de Calcular preços e prazos de entrega | Larissa Stéfane  | Bruno Araújo| 10/06/2024 |
 | 1.3| Adição da avaliação do caso de uso Rastrear Encomendas | Bruno Araújo  | -- | 10/06/2024 |
+| 1.4    | Adição da avaliação do caso de uso de Mudar endereço de recebimento | Larissa Stéfane  | - | 10/06/2024 |
