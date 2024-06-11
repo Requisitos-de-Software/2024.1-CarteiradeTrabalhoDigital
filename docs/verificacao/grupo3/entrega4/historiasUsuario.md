@@ -131,6 +131,34 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 
 </details>
 
+<details>
+  <summary size="20"><b> US07 </b></summary> 
+
+<center>
+
+**Tabela 5:** US07
+
+
+| ID | Pergunta da Verificação | Resposta | Observação |
+|----|------------------------|-----------------------|------------|
+| 1 | A história de usuário está definida quanto a quem é o usuário-alvo? | Incompleto | Apenas cita "Usuário" sem especificar a fundo |
+| 2 | A funcionalidade desejada está descrita na história? | Sim | - |
+| 3 | A motivação ou o valor da história para o usuário está explicada na história? | Sim | - |
+| 4 | A história é escrita de forma sucinta, em um único cartão? | Sim | - |
+| 5 | A história possui critérios de aceitação definidos? | Sim | - |
+| 6 | A história é independente de outras histórias? | Sim | - |
+| 7 | A descrição da história captura o objetivo do que é desejado? | Sim | - |
+| 8 | A história fornece informações suficientes para estimativas de implementação? | Sim | - |
+| 9 | A história é clara o suficiente para que testes possam ser definidos com base nos critérios de aceitação? | Sim | - |
+| 10 | A história foi validada com feedback dos usuários? | Não | Não é especificado se foi validada |
+| 11 | Os critérios de aceitação são claros e mensuráveis? | Sim | - |
+
+**Autor:** [Pedro Izarias](https://github.com/Izarias)
+
+</center>
+
+</details>
+
 
 ## Referências Bibliográficas
 
