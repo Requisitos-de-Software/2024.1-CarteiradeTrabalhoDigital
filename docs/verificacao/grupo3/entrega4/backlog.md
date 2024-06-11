@@ -69,6 +69,31 @@ Tabela 1: Lista de verificação do artefato Backlog do Produto
 
 </details>
 
+<details>
+  <summary size="20"><b> Notificações e Alertas </b></summary> 
+
+<center>
+
+**Tabela 3:** Notificações e Alertas 
+
+
+| ID                 | Pergunta                                                                 | Resposta | Observações
+|--------------------|--------------------------------------------------------------------------|----------| --- |
+| 1                  | No artefato há uma explicação do método utilizado ? | Sim | - |
+| 2                  | Há validação do Backlog realizada por um Product Owner ? | Não |  validação do Backlog pelo Product Owner é crucial para garantir que o conteúdo esteja alinhado com as expectativas e necessidades do produto. |
+| 3                  | Os tópicos estão subdivididos em Temas, Épicos e Histórias ? | Sim | - |
+| 4                  | Os Temas, Épicos e HIstórias estão de claro entendimento ? | Sim | - |
+| 5                  | As histórias de usuário estão devidamente identificadas (Possuem ID próprio) ? | Sim | - |
+| 6                  | As Histórias possuem Rastreabilidade do requisito em que foi inspirada ? | Sim | - |
+| 7                  | As histórias estão descritas no formato de história de usuário ? | Não | É importante descrever as histórias no formato de usuário para facilitar o entendimento e a implementação correta pelos desenvolvedores. |
+| 8                  | O artefato está linkado com o artefato de Histórias de usuário ? | Não | Linkar o artefato com as histórias de usuário é essencial para manter a coesão e a rastreabilidade entre os diferentes documentos do projeto. |
+
+
+**Autor:** [Luana Medeiros](https://github.com/LuaMedeiros)
+
+</center>
+
+</details>
 
 ## Conclusão e Observações
 
@@ -85,3 +110,4 @@ Tabela 1: Lista de verificação do artefato Backlog do Produto
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do documento                | Caio Mesquita   | Bruno Araújo | 09/06/2024 |
+| 1.1    | Adição da avaliação  de Notificações e Alertas | Luana Medeiros  | - | 10/06/2024 |
