@@ -66,4 +66,4 @@ Autor: Breno Alexandre
 | Versão | Descrição                     | Autor           | Revisor | Data       |
 |--------|-------------------------------|-----------------|------------|---------|
 | 1.0    | Criação do documento e adição dos vídeos de 1 a 4 | Iago Passaglia  | Pedro Izarias | 10/06/2024 |
-| 1.1    | Adição do vídeo 5|  | Breno Alexandre | - | 10/06/2024 |
+| 1.1    | Adição do vídeo 5  | Breno Alexandre | - | 10/06/2024 |
