@@ -48,6 +48,30 @@ A tabela 1 apresenta a lista de verificação para a especificação suplementar
 
 ## Avaliação
 
+
+A tabela 2 apresenta a lista de verificação para a especificação suplementar preenchida.
+
+<center>
+
+**Tabela 2:** Lista de verificação para a usabilidade na especiicação suplementar preenchida.
+
+| ID | Pergunta da Verificação                                                                                      | Resposta                        |
+| -- | ------------------------------------------------------------------------------------------------------------ | ------------------------------- |
+| 1  | A especificação define o tempo médio esperado para conclusão das tarefas ?                                   | Não |
+| 2  | A quantidade máxima de erros permitidos por interação está especificada na suplementação?                    | Não |
+| 3  | Os requisitos de usabilidade que estão em conformidade com os padrões reconhecidos?                          | Sim |
+| 4  | A especificação inclui o tempo de aprendizado para que usuários se tornem produtivos?                        | Não |
+| 5  | Os requisitos de usabilidade estão rastreáveis em relação à elicitação de requisitos?                        | Não |
+| 6  | É indicado se será utilizado materiais de treinamento para os usuários e quais serão utilizados?             | Incompleto |
+| 7  | Há indicação de que o sistema oferece assistentes ou guias para auxiliarem os usuários em tarefas complexas? | Sim |
+| 8  | A consistência na interface do usuário é especificada na documentação?                                       | Sim | 
+| 9  | Os requisitos de usabilidade são verificáveis e testáveis?                                                   | Incompleto |
+| 10 | São especificadas métricas para avaliação da usabilidade do sistema?                                         | Sim |
+
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
+
+</center>
+
 ## Conclusão e Observações
 
 ## Referências Bibliográficas
@@ -67,3 +91,4 @@ A tabela 1 apresenta a lista de verificação para a especificação suplementar
 | - | - | - | - | - |
 | 1.0 | Adição da tabela de verificação | Larissa Stéfane | Bruno Araújo | 09/06/2024 |
 | 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | Bruno Araújo | 09/06/2024 |
+| 1.2 | Adição da avaliação | Breno Alexandre | -  | 10/06/2024 |
