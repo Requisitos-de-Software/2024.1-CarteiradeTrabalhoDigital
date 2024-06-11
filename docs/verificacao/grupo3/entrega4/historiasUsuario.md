@@ -48,7 +48,7 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 ## Avaliação
 
 <details>
-  <summary size="20"><b> US04 </b></summary> 
+  <summary size="20"><b> US04 - Iago </b></summary> 
 
 <center>
 
@@ -76,7 +76,34 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 </details>
 
 <details>
-  <summary size="20"><b> US06 </b></summary> 
+  <summary size="20"><b> US05 - Larissa Stéfane </b></summary> 
+
+<center>
+
+**Tabela 6:** Avaliação do US05
+
+| ID | Pergunta da Verificação | Resposta | Observação |
+|----|------------------------|-----------------------|------------|
+| 1 | A história de usuário está definida quanto a quem é o usuário-alvo? | Incompleto | Exitem uma grande quantidade de usuários que utilizam o aplicativo dos correios, todos eles podem apresentar contextos e caracteríscticas distintas. Contudo, na história de usuário o usuário é apresentado de forma muito genérica. |
+| 2 | A funcionalidade desejada está descrita na história? | Sim | - |
+| 3 | A motivação ou o valor da história para o usuário está explicada na história? | Sim | É possível observar de acordo com o nível de dado na prioridade.|
+| 4 | A história é escrita de forma sucinta, em um único cartão? | Sim | A história foi apresentada como linha de uma tabela, mas, ainda assim, tem as informações necessárias. |
+| 5 | A história possui critérios de aceitação definidos? | Não/Incompleto | Critério de aceitação são condições específicas que o usuário deve atender. Desse modo, não está muito bem explicado. |
+| 6 | A história é independente de outras histórias? | Sim | - |
+| 7 | A descrição da história captura o objetivo do que é desejado? | Sim | - |
+| 8 | A história fornece informações suficientes para estimativas de implementação? | Não | Algumas informações, como os critérios de aceitação, poderiam ser melhor estipulados e explicados. |
+| 9 | A história é clara o suficiente para que testes possam ser definidos com base nos critérios de aceitação? | Não | É necesário que algumas informações sejam melhor explicadas, por exemplo, os critérios de aceitação. |
+| 10 | A história foi validada com feedback dos usuários? | Sim | - |
+| 11 | Os critérios de aceitação são claros e mensuráveis? | Incompleto | Há informações ssobre alguns pontos na funcionalidade. Entretanto, os critérios de aceitação não foram bem elaborados. |
+
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+
+</details>
+
+<details>
+  <summary size="20"><b> US06 - Luana </b></summary> 
 
 <center>
 
@@ -104,7 +131,35 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 </details>
 
 <details>
-  <summary size="20"><b> US11 </b></summary> 
+  <summary size="20"><b> US07 - Pedro </b></summary> 
+
+<center>
+
+**Tabela 5:** US07
+
+
+| ID | Pergunta da Verificação | Resposta | Observação |
+|----|------------------------|-----------------------|------------|
+| 1 | A história de usuário está definida quanto a quem é o usuário-alvo? | Incompleto | Apenas cita "Usuário" sem especificar a fundo |
+| 2 | A funcionalidade desejada está descrita na história? | Sim | - |
+| 3 | A motivação ou o valor da história para o usuário está explicada na história? | Sim | - |
+| 4 | A história é escrita de forma sucinta, em um único cartão? | Sim | - |
+| 5 | A história possui critérios de aceitação definidos? | Sim | - |
+| 6 | A história é independente de outras histórias? | Sim | - |
+| 7 | A descrição da história captura o objetivo do que é desejado? | Sim | - |
+| 8 | A história fornece informações suficientes para estimativas de implementação? | Sim | - |
+| 9 | A história é clara o suficiente para que testes possam ser definidos com base nos critérios de aceitação? | Sim | - |
+| 10 | A história foi validada com feedback dos usuários? | Não | Não é especificado se foi validada |
+| 11 | Os critérios de aceitação são claros e mensuráveis? | Sim | - |
+
+**Autor:** [Pedro Izarias](https://github.com/Izarias)
+
+</center>
+
+</details>
+
+<details>
+  <summary size="20"><b> US11 - Iago </b></summary> 
 
 <center>
 
@@ -128,11 +183,38 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 **Autor:** [Iago Passaglia](https://github.com/Paxxaglia)
 
 </center>
+</details>
+
+<details>
+  <summary size="20"><b> US12 - Larissa Stéfane </b></summary> 
+
+<center>
+<details>
+  
+**Tabela 13:** Avaliação do US12
+
+| ID | Pergunta da Verificação | Resposta | Observação |
+|----|------------------------|-----------------------|------------|
+| 1 | A história de usuário está definida quanto a quem é o usuário-alvo? | Incompleto | Exitem uma grande quantidade de usuários que utilizam o aplicativo dos correios, todos eles podem apresentar contextos e caracteríscticas distintas. Contudo, na história de usuário o usuário é apresentado de forma muito genérica. |
+| 2 | A funcionalidade desejada está descrita na história? | Sim | - |
+| 3 | A motivação ou o valor da história para o usuário está explicada na história? | Sim | É possível observar de acordo com o nível de dado na prioridade.|
+| 4 | A história é escrita de forma sucinta, em um único cartão? | Sim | Apesar de não estar no formato de cartão, contém diversos pontos. |
+| 5 | A história possui critérios de aceitação definidos? | Incompleto | Um dos critérios, o primeiro, não define com clareza as  condições específicas que o usuário deve atender |
+| 6 | A história é independente de outras histórias? | Sim | - |
+| 7 | A descrição da história captura o objetivo do que é desejado? | Sim | - |
+| 8 | A história fornece informações suficientes para estimativas de implementação? | Não | Algumas informações, como os critérios de aceitação, poderiam ser melhor estipulados e explicados. |
+| 9 | A história é clara o suficiente para que testes possam ser definidos com base nos critérios de aceitação? | Não | É necesário que algumas informações sejam melhor explicadas, por exemplo, os critérios de aceitação. |
+| 10 | A história foi validada com feedback dos usuários? | Sim | - |
+| 11 | Os critérios de aceitação são claros e mensuráveis? | Incompleto | Um dos critérios precisa ser melhor elaborado. |
+
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
 
 </details>
 
 <details>
-  <summary size="20"><b> US13 </b></summary> 
+  <summary size="20"><b> US13 - Luana </b></summary> 
 
 <center>
 
@@ -160,7 +242,7 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 </details>
 
 <details>
-  <summary size="20"><b> US18 </b></summary> 
+  <summary size="20"><b> US18 - Iago </b></summary> 
 
 <center>
 
@@ -188,7 +270,36 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 </details>
 
 <details>
-  <summary size="20"><b> US20 </b></summary> 
+  <summary size="20"><b> US19 - Larissa Stéfane </b></summary> 
+
+<center>
+
+**Tabela 13:** Avaliação do US12
+
+| ID | Pergunta da Verificação | Resposta | Observação |
+|----|------------------------|-----------------------|------------|
+| 1 | A história de usuário está definida quanto a quem é o usuário-alvo? | Incompleto | Exitem uma grande quantidade de usuários que utilizam o aplicativo dos correios, todos eles podem apresentar contextos e caracteríscticas distintas. Contudo, na história de usuário o usuário é apresentado de forma muito genérica. |
+| 2 | A funcionalidade desejada está descrita na história? | Sim | - |
+| 3 | A motivação ou o valor da história para o usuário está explicada na história? | Sim | É possível observar de acordo com o nível de dado na prioridade.|
+| 4 | A história é escrita de forma sucinta, em um único cartão? | Sim | Apesar de não estar no formato de cartão, contém diversos pontos. |
+| 5 | A história possui critérios de aceitação definidos? | Incompleto | Um dos critérios, o primeiro, não define com clareza as  condições específicas que o usuário deve atender |
+| 6 | A história é independente de outras histórias? | Sim | - |
+| 7 | A descrição da história captura o objetivo do que é desejado? | Sim | - |
+| 8 | A história fornece informações suficientes para estimativas de implementação? | Não | Algumas informações, como os critérios de aceitação, poderiam ser melhor estipulados e explicados. |
+| 9 | A história é clara o suficiente para que testes possam ser definidos com base nos critérios de aceitação? | Não | É necesário que algumas informações sejam melhor explicadas, por exemplo, os critérios de aceitação. |
+| 10 | A história foi validada com feedback dos usuários? | Sim | - |
+| 11 | Os critérios de aceitação são claros e mensuráveis? | Incompleto | Um dos critérios precisa ser melhor elaborado. |
+
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+
+</details>
+
+
+
+<details>
+  <summary size="20"><b> US20 - Luana </b></summary> 
 
 <center>
 
@@ -216,7 +327,7 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 </details>
 
 <details>
-  <summary size="20"><b> US07 </b></summary> 
+  <summary size="20"><b> US07 - Pedro </b></summary> 
 
 <center>
 
