@@ -73,6 +73,34 @@ A tabela 2 mostra a lista de verificação dos SIGs.
 
 ## Avaliação
 
+<details>
+  <summary size="20"><b> Confiabilidade  </b></summary> 
+
+<center>
+
+**Tabela 3:** Confiabilidade 
+
+
+| ID | Pergunta da Verificação | Resposta | Observação |
+|----|------------------------|-----------------------|------------|
+| 1 | O cartão de especificação possui um número de identificação único? | Sim | - |
+| 2 | O cartão de especificação inclui a descrição completa do requisito? | Sim | - |
+| 3 | A razão/motivo para o requisito está documentada no cartão? | Sim | - |
+| 4 | A origem do requisito está indicada no cartão de especificação? | Sim | - |
+| 5 | O critério de prioridade está definido? | Sim | - |
+| 6 | As dependências entre requisitos estão indicadas? | Sim | - |
+| 7 | A origem do requisito está incluída no cartão de especificação? | Sim | - |
+| 8 | O cartão de especificação menciona restrições ou conflitos com outros requisitos? | Sim | - |
+| 9 | Os critérios de aceitação são mensuráveis? | Incompleto | Critérios de aceitação mensuráveis são essenciais para definir objetivamente quando um requisito é atendido. |
+| 10 | Os critérios de aceitação cobrem todos os aspectos do requisito? | Sim | - |
+| 11 | Os critérios de aceitação estão alinhados com os objetivos do requisito? | Sim | - |
+
+**Autor:** [Luana Medeiros](https://github.com/LuaMedeiros)
+
+</center>
+
+</details>
+
 ## Conclusão e Observações
 
 ## Referências Bibliográficas
@@ -88,3 +116,4 @@ A tabela 2 mostra a lista de verificação dos SIGs.
 | 1.0 | Adição da tabela de verificação do SIG | Larissa Stéfane | - | 09/06/2024 |
 | 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | - | 09/06/2024 |
 | 1.2 | Adição da tabela de verificação dos cartões de especificação dos NFR | Larissa Stéfane | - | 09/06/2024 |
+| 1.3 | Adição da avaliação do NFR Confiabilidade| Luana Medeiros | - | 10/06/2024 |
