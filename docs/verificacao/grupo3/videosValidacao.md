@@ -1,12 +1,9 @@
-# Avaliação Rich Pictures Grupo 03
+# Vídeos de Avaliação
 
 ## Sumário
 1. [Introdução](#introdução)
-2. [Metodologia](#metodologia)
-3. [Tabela de Avaliação](#tabela-de-avaliação)
-4. [Avaliações](#avaliações)
-5. [Bibliografia](#bibliografia)
-6. [Histórico de Versões](#histórico-de-versões)
+2. [Vídeos](#vídeos)
+3. [Histórico de Versões](#histórico-de-versões)
 
 ## Introdução
 
