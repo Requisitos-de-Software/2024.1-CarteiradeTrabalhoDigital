@@ -101,4 +101,4 @@ A avaliação do documento de Perfil de Usuário mostra que ele cobre áreas imp
 | - | - | - | - | - |
 | 1.0 | Adição da tabela de verificação | Larissa Stéfane | Luana Medeiros | 09/06/2024 |
 | 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | Pedro Izarias | 09/06/2024 |
-| 1.2 | Adição da tabela de avaliação e da conclusão | Luana Medeiros | - | 10/06/2024 |
+| 1.2 | Adição da tabela de avaliação e da conclusão | Luana Medeiros | Larissa Stéfane | 10/06/2024 |
