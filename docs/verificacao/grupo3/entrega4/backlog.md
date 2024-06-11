@@ -95,6 +95,12 @@ Tabela 1: Lista de verificação do artefato Backlog do Produto
 
 </details>
 
+</details>
+
+<details>
+  <summary size="20"><b> Suporte e ajuda ao usuário </b></summary> 
+
+<center>
 **Tabela 4:** Suporte e ajuda ao usuário
 
 |ID|Pergunta|Resposta(sim/não/incompleto)|Observação|
