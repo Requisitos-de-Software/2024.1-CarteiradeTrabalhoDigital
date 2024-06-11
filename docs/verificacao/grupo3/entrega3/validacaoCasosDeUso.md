@@ -30,8 +30,9 @@ A tabela 1 apresenta a lista de verificação da Validação de Casos de Uso.
 | 1  | O entrevistado está no perfil de usuário?                       | Breno Alexandre |
 | 2  | Os termos de consentimento foram concordados pelo entrevistado? | Breno Alexandre |
 | 3  | As sugestões do entrevistado foram anotadas?                    | Breno Alexandre |
+
  
-<b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>.
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre</a>.
 
 </center>
 
@@ -46,7 +47,7 @@ A tabela 2 apresenta a lista de verificação da Validação de Casos de Uso.
 | 3  | As sugestões do entrevistado foram anotadas?                    | Não | Não houveram dúvidas ou sugestões feitas pelo entrevistado |
 
 
-<b> Autor: </b> <a href="https://github.com/Izarias"> Pedro Izarias </a>.
+<b> Autor: </b> <a href="https://github.com/Izarias"> Pedro Izarias</a>.
 
 ## Conclusão e Observações
 
@@ -57,4 +58,4 @@ A tabela 2 apresenta a lista de verificação da Validação de Casos de Uso.
 | Versão | Alteração                       | Responsável     | Revisor | Data       |
 | ------ | ------------------------------- | --------------- | ------- | ---------- |
 | 1.0    | Adição da tabela de verificação | Breno Alexandre | -       | 10/06/2024 |
-| 1.1    | Adição das respostas de verificação | Pedro Izarias | -       | 10/06/2024 |
+| 1.1    | Adição das respostas de verificação | Pedro Izarias | Breno Alexandre | 10/06/2024 |
