@@ -106,6 +106,7 @@
       * Entrega 4
         - [Backlog do produto](verificacao/grupo3/entrega4/backlog.md)
         - [Histórias de usuário](verificacao/grupo3/entrega4/historiasUsuario.md)
+        - [Validação das Histórias de usuário](verificacao/grupo3/entrega4/validacaoHistoriasUsuario.md)
         - [NFR Framework](verificacao/grupo3/entrega4/NFR.md)
 
 
