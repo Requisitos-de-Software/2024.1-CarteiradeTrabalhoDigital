@@ -212,6 +212,32 @@ A tabela 7 mostra a verificação e avaliação do caso de uso de "Mudar endere�
 </details>
 
 
+<details>
+<summary> Buscar por documentos perdidos </summary>
+
+A tabela 8 mostra a verificação e avaliação do caso de uso de "Buscar por documentos perdidos".
+
+### Tabela 8: Tabela de verificação para Buscar por documentos perdidos
+| Número da Pergunta | Pergunta                                                                 | Resposta | Observações |
+|--------------------|--------------------------------------------------------------------------|----------| ------------- |
+| 1 | O caso de uso está descrito de forma clara e precisa, evitando ambiguidades? |   sim     | - |
+| 2  | O caso de uso possui um identificador único e um nome descritivo?         | Sim  | - |
+| 3   | Os atores que interagem com o sistema estão claramente identificados e descritos? | Incompleto  | Não especifica tão bem o usuário |
+| 4   | O objetivo ou finalidade do caso de uso está claramente definido?         |Sim  |  -|
+| 5  | As pré-condições (estado do sistema antes do início do caso de uso) estão claramente descritas? |  Sim     | - |
+| 6    | As pós-condições (estado do sistema após a execução do caso de uso) estão claramente descritas? | Sim   | - |
+| 7  | O fluxo principal de eventos (caminho básico) está detalhado de forma sequencial e lógica? | Sim    | -  |
+| 8 | Existem fluxos alternativos ou secundários descritos para situações excepcionais ou variantes do fluxo principal? | Sim   |  - |
+| 9  | Existem fluxos de exceção claramente descritos para lidar com erros ou condições inesperadas? |  Incompleto   | Não oferece uma solução clara ao problema  |
+| 10 | Todos os elementos do caso de uso estão devidamente documentados (título, descrição, atores, pré-condições, pós-condições, fluxos, etc.)? |  Sim | -  |
+
+
+ **Autor:** [Caio Mesquita]()
+
+</details>
+
+
+
 ## Bibliografia
    
 1. Artigo Especificação de Casos de Uso - Engenharia de Software 32 Disponível em: <https://www.devmedia.com.br/especificacao-de-casos-de-uso-engenharia-de-software-32/19012>
@@ -226,3 +252,4 @@ A tabela 7 mostra a verificação e avaliação do caso de uso de "Mudar endere�
 | 1.2    | Adição da avaliação do caso de uso de Calcular preços e prazos de entrega | Larissa Stéfane  | Bruno Araújo| 10/06/2024 |
 | 1.3| Adição da avaliação do caso de uso Rastrear Encomendas | Bruno Araújo  | -- | 10/06/2024 |
 | 1.4    | Adição da avaliação do caso de uso de Mudar endereço de recebimento | Larissa Stéfane  | - | 10/06/2024 |
+| 1.5 | Adição da avaliação do caso de uso de Buscar Documento Perdido | Caio Mesquita| - | 10/06/2024 |
