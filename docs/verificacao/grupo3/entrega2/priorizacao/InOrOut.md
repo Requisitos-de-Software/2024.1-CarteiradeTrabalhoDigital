@@ -47,28 +47,30 @@ Para conduzir a avaliação, inicialmente, será elaborado uma lista de verifica
 </center>
 
 ## Avaliação
-| ID  | Pergunta    |    Resposta     |
-|-----|-------------------------|--------------|
-| 1  | O documento descreve claramente a técnica de priorização "In Or Out" utilizada? | Sim |
-| 2  | O documento identifica os critérios utilizados para decidir se um requisito é "In" ou "Out"? | Sim |
-| 3  | O documento inclui a lista completa de requisitos que foram considerados no processo de priorização? | Sim|
-| 4  | O documento explica o processo de tomada de decisão para cada requisito avaliado? | Sim |
-| 5  | O documento descreve como as partes interessadas foram envolvidas no processo de priorização? | Não|
-| 6  | O documento indica se houve consenso entre as partes interessadas sobre as decisões de priorização? | Sim|
-| 7  | O documento explica como foram documentados os requisitos que foram considerados "Out"? |  Sim|
-| 8  | O documento descreve como a técnica "In Or Out" foi adaptada ao contexto específico do projeto? | Sim|
-| 9  | O documento fornece exemplos específicos de requisitos classificados como "In" e suas justificativas? | Sim |
-| 10  | O documento avalia os benefícios esperados dos requisitos "In"? | Sim |
-| 11  | O documento menciona os riscos associados aos requisitos que foram considerados "Out"? | Não |
-| 12  | O documento descreve a periodicidade da revisão da priorização dos requisitos? |  Sim |
-| 13  | O documento inclui uma matriz de rastreabilidade dos requisitos "In" e "Out"? | Sim |
-| 14  | O documento discute como os requisitos "Out" podem ser reconsiderados em futuras iterações? | Sim|
-| 15  | O documento apresenta as lições aprendidas durante o processo de priorização "In Or Out"? | Sim  |
+| ID  | Pergunta    |    Resposta     | Observação |
+|-----|-------------------------|--------------|----|
+| 1  | O documento descreve claramente a técnica de priorização "In Or Out" utilizada? | Sim ||
+| 2  | O documento identifica os critérios utilizados para decidir se um requisito é "In" ou "Out"? | Não ||
+| 3  | O documento inclui a lista completa de requisitos que foram considerados no processo de priorização? | Sim ||
+| 4  | O documento explica o processo de tomada de decisão para cada requisito avaliado? | Não ||
+| 5  | O documento descreve como as partes interessadas foram envolvidas no processo de priorização? | Incompleto | Apenas no vídeo |
+| 6  | O documento indica se houve consenso entre as partes interessadas sobre as decisões de priorização? | Sim | Na gravação |
+| 7  | O documento explica como foram documentados os requisitos que foram considerados "Out"? |  Sim||
+| 8  | O documento descreve como a técnica "In Or Out" foi adaptada ao contexto específico do projeto? | Não ||
+| 9  | O documento fornece exemplos específicos de requisitos classificados como "In" e suas justificativas? | Incompleto  | Não há justificativas escritas |
+| 10  | O documento avalia os benefícios esperados dos requisitos "In"? | Sim ||
+| 11  | O documento menciona os riscos associados aos requisitos que foram considerados "Out"? | Não ||
+| 12  | O documento descreve a periodicidade da revisão da priorização dos requisitos? |  Não ||
+| 13  | O documento inclui uma matriz de rastreabilidade dos requisitos "In" e "Out"? | Sim ||
+| 14  | O documento discute como os requisitos "Out" podem ser reconsiderados em futuras iterações? | Não ||
+| 15  | O documento apresenta as lições aprendidas durante o processo de priorização "In Or Out"? | Não  ||
 
 
 **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 ## Conclusão e Observações
+A técnica de priorização de requisitos "In Or Out" foi avaliada minuciosamente com base na lista de verificação desenvolvida. A análise revelou que a maioria dos critérios essenciais foram atendidos, como a descrição clara da técnica, a inclusão de uma lista completa de requisitos, e a explicação de benefícios esperados e riscos associados. No entanto, algumas áreas necessitam de melhorias, como a explicação dos critérios de decisão, o envolvimento das partes interessadas, e a adaptação ao contexto específico do projeto. Essas observações são cruciais para aprimorar futuras implementações da técnica.
+
 
 ## Bibliografia
 
@@ -88,4 +90,5 @@ Para conduzir a avaliação, inicialmente, será elaborado uma lista de verifica
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento | Luana Medeiros | - | 10/06/2024 |
+| 1.0 | Criação do documento | Luana Medeiros | Pedro Izarias | 10/06/2024 |
+| 1.1 | Adição das respostas e da conclusão | Pedro Izarias | Luana Medeiros | 10/06/2024 |
