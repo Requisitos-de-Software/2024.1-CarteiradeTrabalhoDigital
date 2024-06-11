@@ -98,19 +98,19 @@ Tabela 2: Avaliação Serasa
 
 <br>
 
-| Número   | Pergunta                       | Resposta |
-| -------- |------------------------------- | --------- |
-|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | Sim |
-|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | Não foram especificados todos os tipos de usário do sistema |
-|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | Não muito, alguns armazenamentos estão redundantes |
-|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | Sim |
-|    5    | As interações e relações entre os stakeholders estão claramente ilustradas? | Sim |
-|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | Sim |
-|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | Sim |
-|    8    | Existe uma legenda especificando o que cada simbolo significa? | Sim |
-|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | Sim |
-|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | Sim |
-|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | Sim |
+| Número | Pergunta                      | Resposta | Observações | 
+|--------|-------------------------------| ---------| ---------- |
+|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | Sim | ------|
+|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | Não foram especificados todos os tipos de usário do sistema | ------|
+|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | Não muito, alguns armazenamentos estão redundantes | ------|
+|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | Sim | ------|
+|    5    | As interações e relações entre os stakeholders estão claramente ilustradas? | Sim | ------|
+|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | Sim | ------|
+|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | Sim | ------|
+|    8    | Existe uma legenda especificando o que cada simbolo significa? | Sim | ------|
+|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | Sim | ------|
+|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | Sim | ------|
+|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | Sim | ------|
 
 <br>
 
@@ -129,17 +129,17 @@ Tabela 3: Avaliação Carteira Digital de Trabalho
 
 | Número | Pergunta                      | Resposta | Observação |
 |--------|-------------------------------| ---------|-----|
-|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | ||
-|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? |  ||
-|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? |  ||
-|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? |  ||
-|    5    | As interações e relações entre os stakeholders estão claramente ilustradas?|  ||
-|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? |  ||
-|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? |  ||
-|    8    | Existe uma legenda especificando o que cada simbolo significa? |  ||
-|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? |  ||
-|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? |  ||
-|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? |  ||
+|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | Não | Pois alguns stakeholders não possuem rótulo ou descrição |
+|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | Não | Os atores não possuem rótulo. |
+|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | Sim | O fluxo de dados está bem representado e utiliza da representação correta. |
+|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | Incompleto | A área delimitada não abrange todos os elementos que deveria. |
+|    5    | As interações e relações entre os stakeholders estão claramente ilustradas?| Sim | Todas as relações possuem descrições claras. |
+|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | Sim | o richpicture apresenta ícones e símbolos apropriados. |
+|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | Sim | O artefato apresenta diferentes operações para o mesmo stakeholder e mostra diferentes perspectivas. |
+|    8    | Existe uma legenda especificando o que cada simbolo significa? | Sim |  A legenda é clara e simples.  |
+|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | Não | O artefato poderia ser um pocuo mais complexo e detalhar mais operações do aplicativo. |
+|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | Sim | Todos os elementos são claros e não houve nenhum detalhe confuso. |
+|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | Sim | Os recursos necessários para o sistema foram bem apresentados de maneira simples. |
 <br>
 
 Autor: [Pedro Izarias](https://github.com/Izarias)
@@ -155,19 +155,19 @@ Tabela 4: Avaliação CNPQ
 
 <br>
 
-| Número | Pergunta                      | Resposta | 
-|--------|-------------------------------| ---------|
-|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | sim |
-|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | sim |
-|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | sim |
-|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | sim|
-|    5    | As interações e relações entre os stakeholders estão claramente ilustradas?| sim |
-|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | sim |
-|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | incompleto |
-|    8    | Existe uma legenda especificando o que cada simbolo significa? | sim |
-|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | sim|
-|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | sim|
-|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | não |
+| Número | Pergunta                      | Resposta | Observações | 
+|--------|-------------------------------| ---------| ---------- |
+|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | sim | ------ |
+|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | sim | ------ |
+|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | sim | ------ |
+|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | sim| ------ |
+|    5    | As interações e relações entre os stakeholders estão claramente ilustradas?| sim | ------ |
+|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | sim | ------ |
+|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | incompleto | ------ |
+|    8    | Existe uma legenda especificando o que cada simbolo significa? | sim | ------ |
+|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | sim| ------ |
+|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | sim| ------ |
+|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | não | ------ |
 <br>
 
 Autor: [Iago Passaglia](https://github.com/paxxaglia)
@@ -183,21 +183,21 @@ Tabela 5: Avaliação NFS-e mobile
 
 <br>
 
-| Número | Pergunta                      | Resposta | 
-|--------|-------------------------------| ---------|
-|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | ------|
-|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | ------|
-|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | ------|
-|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | ------|
-|    5    | As interações e relações entre os stakeholders estão claramente ilustradas?| ------|
-|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | ------|
-|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | ------|
-|    8    | Existe uma legenda especificando o que cada simbolo significa? | ------|
-|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | ------|
-|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | ------|
-|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | ------|
+| Número | Pergunta                      | Resposta | Observações |
+|--------|-------------------------------| ---------| ------------|
+|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | ------| ------ |
+|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | ------| ------ |
+|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | ------| ------ |
+|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | ------| ------ |
+|    5    | As interações e relações entre os stakeholders estão claramente ilustradas?| ------| ------ |
+|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | ------| ------ |
+|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | ------| ------ |
+|    8    | Existe uma legenda especificando o que cada simbolo significa? | ------| ------ |
+|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | ------| ------ |
+|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | ------| ------ |
+|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | ------| ------ |
 <br>
-Autor: [Iago Passaglia](https://github.com/paxxaglia)
+Autor: 
 </details>
 
 <details>
@@ -209,19 +209,19 @@ Tabela 6: Avaliação Carteira digital de trânsito
 
 <br>
 
-| Número | Pergunta                      | Resposta | 
-|--------|-------------------------------| ---------|
-|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | Sim |
-|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | Sim | 
-|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | Não, alguns deles estão sem nexo |
-|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | Sim |
-|    5    | As interações e relações entre os stakeholders estão claramente ilustradas?| Sim |
-|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | Sim |
-|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | Sim |
-|    8    | Existe uma legenda especificando o que cada simbolo significa? | Sim |
-|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | Incompleto, poucas informações |
-|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | Não, a forma com que o usuário acessa as multas é confusa |
-|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | Sim |
+| Número | Pergunta                      | Resposta | Observações |
+|--------|-------------------------------| ---------| ------------|
+|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | Sim | ------ |
+|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | Sim | ------ |
+|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | Não, alguns deles estão sem nexo |------ |
+|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | Sim | |
+|    5    | As interações e relações entre os stakeholders estão claramente ilustradas?| Sim | |
+|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | Sim |------ |
+|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | Sim |------ |
+|    8    | Existe uma legenda especificando o que cada simbolo significa? | Sim |------ |
+|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | Incompleto, poucas informações |------ |
+|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | Não, a forma com que o usuário acessa as multas é confusa |------ |
+|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | Sim | ------ |
 <br>
 
 Autor: [Iago Passaglia](https://github.com/paxxaglia)
@@ -237,19 +237,19 @@ Tabela 7: Avaliação Consumidor
 
 <br>
 
-| Número | Pergunta                      | Resposta | 
-|--------|-------------------------------| ---------|
-|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | Sim |
-|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | Sim |
-|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | Sim |
-|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | Sim |
-|    5    | As interações e relações entre os stakeholders estão claramente ilustradas?| Sim |
-|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | Sim |
-|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | Sim |
-|    8    | Existe uma legenda especificando o que cada simbolo significa? | Sim |
-|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | Sim |
-|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | Sim |
-|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | Sim |
+| Número | Pergunta                      | Resposta | Observações |
+|--------|-------------------------------| ---------| ------------|
+|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | Sim |------ |
+|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | Sim |------ |
+|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | Sim |------ |
+|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | Sim |------ |
+|    5    | As interações e relações entre os stakeholders estão claramente ilustradas?| Sim |------ |
+|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | Sim |------ |
+|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | Sim |------ |
+|    8    | Existe uma legenda especificando o que cada simbolo significa? | Sim |------ |
+|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | Sim |------ |
+|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | Sim |------ |
+|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | Sim |------ |
 <br>
 
 Autor: [Luana Medeiros](https://github.com/LuaMedeiros)
@@ -267,19 +267,20 @@ Tabela 8: Avaliação Meu SUS Digital
 
 <br>
 
-| Número | Pergunta                      | Resposta | 
-|--------|-------------------------------| ---------|
-|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | ------|
-|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | ------|
-|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | ------|
-|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | ------|
-|    5    | As interações e relações entre os stakeholders estão claramente ilustradas?| ------|
-|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | ------|
-|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | ------|
-|    8    | Existe uma legenda especificando o que cada simbolo significa? | ------|
-|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | ------|
-|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | ------|
-|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | ------|
+
+| Número | Pergunta                      | Resposta | Observações |
+|--------|-------------------------------| ---------| ------------|
+|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | ------| ------|
+|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | ------| ------|
+|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | ------| ------|
+|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | ------| ------|
+|    5    | As interações e relações entre os stakeholders estão claramente ilustradas?| ------| ------|
+|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | ------| ------|
+|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | ------| ------|
+|    8    | Existe uma legenda especificando o que cada simbolo significa? | ------| ------|
+|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | ------| ------|
+|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | ------| ------|
+|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | ------| ------|
 <br>
 
 Autor: [Iago Passaglia](https://github.com/paxxaglia)
