@@ -78,7 +78,7 @@ A tabela 2 apresenta a lista de avaliação da técnica de Observação preenchi
 
 ## Conclusão e Observações
 
-
+O artefato que foi avaliado foi bem sucinto quanto aos detalhes da técnica que foi utilizada.
 
 ## Bibliografia
 
