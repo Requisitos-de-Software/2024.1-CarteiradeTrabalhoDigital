@@ -26,6 +26,8 @@ A Tabela deverá ser preenchida com sim, não ou incompleta e a resposta deverá
 <center>
 
 Tabela 1: Lista de verificação da técnica de elicitação Questionários
+
+
 |ID|Pergunta|Rastreabilidade|Resposta(sim/não/incompleto)|
 |-|-|-|-|
 |01|O artefato apresenta uma explicação da metodologia utilizada ?|Autor|-|
