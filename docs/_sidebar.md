@@ -102,11 +102,11 @@
         - [Cenários](verificacao/grupo3/entrega3/cenarios.md)
         - [Léxicos](verificacao/grupo3/entrega3/lexicos.md)
         - [Casos de uso](verificacao/grupo3/entrega3/casosDeUso.md)
-       * Especificação sumplementar
-         - [Confiabilidade](verificacao/grupo3/entrega3/especSuplementar/Confiabilidade.md)
-         - [Suportabilidade](verificacao/grupo3/entrega3/especSuplementar/Suportabilidade.md)
-         - [Usabilidade](verificacao/grupo3/entrega3/especSuplementar/Usabilidade.md)
-         - [Desempenho](verificacao/grupo3/entrega3/especSuplementar/desempenho.md)
+        * Especificação sumplementar
+          - [Confiabilidade](verificacao/grupo3/entrega3/especSuplementar/Confiabilidade.md)
+          - [Suportabilidade](verificacao/grupo3/entrega3/especSuplementar/Suportabilidade.md)
+          - [Usabilidade](verificacao/grupo3/entrega3/especSuplementar/Usabilidade.md)
+          - [Desempenho](verificacao/grupo3/entrega3/especSuplementar/desempenho.md)
       * Entrega 4
         - [Backlog do produto](verificacao/grupo3/entrega4/backlog.md)
         - [Histórias de usuário](verificacao/grupo3/entrega4/historiasUsuario.md)
