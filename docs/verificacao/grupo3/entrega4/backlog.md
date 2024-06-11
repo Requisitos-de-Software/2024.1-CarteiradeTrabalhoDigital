@@ -95,7 +95,6 @@ Tabela 1: Lista de verificação do artefato Backlog do Produto
 
 </details>
 
-</details>
 
 <details>
   <summary size="20"><b> Suporte e ajuda ao usuário </b></summary> 
@@ -120,6 +119,28 @@ Tabela 1: Lista de verificação do artefato Backlog do Produto
 
 </details>
 
+<details>
+  <summary size="20"><b> Rastreamento de encomendas </b></summary> 
+
+<center>
+**Tabela 5:** Rastreamento de encomendas.
+
+|ID|Pergunta|Resposta(sim/não/incompleto)|Observação|
+|-|-|-|-|
+|01|No artefato há uma explicação do método utilizado ?| Sim |-|
+|02|Há validação do Backlog realizada por um Product Owner ?| Não  | |
+|03|Os tópicos estão subdivididos em Temas, Épicos e Histórias ?| Sim   |-|
+|04|Os Temas, Épicos e Histórias estão de claro entendimento ?| Incompleto   |-|
+|05|As histórias de usuário estão devidamente identificadas (Possuem ID próprio) ?| Sim  |-|
+|06|As Histórias possuem Rastreabilidade do requisito em que foi inspirada ?| Não  |-|
+|07|As histórias estão descritas no formato de história de usuário ? ("EU, como usuário, gostaria de etc.")| Sim  | |
+|08|O artefato está linkado com o artefato de Histórias de usuário ?| Sim   |-|
+
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0/"> Breno Alexandre </a>.
+
+</center>
+
+</details>
 
 ## Conclusão e Observações
 
@@ -139,3 +160,4 @@ Tabela 1: Lista de verificação do artefato Backlog do Produto
 | 1.1    | Adição da avaliação  de Notificações e Alertas | Luana Medeiros  | Iago Passaglia | 10/06/2024 |
 | 1.2    | Adição da avaliação  de Envio de encomendas | Iago Passaglia  | Pedro Izarias | 10/06/2024 |
 | 1.3   | Adição da avaliação  de Suporte e ajuda ao usuário | Bruno Araújo | -- | 10/06/2024 |
+| 1.4   | Adição da avaliação de Rastreamento de encomendas | Breno Alexandre | -- | 10/06/2024 |
