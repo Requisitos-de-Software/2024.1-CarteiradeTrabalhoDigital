@@ -17,11 +17,11 @@ Para conduzir a avaliação, inicialmente, será elaborado uma lista de verifica
 
 ## Lista de Verificação
 
-
+A tabela 1 apresenta a lista de verificação da técnica de Observação com base em pontos citados em livros e artigos.
 
 <center>
 
-**Tabela 1:** Lista de verificação para perfil do usuário.
+**Tabela 1:** Lista de verificação para a técnica de observação.
 
 | ID  | Pergunta                                                                                          | Observação                                                                                                                    | Rastreabilidade                                                                                          |
 |-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
@@ -41,14 +41,44 @@ Para conduzir a avaliação, inicialmente, será elaborado uma lista de verifica
 | 14  |O documento descreve como as observações foram revisadas e integradas com outros métodos de elicitação?|Importante explicar como as informações obtidas por observação foram combinadas com dados de outras técnicas (ex.: entrevistas, questionários).| "Requirements Engineering," Elizabeth Hull, Ken Jackson, Jeremy Dick, Capítulo 9, tópico "Integrating Techniques"|
 | 15  |O documento apresenta um resumo das principais lições aprendidas durante o processo de observação?|Deve incluir um resumo das lições aprendidas para melhorar futuras observações e a elicitação de requisitos. | "Requirements Engineering: Processes and Techniques," Gerald Kotonya, Ian Sommerville, Capítulo 10, tópico "Lessons Learned"|
 
-
-**Autor:** [Luana Medeiros](https://github.com/LuaMedeiros)
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros"> Luana Medeiros </a>
 
 </center>
 
 ## Avaliação
 
+A tabela 2 apresenta a lista de avaliação da técnica de Observação preenchida.
+
+<center>
+
+**Tabela 2:** Lista de avaliação para a técnica de observação.
+
+| ID  | Pergunta                                                                                                | Resposta      |
+| --- | ------------------------------------------------------------------------------------------------------- | ------------- |
+| 1   | O documento descreve a metodologia de observação utilizada (passiva, participativa, etc.)?              | |
+| 2   | O documento explica os critérios para selecionar os cenários e tarefas observados?                      |  |
+| 3   | O documento detalha como foram registradas as observações (anotações, gravações, etc.)?                 |  |
+| 4   | O documento inclui uma descrição dos comportamentos e interações observados?                            | |
+| 5   | O documento identifica discrepâncias entre o comportamento esperado e o comportamento observado?        |  | 
+| 6   | O documento apresenta insights ou descobertas relevantes obtidos durante a observação?                  |  |
+| 7   | O documento discute como as descobertas da observação foram traduzidas em requisitos de software?       |  |
+| 8   | O documento menciona se houve a validação das observações com os participantes?                         |  |
+| 9   | O documento contém exemplos específicos de como as observações impactaram o design do sistema?          | |
+| 10  | O documento apresenta uma análise de pontos críticos ou gargalos identificados durante a observação?    |  |
+| 11  | O documento descreve as condições ambientais e contextuais durante a observação?                        |  |
+| 12  | O documento inclui uma avaliação da eficácia da técnica de observação utilizada?                        |  |
+| 13  | O documento menciona limitações da observação e como foram mitigadas?                                   | |
+| 14  | O documento descreve como as observações foram revisadas e integradas com outros métodos de elicitação? |  |
+| 15  | O documento apresenta um resumo das principais lições aprendidas durante o processo de observação?      | |
+
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
+
+</center>
+
+
 ## Conclusão e Observações
+
+
 
 ## Bibliografia
 
@@ -68,5 +98,6 @@ Para conduzir a avaliação, inicialmente, será elaborado uma lista de verifica
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento | Luana Medeiros | - | 09/06/2024 |
-| 1.1 | Adição de introdução e metodologia | Luana Medeiros | - | 09/06/2024 |
+| 1.0 | Criação do documento | Luana Medeiros | Breno Alexandre | 09/06/2024 |
+| 1.1 | Adição de introdução e metodologia | Luana Medeiros | Breno Alexandre | 09/06/2024 |
+| 1.2 | Adição da tabela de avaliação | Breno Alexandre | - | 09/06/2024 |
