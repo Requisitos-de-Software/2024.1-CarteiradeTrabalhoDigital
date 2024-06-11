@@ -135,8 +135,8 @@ Autor: [Pedro Izarias](https://github.com/Izarias)
 
 <br>
 
-Autor: [Iago Passaglia](https://github.com/paxxaglia)
-
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0/"> Breno Alexandre </a>.
+   
 </details>
 
 <details>
@@ -253,3 +253,4 @@ A tabela 8 mostra a verificação e avaliação do caso de uso de "Buscar por do
 | 1.3| Adição da avaliação do caso de uso Rastrear Encomendas | Bruno Araújo  | -- | 10/06/2024 |
 | 1.4    | Adição da avaliação do caso de uso de Mudar endereço de recebimento | Larissa Stéfane  | - | 10/06/2024 |
 | 1.5 | Adição da avaliação do caso de uso de Buscar Documento Perdido | Caio Mesquita| - | 10/06/2024 |
+| 1.6 | Adição da avaliação do caso de uso de Gerenciar minhas importações | Breno Alexandre | - | 10/06/2024 |
