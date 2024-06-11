@@ -170,3 +170,4 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 | 1.0 | Adição da tabela de verificação | Larissa Stéfane | Iago Passaglia | 09/06/2024 |
 | 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | Iago Passaglia | 09/06/2024 |
 | 1.2 | Adição da avaliação US04, US11 e US18 |  Iago Passaglia  | Pedro Izarias | 10/06/2024 |
+| 1.2 | Adição da avaliação US07 |  Pedro Izarias  | Iago Passaglia | 10/06/2024 |
