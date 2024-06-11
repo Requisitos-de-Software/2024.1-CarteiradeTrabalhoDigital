@@ -78,3 +78,4 @@ Caso o vídeo acima não funcione, aperte no [link](https://www.youtube.com/watc
 |--------|-------------------------------|-----------------|------------|---------|
 | 1.0    | Criação do documento e adição dos vídeos de 1 a 4 | Iago Passaglia  | Pedro Izarias | 10/06/2024 |
 | 1.1    | Adição do vídeo 5  | Breno Alexandre | Larissa Stéfane | 10/06/2024 |
+| 1.2    | Adição do vídeo 6 | Larissa Stéfane | 10/06/2024 |
