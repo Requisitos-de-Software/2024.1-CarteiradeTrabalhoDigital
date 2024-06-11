@@ -101,6 +101,26 @@ A tabela 2 mostra a lista de verificação dos SIGs.
 
 </details>
 
+### Desempenho
+
+**Tabela 4: Desempenho**
+
+| ID | Pergunta da Verificação | Resposta | Observação |
+|----|------------------------|-----------------------|------------|
+| 1 | O cartão de especificação possui um número de identificação único? | Sim | RNF05 e RNF06 são os números de identificação. |
+| 2 | O cartão de especificação inclui a descrição completa do requisito? | Sim | RNF05: "O aplicativo deve mostrar a entrega em tempo real." RNF06: "O sistema deve fornecer as notificações ao usuário com um menor tempo de delay possível." |
+| 3 | A razão/motivo para o requisito está documentada no cartão? | Sim | Justificativas estão documentadas para ambos os requisitos. |
+| 4 | A origem do requisito está indicada no cartão de especificação? | Sim | Indicado como "Especificação Suplementar" e "Requisitos Elicitados". |
+| 5 | O critério de prioridade está definido? | Sim | Ambos os requisitos têm prioridade 9. |
+| 6 | As dependências entre requisitos estão indicadas? | Sim | Indicado que não há dependências. |
+| 7 | A origem do requisito está incluída no cartão de especificação? | Sim | Origem indicada para ambos os requisitos. |
+| 8 | O cartão de especificação menciona restrições ou conflitos com outros requisitos? | Sim | Mencionado que não há conflitos. |
+| 9 | Os critérios de aceitação são mensuráveis? | Sim | RNF05: "Ver localização em tempo real." RNF06: "Menor tempo de delay." |
+| 10 | Os critérios de aceitação cobrem todos os aspectos do requisito? | Sim | Abrangem a funcionalidade e o desempenho esperado. |
+| 11 | Os critérios de aceitação estão alinhados com os objetivos do requisito? | Sim | Critérios de aceitação estão alinhados com as descrições dos requisitos. |
+
+**Autor:** [Pedro Izarias](https://github.com/Izarias)
+
 ## Conclusão e Observações
 
 ## Referências Bibliográficas
