@@ -51,7 +51,7 @@ Tabela 2: Avaliação Correios
   <summary size="20"><b> Correios </b></summary> 
 
   <br>
-
+A tabela 2 mostra as verificações e observações realizadas para o rich picture dos correios.
 
 Tabela 2: Avaliação Correios
 
@@ -74,6 +74,18 @@ Tabela 2: Avaliação Correios
 
  **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+ ### Vídeo gravado durante a avaliação/verificação 
+
+ O vídeo 1 apresenta como foi realizada a verificação do rich picture dos correios enquanto se verificava a lista apresentada na tabela 1.
+
+ **Vídeo 1:** Verificação do rich picture dos correios
+
+ <iframe width="1280" height="720" src="https://www.youtube.com/embed/lcTISbtxIWM" title="Requisitos - Lista de verificação/ avaliação do rich picture dos correios." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+  Para acessar o vídeo no youtube clique no [link](https://youtu.be/lcTISbtxIWM)
+
 </details>
 
 
@@ -86,22 +98,23 @@ Tabela 2: Avaliação Serasa
 
 <br>
 
-| Número | Pergunta                      | Resposta | 
-|--------|-------------------------------| ---------|
-|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | ------|
-|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | ------|
-|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | ------|
-|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | ------|
-|    5    | As interações e relações entre os stakeholders estão claramente ilustradas?| ------|
-|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | ------|
-|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | ------|
-|    8    | Existe uma legenda especificando o que cada simbolo significa? | ------|
-|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | ------|
-|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | ------|
-|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | ------|
+| Número   | Pergunta                       | Resposta |
+| -------- |------------------------------- | --------- |
+|    1    | O rich picture identifica claramente todos os stakeholders envolvidos no problema? | Sim |
+|    2    | Os atores no rich picture estão adequadamente rotulados para representar os usuários do sistema? | Não foram especificados todos os tipos de usário do sistema |
+|    3    | O fluxo de dados entre os atores, operações e armazenamentos está representado de forma clara no rich picture? | Não muito, alguns armazenamentos estão redundantes |
+|    4    | O rich picture delimita de maneira precisa a área de responsabilidade do sistema em análise? | Sim |
+|    5    | As interações e relações entre os stakeholders estão claramente ilustradas? | Sim |
+|    6    | O Rich Picture utiliza símbolos e ícones apropriados para representar diferentes elementos e facilitar a compreensão? | Sim |
+|    7    | O Rich Picture reflete diferentes perspectivas e pontos de vista dos stakeholders? | Sim |
+|    8    | Existe uma legenda especificando o que cada simbolo significa? | Sim |
+|    9    | O Rich Picture equilibra bem o nível de detalhe, sem ser excessivamente complexo nem superficial? | Sim |
+|    10   | O Rich Picture é claro e coerente em sua apresentação, sem elementos confusos ou contraditórios? | Sim |
+|    11   | Os recursos necessários para o funcionamento do sistema estão claramente indicados? | Sim |
+
 <br>
 
-Autor: [Iago Passaglia](https://github.com/paxxaglia)
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>.
 
 </details>
 
@@ -292,4 +305,6 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 | 1.3    | Adição das respostas para o app do Consumidor | Luana Medeiros | Iago Passaglia | 10/06/2024 |
 | 1.4    | Adição das respostas para o app do CDT | Iago Passaglia  | Bruno Araújo | 10/06/2024 |
 | 1.5    | Adição da avaliação para o rich picture dos correios | Larissa Stéfane  | Bruno Araújo | 10/06/2024 |
-| 1.6 | Adição das respostas para o app do CDT | Iago Passaglia  | Bruno Araújo | 10/06/2024 |
+| 1.6    | Adição das respostas para o app CNPQ | Bruno Araújo  | - | 10/06/2024 |
+| 1.7    | Adição do vídeo da avaliação para o rich picture dos correios | Larissa Stéfane  | - | 10/06/2024 |
+| 1.8    | Adição da avaliação para o rich picture do Serasa | Breno Alexandre  | - | 10/06/2024 |

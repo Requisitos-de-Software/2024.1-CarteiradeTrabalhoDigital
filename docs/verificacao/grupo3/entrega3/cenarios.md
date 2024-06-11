@@ -89,7 +89,75 @@ A tabela 2 mostra a avaliação do cenário de calcular preços e prazos de entr
 </details>
 
 <details>
-  <summary size="20"><b> Cenário 5 - Rastreamento de Encomendas </b></summary> 
+  <summary size="20"><b> Cenário 2 - Mudar endereço de recebimento </b></summary> 
+
+  <br>
+
+A tabela 3 mostra a avaliação do cenário de mudar endereço de recebimento.
+
+**Tabela 3**: Avaliação do cenário de mudar endereço de recebimento.
+
+<br>
+
+| ID | Pergunta | Resposta <br> Sim/Não/Incompleto | Observação |
+|--------|-------------------------------| ---------| ---------| 
+|    1    | O título do cenário representa explicitamente o tema? | Sim | - | 
+|    2    | O objetivo do cenário está claramente definido? | Sim | - |
+|    3    | O contexto do cenário está bem descrito, incluindo pré-condições, local e tempo? | Sim | - |
+|    4    | Os recursos envolvidos no cenário estão identificados? | Sim | - |
+|    5    | Os atores envolvidos no cenário estão definidos?| Sim | - |
+|    6    | Os episódios do cenário estão bem definidos? | Sim | - |
+|    7    | As ações dos atores estão descritas de forma observável? | Sim | - |
+|    8    | As restrições e as exceções dos episódios estão explicitadas? | Sim | - |
+|    9    | O ambiente ou contexto do cenário está detalhado? | Incompleto | Falta detalhar o ambiente de forma mais clara |
+|    10   | O cenário está escrito em linguagem natural simples? | Sim | - |
+|    11   | Há a descrição do que o sistema e os usuários esperam quando o cenário se finalizar ? | Sim | - |
+|    12   | As possíveis falhas e as suas tratativas estão descritas? | Sim | - |
+|    13   | As informações sobre outras atividades que podem acontecer ao mesmo tempo estão incluídas? | Não | Não menciona atividades simultâneas |
+|    14   | Há uma descrição sobre o estado inicial e o final do contexto no cenário? | Incompleto | Estado inicial e final poderiam ser mais detalhados |
+|    15   | Os requisitos presentes estão descritos no cenário? | Não | Não possui indicação de quais requisitos estão ligados a ação de mudar endereço de recebimento |
+<br>
+
+**Autor:** [Bruno Araújo](https://github.com/brunocva)
+
+</details>
+
+<details>
+  <summary size="20"><b> Cenário 3 - Realizar compras na loja online </b></summary> 
+
+  <br>
+
+A tabela 4 mostra a avaliação do cenário de Realizar compras na loja online.
+
+**Tabela 4**: Avaliação do cenário de Realizar compras na loja online.
+
+<br>
+
+| ID | Pergunta | Resposta <br> Sim/Não/Incompleto | Observação |
+|--------|-------------------------------| ---------| ---------| 
+|    1    | O título do cenário representa explicitamente o tema? | Sim | O título explica bem a ação desenvolvida no cenário. | 
+|    2    | O objetivo do cenário está claramente definido? | Sim | - |
+|    3    | O contexto do cenário está bem descrito, incluindo pré-condições, local e tempo? | Sim | Possui todos os requisitos. |
+|    4    | Os recursos envolvidos no cenário estão identificados? | Sim |  |
+|    5    | Os atores envolvidos no cenário estão definidos?| Sim | Os atores estão indicados e bem descritos. |
+|    6    | Os episódios do cenário estão bem definidos? | Sim | - |
+|    7    | As ações dos atores estão descritas de forma observável? | Sim | - |
+|    8    | As restrições e as exceções dos episódios estão explicitadas? | Incompleto | As restrições poderiam ser melhor detalhadas |
+|    9    | O ambiente ou contexto do cenário está detalhado? | Sim | - |
+|    10   | O cenário está escrito em linguagem natural simples? | Sim | - |
+|    11   | Há a descrição do que o sistema e os usuários esperam quando o cenário se finalizar ? | Não | Não há descrição da expectativa do usuário ao fim do cenário. |
+|    12   | As possíveis falhas e as suas tratativas estão descritas? | Sim |  Na parte de excessões |
+|    13   | As informações sobre outras atividades que podem acontecer ao mesmo tempo estão incluídas? | Não | - | 
+|    14   | Há uma descrição sobre o estado inicial e o final do contexto no cenário? | Incompleto | Está descrito de maneira sucinta. |
+|    15   | Os requisitos presentes estão descritos no cenário? | Não | Não informa quais requisitos estão presentes no cenário. |
+<br>
+
+**Autora:** [Pedro Izarias](https://github.com/Izarias)
+
+</details>
+
+<details>
+  <summary size="20"><b> Cenário 5 - Rastreamento de Encomendas - Larissa Stéfane </b></summary> 
 
   <br>
 
@@ -133,6 +201,42 @@ Caso o vídeo não funcione, abra pelo [link](https://youtu.be/jFZn7e4QQOc)
 
 </details>
 
+
+<details>
+  <summary size="20"><b> Cenário 6 -  Buscar por documentos perdidos </b></summary> 
+
+  <br>
+
+A tabela 5 mostra a avaliação do cenário de Buscar por documentos perdidos.
+
+**Tabela 5**: Avaliação do cenário de  Buscar por documentos perdidos.
+
+<br>
+
+| ID | Pergunta | Resposta <br> Sim/Não/Incompleto | Observação |
+|--------|-------------------------------| ---------| ---------| 
+|    1    | O título do cenário representa explicitamente o tema? | Sim | - | 
+|    2    | O objetivo do cenário está claramente definido? | Sim | - |
+|    3    | O contexto do cenário está bem descrito, incluindo pré-condições, local e tempo? | Sim | - |
+|    4    | Os recursos envolvidos no cenário estão identificados? | Sim | -. |
+|    5    | Os atores envolvidos no cenário estão definidos?| Sim | - |
+|    6    | Os episódios do cenário estão bem definidos? | Sim | - |
+|    7    | As ações dos atores estão descritas de forma observável? | Sim | - |
+|    8    | As restrições e as exceções dos episódios estão explicitadas? | Sim | |
+|    9    | O ambiente ou contexto do cenário está detalhado? | Não | Não há motivo para o usuário usar a funcionalidade |
+|    10   | O cenário está escrito em linguagem natural simples? | Sim | - |
+|    11   | Há a descrição do que o sistema e os usuários esperam quando o cenário se finalizar ? | Incompleto | Não há expectativa do usuário |
+|    12   | As possíveis falhas e as suas tratativas estão descritas? | Incompleto |  - |
+|    13   | As informações sobre outras atividades que podem acontecer ao mesmo tempo estão incluídas? | Sim | - | 
+|    14   | Há uma descrição sobre o estado inicial e o final do contexto no cenário? | Não | Não é possível encontrar a descrição sobre o estado no contexto do cenário |
+|    15   | Os requisitos presentes estão descritos no cenário? | Não |Não há rastreabilidade quanto aos requisitos |
+<br>
+
+**Autora:** [Iago Passaglia](https://github.com/Paxxaglia)
+
+</details>
+
+
 ## Conclusão e Observações
 
 ## Referências Bibliográficas
@@ -157,5 +261,6 @@ Caso o vídeo não funcione, abra pelo [link](https://youtu.be/jFZn7e4QQOc)
 | 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | - | 09/06/2024 |
 | 1.2 | Adição da avaliação do cenário de rastreamento de encomendas | Larissa Stéfane | - | 10/06/2024 |
 | 1.3 | Adição do vídeo da  avaliação do cenário de rastreamento de encomendas | Larissa Stéfane | - | 10/06/2024 |
-| 1.4 | Adição da avaliação do cenário de calcular preços e prazos de entrega | Luana Medeiros | - | 10/06/2024 |
-
+| 1.4 | Adição da avaliação do cenário de calcular preços e prazos de entrega | Luana Medeiros | Pedro Izarias | 10/06/2024 |
+| 1.5 | Adição da avaliação do cenário de calcular Realizar compras na loja online | Pedro Izarias | Iago Passaglia | 10/06/2024 |
+| 1.6 | Adição da avaliação do cenário de Buscar por documentos perdidos | Iago Passaglia  | Pedro Izarias | 10/06/2024 |

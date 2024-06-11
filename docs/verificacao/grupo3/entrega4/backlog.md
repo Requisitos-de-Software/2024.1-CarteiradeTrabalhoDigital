@@ -57,4 +57,4 @@ Tabela 1: Lista de verificação do artefato Backlog do Produto
 ## Histórico de versão
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do documento                | Caio Mesquita   |  | 09/06/2024 |
+| 1.0    | Criação do documento                | Caio Mesquita   | Bruno Araújo | 09/06/2024 |
