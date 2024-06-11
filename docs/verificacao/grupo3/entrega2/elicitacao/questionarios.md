@@ -40,14 +40,46 @@ Tabela 1: Lista de verificação da técnica de elicitação Questionários
 |08|Os Requisitos coletados podem ser testados ?|Sommerville, Ian. Engenharia de software. 08. ed. São Paulo: Pearson Addison Wesley, 2007.|-|
 
 
-Autor: [Caio Mesquita]() 
+Autor: [Caio Mesquita](https://github.com/Caiomesvie) 
 
 </center>
 
 
 ## Avaliação
 
+
+Segue a tabela 2 com a avaliação feita:
+
+<br>
+
+<center> 
+
+
+|ID|Pergunta|Rastreabilidade|Resposta(sim/não/incompleto)|
+|-|-|-|-|
+|01|O artefato apresenta uma explicação da metodologia utilizada ?|Autor|Sim|
+|02| Há dados de onde foi disposto o questionário ?|Autor|Sim|
+|03|Contém a descrição e as respostas detalhadas de cada pergunta realizada no questionário ?|Autor|Sim|
+|04|Há um sumário dos resultados das respostas coletadas ?|Autor|Sim|
+|05|Há uma tabela com os requisitos coletados durante o processo de elicitação ?|Autor| Sim|
+|06|Os requisitos estão devidamente indentificados (Apresentam ID único) ?|Autor|Sim|
+|07|Os requisitos estão divididos em Funcionais e não-Funcionais ?|Sommerville, Ian. Engenharia de software. 08. ed. São Paulo: Pearson Addison Wesley, 2007.|Sim|
+|08|Os Requisitos coletados podem ser testados ?|Sommerville, Ian. Engenharia de software. 08. ed. São Paulo: Pearson Addison Wesley, 2007.|Não|
+
+<br>
+
+Autor: [Caio Mesquita](https://github.com/Caiomesvie) 
+
+</center>
+
+
 ## Conclusão e Observações
+
+#### ID 08
+
+Os requisitos funcionais da Tabela 1 não estão formatados de maneira testável, pórem, a técnica foi executada com boa qualidade e perfomance
+
+
 
 ## Bibliografia
 

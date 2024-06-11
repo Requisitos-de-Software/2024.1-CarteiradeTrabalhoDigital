@@ -40,7 +40,7 @@ Tabela 1: Lista de verificação para priorização First Things First
 |09| Os requisitos estão em ordem de prioridade ?  |Autor | -|
 
 
-Autor: [Caio Mesquita]()
+Autor: [Caio Mesquita](https://github.com/Caiomesvie)
 
 </center>
 
