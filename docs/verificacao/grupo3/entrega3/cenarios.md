@@ -262,4 +262,5 @@ A tabela 5 mostra a avaliação do cenário de Buscar por documentos perdidos.
 | 1.2 | Adição da avaliação do cenário de rastreamento de encomendas | Larissa Stéfane | - | 10/06/2024 |
 | 1.3 | Adição do vídeo da  avaliação do cenário de rastreamento de encomendas | Larissa Stéfane | - | 10/06/2024 |
 | 1.4 | Adição da avaliação do cenário de calcular preços e prazos de entrega | Luana Medeiros | Pedro Izarias | 10/06/2024 |
-| 1.5 | Adição da avaliação do cenário de calcular Realizar compras na loja online | Pedro Izarias | - | 10/06/2024 |
+| 1.5 | Adição da avaliação do cenário de calcular Realizar compras na loja online | Pedro Izarias | Iago Passaglia | 10/06/2024 |
+| 1.6 | Adição da avaliação do cenário de Buscar por documentos perdidos | Iago Passaglia  | Pedro Izarias | 10/06/2024 |
