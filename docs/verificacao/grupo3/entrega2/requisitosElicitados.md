@@ -97,6 +97,6 @@ Caso o vídeo não funcione, para acessa-lo no youtube, clique no [link](https:/
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Pedro Izarias | Larissa Stéfane | 09/06/2024 |
 | 1.1 | Adição da introdução e metodologia | Pedro Izarias | Larissa Stéfane | 10/06/2024 |
-| 1.2 | Adição da avaliação da lista de requisitos| Larissa Stéfane | - | 10/06/2024 |
-| 1.3 | Adição do vídeo da avaliação da lista de requisitos| Larissa Stéfane | - | 10/06/2024 |
+| 1.2 | Adição da avaliação da lista de requisitos| Larissa Stéfane | Pedro Izarias | 10/06/2024 |
+| 1.3 | Adição do vídeo da avaliação da lista de requisitos| Larissa Stéfane | Pedro Izarias | 10/06/2024 |
 
