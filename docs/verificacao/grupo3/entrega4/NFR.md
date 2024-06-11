@@ -140,7 +140,8 @@ A tabela 2 mostra a lista de verificação dos SIGs.
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Adição da tabela de verificação do SIG | Larissa Stéfane | - | 09/06/2024 |
-| 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | - | 09/06/2024 |
-| 1.2 | Adição da tabela de verificação dos cartões de especificação dos NFR | Larissa Stéfane | - | 09/06/2024 |
-| 1.3 | Adição da avaliação do NFR Confiabilidade| Luana Medeiros | - | 10/06/2024 |
+| 1.0 | Adição da tabela de verificação do SIG | Larissa Stéfane | Pedro Izarias | 09/06/2024 |
+| 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | Pedro Izarias | 09/06/2024 |
+| 1.2 | Adição da tabela de verificação dos cartões de especificação dos NFR | Larissa Stéfane | Pedro Izarias | 09/06/2024 |
+| 1.3 | Adição da avaliação do NFR Confiabilidade| Luana Medeiros | Pedro Izarias | 10/06/2024 |
+| 1.4 | Adição da avaliação do NFR Desempenho| Pedro Izarias |  - | 10/06/2024 |

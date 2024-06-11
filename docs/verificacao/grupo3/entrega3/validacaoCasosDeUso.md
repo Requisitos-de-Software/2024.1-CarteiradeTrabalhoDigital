@@ -50,12 +50,11 @@ A tabela 2 apresenta a lista de verificação da Validação de Casos de Uso.
 <b> Autor: </b> <a href="https://github.com/Izarias"> Pedro Izarias</a>.
 
 ## Conclusão e Observações
-
-
+A verificação da validação dos casos de uso demonstrou que os principais critérios foram atendidos, com o entrevistado no perfil correto e consentimento registrado. No entanto, a ausência de sugestões anotadas sugere a necessidade de estimular mais feedback. Recomenda-se aprimorar o processo de interação com os entrevistados para garantir um retorno mais detalhado e útil.
 
 ## Histórico de versão
 
 | Versão | Alteração                       | Responsável     | Revisor | Data       |
 | ------ | ------------------------------- | --------------- | ------- | ---------- |
-| 1.0    | Adição da tabela de verificação | Breno Alexandre | -       | 10/06/2024 |
+| 1.0    | Adição da tabela de verificação | Breno Alexandre | Pedro Izarias       | 10/06/2024 |
 | 1.1    | Adição das respostas de verificação | Pedro Izarias | Breno Alexandre | 10/06/2024 |
