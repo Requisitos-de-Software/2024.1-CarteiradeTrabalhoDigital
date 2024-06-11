@@ -187,26 +187,27 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 </details>
 
 <details>
-<summary>Mudar endereço de recebimento</summary>
+<summary> Mudar endereço de recebimento - Larissa Stéfane </summary>
+
+A tabela 7 mostra a verificação e avaliação do caso de uso de "Mudar endereço de recebimento".
 
 ### Tabela 7: Tabela de verificação para Mudar endereço de recebimento
 
-| Número da Pergunta | Pergunta                                                                 | Resposta |
-|--------------------|--------------------------------------------------------------------------|----------|
-| 1                  | O caso de uso está descrito de forma clara e precisa, evitando ambiguidades? |          |
-| 2                  | O caso de uso possui um identificador único e um nome descritivo?         |          |
-| 3                  | Os atores que interagem com o sistema estão claramente identificados e descritos? |          |
-| 4                  | O objetivo ou finalidade do caso de uso está claramente definido?         |          |
-| 5                  | As pré-condições (estado do sistema antes do início do caso de uso) estão claramente descritas? |          |
-| 6                  | As pós-condições (estado do sistema após a execução do caso de uso) estão claramente descritas? |          |
-| 7                  | O fluxo principal de eventos (caminho básico) está detalhado de forma sequencial e lógica? |          |
-| 8                  | Existem fluxos alternativos ou secundários descritos para situações excepcionais ou variantes do fluxo principal? |          |
-| 9                  | Existem fluxos de exceção claramente descritos para lidar com erros ou condições inesperadas? |          |
-| 10                 | Todos os elementos do caso de uso estão devidamente documentados (título, descrição, atores, pré-condições, pós-condições, fluxos, etc.)? |          |
+| Número da Pergunta | Pergunta                                                                 | Resposta | Observações |
+|--------------------|--------------------------------------------------------------------------|----------| ------------- |
+| 1                  | O caso de uso está descrito de forma clara e precisa, evitando ambiguidades? |    Não      | Algumas expressões e explicação de alguns pontos, por exemplo, no fluxo principal, estão ambíguas e, dependendo da interpretação, pode deixar o leitor confuso. |
+| 2                  | O caso de uso possui um identificador único e um nome descritivo?         |    Incompleto      | Tem código de identificação, mas não tem um título. |
+| 3                  | Os atores que interagem com o sistema estão claramente identificados e descritos? |    Não      | Existe uma abundância de usuários que utilizam o aplicativo dos Correios, todos eles podem apresentar contextos e características distintas no contexto do caso de uso. Contudo, o usuário foi representado de forma muito genérica no caso de uso. |
+| 4                  | O objetivo ou finalidade do caso de uso está claramente definido?         |     Sim     | - |
+| 5                  | As pré-condições (estado do sistema antes do início do caso de uso) estão claramente descritas? |    Incompleto      | Estão faltando informações necessárias, por exemplo, para mudar de endereço, o usuário precisa saber o CEP, entre outras informações, mas isso não é especificado nas pré-condições. |
+| 6                  | As pós-condições (estado do sistema após a execução do caso de uso) estão claramente descritas? |  Não        | Não está apresentado nem descrito da forma correta. <br> A pós-condição está apresentada mais como o meio do fluxo do que se espera no final. <br> Além disso, está ambíguo. |
+| 7                  | O fluxo principal de eventos (caminho básico) está detalhado de forma sequencial e lógica? |   Sim       | - |
+| 8                  | Existem fluxos alternativos ou secundários descritos para situações excepcionais ou variantes do fluxo principal? |     Não     | Os fluxos alternativos e de exceções não estão representados de forma correta. Ao invés de mostrar o fluxo que o usuário deve seguir, mostra apenas os objetivos dele. <br> Além disso, não está bem explicado nem elaborado. |
+| 9                  | Existem fluxos de exceção claramente descritos para lidar com erros ou condições inesperadas? |     Não     | Os fluxos de exceções foram elaborados de forma errada, pois não indicam o fluxo que o usuário deve seguir. Além disso, os textos apresentados estão abertos a diferentes interpretações. |
+| 10                 | Todos os elementos do caso de uso estão devidamente documentados (título, descrição, atores, pré-condições, pós-condições, fluxos, etc.)? |     Não     | Muitos pontos estão com erros ou foram elaborados erroneamente. |
 
-<br>
 
-Autor: [Iago Passaglia](https://github.com/paxxaglia)
+ **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </details>
 
@@ -224,3 +225,4 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 | 1.1    | Adição da avaliação do caso de uso de Realizar compras na loja online| Luana Medeiros  | Bruno Araújo | 10/06/2024 |
 | 1.2    | Adição da avaliação do caso de uso de Calcular preços e prazos de entrega | Larissa Stéfane  | Bruno Araújo| 10/06/2024 |
 | 1.3| Adição da avaliação do caso de uso Rastrear Encomendas | Bruno Araújo  | -- | 10/06/2024 |
+| 1.4    | Adição da avaliação do caso de uso de Mudar endereço de recebimento | Larissa Stéfane  | - | 10/06/2024 |
