@@ -44,6 +44,7 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 
 ## Avaliação
 
+<center> 
 A tabela 2 apresenta a lista de verificação da técnica de Brainstorm.
 
 | ID | Pergunta de Verificação | Sim/Não/Incompleto |
@@ -60,6 +61,10 @@ A tabela 2 apresenta a lista de verificação da técnica de Brainstorm.
 
 <b> Autor: </b> <a href="https://github.com/Caiomesvie"> Caio Mesquita </a>.
 
+</center>
+
+<br>
+
 ## Conclusão e Observações
  
  #### ID01
@@ -74,11 +79,14 @@ Alguns requisitos não podem ser testados como o requisito de id BS36 ou BS37.
 
 Após o processo de verificação, foi notado que o processo técnico do brainstorm não foi bem executado, visto que não foi realizado em grupo, não houve a abertura de câmeras e foi realizado com poucas pessoas.
 
+<br>
+
 ## Referências Bibliográficas
 
 1. <b> SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA </b>, Interação Humano-Computador, 1a.
 Edição, Editora Campus, 2010. (Versão grátis disponível em: https://leanpub.com/ihc-ux). Publicado em: 03/05/2021
 
+<br>
 
 ## Histórico de versão
 
