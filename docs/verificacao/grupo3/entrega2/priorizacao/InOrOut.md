@@ -53,13 +53,13 @@ Para conduzir a avaliação, inicialmente, será elaborado uma lista de verifica
 | 2  | O documento identifica os critérios utilizados para decidir se um requisito é "In" ou "Out"? | Sim |
 | 3  | O documento inclui a lista completa de requisitos que foram considerados no processo de priorização? | Sim|
 | 4  | O documento explica o processo de tomada de decisão para cada requisito avaliado? | Sim |
-| 5  | O documento descreve como as partes interessadas foram envolvidas no processo de priorização? | Sim|
+| 5  | O documento descreve como as partes interessadas foram envolvidas no processo de priorização? | Não|
 | 6  | O documento indica se houve consenso entre as partes interessadas sobre as decisões de priorização? | Sim|
 | 7  | O documento explica como foram documentados os requisitos que foram considerados "Out"? |  Sim|
 | 8  | O documento descreve como a técnica "In Or Out" foi adaptada ao contexto específico do projeto? | Sim|
 | 9  | O documento fornece exemplos específicos de requisitos classificados como "In" e suas justificativas? | Sim |
 | 10  | O documento avalia os benefícios esperados dos requisitos "In"? | Sim |
-| 11  | O documento menciona os riscos associados aos requisitos que foram considerados "Out"? | Sim |
+| 11  | O documento menciona os riscos associados aos requisitos que foram considerados "Out"? | Não |
 | 12  | O documento descreve a periodicidade da revisão da priorização dos requisitos? |  Sim |
 | 13  | O documento inclui uma matriz de rastreabilidade dos requisitos "In" e "Out"? | Sim |
 | 14  | O documento discute como os requisitos "Out" podem ser reconsiderados em futuras iterações? | Sim|
