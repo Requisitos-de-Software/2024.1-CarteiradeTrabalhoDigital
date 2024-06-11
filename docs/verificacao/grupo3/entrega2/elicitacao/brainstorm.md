@@ -84,13 +84,14 @@ Após o processo de verificação, foi notado que o processo técnico do brainst
 ## Referências Bibliográficas
 
 1. <b> SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA </b>, Interação Humano-Computador, 1a.
-Edição, Editora Campus, 2010. (Versão grátis disponível em: https://leanpub.com/ihc-ux). Publicado em: 03/05/2021
+Edição, Editora Campus, 2010. (Versão grátis disponível em: https://leanpub.com/ihc-ux). Publicado em: 03/05/2021. Capítulo 7, pags. 152-155.
 
 <br>
 
 ## Histórico de versão
 
-| Versão | Alteração                       | Responsável     | Revisor | Data       |
-| ------ | ------------------------------- | --------------- | ------- | ---------- |
-| 1.0    | Adição da tabela de verificação | Breno Alexandre |Caio Mesquita      | 10/06/2024 |
-| 1.1    | Realização do processo de verificação | Caio Mesquita   |  Breno Alexandre  | 10/06/2024 |
+| Versão | Alteração                                    | Responsável     | Revisor         | Data       |
+| ------ | -------------------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Adição da tabela de verificação              | Breno Alexandre | Caio Mesquita   | 10/06/2024 |
+| 1.1    | Realização do processo de verificação        | Caio Mesquita   | Breno Alexandre | 10/06/2024 |
+| 1.2    | Adição de capítulo e páginas na bibliografia | Breno Alexandre | -               | 11/06/2024 |
