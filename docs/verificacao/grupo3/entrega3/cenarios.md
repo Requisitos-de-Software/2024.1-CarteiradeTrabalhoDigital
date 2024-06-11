@@ -254,7 +254,41 @@ A tabela 7 mostra a avaliação do cenário de Gerenciar minhas importações.
 |    2    | O objetivo do cenário está claramente definido? | Sim | - |
 |    3    | O contexto do cenário está bem descrito, incluindo pré-condições, local e tempo? | Sim | - |
 |    4    | Os recursos envolvidos no cenário estão identificados? | Sim | - |
-|    5    | Os atores envolvidos no cenário estão definidos?|  | - |
+|    5    | Os atores envolvidos no cenário estão definidos? | Sim | - |
+|    6    | Os episódios do cenário estão bem definidos? | Sim | - |
+|    7    | As ações dos atores estão descritas de forma observável? | Sim | - |
+|    8    | As restrições e as exceções dos episódios estão explicitadas? | Sim | |
+|    9    | O ambiente ou contexto do cenário está detalhado? | Não | - |
+|    10   | O cenário está escrito em linguagem natural simples? | Sim | - |
+|    11   | Há a descrição do que o sistema e os usuários esperam quando o cenário se finalizar ? | Não | - |
+|    12   | As possíveis falhas e as suas tratativas estão descritas? | Não |  - |
+|    13   | As informações sobre outras atividades que podem acontecer ao mesmo tempo estão incluídas? | Sim | - | 
+|    14   | Há uma descrição sobre o estado inicial e o final do contexto no cenário? | Não | Não é possível encontrar a descrição sobre o estado no contexto do cenário |
+|    15   | Os requisitos presentes estão descritos no cenário? | Não |Não há rastreabilidade quanto aos requisitos |
+<br>
+
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0/"> Breno Alexandre </a>.
+
+</details>
+
+<details>
+  <summary size="20"><b> Cenário 7 -  Receber em um local não residencial </b></summary> 
+
+  <br>
+
+A tabela 8 mostra a avaliação do cenário de Receber em um local não residencial.
+
+**Tabela 8**: Avaliação do cenário de Receber em um local não residencial.
+
+<br>
+
+| ID | Pergunta | Resposta <br> Sim/Não/Incompleto | Observação |
+|--------|-------------------------------| ---------| ---------| 
+|    1    | O título do cenário representa explicitamente o tema? | Sim | - | 
+|    2    | O objetivo do cenário está claramente definido? | Sim | - |
+|    3    | O contexto do cenário está bem descrito, incluindo pré-condições, local e tempo? | Sim | - |
+|    4    | Os recursos envolvidos no cenário estão identificados? | Sim | - |
+|    5    | Os atores envolvidos no cenário estão definidos? | Sim  | - |
 |    6    | Os episódios do cenário estão bem definidos? | Sim | - |
 |    7    | As ações dos atores estão descritas de forma observável? | Sim | - |
 |    8    | As restrições e as exceções dos episódios estão explicitadas? | Sim | |
@@ -298,4 +332,4 @@ A tabela 7 mostra a avaliação do cenário de Gerenciar minhas importações.
 | 1.4 | Adição da avaliação do cenário de calcular preços e prazos de entrega | Luana Medeiros | Pedro Izarias | 10/06/2024 |
 | 1.5 | Adição da avaliação do cenário de calcular Realizar compras na loja online | Pedro Izarias | Iago Passaglia | 10/06/2024 |
 | 1.6 | Adição da avaliação do cenário de Buscar por documentos perdidos | Iago Passaglia  | Pedro Izarias | 10/06/2024 |
-| 1.7 | Adição da avaliação do cenário de Gerenciar minhas importações | Breno Alexandre | -   | 10/06/2024 |
+| 1.7 | Adição da avaliação do cenário de Gerenciar minhas importações e Receber em um local não residencial | Breno Alexandre | -   | 10/06/2024 |
