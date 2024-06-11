@@ -82,6 +82,7 @@
 * Verificação
 
     * Grupo 3
+      - [Vídeos de Verificação](verificacao/grupo3/videosValidacao.md)
       - [Planejamento](verificacao/grupo3/Planejamento.md)
       * Entrega 1
         - [Rich Picture](verificacao/grupo3/entrega1/richPicture.md)
