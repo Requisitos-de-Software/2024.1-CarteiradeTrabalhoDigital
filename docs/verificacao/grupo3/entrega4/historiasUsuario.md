@@ -411,16 +411,16 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 </details>
 
 <details>
-  <summary size="20"><b> US07 - Pedro </b></summary> 
+  <summary size="20"><b> US21 - Pedro </b></summary> 
 
 <center>
 
-**Tabela 5:** US07
+**Tabela 5:** US21
 
 
 | ID | Pergunta da Verificação | Resposta | Observação |
 |----|------------------------|-----------------------|------------|
-| 1 | A história de usuário está definida quanto a quem é o usuário-alvo? | Incompleto | Apenas cita "Usuário" sem especificar a fundo |
+| 1 | A história de usuário está definida quanto a quem é o usuário-alvo? | Sim | - |
 | 2 | A funcionalidade desejada está descrita na história? | Sim | - |
 | 3 | A motivação ou o valor da história para o usuário está explicada na história? | Sim | - |
 | 4 | A história é escrita de forma sucinta, em um único cartão? | Sim | - |
