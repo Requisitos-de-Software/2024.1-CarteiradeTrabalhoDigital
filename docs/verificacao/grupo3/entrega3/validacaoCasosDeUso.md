@@ -39,11 +39,11 @@ A tabela 1 apresenta a lista de verificação da Validação de Casos de Uso.
 
 A tabela 2 apresenta a lista de verificação da Validação de Casos de Uso.
 
-| ID | Pergunta de Verificação                                         | Sim/Não/Incompleto |
-| -- | --------------------------------------------------------------- | ------------------ |
-| 1  | O entrevistado está no perfil de usuário?                       |  |
-| 2  | Os termos de consentimento foram concordados pelo entrevistado? |  |
-| 3  | As sugestões do entrevistado foram anotadas?                    |  |
+| ID | Pergunta de Verificação                                         | Sim/Não/Incompleto | Observações |
+| -- | --------------------------------------------------------------- | ------------------ | --- |
+| 1  | O entrevistado está no perfil de usuário?                       | Sim | |
+| 2  | Os termos de consentimento foram concordados pelo entrevistado? | Sim | Os termos de consentimento foram aceitos por vídeo no inicio da gravação. |
+| 3  | As sugestões do entrevistado foram anotadas?                    | Não | Não houveram dúvidas ou sugestões feitas pelo entrevistado |
 
 
 <b> Autor: </b> <a href="https://github.com/Izarias"> Pedro Izarias </a>.
@@ -57,3 +57,4 @@ A tabela 2 apresenta a lista de verificação da Validação de Casos de Uso.
 | Versão | Alteração                       | Responsável     | Revisor | Data       |
 | ------ | ------------------------------- | --------------- | ------- | ---------- |
 | 1.0    | Adição da tabela de verificação | Breno Alexandre | -       | 10/06/2024 |
+| 1.1    | Adição das respostas de verificação | Pedro Izarias | -       | 10/06/2024 |
