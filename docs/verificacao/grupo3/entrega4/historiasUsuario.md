@@ -76,6 +76,34 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 </details>
 
 <details>
+  <summary size="20"><b> US06 </b></summary> 
+
+<center>
+
+**Tabela X:** US06
+
+
+| ID | Pergunta da Verificação | Resposta | Observação |
+|----|------------------------|-----------------------|------------|
+| 1 | A história de usuário está definida quanto a quem é o usuário-alvo? | Incompleto |  É importante definir claramente quem é o usuário-alvo para garantir que a funcionalidade atenda às necessidades específicas deste grupo. |
+| 2 | A funcionalidade desejada está descrita na história? | Sim | - |
+| 3 | A motivação ou o valor da história para o usuário está explicada na história? | Sim | - |
+| 4 | A história é escrita de forma sucinta, em um único cartão? | Sim | - |
+| 5 | A história possui critérios de aceitação definidos? | Sim | - |
+| 6 | A história é independente de outras histórias? | Sim | - |
+| 7 | A descrição da história captura o objetivo do que é desejado? | Sim | - |
+| 8 | A história fornece informações suficientes para estimativas de implementação? | Sim | - |
+| 9 | A história é clara o suficiente para que testes possam ser definidos com base nos critérios de aceitação? | Sim | - |
+| 10 | A história foi validada com feedback dos usuários? | Incompleto | Validar a história com feedback dos usuários é crucial para assegurar que ela realmente atende às necessidades e expectativas dos usuários finais. |
+| 11 | Os critérios de aceitação são claros e mensuráveis? | Sim | - |
+
+**Autor:** [Luana Medeiros](https://github.com/LuaMedeiros)
+
+</center>
+
+</details>
+
+<details>
   <summary size="20"><b> US11 </b></summary> 
 
 <center>
@@ -104,6 +132,34 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 </details>
 
 <details>
+  <summary size="20"><b> US13 </b></summary> 
+
+<center>
+
+**Tabela X:** US13
+
+
+| ID | Pergunta da Verificação | Resposta | Observação |
+|----|------------------------|-----------------------|------------|
+| 1 | A história de usuário está definida quanto a quem é o usuário-alvo? | Incompleto |  É importante definir claramente quem é o usuário-alvo para garantir que a funcionalidade atenda às necessidades específicas deste grupo. |
+| 2 | A funcionalidade desejada está descrita na história? | Sim | - |
+| 3 | A motivação ou o valor da história para o usuário está explicada na história? | Sim | - |
+| 4 | A história é escrita de forma sucinta, em um único cartão? | Sim | - |
+| 5 | A história possui critérios de aceitação definidos? | Sim | - |
+| 6 | A história é independente de outras histórias? | Sim | - |
+| 7 | A descrição da história captura o objetivo do que é desejado? | Sim | - |
+| 8 | A história fornece informações suficientes para estimativas de implementação? | Sim | - |
+| 9 | A história é clara o suficiente para que testes possam ser definidos com base nos critérios de aceitação? | Sim | - |
+| 10 | A história foi validada com feedback dos usuários? | Incompleto | Validar a história com feedback dos usuários é crucial para assegurar que ela realmente atende às necessidades e expectativas dos usuários finais. |
+| 11 | Os critérios de aceitação são claros e mensuráveis? | Sim | - |
+
+**Autor:** [Luana Medeiros](https://github.com/LuaMedeiros)
+
+</center>
+
+</details>
+
+<details>
   <summary size="20"><b> US18 </b></summary> 
 
 <center>
@@ -126,6 +182,34 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 | 11 | Os critérios de aceitação são claros e mensuráveis? | Sim | - |
 
 **Autor:** [Iago Passaglia](https://github.com/Paxxaglia)
+
+</center>
+
+</details>
+
+<details>
+  <summary size="20"><b> US20 </b></summary> 
+
+<center>
+
+**Tabela X:** US20
+
+
+| ID | Pergunta da Verificação | Resposta | Observação |
+|----|------------------------|-----------------------|------------|
+| 1 | A história de usuário está definida quanto a quem é o usuário-alvo? | Incompleto |  É importante definir claramente quem é o usuário-alvo para garantir que a funcionalidade atenda às necessidades específicas deste grupo. |
+| 2 | A funcionalidade desejada está descrita na história? | Sim | - |
+| 3 | A motivação ou o valor da história para o usuário está explicada na história? | Sim | - |
+| 4 | A história é escrita de forma sucinta, em um único cartão? | Sim | - |
+| 5 | A história possui critérios de aceitação definidos? | Sim | - |
+| 6 | A história é independente de outras histórias? | Sim | - |
+| 7 | A descrição da história captura o objetivo do que é desejado? | Sim | - |
+| 8 | A história fornece informações suficientes para estimativas de implementação? | Sim | - |
+| 9 | A história é clara o suficiente para que testes possam ser definidos com base nos critérios de aceitação? | Sim | - |
+| 10 | A história foi validada com feedback dos usuários? | Incompleto | Validar a história com feedback dos usuários é crucial para assegurar que ela realmente atende às necessidades e expectativas dos usuários finais. |
+| 11 | Os critérios de aceitação são claros e mensuráveis? | Incompleto | Os critérios de aceitação precisam ser claros e mensuráveis para que possam ser testados e validados de maneira objetiva. |
+
+**Autor:** [Luana Medeiros](https://github.com/LuaMedeiros)
 
 </center>
 
@@ -170,4 +254,5 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 | 1.0 | Adição da tabela de verificação | Larissa Stéfane | Iago Passaglia | 09/06/2024 |
 | 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | Iago Passaglia | 09/06/2024 |
 | 1.2 | Adição da avaliação US04, US11 e US18 |  Iago Passaglia  | Pedro Izarias | 10/06/2024 |
-| 1.2 | Adição da avaliação US07 |  Pedro Izarias  | Iago Passaglia | 10/06/2024 |
+| 1.3 | Adição da avaliação US07 |  Pedro Izarias  | Iago Passaglia | 10/06/2024 |
+| 1.4 | Adição da avaliação US06, US13 e US20 |  Luana Medeiros  | - | 10/06/2024 |
