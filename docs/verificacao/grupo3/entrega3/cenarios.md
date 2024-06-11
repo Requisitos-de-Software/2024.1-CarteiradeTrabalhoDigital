@@ -201,6 +201,42 @@ Caso o vídeo não funcione, abra pelo [link](https://youtu.be/jFZn7e4QQOc)
 
 </details>
 
+
+<details>
+  <summary size="20"><b> Cenário 6 -  Buscar por documentos perdidos </b></summary> 
+
+  <br>
+
+A tabela 5 mostra a avaliação do cenário de Buscar por documentos perdidos.
+
+**Tabela 5**: Avaliação do cenário de  Buscar por documentos perdidos.
+
+<br>
+
+| ID | Pergunta | Resposta <br> Sim/Não/Incompleto | Observação |
+|--------|-------------------------------| ---------| ---------| 
+|    1    | O título do cenário representa explicitamente o tema? | Sim | - | 
+|    2    | O objetivo do cenário está claramente definido? | Sim | - |
+|    3    | O contexto do cenário está bem descrito, incluindo pré-condições, local e tempo? | Sim | - |
+|    4    | Os recursos envolvidos no cenário estão identificados? | Sim | -. |
+|    5    | Os atores envolvidos no cenário estão definidos?| Sim | - |
+|    6    | Os episódios do cenário estão bem definidos? | Sim | - |
+|    7    | As ações dos atores estão descritas de forma observável? | Sim | - |
+|    8    | As restrições e as exceções dos episódios estão explicitadas? | Sim | |
+|    9    | O ambiente ou contexto do cenário está detalhado? | Não | Não há motivo para o usuário usar a funcionalidade |
+|    10   | O cenário está escrito em linguagem natural simples? | Sim | - |
+|    11   | Há a descrição do que o sistema e os usuários esperam quando o cenário se finalizar ? | Incompleto | Não há expectativa do usuário |
+|    12   | As possíveis falhas e as suas tratativas estão descritas? | Incompleto |  - |
+|    13   | As informações sobre outras atividades que podem acontecer ao mesmo tempo estão incluídas? | Sim | - | 
+|    14   | Há uma descrição sobre o estado inicial e o final do contexto no cenário? | Não | Não é possível encontrar a descrição sobre o estado no contexto do cenário |
+|    15   | Os requisitos presentes estão descritos no cenário? | Não |Não há rastreabilidade quanto aos requisitos |
+<br>
+
+**Autora:** [Iago Passaglia](https://github.com/Paxxaglia)
+
+</details>
+
+
 ## Conclusão e Observações
 
 ## Referências Bibliográficas
