@@ -1,7 +1,7 @@
 # Apresentação 04
 
 ## Introdução
-Neste documento está contido o vídeo de apresentação da terceira entrega da matéria de Requisitos de Software e o checklist do que está em conforme com a entrega.
+Neste documento está contido o vídeo de apresentação da quarta entrega da matéria de Requisitos de Software e o checklist do que está em conforme com a entrega.
 
 ## Vídeo da apresentação
 
@@ -63,4 +63,4 @@ A git page possui?  | Sim/Não/Incompleto
 | Versão | Alteração                                                                 | Responsável     | Revisor         | Data       |
 | ------ | ------------------------------------------------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do documento                                                      | Caio Mesquita   | Breno Alexandre | 27/05/2024 |
-| 1.1    | Preenchimento da tabela                                                   | Breno Alexandre | -               | 27/05/2024 |
+| 1.1    | Preenchimento da tabela                                                   | Breno Alexandre | Iago Passaglia               | 27/05/2024 |
