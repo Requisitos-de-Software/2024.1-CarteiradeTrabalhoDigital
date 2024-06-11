@@ -48,6 +48,34 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 ## Avaliação
 
 <details>
+  <summary size="20"><b> US02 - Bruno </b></summary> 
+
+<center>
+
+**Tabela 2:** US02
+
+
+| ID | Pergunta da Verificação | Resposta | Observação |
+|----|------------------------|-----------------------|------------|
+| 1 | A história de usuário está definida quanto a quem é o usuário-alvo? | Sim | - |
+| 2 | A funcionalidade desejada está descrita na história? | Sim | - |
+| 3 | A motivação ou o valor da história para o usuário está explicada na história? | Sim | - |
+| 4 | A história é escrita de forma sucinta, em um único cartão? | Sim | - |
+| 5 | A história possui critérios de aceitação definidos? | Sim | - |
+| 6 | A história é independente de outras histórias? | Sim | - |
+| 7 | A descrição da história captura o objetivo do que é desejado? | Sim | - |
+| 8 | A história fornece informações suficientes para estimativas de implementação? | Sim | - |
+| 9 | A história é clara o suficiente para que testes possam ser definidos com base nos critérios de aceitação? | Sim | - |
+| 10 | A história foi validada com feedback dos usuários? | Não | Não é especificado se foi validada |
+| 11 | Os critérios de aceitação são claros e mensuráveis? | Sim | - |
+
+**Autor:** [Bruno Araújo](https://github.com/brunocva)
+
+</center>
+
+</details>
+
+<details>
   <summary size="20"><b> US04 - Iago </b></summary> 
 
 <center>
@@ -163,6 +191,34 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 
 <center>
 
+<details>
+  <summary size="20"><b> US09 - Bruno </b></summary> 
+
+<center>
+
+**Tabela 9:** US09
+
+
+| ID | Pergunta da Verificação | Resposta | Observação |
+|----|------------------------|-----------------------|------------|
+| 1 | A história de usuário está definida quanto a quem é o usuário-alvo? | Sim | - |
+| 2 | A funcionalidade desejada está descrita na história? | Sim | - |
+| 3 | A motivação ou o valor da história para o usuário está explicada na história? | Sim | - |
+| 4 | A história é escrita de forma sucinta, em um único cartão? | Sim | - |
+| 5 | A história possui critérios de aceitação definidos? | Sim | - |
+| 6 | A história é independente de outras histórias? | Sim | - |
+| 7 | A descrição da história captura o objetivo do que é desejado? | Sim | - |
+| 8 | A história fornece informações suficientes para estimativas de implementação? | Sim | - |
+| 9 | A história é clara o suficiente para que testes possam ser definidos com base nos critérios de aceitação? | Sim | - |
+| 10 | A história foi validada com feedback dos usuários? | Não | Não é especificado se foi validada |
+| 11 | Os critérios de aceitação são claros e mensuráveis? | Sim | - |
+
+**Autor:** [Bruno Araújo](https://github.com/brunocva)
+
+</center>
+
+</details>
+
 **Tabela 3:** US11
 
 
@@ -236,6 +292,34 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 | 11 | Os critérios de aceitação são claros e mensuráveis? | Sim | - |
 
 **Autor:** [Luana Medeiros](https://github.com/LuaMedeiros)
+
+</center>
+
+</details>
+
+<details>
+  <summary size="20"><b> US16 - Bruno </b></summary> 
+
+<center>
+
+**Tabela 16:** US16
+
+
+| ID | Pergunta da Verificação | Resposta | Observação |
+|----|------------------------|-----------------------|------------|
+| 1 | A história de usuário está definida quanto a quem é o usuário-alvo? | Sim | - |
+| 2 | A funcionalidade desejada está descrita na história? | Sim | - |
+| 3 | A motivação ou o valor da história para o usuário está explicada na história? | Sim | - |
+| 4 | A história é escrita de forma sucinta, em um único cartão? | Sim | - |
+| 5 | A história possui critérios de aceitação definidos? | Sim | - |
+| 6 | A história é independente de outras histórias? | Sim | - |
+| 7 | A descrição da história captura o objetivo do que é desejado? | Sim | - |
+| 8 | A história fornece informações suficientes para estimativas de implementação? | Sim | - |
+| 9 | A história é clara o suficiente para que testes possam ser definidos com base nos critérios de aceitação? | Sim | - |
+| 10 | A história foi validada com feedback dos usuários? | Não | Não é especificado se foi validada |
+| 11 | Os critérios de aceitação são claros e mensuráveis? | Sim | - |
+
+**Autor:** [Bruno Araújo](https://github.com/brunocva)
 
 </center>
 
@@ -367,4 +451,6 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 | 1.2 | Adição da avaliação US04, US11 e US18 |  Iago Passaglia  | Pedro Izarias | 10/06/2024 |
 | 1.3 | Adição da avaliação US07 |  Pedro Izarias  | Iago Passaglia | 10/06/2024 |
 | 1.4 | Adição da avaliação US06, US13 e US20 |  Luana Medeiros  | Larissa Stéfane | 10/06/2024 |
+| 1.5 | Adição da avaliação US05, US12 e US19 |  Larissa Stéfane  | Bruno Araújo | 10/06/2024 |
+| 1.6 | Adição da avaliação US02, US09 e US16 |  Bruno Araújo  | - | 10/06/2024 |
 | 1.5 | Adição da avaliação US05, US12 e US19 |  Larissa Stéfane  | - | 10/06/2024 |
