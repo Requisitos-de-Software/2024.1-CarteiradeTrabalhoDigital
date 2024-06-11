@@ -53,23 +53,23 @@ A tabela 2 apresenta a lista de avaliação da técnica de Observação preenchi
 
 **Tabela 2:** Lista de avaliação para a técnica de observação.
 
-| ID  | Pergunta                                                                                                | Resposta      |
-| --- | ------------------------------------------------------------------------------------------------------- | ------------- |
-| 1   | O documento descreve a metodologia de observação utilizada (passiva, participativa, etc.)?              | |
-| 2   | O documento explica os critérios para selecionar os cenários e tarefas observados?                      |  |
-| 3   | O documento detalha como foram registradas as observações (anotações, gravações, etc.)?                 |  |
-| 4   | O documento inclui uma descrição dos comportamentos e interações observados?                            | |
-| 5   | O documento identifica discrepâncias entre o comportamento esperado e o comportamento observado?        |  | 
-| 6   | O documento apresenta insights ou descobertas relevantes obtidos durante a observação?                  |  |
-| 7   | O documento discute como as descobertas da observação foram traduzidas em requisitos de software?       |  |
-| 8   | O documento menciona se houve a validação das observações com os participantes?                         |  |
-| 9   | O documento contém exemplos específicos de como as observações impactaram o design do sistema?          | |
-| 10  | O documento apresenta uma análise de pontos críticos ou gargalos identificados durante a observação?    |  |
-| 11  | O documento descreve as condições ambientais e contextuais durante a observação?                        |  |
-| 12  | O documento inclui uma avaliação da eficácia da técnica de observação utilizada?                        |  |
-| 13  | O documento menciona limitações da observação e como foram mitigadas?                                   | |
-| 14  | O documento descreve como as observações foram revisadas e integradas com outros métodos de elicitação? |  |
-| 15  | O documento apresenta um resumo das principais lições aprendidas durante o processo de observação?      | |
+| ID  | Pergunta                                                                                                | Resposta             |
+| --- | ------------------------------------------------------------------------------------------------------- | -------------------- |
+| 1   | O documento descreve a metodologia de observação utilizada (passiva, participativa, etc.)?              | Sim                  |
+| 2   | O documento explica os critérios para selecionar os cenários e tarefas observados?                      | Não foram explicados |
+| 3   | O documento detalha como foram registradas as observações (anotações, gravações, etc.)?                 | Sim                  |
+| 4   | O documento inclui uma descrição dos comportamentos e interações observados?                            | Não inclui           |
+| 5   | O documento identifica discrepâncias entre o comportamento esperado e o comportamento observado?        | Não identifica       | 
+| 6   | O documento apresenta insights ou descobertas relevantes obtidos durante a observação?                  | Não                  |
+| 7   | O documento discute como as descobertas da observação que foram traduzidas em requisitos de software?   | Não discute          |
+| 8   | O documento menciona se houve a validação das observações com os participantes?                         | Não                  |
+| 9   | O documento contém exemplos específicos de como as observações impactaram o design do sistema?          | Não                  |
+| 10  | O documento apresenta uma análise de pontos críticos ou gargalos identificados durante a observação?    | Não                  |
+| 11  | O documento descreve as condições ambientais e contextuais durante a observação?                        | Incompleto           |
+| 12  | O documento inclui uma avaliação da eficácia da técnica de observação utilizada?                        | Não inclui           |
+| 13  | O documento menciona limitações da observação e como foram mitigadas?                                   | Não menciona         |
+| 14  | O documento descreve como as observações foram revisadas e integradas com outros métodos de elicitação? | Não descreve         |
+| 15  | O documento apresenta um resumo das principais lições aprendidas durante o processo de observação?      | Não apresenta        |
 
 <b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
