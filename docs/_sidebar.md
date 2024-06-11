@@ -70,7 +70,7 @@
   - [Cenários](/modelagem/cenarios.md)
   - [Léxico](/modelagem/lexico.md)
   - [Desenvolvimento do Diagrama de caso de Uso](/ignore/IgnoreDiagramaCasoUso.md)
-  - [Caso de uso](/modelagem/casoDeUso.md)
+  - [Caso de uso](/modelagem/casoDeUso.md)z
   - [Especificação Suplementar](/modelagem/especSuplementar.md)
 
 * Modelagem - Ágil
@@ -102,6 +102,7 @@
         - [Cenários](verificacao/grupo3/entrega3/cenarios.md)
         - [Léxicos](verificacao/grupo3/entrega3/lexicos.md)
         - [Casos de uso](verificacao/grupo3/entrega3/casosDeUso.md)
+        - [Validação dos Casos de Uso](/verificacao/grupo3/entrega3/validacaoCasosDeUso.md)
         * Especificação sumplementar
           - [Confiabilidade](verificacao/grupo3/entrega3/especSuplementar/Confiabilidade.md)
           - [Suportabilidade](verificacao/grupo3/entrega3/especSuplementar/Suportabilidade.md)
