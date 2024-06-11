@@ -453,4 +453,3 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 | 1.4 | Adição da avaliação US06, US13 e US20 |  Luana Medeiros  | Larissa Stéfane | 10/06/2024 |
 | 1.5 | Adição da avaliação US05, US12 e US19 |  Larissa Stéfane  | Bruno Araújo | 10/06/2024 |
 | 1.6 | Adição da avaliação US02, US09 e US16 |  Bruno Araújo  | - | 10/06/2024 |
-| 1.5 | Adição da avaliação US05, US12 e US19 |  Larissa Stéfane  | - | 10/06/2024 |
