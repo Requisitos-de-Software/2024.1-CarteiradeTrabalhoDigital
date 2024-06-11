@@ -142,6 +142,32 @@ Tabela 1: Lista de verificação do artefato Backlog do Produto
 
 </details>
 
+<details>
+  <summary size="20"><b> Serviços de pagamento e importação - Pedro </b></summary> 
+
+<center>
+
+**Tabela 6:** Serviços de pagamento e importação
+
+
+| ID                 | Pergunta                                                                 | Resposta | Observações |
+|--------------------|--------------------------------------------------------------------------|----------|------------|
+| 1                  | No artefato há uma explicação do método utilizado ?                     | Sim      | -          |
+| 2                  | Há validação do Backlog realizada por um Product Owner ?                | Sim      |            |
+| 3                  | Os tópicos estão subdivididos em Temas, Épicos e Histórias ?           | Sim      | -          |
+| 4                  | Os Temas, Épicos e Histórias estão de claro entendimento ?             | Sim      | -          |
+| 5                  | As histórias de usuário estão devidamente identificadas (Possuem ID próprio) ? | Sim  | -          |
+| 6                  | As Histórias possuem Rastreabilidade do requisito em que foi inspirada ? | Não     | -          |
+| 7                  | As histórias estão descritas no formato de história de usuário ?        | Sim      |            |
+| 8                  | O artefato está linkado com o artefato de Histórias de usuário ?        | Sim      |            |
+
+
+**Autor:** [Pedro Izarias](https://github.com/Izarias)
+
+</center>
+
+</details>
+
 ## Conclusão e Observações
 
 
