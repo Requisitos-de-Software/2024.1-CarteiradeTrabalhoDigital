@@ -110,4 +110,5 @@ Tabela 1: Lista de verificação do artefato Backlog do Produto
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do documento                | Caio Mesquita   | Bruno Araújo | 09/06/2024 |
-| 1.1    | Adição da avaliação  de Notificações e Alertas | Luana Medeiros  | - | 10/06/2024 |
+| 1.1    | Adição da avaliação  de Notificações e Alertas | Luana Medeiros  | Iago Passaglia | 10/06/2024 |
+| 1.2    | Adição da avaliação  de Envio de encomendas | Iago Passaglia  | Pedro Izarias | 10/06/2024 |
