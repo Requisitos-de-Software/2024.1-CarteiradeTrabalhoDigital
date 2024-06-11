@@ -185,6 +185,6 @@ Tabela 1: Lista de verificação do artefato Backlog do Produto
 | 1.0    | Criação do documento                | Caio Mesquita   | Bruno Araújo | 09/06/2024 |
 | 1.1    | Adição da avaliação  de Notificações e Alertas | Luana Medeiros  | Iago Passaglia | 10/06/2024 |
 | 1.2    | Adição da avaliação  de Envio de encomendas | Iago Passaglia  | Pedro Izarias | 10/06/2024 |
-| 1.3   | Adição da avaliação  de Suporte e ajuda ao usuário | Bruno Araújo | -- | 10/06/2024 |
-| 1.4   | Adição da avaliação de Rastreamento de encomendas | Breno Alexandre | -- | 10/06/2024 |
+| 1.3   | Adição da avaliação  de Suporte e ajuda ao usuário | Bruno Araújo | Pedro Izarias | 10/06/2024 |
+| 1.4   | Adição da avaliação de Rastreamento de encomendas | Breno Alexandre | Pedro Izarias | 10/06/2024 |
 | 1.4   | Adição da avaliação do Serviços de pagamento e importação| Pedro Izarias | -- | 10/06/2024 |
