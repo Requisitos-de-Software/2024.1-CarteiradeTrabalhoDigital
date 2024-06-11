@@ -48,20 +48,32 @@ A tabela 2 apresenta a lista de verificação da técnica de Brainstorm.
 
 | ID | Pergunta de Verificação | Sim/Não/Incompleto |
 | -- | ----------------------- | ------------------ |
-| 1  | As sessões envolveram entre 8 e 12 usuários?                                                           | |
-| 2  | Os usuários tem perfis semelhante?                                                                     | |
-| 3  | Teve um moderador para guiar as sessões?                                                               | |
-| 4  | Os termos de consentimento foram concordados pelos entrevistados?                                      | |
-| 5  | No início das sessões, os participantes foram informados sobre o objetivo e procedimento da atividade? | |
-| 6  | Foi feita uma pergunta inicial para guiar os entrevistados?                                            | |
-| 7  | As sugestões dos entrevistados foram anotadas?                                                         | |
-| 8  | Os requisitos foram elicitados a partir das sugestões?                                                 | |
-| 9  | Os requisitos são testáveis?                                                                           | |
+| 1  | As sessões envolveram entre 8 e 12 usuários?                                                           | Não|
+| 2  | Os usuários tem perfis semelhante?                                                                     | Sim |
+| 3  | Teve um moderador para guiar as sessões?                                                               | Sim |
+| 4  | Os termos de consentimento foram concordados pelos entrevistados?                                      |Incompleto |
+| 5  | No início das sessões, os participantes foram informados sobre o objetivo e procedimento da atividade? | Sim |
+| 6  | Foi feita uma pergunta inicial para guiar os entrevistados?                                            | Sim |
+| 7  | As sugestões dos entrevistados foram anotadas?                                                         | Sim  |
+| 8  | Os requisitos foram elicitados a partir das sugestões?                                                 |Sim |
+| 9  | Os requisitos são testáveis?                                                                           |Incompleto|
 
 <b> Autor: </b> <a href="https://github.com/Caiomesvie"> Caio Mesquita </a>.
 
 ## Conclusão e Observações
  
+ #### ID01
+As sessões tiveram apenas 4 participantes.
+
+#### ID04 
+Não fica explícito se os usuários concordaram com o termo de conscentimento.
+
+#### ID09 
+Alguns requisitos não podem ser testados como o requisito de id BS36 ou BS37.
+
+
+Após o processo de verificação, foi notado que o processo técnico do brainstorm não foi bem executado, visto que não foi realizado em grupo, não houve a abertura de câmeras e foi realizado com poucas pessoas.
+
 ## Referências Bibliográficas
 
 1. <b> SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA </b>, Interação Humano-Computador, 1a.
@@ -72,4 +84,5 @@ Edição, Editora Campus, 2010. (Versão grátis disponível em: https://leanpub
 
 | Versão | Alteração                       | Responsável     | Revisor | Data       |
 | ------ | ------------------------------- | --------------- | ------- | ---------- |
-| 1.0    | Adição da tabela de verificação | Breno Alexandre | -       | 10/06/2024 |
+| 1.0    | Adição da tabela de verificação | Breno Alexandre |Caio Mesquita      | 10/06/2024 |
+| 1.1    | Realização do processo de verificação | Caio Mesquita   |  Breno Alexandre  | 10/06/2024 |
