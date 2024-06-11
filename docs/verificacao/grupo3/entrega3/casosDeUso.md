@@ -144,22 +144,21 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 
 ### Tabela 5: Tabela de verificação para Rastrear encomendas
 
-| Número da Pergunta | Pergunta                                                                 | Resposta |
-|--------------------|--------------------------------------------------------------------------|----------|
-| 1                  | O caso de uso está descrito de forma clara e precisa, evitando ambiguidades? |          |
-| 2                  | O caso de uso possui um identificador único e um nome descritivo?         |          |
-| 3                  | Os atores que interagem com o sistema estão claramente identificados e descritos? |          |
-| 4                  | O objetivo ou finalidade do caso de uso está claramente definido?         |          |
-| 5                  | As pré-condições (estado do sistema antes do início do caso de uso) estão claramente descritas? |          |
-| 6                  | As pós-condições (estado do sistema após a execução do caso de uso) estão claramente descritas? |          |
-| 7                  | O fluxo principal de eventos (caminho básico) está detalhado de forma sequencial e lógica? |          |
-| 8                  | Existem fluxos alternativos ou secundários descritos para situações excepcionais ou variantes do fluxo principal? |          |
-| 9                  | Existem fluxos de exceção claramente descritos para lidar com erros ou condições inesperadas? |          |
-| 10                 | Todos os elementos do caso de uso estão devidamente documentados (título, descrição, atores, pré-condições, pós-condições, fluxos, etc.)? |          |
-
+| Número da Pergunta | Pergunta | Resposta Sim/Não/Incompleto | Observação |
+|-------------------|----------|-----------------------------|------------|
+| 1 | O caso de uso está descrito de forma clara e precisa, evitando ambiguidades? | Sim | A descrição é clara e precisa. |
+| 2 | O caso de uso possui um identificador único e um nome descritivo? | Sim | Identificador: UC06, Nome: Rastrear Encomendas. |
+| 3 | Os atores que interagem com o sistema estão claramente identificados e descritos? | Sim | O ator "Usuário" está identificado. |
+| 4 | O objetivo ou finalidade do caso de uso está claramente definido? | Sim | O objetivo de rastrear encomendas está claramente definido. |
+| 5 | As pré-condições (estado do sistema antes do início do caso de uso) estão claramente descritas? | Sim | As pré-condições são claramente descritas. |
+| 6 | As pós-condições (estado do sistema após a execução do caso de uso) estão claramente descritas? | Sim | A pós-condição está claramente descrita. |
+| 7 | O fluxo principal de eventos (caminho básico) está detalhado de forma sequencial e lógica? | Sim | O fluxo principal está detalhado de forma sequencial e lógica. |
+| 8 | Existem fluxos alternativos ou secundários descritos para situações excepcionais ou variantes do fluxo principal? | Sim | Existem fluxos alternativos descritos. |
+| 9 | Existem fluxos de exceção claramente descritos para lidar com erros ou condições inesperadas? | Sim | Existem fluxos de exceção descritos. |
+| 10 | Todos os elementos do caso de uso estão devidamente documentados (título, descrição, atores, pré-condições, pós-condições, fluxos, etc.)? | Sim | Todos os elementos estão devidamente documentados. |
 <br>
 
-Autor: [Iago Passaglia](https://github.com/paxxaglia)
+Autor: [Bruno Araújo](https://github.com/brunocva)
 
 </details>
 
@@ -222,5 +221,6 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 | Versão | Descrição                     | Autor           | Revisor | Data       |
 |--------|-------------------------------|-----------------|------------|---------|
 | 1.0    | Adição de introdução, metodologia e tabela de avaliação | Iago Passaglia  | Bruno Araújo | 09/06/2024 |
-| 1.1    | Adição da avaliação do caso de uso de Realizar compras na loja online| Luana Medeiros  | - | 10/06/2024 |
-| 1.2    | Adição da avaliação do caso de uso de Calcular preços e prazos de entrega | Larissa Stéfane  | - | 10/06/2024 |
+| 1.1    | Adição da avaliação do caso de uso de Realizar compras na loja online| Luana Medeiros  | Bruno Araújo | 10/06/2024 |
+| 1.2    | Adição da avaliação do caso de uso de Calcular preços e prazos de entrega | Larissa Stéfane  | Bruno Araújo| 10/06/2024 |
+| 1.3| Adição da avaliação do caso de uso Rastrear Encomendas | Bruno Araújo  | -- | 10/06/2024 |
