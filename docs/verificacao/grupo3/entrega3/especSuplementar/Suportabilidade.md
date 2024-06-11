@@ -22,6 +22,34 @@ Foi confeccionado uma lista de verificação em formato de checklist, que se enc
 <center>
 Tabela 1: Lista de verificação para suportabilidade
 
+<br>
+
+|ID|Pergunta|Rastreabilidade|Resposta <br> (sim/não/incompleto)|
+|-|-|-|-|
+|01|Os requisitos possuem rastreabilidade ?|Autor|-|
+|02|Os requisitos podem ser testados ?|Autor|-|
+|03|Há requisitos que dizem respeito sobre quais plataformas devem suportar o aplicativo ?|Autor|-|
+|04|Há requisitos que dizem respeito a realizar testes no aplicativo ?|Autor|-|
+|05|Há requisitos que dizem respeito a compatibilidade do aplicativo com determinados aparelhos ?|Autor| - |
+|06|Há requisitos que dizem respeito da manutenção do aplicativo ao longo do seu ciclo de vida ?|Autor|-|
+|07|Há requisitos que dizem respeito do processo de obtenção/instalação do aplicativo no aparelho do usuário ?|Autor|-|
+|08|Há requisitos que dizem respeito a adptabilidade do aplicativo em diferentes tipos de tela ?|Autor|-|
+|09|Há uma explicação do uso deste tópico ?|Autor|-|
+
+<br>
+
+Autor: [Caio Mesquita](https://github.com/Caiomesvie)
+
+</center>
+
+## Avaliação
+A seguir a tabela 2 com a avaliação do tópico de suportabilidade
+
+<br>
+<center>
+
+Tabela 2: Lista de verificação para suportabilidade realizada
+
 |ID|Pergunta|Rastreabilidade|Resposta <br> (sim/não/incompleto)|
 |-|-|-|-|
 |01|Os requisitos possuem rastreabilidade ?|Autor|Sim|
@@ -35,11 +63,9 @@ Tabela 1: Lista de verificação para suportabilidade
 |09|Há uma explicação do uso deste tópico ?|Autor|Sim|
 
 
-Autor: [Caio Mesquita]()
+Autor: [Pedro Izarias](https://github.com/Izarias)
 
 </center>
-
-## Avaliação
 
 ## Bibliografia
 
