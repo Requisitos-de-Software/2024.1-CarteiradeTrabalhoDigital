@@ -76,7 +76,7 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 </details>
 
 <details>
-  <summary size="20"><b> US04 </b></summary> 
+  <summary size="20"><b> US11 </b></summary> 
 
 <center>
 
@@ -104,7 +104,7 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 </details>
 
 <details>
-  <summary size="20"><b> US04 </b></summary> 
+  <summary size="20"><b> US18 </b></summary> 
 
 <center>
 
@@ -139,5 +139,6 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Adição da tabela de verificação | Larissa Stéfane | - | 09/06/2024 |
-| 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | - | 09/06/2024 |
+| 1.0 | Adição da tabela de verificação | Larissa Stéfane | Iago Passaglia | 09/06/2024 |
+| 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | Iago Passaglia | 09/06/2024 |
+| 1.2 | Adição da avaliação US04, US11 e US18 |  Iago Passaglia  | Pedro Izarias | 10/06/2024 |
