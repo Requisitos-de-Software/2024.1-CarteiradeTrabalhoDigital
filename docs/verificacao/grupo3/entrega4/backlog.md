@@ -43,6 +43,33 @@ Tabela 1: Lista de verificação do artefato Backlog do Produto
 
 ## Avaliação
 
+<details>
+  <summary size="20"><b> Envio de encomendas </b></summary> 
+
+<center>
+
+**Tabela 2:** Envio de encomendas 
+
+
+|ID|Pergunta|Resposta(sim/não/incompleto)|Observação|
+|-|-|-|-|
+|01|No artefato há uma explicação do método utilizado ?| Sim |-|
+|02|Há validação do Backlog realizada por um Product Owner ?| Não |Não é possível encontrar informações sobre validação no documento|
+|03|Os tópicos estão subdivididos em Temas, Épicos e Histórias ?| Sim |-|
+|04|OS Temas, Épicos e HIstórias estão de claro entendimento ?| Sim |-|
+|05|As histórias de usuário estão devidamente identificadas (Possuem ID próprio) ?| Sim |-|
+|06|As Histórias possuem Rastreabilidade do requisito em que foi inspirada ?| Sim |-|
+|07|As histórias estão descritas no formato de história de usuário ? ("EU, como usuário, gostaria de etc.")| Não | Apenas estão descritas a ação que se deseja fazer|
+|08|O artefato está linkado com o artefato de Histórias de usuário ?| Não |-|
+
+
+**Autor:** [Iago Passaglia](https://github.com/Paxxaglia)
+
+</center>
+
+</details>
+
+
 ## Conclusão e Observações
 
 
