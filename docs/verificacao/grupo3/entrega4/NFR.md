@@ -101,7 +101,9 @@ A tabela 2 mostra a lista de verificação dos SIGs.
 
 </details>
 
-### Desempenho
+<details>
+  <summary size="20"><b> Desempenho - Pedro Izarias  </b></summary> 
+<center>
 
 **Tabela 4: Desempenho**
 
@@ -120,6 +122,11 @@ A tabela 2 mostra a lista de verificação dos SIGs.
 | 11 | Os critérios de aceitação estão alinhados com os objetivos do requisito? | Sim | Critérios de aceitação estão alinhados com as descrições dos requisitos. |
 
 **Autor:** [Pedro Izarias](https://github.com/Izarias)
+
+</center>
+
+</details>
+
 
 ## Conclusão e Observações
 
