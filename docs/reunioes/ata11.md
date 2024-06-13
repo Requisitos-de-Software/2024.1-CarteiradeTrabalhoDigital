@@ -69,13 +69,39 @@ Tabela 3. Issues Sprint atual.
 | Identificador (Issue n) | Issue                                                                     | Integrante(s) responsável(eis)                   | Data de entrega |
 | ----------------------- | ------------------------------------------------------------------------- | ------------------------------------------------ | --------------- |
 | Issue 1                 | Realizar a Ata da reunião                                                 | Breno Alexandre                                  | 13/06/2024      |
-
+| Issue 2                 | 
 
 <b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
 </center>
 
 # AVISOS
+
+### **RNF**
+breno
+1, 2, 3, 4, 5, 6, 7, 8
+
+bruno
+9, 10, 11, 12, 13, 14, 15
+
+caio
+16, 17, 18, 20, 21, 22, 23, 24
+
+iago
+25
+
+### **RF**
+iago
+1, 2, 3, 4, 5, 6
+
+larissa
+7, 8, 9, 10, 11, 12, 13, 14
+
+luana
+15, 16, 17, 18, 19, 20, 21
+
+pedro
+22, 23, 24, 25, 26, 27, 28
 
 
 ## Histórico de Versão
