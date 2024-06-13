@@ -115,12 +115,10 @@
         - [Validação das Histórias de usuário](verificacao/grupo3/entrega4/validacaoHistoriasUsuario.md)
         - [NFR Framework](verificacao/grupo3/entrega4/NFR.md)
 
-
-<!-- 
-
 * Pós-Rastreabilidade 
   - [Foward-From](/docs/posRastreabilidade/fowardFrom.md)
   - [Backward-From](/docs/posRastreabilidade/backwardFrom.md)
   - [Matriz de Rastreabilidade](/docs/posRastreabilidade/matriz.md)
 
+<!-- 
 * Entrega final --> 
