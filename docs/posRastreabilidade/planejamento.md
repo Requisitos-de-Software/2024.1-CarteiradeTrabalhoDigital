@@ -7,21 +7,21 @@ Este documento servirá apenas como guia de apoio para o grupo desenvolver suas 
 ## Objetivo
 
 Serão desenvolvidos os artefatos necessários para a entrega de Pós-Rastreabilidade, que são:
-- [Backward From](/posRastrabilidade/backwardFrom.md)[¹](#Referências-Bibliográficas)
-- [Foward From](/posRastrabilidade/fowardFrom.md)[²](#Referências-Bibliográficas)
-- [Matriz de Rastreabilidade](/posRastrabilidade/matriz.md)[³](#Referências-Bibliográficas)
+- [Backward From](/posRastreabilidade/backwardFrom.md) [¹](#Referências-Bibliográficas)
+- [Forward From](/posRastreabilidade/forwardFrom.md) [²](#Referências-Bibliográficas)
+- [Matriz de Rastreabilidade](/posRastreabilidade/matriz.md) [³](#Referências-Bibliográficas)
 
 ## Metodologia
 
-Tendo em mente suas respectivas [funcionalidades](#Divisão-das-tarefas), cada membro desenvolverá os 3 artefatos mencionados acima de forma parecida. Para desenvolver as tarefas, uma boa referência que pode ser utilizada são os artefatos: [Backward From](https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/backward_from/)[⁴](#Referências-Bibliográficas), [Foward From](https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/forward_from/)[⁵](#Referências-Bibliográficas) e [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/matriz-de-rastreabilidade/)[⁶](#Referências-Bibliográficas), do projeto Economia DF do semestre 2023.2.
+Tendo em mente suas respectivas [funcionalidades](#Divisão-das-funcionalidades), cada membro desenvolverá os 3 artefatos mencionados acima de forma parecida. Para desenvolver as tarefas, uma boa referência que pode ser utilizada são os artefatos: [Backward From](https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/backward_from/) [⁴](#Referências-Bibliográficas), [Foward From](https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/forward_from/) [⁵](#Referências-Bibliográficas) e [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/matriz-de-rastreabilidade/) [⁶](#Referências-Bibliográficas), do projeto Economia DF do semestre 2023.2.
 
-## Divisão das tarefas
+## Divisão das funcionalidades
 
-Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
+Estão descritas na Tabela 1 as issues para a etapa atual, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
 
 <center>
 
-<b>Tabela 1:</b> Issues Sprint atual.
+<b>Tabela 1:</b> Divisão das funcionalidades.
 
 | Identificador (Issue n) | Issue                          | Integrante responsável |
 | ----------------------- | ------------------------------ | ---------------------- |
@@ -42,6 +42,14 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 </center>
 
 ## Referências Bibliográficas
+
+1. <b>RASTREABILIDADE BACKWARD FROM</b>. Disponível em: https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/posRastreabilidade/backwardFrom.md. Acesso em: 13 jun. 2024;
+2. <b>RASTREABILIDADE FORWARD FROM</b>. Disponível em: https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/posRastreabilidade/fowardFrom.md. Acesso em: 13 jun. 2024;
+3. <b>MATRIZ DE RASTREABILIDADE</b>. Disponível em: https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/posRastreabilidade/matriz.md. Acesso em: 13 jun. 2024;
+
+4. <b>BACKWARD-FROM</b>. Disponível em: https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/backward_from/. Acesso em: 13 jun. 2024;
+5. <b>FORWARD FROM</b>. Disponível em: https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/forward_from/. Acesso em: 13 jun. 2024;
+6. <b>MATRIZ DE RASTREABILIDADE</b>. Disponível em: https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/matriz-de-rastreabilidade/. Acesso em: 13 jun. 2024;
 
 
 ## Histórico de Versão
