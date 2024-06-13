@@ -7,9 +7,9 @@ Este documento servirá apenas como guia de apoio para o grupo desenvolver suas 
 ## Objetivo
 
 Serão desenvolvidos os artefatos necessários para a entrega de Pós-Rastreabilidade, que são:
-- [Backward From](/posRastreabilidade/backwardFrom.md) [¹](#Referências-Bibliográficas)
-- [Forward From](/posRastreabilidade/forwardFrom.md) [²](#Referências-Bibliográficas)
-- [Matriz de Rastreabilidade](/posRastreabilidade/matriz.md) [³](#Referências-Bibliográficas)
+- [Backward From](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/posRastreabilidade/backwardFrom.md) [¹](#Referências-Bibliográficas)
+- [Forward From](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/posRastreabilidade/forwardFrom.md) [²](#Referências-Bibliográficas)
+- [Matriz de Rastreabilidade](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/posRastreabilidade/matriz.md) [³](#Referências-Bibliográficas)
 
 ## Metodologia
 
@@ -44,7 +44,7 @@ Estão descritas na Tabela 1 as issues para a etapa atual, onde cada issue tem o
 ## Referências Bibliográficas
 
 1. <b>RASTREABILIDADE BACKWARD FROM</b>. Disponível em: https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/posRastreabilidade/backwardFrom.md. Acesso em: 13 jun. 2024;
-2. <b>RASTREABILIDADE FORWARD FROM</b>. Disponível em: https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/posRastreabilidade/fowardFrom.md. Acesso em: 13 jun. 2024;
+2. <b>RASTREABILIDADE FORWARD FROM</b>. Disponível em: https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/posRastreabilidade/forwardFrom.md. Acesso em: 13 jun. 2024;
 3. <b>MATRIZ DE RASTREABILIDADE</b>. Disponível em: https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/posRastreabilidade/matriz.md. Acesso em: 13 jun. 2024;
 
 4. <b>BACKWARD-FROM</b>. Disponível em: https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/backward_from/. Acesso em: 13 jun. 2024;
