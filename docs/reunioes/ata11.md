@@ -69,6 +69,7 @@ Tabela 3. Issues Sprint atual.
 | Identificador (Issue n) | Issue                                                                     | Integrante(s) responsável(eis)                   | Data de entrega |
 | ----------------------- | ------------------------------------------------------------------------- | ------------------------------------------------ | --------------- |
 | Issue 1                 | Realizar a Ata da reunião                                                 | Breno Alexandre                                  | 13/06/2024      |
+
 | Issue 2                 | 
 
 <b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
