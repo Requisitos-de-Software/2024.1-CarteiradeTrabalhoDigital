@@ -116,9 +116,9 @@
         - [NFR Framework](verificacao/grupo3/entrega4/NFR.md)
 
 * Pós-Rastreabilidade 
-  - [Foward-From](/docs/posRastreabilidade/fowardFrom.md)
-  - [Backward-From](/docs/posRastreabilidade/backwardFrom.md)
-  - [Matriz de Rastreabilidade](/docs/posRastreabilidade/matriz.md)
+  - [Backward-From](posRastreabilidade/backwardFrom.md)
+  - [Foward-From](posRastreabilidade/forwardFrom.md)
+  - [Matriz de Rastreabilidade](posRastreabilidade/matriz.md)
 
 <!-- 
 * Entrega final --> 
