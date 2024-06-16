@@ -1216,7 +1216,9 @@ Tabela 29: Elos do requisito RF28
 
 ## Referências Bibliográficas
 
+1. CRUZ, Jorge Luiz da; JINO, Mario. Suporte automatizado à rastreabilidade em um processo de teste de software baseado em documentação. CenPRA / Faculdades Hoyler; UNICAMP. Disponível em <https://sol.sbc.org.br/index.php/sbqs/article/view/15615/15458>. Acesso em 16 junho 2024.
 
+2.  Miriam Sayão, Julio Cesar Sampaio do Prado Leite. Monografias em Ciência da Computação n° 20/05 - Rastreabilidade de Requisitos. PUC. Departamento de Informática, PUC-Rio. 2005. Disponível em: <https://www-di.inf.puc-rio.br/~julio/rastre.pdf>. Acesso em 16 junho 2024.
 
 
 ## Histórico de Versão
