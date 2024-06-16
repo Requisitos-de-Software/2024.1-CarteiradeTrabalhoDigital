@@ -319,17 +319,21 @@ Tabela 7: Elos do requisito RF06
   <summary><b> RF07 - Usuário pode gerar PDF com dados da carteira - Larissa Stéfane </b></summary> 
 <center> 
 
-- **Satisfação:** 
+- **Onde foi elicitado**: [Análise de Documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) por meio de [Manual da Carteira de Trabalho Digital](https://empregabrasil.mte.gov.br/wp-content/uploads/2023/02/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf) e [Cartilha da Carteira de Trabalho Digital](https://www.focuscontabil.com/wp-content/uploads/2020/05/Cartilha-CTP-Digital-02.pdf).
 
-- **Recurso:** 
+- **Descrição**: Esse requisito estabelece que o usuário deve ser capaz de gerar um arquivo PDF contendo os dados de sua Carteira de Trabalho Digital. Assim, o arquivo de PDF pode incluir informações sobre contratos de trabalho, dados pessoais, e outras movimentações profissionais. Além disso, o PDF gerado deve poder ser baixado, enviado por e-mail, ou impresso.
 
-- **Responsabilidade:** 
+- **Ambiental**: O contexto do requisito está relacionado à necessidade dos usuários de acessar e compartilhar facilmente suas informações trabalhistas.
+- A funcionalidade deve permitir que os usuários gerem um PDF que inclui dados como detalhes de seus vínculos empregatícios e outras movimentações.
+- Este PDF pode ser usado para comprovar experiências profissionais e é uma resposta à demanda por maior portabilidade de informações.
 
-- **Representação:** .
+- **Organizacional:**  Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de fornecer um serviço digital acessível que auxilia na coordenação e no manejo de informações por parte do usuário. Isso porque essa funcionalidade apoia a estratégia de digitalizar os processos e melhorar a usabilidade dos serviços oferecidos.
+- A capacidade de gerar PDFs com dados da Carteira de Trabalho Digital facilita a vida dos usuários trabalhadores ao permitir que eles verifiquem e compartilhem seus dados.
 
-- **Alocado:** 
+- **Gerencial:** Do ponto de vista gerencial, este requisito indica que será necessário criar um molde com a localização de cada dado quando eles forem recuperados nos bancos de dados quando o pdf for gerado. Assim, ele indica que a gerência deve focar tando na integração do sistema com os bancos de dados e como os usuários visualizarão esses dados.
 
-- **Agregação:** 
+- **Desenvolvimento:**  Durante o desenvolvimento, esse requisito implica na criação de funcionalidades específicas que permitam a exportação dos dados da Carteira de Trabalho Digital em formato PDF. Isso inclui a implementação de um botão ou ícone na interface do usuário para gerar o PDF, bem como a lógica de backend para compilar e formatar os dados corretamente, como foi citado em **geracional**.
+- Os desenvolvedores também precisam garantir que o PDF gerado possa ser baixado e enviado por e-mail ou impresso.
 
 ### Elos de Rastreabilidade
 
@@ -339,16 +343,15 @@ A tabela 8 mostra os elos do requisito RF07.
 
 Tabela 8: Elos do requisito RF07
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO|                                                                                      | -------------- | -----------------  | ----------------------------------------------------- | -------------|
+| Satisfação  | Desenvolvimento   | Documentos que deram origem ao requisito de gerar PDFs. <br> Módulo de Geração de Relatórios. <br> Componente de Manipulação de Dados da Carteira.  | O Módulo de Geração de Relatórios satisfaz o requisito 07, permitindo ao usuário gerar um PDF com os dados atualizados da carteira. |
+| Recurso | Desenvolvimento | Módulo de Geração de Relatórios <br> Biblioteca de Geração de Documentos PDF | O Módulo de Geração de Relatórios utiliza a Biblioteca de Geração de Documentos PDF como recurso para implementar a funcionalidade de geração de contratos em PDF. |
+| Responsabilidade | Gerência de Projeto | Equipe de Desenvolvimento <br> Stakeholders do Projeto | A Equipe de Desenvolvimento e os Stakeholders do Projeto são responsáveis pela definição e pela validação dos requisitos de geração de contratos em PDF. |
+| Representação | Modelagem | Cenário **Exportar Relatório de Vínculos Empregatícios** <br> Cenário **Atualização de Contratos** <br> Diagrama de Casos de Uso <br> Caso de Uso UC03 (Trabalhador acessa detalhes dos contratos de trabalho) <br> Caso de Uso UC07 (Exportar Relatório de Vínculos Empregatícios) | O Diagrama de Casos de Uso, os Casos de Uso UC03 e UC07 representam os  cenários Exportar Relatório de Vínculos Empregatícios e Atualização de Contratos. |
+| Alocado | Desenvolvimento | Subsistema de Geração de Relatórios <br> Serviço de Geração de Documentos <br> História de Usuário HI07 - Como usuário, eu quero emitir contratos em PDF para ter uma cópia digital dos mesmos | O Subsistema de Geração de Relatórios está alocado ao Serviço de Geração de Documentos, que representa a funcionalidade específica de geração de contratos em PDF dentro do sistema, conforme especificado na História de Usuário HI07. |
+| Agregação | Desenvolvimento | Componente de Geração de Relatórios em PDF <br> Serviço de Armazenamento de Contratos <br> Cenário Visualizar aba "Emprego" <br> Cenário “Consultar Seguro Desemprego” | O Cenário de Visualizar aba "Emprego" e Consultar Seguro Desemprego são compostos pelo Componente de Geração de Relatórios em PDF e pelo Serviço de Armazenamento de Contratos, integrando funcionalidades no aplicativo. |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
@@ -1213,3 +1216,4 @@ Tabela 29: Elos do requisito RF28
 | - | - | - | - | - |
 | 1.0 |  Criação do modelo e estrutura  |   Larissa Stéfane  |  -   |  15/06/2024     |
 | 1.1 |  Adição da introdução e da metodologia |   Larissa Stéfane  |  -   |  16/06/2024     |
+| 1.2 |  Adição da rastreabilidade da RF07 |   Larissa Stéfane  |  -   |  16/06/2024     |
