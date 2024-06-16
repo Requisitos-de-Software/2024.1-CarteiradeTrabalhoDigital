@@ -67,6 +67,9 @@ Com base nos Elos acima, os requisitos devem ser definidos com base na tabela 1.
 
 </center>
 
+## Rastreabilidade dos Requisitos Funcionais
+
+
 
 
 
