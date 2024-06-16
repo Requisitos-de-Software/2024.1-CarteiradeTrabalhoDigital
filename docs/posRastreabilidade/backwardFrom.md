@@ -324,16 +324,16 @@ Tabela 7: Elos do requisito RF06
 - **Descrição**: Esse requisito estabelece que o usuário deve ser capaz de gerar um arquivo PDF contendo os dados de sua Carteira de Trabalho Digital. Assim, o arquivo de PDF pode incluir informações sobre contratos de trabalho, dados pessoais, e outras movimentações profissionais. Além disso, o PDF gerado deve poder ser baixado, enviado por e-mail, ou impresso.
 
 - **Ambiental**: O contexto do requisito está relacionado à necessidade dos usuários de acessar e compartilhar facilmente suas informações trabalhistas.
-- A funcionalidade deve permitir que os usuários gerem um PDF que inclui dados como detalhes de seus vínculos empregatícios e outras movimentações.
-- Este PDF pode ser usado para comprovar experiências profissionais e é uma resposta à demanda por maior portabilidade de informações.
+    - A funcionalidade deve permitir que os usuários gerem um PDF que inclui dados como detalhes de seus vínculos empregatícios e outras movimentações.
+    - Este PDF pode ser usado para comprovar experiências profissionais e é uma resposta à demanda por maior portabilidade de informações.
 
 - **Organizacional:**  Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de fornecer um serviço digital acessível que auxilia na coordenação e no manejo de informações por parte do usuário. Isso porque essa funcionalidade apoia a estratégia de digitalizar os processos e melhorar a usabilidade dos serviços oferecidos.
-- A capacidade de gerar PDFs com dados da Carteira de Trabalho Digital facilita a vida dos usuários trabalhadores ao permitir que eles verifiquem e compartilhem seus dados.
+    - A capacidade de gerar PDFs com dados da Carteira de Trabalho Digital facilita a vida dos usuários trabalhadores ao permitir que eles verifiquem e compartilhem seus dados.
 
 - **Gerencial:** Do ponto de vista gerencial, este requisito indica que será necessário criar um molde com a localização de cada dado quando eles forem recuperados nos bancos de dados quando o pdf for gerado. Assim, ele indica que a gerência deve focar tando na integração do sistema com os bancos de dados e como os usuários visualizarão esses dados.
 
 - **Desenvolvimento:**  Durante o desenvolvimento, esse requisito implica na criação de funcionalidades específicas que permitam a exportação dos dados da Carteira de Trabalho Digital em formato PDF. Isso inclui a implementação de um botão ou ícone na interface do usuário para gerar o PDF, bem como a lógica de backend para compilar e formatar os dados corretamente, como foi citado em **geracional**.
-- Os desenvolvedores também precisam garantir que o PDF gerado possa ser baixado e enviado por e-mail ou impresso.
+  - Os desenvolvedores também precisam garantir que o PDF gerado possa ser baixado e enviado por e-mail ou impresso.
 
 ### Elos de Rastreabilidade
 
@@ -343,7 +343,8 @@ A tabela 8 mostra os elos do requisito RF07.
 
 Tabela 8: Elos do requisito RF07
 
-| Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO|                                                                                      | -------------- | -----------------  | ----------------------------------------------------- | -------------|
+| Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO|
+| -------------- | -----------------  | ----------------------------------------------------- | -------------|
 | Satisfação  | Desenvolvimento   | Documentos que deram origem ao requisito de gerar PDFs. <br> Módulo de Geração de Relatórios. <br> Componente de Manipulação de Dados da Carteira.  | O Módulo de Geração de Relatórios satisfaz o requisito 07, permitindo ao usuário gerar um PDF com os dados atualizados da carteira. |
 | Recurso | Desenvolvimento | Módulo de Geração de Relatórios <br> Biblioteca de Geração de Documentos PDF | O Módulo de Geração de Relatórios utiliza a Biblioteca de Geração de Documentos PDF como recurso para implementar a funcionalidade de geração de contratos em PDF. |
 | Responsabilidade | Gerência de Projeto | Equipe de Desenvolvimento <br> Stakeholders do Projeto | A Equipe de Desenvolvimento e os Stakeholders do Projeto são responsáveis pela definição e pela validação dos requisitos de geração de contratos em PDF. |
