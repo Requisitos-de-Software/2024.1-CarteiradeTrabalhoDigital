@@ -69,8 +69,10 @@ Com base nos Elos acima, os requisitos devem ser definidos com base na tabela 1.
 
 ## Rastreabilidade dos Requisitos Funcionais
 
+### RF01 - Usuário se registrar no aplicativo
+
 <details>
-  <summary size="20"><b> RF01 - Usuário se registrar no aplicativo </b></summary> 
+  <summary><b> RF01 - Usuário se registrar no aplicativo </b></summary> 
 <center> 
 
 - **Satisfação:** 
@@ -93,16 +95,62 @@ A tabela 2 mostra os elos do requisito RF01.
 
 Tabela 2: Elos do requisito RF01
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                    |                                           |                                   |
+| Representação  |                    |                                           |                                   |
+| Alocado        |                    |                                           |                                   |
+| Agregação      |                    |                                           |                                   |
 
 <b> Autora: </b> <a href=""> </a>.
-
 
 </center>
 
 </details>
+
+### RF02 - Usuário pode fazer login para entrar na sua página pessoal
+
+<details>
+  <summary><b> RF02 - Usuário pode fazer login para entrar na sua página pessoal </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 3 mostra os elos do requisito RF02.
+
+<center> 
+
+Tabela 3: Elos do requisito RF02
+
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                    |                                           |                                   |
+| Representação  |                    |                                           |                                   |
+| Alocado        |                    |                                           |                                   |
+| Agregação      |                    |                                           |                                   |
+
+<b> Autora: </b> <a href=""> </a>.
+
+</center>
+
+</details>
+
 
 
 ## Referências Bibliográficas
