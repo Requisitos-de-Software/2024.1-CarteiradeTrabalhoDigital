@@ -69,9 +69,40 @@ Com base nos Elos acima, os requisitos devem ser definidos com base na tabela 1.
 
 ## Rastreabilidade dos Requisitos Funcionais
 
+<details>
+  <summary size="20"><b> RF01 - Usuário se registrar no aplicativo </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 2 mostra os elos do requisito RF01.
+
+<center> 
+
+Tabela 2: Elos do requisito RF01
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+
+<b> Autora: </b> <a href=""> </a>.
 
 
+</center>
 
+</details>
 
 
 ## Referências Bibliográficas
