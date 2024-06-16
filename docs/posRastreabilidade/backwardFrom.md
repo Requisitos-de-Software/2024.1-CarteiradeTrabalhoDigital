@@ -496,11 +496,11 @@ Tabela 11: Elos do requisito RF10
 
 ### Elos de Rastreabilidade
 
-A tabela 11 mostra os elos do requisito RF11.
+A tabela 12 mostra os elos do requisito RF11.
 
 <center> 
 
-Tabela 11: Elos do requisito RF11
+Tabela 12: Elos do requisito RF11
 
 | Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
 | -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
@@ -517,7 +517,6 @@ Tabela 11: Elos do requisito RF11
 
 </details>
 
-### RF12 - Usuário trabalhador pode consultar benefícios (13º salário, férias remuneradas, adicional noturno, vale-transporte, vale-refeição, plano de saúde, abono salarial, benefício TAC-Taxista, Seguro Desemprego)
 
 <details>
   <summary><b> RF12 - Usuário trabalhador pode consultar benefícios (13º salário, férias remuneradas, adicional noturno, vale-transporte, vale-refeição, plano de saúde, abono salarial, benefício TAC-Taxista, Seguro Desemprego) </b></summary> 
@@ -537,11 +536,11 @@ Tabela 11: Elos do requisito RF11
 
 ### Elos de Rastreabilidade
 
-A tabela 12 mostra os elos do requisito RF12.
+A tabela 13 mostra os elos do requisito RF12.
 
 <center> 
 
-Tabela 12: Elos do requisito RF12
+Tabela 13: Elos do requisito RF12
 
 | Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
 | -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
@@ -558,7 +557,6 @@ Tabela 12: Elos do requisito RF12
 
 </details>
 
-### RF13 - Usuário trabalhador pode solicitar benefícios
 
 <details>
   <summary><b> RF13 - Usuário trabalhador pode solicitar benefícios </b></summary> 
@@ -578,11 +576,11 @@ Tabela 12: Elos do requisito RF12
 
 ### Elos de Rastreabilidade
 
-A tabela 13 mostra os elos do requisito RF13.
+A tabela 14 mostra os elos do requisito RF13.
 
 <center> 
 
-Tabela 13: Elos do requisito RF13
+Tabela 14: Elos do requisito RF13
 
 | Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
 | -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
@@ -599,7 +597,7 @@ Tabela 13: Elos do requisito RF13
 
 </details>
 
-### RF14 - Usuário trabalhador pode atualizar(declarar) currículo
+
 
 <details>
   <summary><b> RF14 - Usuário trabalhador pode atualizar(declarar) currículo </b></summary> 
@@ -619,11 +617,11 @@ Tabela 13: Elos do requisito RF13
 
 ### Elos de Rastreabilidade
 
-A tabela 14 mostra os elos do requisito RF14.
+A tabela 15 mostra os elos do requisito RF14.
 
 <center> 
 
-Tabela 14: Elos do requisito RF14
+Tabela 15: Elos do requisito RF14
 
 | Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
 | -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
@@ -640,7 +638,6 @@ Tabela 14: Elos do requisito RF14
 
 </details>
 
-### RF15 - Usuário trabalhador pode ativar modo de status (procurando emprego ou não)
 
 <details>
   <summary><b> RF15 - Usuário trabalhador pode ativar modo de status (procurando emprego ou não) </b></summary> 
@@ -660,11 +657,11 @@ Tabela 14: Elos do requisito RF14
 
 ### Elos de Rastreabilidade
 
-A tabela 15 mostra os elos do requisito RF15.
+A tabela 16 mostra os elos do requisito RF15.
 
 <center> 
 
-Tabela 15: Elos do requisito RF15
+Tabela 16: Elos do requisito RF15
 
 | Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
 | -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
@@ -681,7 +678,6 @@ Tabela 15: Elos do requisito RF15
 
 </details>
 
-### RF16 - Usuário trabalhador por verificar processos seletivos abertos
 
 <details>
   <summary><b> RF16 - Usuário trabalhador por verificar processos seletivos abertos </b></summary> 
@@ -701,11 +697,11 @@ Tabela 15: Elos do requisito RF15
 
 ### Elos de Rastreabilidade
 
-A tabela 16 mostra os elos do requisito RF16.
+A tabela 17 mostra os elos do requisito RF16.
 
 <center> 
 
-Tabela 16: Elos do requisito RF16
+Tabela 17: Elos do requisito RF16
 
 | Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
 | -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
@@ -722,7 +718,6 @@ Tabela 16: Elos do requisito RF16
 
 </details>
 
-### RF17 - Usuário pode ocultar dados sensíveis
 
 <details>
   <summary><b> RF17 - Usuário pode ocultar dados sensíveis </b></summary> 
@@ -742,11 +737,11 @@ Tabela 16: Elos do requisito RF16
 
 ### Elos de Rastreabilidade
 
-A tabela 17 mostra os elos do requisito RF17.
+A tabela 18 mostra os elos do requisito RF17.
 
 <center> 
 
-Tabela 17: Elos do requisito RF17
+Tabela 18: Elos do requisito RF17
 
 | Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
 | -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
@@ -763,7 +758,7 @@ Tabela 17: Elos do requisito RF17
 
 </details>
 
-### RF18 - Usuário trabalhador pode consultar o número da carteira e de série como CIPS
+
 
 <details>
   <summary><b> RF18 - Usuário trabalhador pode consultar o número
