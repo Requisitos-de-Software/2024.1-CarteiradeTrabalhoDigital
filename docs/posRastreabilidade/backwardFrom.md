@@ -1224,6 +1224,6 @@ Tabela 29: Elos do requisito RF28
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 |  Criação do modelo e estrutura  |   Larissa Stéfane  |  -   |  15/06/2024     |
-| 1.1 |  Adição da introdução e da metodologia |   Larissa Stéfane  |  -   |  16/06/2024     |
-| 1.2 |  Adição da rastreabilidade da RF07 |   Larissa Stéfane  |  -   |  16/06/2024     |
+| 1.0 |  Criação do modelo e estrutura  |   Larissa Stéfane  |  Bruno Araújo  |  15/06/2024     |
+| 1.1 |  Adição da introdução e da metodologia |   Larissa Stéfane  | Bruno Araújo  |  16/06/2024     |
+| 1.2 |  Adição da rastreabilidade da RF07 |   Larissa Stéfane  |  Bruno Araújo  |  16/06/2024     |
