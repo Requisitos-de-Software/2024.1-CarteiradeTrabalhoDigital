@@ -1079,14 +1079,133 @@ Tabela 26: Elos do requisito RF25
 <b> Autora: </b> <a href=""> </a>.
 
 </center>
+</details>
 
 
+<details>
+  <summary><b> RF26 - Usuário pode gerenciar informações de pagamento de funcionários (salários, bônus, benefícios) </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 27 mostra os elos do requisito RF26.
+
+<center> 
+
+Tabela 27: Elos do requisito RF26
+
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                    |                                           |                                   |
+| Representação  |                    |                                           |                                   |
+| Alocado        |                    |                                           |                                   |
+| Agregação      |                    |                                           |                                   |
+
+<b> Autora: </b> <a href=""> </a>.
+
+</center>
+
+</details>
 
 
+<details>
+  <summary><b> RF27 - Usuário pode acessar relatórios de desempenho e produtividade dos funcionários </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 28 mostra os elos do requisito RF27.
+
+<center> 
+
+Tabela 28: Elos do requisito RF27
+
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                    |                                           |                                   |
+| Representação  |                    |                                           |                                   |
+| Alocado        |                    |                                           |                                   |
+| Agregação      |                    |                                           |                                   |
+
+<b> Autora: </b> <a href=""> </a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RF28 - Usuário pode gerenciar eventos corporativos (reuniões, treinamentos, festas) </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 29 mostra os elos do requisito RF28.
+
+<center> 
+
+Tabela 29: Elos do requisito RF28
+
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                    |                                           |                                   |
+| Representação  |                    |                                           |                                   |
+| Alocado        |                    |                                           |                                   |
+| Agregação      |                    |                                           |                                   |
+
+<b> Autora: </b> <a href=""> </a>.
+
+</center>
+
+</details>
 
 
 
 ## Referências Bibliográficas
+
+
+
 
 ## Histórico de Versão
 
