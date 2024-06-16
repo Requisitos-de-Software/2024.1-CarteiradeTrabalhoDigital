@@ -151,6 +151,326 @@ Tabela 3: Elos do requisito RF02
 
 </details>
 
+### RF03 - Usuário pode consultar suas informações pessoais
+
+<details>
+  <summary><b> RF03 - Usuário pode consultar suas informações pessoais </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 4 mostra os elos do requisito RF03.
+
+<center> 
+
+Tabela 4: Elos do requisito RF03
+
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                    |                                           |                                   |
+| Representação  |                    |                                           |                                   |
+| Alocado        |                    |                                           |                                   |
+| Agregação      |                    |                                           |                                   |
+
+<b> Autora: </b> <a href=""> </a>.
+
+</center>
+
+</details>
+
+### RF04 - Usuário pode atualizar suas informações pessoais
+
+<details>
+  <summary><b> RF04 - Usuário pode atualizar suas informações pessoais </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 5 mostra os elos do requisito RF04.
+
+<center> 
+
+Tabela 5: Elos do requisito RF04
+
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                    |                                           |                                   |
+| Representação  |                    |                                           |                                   |
+| Alocado        |                    |                                           |                                   |
+| Agregação      |                    |                                           |                                   |
+
+<b> Autora: </b> <a href=""> </a>.
+
+</center>
+
+</details>
+
+### RF05 - Usuário trabalhador pode consultar contratos de trabalho
+
+<details>
+  <summary><b> RF05 - Usuário trabalhador pode consultar contratos de trabalho </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 6 mostra os elos do requisito RF05.
+
+<center> 
+
+Tabela 6: Elos do requisito RF05
+
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                    |                                           |                                   |
+| Representação  |                    |                                           |                                   |
+| Alocado        |                    |                                           |                                   |
+| Agregação      |                    |                                           |                                   |
+
+<b> Autora: </b> <a href=""> </a>.
+
+</center>
+
+</details>
+
+### RF06 - Usuário trabalhador pode atualizar contratos de trabalho
+
+<details>
+  <summary><b> RF06 - Usuário trabalhador pode atualizar contratos de trabalho </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 7 mostra os elos do requisito RF06.
+
+<center> 
+
+Tabela 7: Elos do requisito RF06
+
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                    |                                           |                                   |
+| Representação  |                    |                                           |                                   |
+| Alocado        |                    |                                           |                                   |
+| Agregação      |                    |                                           |                                   |
+
+<b> Autora: </b> <a href=""> </a>.
+
+</center>
+
+</details>
+
+### RF07 - Usuário pode gerar PDF com dados da carteira
+
+<details>
+  <summary><b> RF07 - Usuário pode gerar PDF com dados da carteira </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 8 mostra os elos do requisito RF07.
+
+<center> 
+
+Tabela 8: Elos do requisito RF07
+
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                    |                                           |                                   |
+| Representação  |                    |                                           |                                   |
+| Alocado        |                    |                                           |                                   |
+| Agregação      |                    |                                           |                                   |
+
+<b> Autora: </b> <a href=""> </a>.
+
+</center>
+
+</details>
+
+### RF08 - Usuário trabalhador visualizar gráficos com históricos e remunerações dos seus trabalhos
+
+<details>
+  <summary><b> RF08 - Usuário trabalhador visualizar gráficos com históricos e remunerações dos seus trabalhos </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 9 mostra os elos do requisito RF08.
+
+<center> 
+
+Tabela 9: Elos do requisito RF08
+
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                    |                                           |                                   |
+| Representação  |                    |                                           |                                   |
+| Alocado        |                    |                                           |                                   |
+| Agregação      |                    |                                           |                                   |
+
+<b> Autora: </b> <a href=""> </a>.
+
+</center>
+
+</details>
+
+### RF09 - Usuário pode realizar anotações
+
+<details>
+  <summary><b> RF09 - Usuário pode realizar anotações </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 10 mostra os elos do requisito RF09.
+
+<center> 
+
+Tabela 10: Elos do requisito RF09
+
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                    |                                           |                                   |
+| Representação  |                    |                                           |                                   |
+| Alocado        |                    |                                           |                                   |
+| Agregação      |                    |                                           |                                   |
+
+<b> Autora: </b> <a href=""> </a>.
+
+</center>
+
+</details>
+
+### RF10 - Usuário trabalhador pode fazer denúncias trabalhistas contra a empresa
+
+<details>
+  <summary><b> RF10 - Usuário trabalhador pode fazer denúncias trabalhistas contra a empresa </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 11 mostra os elos do requisito RF10.
+
+<center> 
+
+Tabela 11: Elos do requisito RF10
+
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                   |                                           |                                   |
+
+
 
 
 ## Referências Bibliográficas
