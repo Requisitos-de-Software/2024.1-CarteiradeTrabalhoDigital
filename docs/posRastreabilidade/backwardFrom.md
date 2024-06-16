@@ -761,7 +761,327 @@ Tabela 18: Elos do requisito RF17
 
 
 <details>
-  <summary><b> RF18 - Usuário trabalhador pode consultar o número
+  <summary><b> RF18 - Usuário trabalhador pode consultar o númeroda carteira e de série como CIPS </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 19 mostra os elos do requisito RF18.
+
+<center> 
+
+Tabela 19: Elos do requisito RF18
+
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                    |                                           |                                   |
+| Representação  |                    |                                           |                                   |
+| Alocado        |                    |                                           |                                   |
+| Agregação      |                    |                                           |                                   |
+
+<b> Autora: </b> <a href=""> </a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RF19 - Usuário recebe notificações do aplicativo </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 20 mostra os elos do requisito RF19.
+
+<center> 
+
+Tabela 20: Elos do requisito RF19
+
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                    |                                           |                                   |
+| Representação  |                    |                                           |                                   |
+| Alocado        |                    |                                           |                                   |
+| Agregação      |                    |                                           |                                   |
+
+<b> Autora: </b> <a href=""> </a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RF20 - Usuário pode consultar perguntas frequentes </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 21 mostra os elos do requisito RF20.
+
+<center> 
+
+Tabela 21: Elos do requisito RF20
+
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                    |                                           |                                   |
+| Representação  |                    |                                           |                                   |
+| Alocado        |                    |                                           |                                   |
+| Agregação      |                    |                                           |                                   |
+
+<b> Autora: </b> <a href=""> </a>.
+
+</center>
+
+</details>
+
+
+
+<details>
+  <summary><b> RF21 - Usuário empresa pode consultar dados dos funcionários </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 22 mostra os elos do requisito RF21.
+
+<center> 
+
+Tabela 22: Elos do requisito RF21
+
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                    |                                           |                                   |
+| Representação  |                    |                                           |                                   |
+| Alocado        |                    |                                           |                                   |
+| Agregação      |                    |                                           |                                   |
+
+<b> Autora: </b> <a href=""> </a>.
+
+</center>
+
+</details>
+
+
+
+<details>
+  <summary><b> RF22 - Usuário empresa pode atualizar dados dos funcionários </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 23 mostra os elos do requisito RF22.
+
+<center> 
+
+Tabela 23: Elos do requisito RF22
+
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                    |                                           |                                   |
+| Representação  |                    |                                           |                                   |
+| Alocado        |                    |                                           |                                   |
+| Agregação      |                    |                                           |                                   |
+
+<b> Autora: </b> <a href=""> </a>.
+
+</center>
+
+</details>
+
+
+
+<details>
+  <summary><b> RF23 - Usuário empresa pode consultar contratos de trabalho </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 24 mostra os elos do requisito RF23.
+
+<center> 
+
+Tabela 24: Elos do requisito RF23
+
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                    |                                           |                                   |
+| Representação  |                    |                                           |                                   |
+| Alocado        |                    |                                           |                                   |
+| Agregação      |                    |                                           |                                   |
+
+<b> Autora: </b> <a href=""> </a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RF24 - Usuário empresa pode gerar relatórios trabalhistas </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 25 mostra os elos do requisito RF24.
+
+<center> 
+
+Tabela 25: Elos do requisito RF24
+
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                    |                                           |                                   |
+| Representação  |                    |                                           |                                   |
+| Alocado        |                    |                                           |                                   |
+| Agregação      |                    |                                           |                                   |
+
+<b> Autora: </b> <a href=""> </a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RF25 - Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos) </b></summary> 
+<center> 
+
+- **Satisfação:** 
+
+- **Recurso:** 
+
+- **Responsabilidade:** 
+
+- **Representação:** .
+
+- **Alocado:** 
+
+- **Agregação:** 
+
+### Elos de Rastreabilidade
+
+A tabela 26 mostra os elos do requisito RF25.
+
+<center> 
+
+Tabela 26: Elos do requisito RF25
+
+| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
+| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
+| Satisfação     |                    |                                           |                                   |
+| Recurso        |                    |                                           |                                   |
+| Responsabilidade|                    |                                           |                                   |
+| Representação  |                    |                                           |                                   |
+| Alocado        |                    |                                           |                                   |
+| Agregação      |                    |                                           |                                   |
+
+<b> Autora: </b> <a href=""> </a>.
+
+</center>
+
+
+
 
 
 
