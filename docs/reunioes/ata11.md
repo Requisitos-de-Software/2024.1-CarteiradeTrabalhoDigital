@@ -79,6 +79,7 @@ Tabela 3. Issues Sprint atual.
 | Issue 7                 | 7, 8, 9, 10, 11, 12, 13, 14                                               | Larissa Stéfane                                  | 16/06/2024      |
 | Issue 8                 | 15, 16, 17, 18, 19, 20, 21                                                | Luana Medeiros                                   | 16/06/2024      |
 | Issue 9                 | 22, 23, 24, 25, 26, 27, 28                                                | Pedro Izarias                                    | 16/06/2024      |
+| Issue 10                | Atualizar templates do Backward Form                                      | Larissa Stéfane                                  | 18/06/2024      |
 
 
 <b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
