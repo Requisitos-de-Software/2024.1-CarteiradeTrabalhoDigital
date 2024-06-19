@@ -7,9 +7,9 @@ Este documento servirá apenas como guia de apoio para o grupo desenvolver suas 
 ## Objetivo
 
 Serão desenvolvidos os artefatos necessários para a entrega de Pós-Rastreabilidade, que são:
-- [Backward From](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/posRastreabilidade/backwardFrom.md) [¹](#Referências-Bibliográficas)
-- [Forward From](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/posRastreabilidade/forwardFrom.md) [²](#Referências-Bibliográficas)
-- [Matriz de Rastreabilidade](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/posRastreabilidade/matriz.md) [³](#Referências-Bibliográficas)
+- [Backward From](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/posRastreabilidade/backwardFrom.md) [¹](#Referências-Bibliográficas): Se trata dos artefatos que elicitaram os requisitos.
+- [Forward From](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/posRastreabilidade/forwardFrom.md) [²](#Referências-Bibliográficas): Se trata dos artefatos que foram gerados pelos requisitos.
+- [Matriz de Rastreabilidade](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/posRastreabilidade/matriz.md) [³](#Referências-Bibliográficas): Ambos os casos citados acima e os elos.
 
 ## Metodologia
 
