@@ -42,14 +42,18 @@ Sendo assim, para garantir consistência na definição de requisitos, cada inte
 
 - **Desenvolvimento:** artefatos gerados no processo de desenvolvimento relacionados ao requisito.
 
-| Características     | Explicação |
-| ------------------- | ---------- |
-| Origem do Requisito | - |
-| Descrição           | - |
-| Ambiental           | - |
-| Organizacional      | - |
-| Gerencial           | - |
-| Desenvolvimento     | - |
+- **Nível de Priorização:** 
+
+
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
 
 ### Os Elos
