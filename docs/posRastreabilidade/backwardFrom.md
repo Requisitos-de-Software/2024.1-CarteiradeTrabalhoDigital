@@ -34,13 +34,23 @@ Sendo assim, para garantir consistência na definição de requisitos, cada inte
 
 - **Descrição:** descrição sucinta do requisito.
 
-- **Contexto Ambiental:** informações do ambiente externo que impactam o requisito.
+- **Ambiental:** informações do ambiente externo que impactam o requisito.
 
-- **Contexto Organizacional:** missão, objetivos, metas e padrões organizacionais relacionados ao requisito.
+- **Organizacional:** missão, objetivos, metas e padrões organizacionais relacionados ao requisito.
 
-- **Contexto Gerencial:** tarefas associadas ao requisito que auxiliam na gerência do projeto.
+- **Gerencial:** tarefas associadas ao requisito que auxiliam na gerência do projeto.
 
-- **Contexto de Desenvolvimento:** artefatos gerados no processo de desenvolvimento relacionados ao requisito.
+- **Desenvolvimento:** artefatos gerados no processo de desenvolvimento relacionados ao requisito.
+
+| Características     | Explicação |
+| ------------------- | ---------- |
+| Origem do Requisito | - |
+| Descrição           | - |
+| Ambiental           | - |
+| Organizacional      | - |
+| Gerencial           | - |
+| Desenvolvimento     | - |
+
 
 ### Os Elos
 
@@ -58,6 +68,8 @@ Ainda de acordo com [Rastreabilidade de Requisitos](https://www-di.inf.puc-rio.b
 
 - **Agregação:** indica a composição de elementos, como sub cenários ou requisitos menores em requisitos maiores.
 
+**Observação:** Na tabela será evidenciado apenas o elo mais relevante.
+
 #### Template para a tabela dos Elos
 
 Com base nos Elos acima, os requisitos devem ser definidos com base na tabela 1.
@@ -68,7 +80,7 @@ Com base nos Elos acima, os requisitos devem ser definidos com base na tabela 1.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -1222,8 +1234,9 @@ Tabela 29: Elos do requisito RF28
 
 ## Histórico de Versão
 
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 |  Criação do modelo e estrutura  |   Larissa Stéfane  |  Bruno Araújo  |  15/06/2024     |
-| 1.1 |  Adição da introdução e da metodologia |   Larissa Stéfane  | Bruno Araújo  |  16/06/2024     |
-| 1.2 |  Adição da rastreabilidade da RF07 |   Larissa Stéfane  |  Bruno Araújo  |  16/06/2024     |
+| Versão | Alteração                              | Responsável     | Revisor         | Data       |
+| ------ | -------------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    |  Criação do modelo e estrutura         | Larissa Stéfane | Bruno Araújo    | 15/06/2024 |
+| 1.1    |  Adição da introdução e da metodologia | Larissa Stéfane | Bruno Araújo    | 16/06/2024 |
+| 1.2    |  Adição da rastreabilidade da RF07     | Larissa Stéfane | Bruno Araújo    | 16/06/2024 |
+| 1.3    |  Correção dos templates                | Breno Alexandre | Larissa Stéfane | 20/06/2024 |
