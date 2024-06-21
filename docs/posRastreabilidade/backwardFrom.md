@@ -44,6 +44,8 @@ Sendo assim, para garantir consistência na definição de requisitos, cada inte
 
 - **Nível de Priorização:** 
 
+<b>Tabela 1:</b> Template das estruturas.
+
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -80,7 +82,7 @@ Com base nos Elos acima, os requisitos devem ser definidos com base na tabela 1.
 
 
 
-<b>Tabela 1:</b> Templete dos Elos.
+<b>Tabela 2:</b> Template dos Elos.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|
