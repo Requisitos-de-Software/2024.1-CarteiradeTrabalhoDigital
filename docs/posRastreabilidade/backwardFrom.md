@@ -97,17 +97,18 @@ Com base nos Elos acima, os requisitos devem ser definidos com base na tabela 1.
   <summary><b> RF01 - Usuário se registrar no aplicativo - Iago Passaglia  </b></summary> 
 
 
-- **Satisfação:** 
 
-- **Recurso:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -117,14 +118,13 @@ A tabela 2 mostra os elos do requisito RF01.
 
 Tabela 2: Elos do requisito RF01
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -137,18 +137,17 @@ Tabela 2: Elos do requisito RF01
 <details>
   <summary><b> RF02 - Usuário pode fazer login para entrar na sua página pessoal - Iago Passaglia </b></summary> 
 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Satisfação:** 
-
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -178,17 +177,17 @@ Tabela 3: Elos do requisito RF02
   <summary><b> RF03 - Usuário pode consultar suas informações pessoais - Iago Passaglia </b></summary> 
 
 
-- **Satisfação:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -219,17 +218,17 @@ Tabela 4: Elos do requisito RF03
   <summary><b> RF04 - Usuário pode atualizar suas informações pessoais - Iago Passaglia </b></summary> 
 
 
-- **Satisfação:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -259,18 +258,17 @@ Tabela 5: Elos do requisito RF04
 <details>
   <summary><b> RF05 - Usuário trabalhador pode consultar contratos de trabalho - Iago Passaglia </b></summary> 
  
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Satisfação:** 
-
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -301,17 +299,17 @@ Tabela 6: Elos do requisito RF05
   <summary><b> RF06 - Usuário trabalhador pode atualizar contratos de trabalho - Iago Passaglia </b></summary> 
 
 
-- **Satisfação:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -386,18 +384,17 @@ Tabela 8: Elos do requisito RF07
 <details>
   <summary><b> RF08 - Usuário trabalhador visualizar gráficos com históricos e remunerações dos seus trabalhos - Larissa Stéfane  </b></summary> 
 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Satisfação:** 
-
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -428,17 +425,17 @@ Tabela 9: Elos do requisito RF08
   <summary><b> RF09 - Usuário pode realizar anotações - Larissa Stéfane </b></summary> 
  
 
-- **Satisfação:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -469,17 +466,17 @@ Tabela 10: Elos do requisito RF09
   <summary><b> RF10 - Usuário trabalhador pode fazer denúncias trabalhistas contra a empresa - Larissa Stéfane </b></summary> 
 
 
-- **Satisfação:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -509,17 +506,17 @@ Tabela 11: Elos do requisito RF10
   <summary><b> RF11 - Usuário trabalhador pode consultar informações sobre o FGTS e o INSS - Larissa Stéfane </b></summary> 
 
 
-- **Satisfação:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -549,17 +546,17 @@ Tabela 12: Elos do requisito RF11
   <summary><b> RF12 - Usuário trabalhador pode consultar benefícios (13º salário, férias remuneradas, adicional noturno, vale-transporte, vale-refeição, plano de saúde, abono salarial, benefício TAC-Taxista, Seguro Desemprego) - Larissa Stéfane </b></summary> 
 
 
-- **Satisfação:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -589,17 +586,17 @@ Tabela 13: Elos do requisito RF12
   <summary><b> RF13 - Usuário trabalhador pode solicitar benefícios - Larissa Stéfane </b></summary> 
  
 
-- **Satisfação:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -629,18 +626,17 @@ Tabela 14: Elos do requisito RF13
 <details>
   <summary><b> RF14 - Usuário trabalhador pode atualizar(declarar) currículo - Larissa Stéfane </b></summary> 
  
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Satisfação:** 
-
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -670,17 +666,17 @@ Tabela 15: Elos do requisito RF14
   <summary><b> RF15 - Usuário trabalhador pode ativar modo de status (procurando emprego ou não) - Luana Medeiros </b></summary> 
  
 
-- **Satisfação:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -709,18 +705,17 @@ Tabela 16: Elos do requisito RF15
 <details>
   <summary><b> RF16 - Usuário trabalhador por verificar processos seletivos abertos - Luana Medeiros </b></summary> 
  
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Satisfação:** 
-
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -750,17 +745,18 @@ Tabela 17: Elos do requisito RF16
   <summary><b> RF17 - Usuário pode ocultar dados sensíveis - Luana Medeiros </b></summary> 
  
 
-- **Satisfação:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Recurso:** 
+<b> Autora: </b> <a href=""> </a>.
 
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
 
 ### Elos de Rastreabilidade
 
@@ -791,17 +787,17 @@ Tabela 18: Elos do requisito RF17
   <summary><b> RF18 - Usuário trabalhador pode consultar o númeroda carteira e de série como CIPS - Luana Medeiros </b></summary> 
  
 
-- **Satisfação:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -831,17 +827,17 @@ Tabela 19: Elos do requisito RF18
   <summary><b> RF19 - Usuário recebe notificações do aplicativo - Luana Medeiros </b></summary> 
 
 
-- **Satisfação:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -871,17 +867,18 @@ Tabela 20: Elos do requisito RF19
   <summary><b> RF20 - Usuário pode consultar perguntas frequentes - Luana Medeiros </b></summary> 
 
 
-- **Satisfação:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Recurso:** 
+<b> Autora: </b> <a href=""> </a>.
 
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
 
 ### Elos de Rastreabilidade
 
@@ -911,18 +908,18 @@ Tabela 21: Elos do requisito RF20
 <details>
   <summary><b> RF21 - Usuário empresa pode consultar dados dos funcionários - Luana Medeiros </b></summary> 
 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Satisfação:** 
+<b> Autora: </b> <a href=""> </a>.
 
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
 
 ### Elos de Rastreabilidade
 
@@ -953,17 +950,18 @@ Tabela 22: Elos do requisito RF21
   <summary><b> RF22 - Usuário empresa pode atualizar dados dos funcionários - Pedro Izarias </b></summary> 
  
 
-- **Satisfação:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Recurso:** 
+<b> Autora: </b> <a href=""> </a>.
 
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
 
 ### Elos de Rastreabilidade
 
@@ -994,17 +992,18 @@ Tabela 23: Elos do requisito RF22
   <summary><b> RF23 - Usuário empresa pode consultar contratos de trabalho - Pedro Izarias  </b></summary> 
 
 
-- **Satisfação:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Recurso:** 
+<b> Autora: </b> <a href=""> </a>.
 
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
 
 ### Elos de Rastreabilidade
 
@@ -1034,17 +1033,17 @@ Tabela 24: Elos do requisito RF23
   <summary><b> RF24 - Usuário empresa pode gerar relatórios trabalhistas - Pedro Izarias  </b></summary> 
 
 
-- **Satisfação:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -1074,17 +1073,17 @@ Tabela 25: Elos do requisito RF24
   <summary><b> RF25 - Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos) - Pedro Izarias  </b></summary> 
 
 
-- **Satisfação:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -1113,17 +1112,17 @@ Tabela 26: Elos do requisito RF25
   <summary><b> RF26 - Usuário pode gerenciar informações de pagamento de funcionários (salários, bônus, benefícios) - Pedro Izarias  </b></summary> 
 
 
-- **Satisfação:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -1153,17 +1152,17 @@ Tabela 27: Elos do requisito RF26
   <summary><b> RF27 - Usuário pode acessar relatórios de desempenho e produtividade dos funcionários - Pedro Izarias  </b></summary> 
 
 
-- **Satisfação:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -1192,17 +1191,17 @@ Tabela 28: Elos do requisito RF27
   <summary><b> RF28 - Usuário pode gerenciar eventos corporativos (reuniões, treinamentos, festas) - Pedro Izarias  </b></summary> 
 
 
-- **Satisfação:** 
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
 
-- **Recurso:** 
-
-- **Responsabilidade:** 
-
-- **Representação:** .
-
-- **Alocado:** 
-
-- **Agregação:** 
+<b> Autora: </b> <a href=""> </a>.
 
 ### Elos de Rastreabilidade
 
