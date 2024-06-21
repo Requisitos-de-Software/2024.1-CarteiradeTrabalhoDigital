@@ -157,14 +157,9 @@ A tabela 3 mostra os elos do requisito RF02.
 
 Tabela 3: Elos do requisito RF02
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -197,14 +192,12 @@ A tabela 4 mostra os elos do requisito RF03.
 
 Tabela 4: Elos do requisito RF03
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autora: </b> <a href=""> </a>.
+                                      |                                   |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -238,14 +231,10 @@ A tabela 5 mostra os elos do requisito RF04.
 
 Tabela 5: Elos do requisito RF04
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -278,14 +267,9 @@ A tabela 6 mostra os elos do requisito RF05.
 
 Tabela 6: Elos do requisito RF05
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -319,14 +303,9 @@ A tabela 7 mostra os elos do requisito RF06.
 
 Tabela 7: Elos do requisito RF06
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -404,14 +383,9 @@ A tabela 9 mostra os elos do requisito RF08.
 
 Tabela 9: Elos do requisito RF08
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -445,14 +419,9 @@ A tabela 10 mostra os elos do requisito RF09.
 
 Tabela 10: Elos do requisito RF09
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -486,14 +455,9 @@ A tabela 11 mostra os elos do requisito RF10.
 
 Tabela 11: Elos do requisito RF10
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                   |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -526,14 +490,9 @@ A tabela 12 mostra os elos do requisito RF11.
 
 Tabela 12: Elos do requisito RF11
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -566,14 +525,9 @@ A tabela 13 mostra os elos do requisito RF12.
 
 Tabela 13: Elos do requisito RF12
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -606,14 +560,9 @@ A tabela 14 mostra os elos do requisito RF13.
 
 Tabela 14: Elos do requisito RF13
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -646,14 +595,9 @@ A tabela 15 mostra os elos do requisito RF14.
 
 Tabela 15: Elos do requisito RF14
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -686,14 +630,9 @@ A tabela 16 mostra os elos do requisito RF15.
 
 Tabela 16: Elos do requisito RF15
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -725,14 +664,9 @@ A tabela 17 mostra os elos do requisito RF16.
 
 Tabela 17: Elos do requisito RF16
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -766,14 +700,9 @@ A tabela 18 mostra os elos do requisito RF17.
 
 Tabela 18: Elos do requisito RF17
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                   |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -807,14 +736,9 @@ A tabela 19 mostra os elos do requisito RF18.
 
 Tabela 19: Elos do requisito RF18
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -847,14 +771,9 @@ A tabela 20 mostra os elos do requisito RF19.
 
 Tabela 20: Elos do requisito RF19
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -888,14 +807,9 @@ A tabela 21 mostra os elos do requisito RF20.
 
 Tabela 21: Elos do requisito RF20
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -929,14 +843,9 @@ A tabela 22 mostra os elos do requisito RF21.
 
 Tabela 22: Elos do requisito RF21
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -971,14 +880,9 @@ A tabela 23 mostra os elos do requisito RF22.
 
 Tabela 23: Elos do requisito RF22
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1013,14 +917,9 @@ A tabela 24 mostra os elos do requisito RF23.
 
 Tabela 24: Elos do requisito RF23
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1053,14 +952,9 @@ A tabela 25 mostra os elos do requisito RF24.
 
 Tabela 25: Elos do requisito RF24
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1093,14 +987,9 @@ A tabela 26 mostra os elos do requisito RF25.
 
 Tabela 26: Elos do requisito RF25
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1132,14 +1021,9 @@ A tabela 27 mostra os elos do requisito RF26.
 
 Tabela 27: Elos do requisito RF26
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1172,14 +1056,9 @@ A tabela 28 mostra os elos do requisito RF27.
 
 Tabela 28: Elos do requisito RF27
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1211,14 +1090,9 @@ A tabela 29 mostra os elos do requisito RF28.
 
 Tabela 29: Elos do requisito RF28
 
-| Tipo de Elo    | Categoria          | Elementos Rastreáveis                     | Descrição do ELO                  |
-| -------------- | ------------------ | ----------------------------------------- | --------------------------------- |
-| Satisfação     |                    |                                           |                                   |
-| Recurso        |                    |                                           |                                   |
-| Responsabilidade|                    |                                           |                                   |
-| Representação  |                    |                                           |                                   |
-| Alocado        |                    |                                           |                                   |
-| Agregação      |                    |                                           |                                   |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
