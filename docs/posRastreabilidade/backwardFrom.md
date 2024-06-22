@@ -214,11 +214,10 @@ A tabela 4 mostra os elos do requisito RF03.
 </details>
 
 
+#### RF04
 
 <details>
   <summary><b> RF04 - Iago Passaglia </b></summary> 
-
-#### RF04
 
 <b>Tabela 9:</b> Estrutura do requisito
 
