@@ -334,21 +334,18 @@ A tabela 7 mostra os elos do requisito RF06.
 
  <b>Tabela 15:</b> Estrutura do requisito
 
-- **Onde foi elicitado**: [Análise de Documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) por meio de [Manual da Carteira de Trabalho Digital](https://empregabrasil.mte.gov.br/wp-content/uploads/2023/02/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf) e [Cartilha da Carteira de Trabalho Digital](https://www.focuscontabil.com/wp-content/uploads/2020/05/Cartilha-CTP-Digital-02.pdf).
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Nome do Requisito | Usuário pode gerar PDF com dados da carteira |
+| Onde foi elicitado  | [Análise de Documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) por meio de [Manual da Carteira de Trabalho Digital](https://empregabrasil.mte.gov.br/wp-content/uploads/2023/02/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf) e [Cartilha da Carteira de Trabalho Digital](https://www.focuscontabil.com/wp-content/uploads/2020/05/Cartilha-CTP-Digital-02.pdf). |
+| Descrição            | Esse requisito estabelece que o usuário deve ser capaz de gerar um arquivo PDF contendo os dados de sua Carteira de Trabalho Digital. Assim, o arquivo de PDF pode incluir informações sobre os contratos de trabalho, os dados pessoais, e outras movimentações profissionais. Além disso, o PDF gerado deve poder ser baixado, enviado por e-mail, ou impresso. |
+| Ambiental            | O contexto do requisito está relacionado à necessidade dos usuários de acessar e de compartilhar facilmente as suas informações trabalhistas. Desse modo, essa funcionalidade deve permitir que os usuários gerem um PDF que inclui dados como detalhes de seus vínculos empregatícios e outras movimentações. Além disso, o PDF pode ser usado para comprovar experiências profissionais e é uma resposta à demanda por maior portabilidade de informações. |
+| Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de fornecer um serviço digital acessível que auxilia na coordenação e no manejo de informações por parte do usuário. Isso porque essa funcionalidade apoia a estratégia de digitalizar os processos e melhorar a usabilidade dos serviços oferecidos. Portanto, a capacidade de gerar PDFs com dados da Carteira de Trabalho facilita a vida dos usuários trabalhadores ao permitir que eles verifiquem e compartilhem seus dados. |
+| Gerencial            | Do ponto de vista gerencial, este requisito indica que será necessário criar um molde com a localização de cada dado quando eles forem recuperados nos bancos de dados quando o PDF for gerado. Assim, ele indica que a gerência deve focar tanto na integração do sistema com os bancos de dados e em como os usuários visualizarão esses dados. |
+| Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de funcionalidades específicas que permitam a exportação dos dados da Carteira de Trabalho Digital em formato PDF. Isso inclui a implementação de um botão ou ícone na interface do usuário para gerar o PDF, bem como a lógica de backend para compilar e para formatar os dados corretamente, como foi citado em **geracional**. Os desenvolvedores também precisam garantir que o PDF gerado possa ser baixado e enviado por e-mail ou impresso. |
+| Nível de Priorização | - |
 
-- **Descrição**: Esse requisito estabelece que o usuário deve ser capaz de gerar um arquivo PDF contendo os dados de sua Carteira de Trabalho Digital. Assim, o arquivo de PDF pode incluir informações sobre contratos de trabalho, dados pessoais, e outras movimentações profissionais. Além disso, o PDF gerado deve poder ser baixado, enviado por e-mail, ou impresso.
-
-- **Ambiental**: O contexto do requisito está relacionado à necessidade dos usuários de acessar e compartilhar facilmente suas informações trabalhistas.
-    - A funcionalidade deve permitir que os usuários gerem um PDF que inclui dados como detalhes de seus vínculos empregatícios e outras movimentações.
-    - Este PDF pode ser usado para comprovar experiências profissionais e é uma resposta à demanda por maior portabilidade de informações.
-
-- **Organizacional:**  Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de fornecer um serviço digital acessível que auxilia na coordenação e no manejo de informações por parte do usuário. Isso porque essa funcionalidade apoia a estratégia de digitalizar os processos e melhorar a usabilidade dos serviços oferecidos.
-    - A capacidade de gerar PDFs com dados da Carteira de Trabalho Digital facilita a vida dos usuários trabalhadores ao permitir que eles verifiquem e compartilhem seus dados.
-
-- **Gerencial:** Do ponto de vista gerencial, este requisito indica que será necessário criar um molde com a localização de cada dado quando eles forem recuperados nos bancos de dados quando o pdf for gerado. Assim, ele indica que a gerência deve focar tando na integração do sistema com os bancos de dados e como os usuários visualizarão esses dados.
-
-- **Desenvolvimento:**  Durante o desenvolvimento, esse requisito implica na criação de funcionalidades específicas que permitam a exportação dos dados da Carteira de Trabalho Digital em formato PDF. Isso inclui a implementação de um botão ou ícone na interface do usuário para gerar o PDF, bem como a lógica de backend para compilar e formatar os dados corretamente, como foi citado em **geracional**.
-  - Os desenvolvedores também precisam garantir que o PDF gerado possa ser baixado e enviado por e-mail ou impresso.
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 ### Elos de Rastreabilidade
 
