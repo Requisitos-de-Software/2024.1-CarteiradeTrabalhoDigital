@@ -1137,7 +1137,7 @@ A tabela 58 mostra os elos do requisito RF28.
 ## Rastreabilidade dos Requisitos Não Funcionais
 
 <details>
-  <summary><b> RNF01 - </b></summary> 
+  <summary><b> RNF01 - Breno Alexandre </b></summary> 
 
 <b>Tabela 59:</b> Estrutura do requisito
 
@@ -1165,14 +1165,14 @@ A tabela 60 mostra os elos do requisito RNF01.
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|
 | - | - | - | - |
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+<b> Autora: </b> <a href=""></a>.
 
 </center>
 
 </details>
 
 <details>
-  <summary><b> RNF02 - </b></summary> 
+  <summary><b> RNF02 - Breno Alexandre </b></summary> 
 
 <b>Tabela 61:</b> Estrutura do requisito
 
@@ -1207,7 +1207,7 @@ A tabela 62 mostra os elos do requisito RNF02.
 </details>
 
 <details>
-  <summary><b> RNF03 - </b></summary> 
+  <summary><b> RNF03 - Breno Alexandre </b></summary> 
 
 <b>Tabela 63:</b> Estrutura do requisito
 
@@ -1242,7 +1242,7 @@ A tabela 64 mostra os elos do requisito RNF03.
 </details>
 
 <details>
-  <summary><b> RNF04 - </b></summary> 
+  <summary><b> RNF04 - Breno Alexandre </b></summary> 
 
 <b>Tabela 65:</b> Estrutura do requisito
 
@@ -1277,7 +1277,7 @@ A tabela 66 mostra os elos do requisito RNF04.
 </details>
 
 <details>
-  <summary><b> RNF05 - </b></summary> 
+  <summary><b> RNF05 - Breno Alexandre </b></summary> 
 
 <b>Tabela 67:</b> Estrutura do requisito
 
@@ -1312,7 +1312,7 @@ A tabela 68 mostra os elos do requisito RNF05.
 </details>
 
 <details>
-  <summary><b> RNF06 - </b></summary> 
+  <summary><b> RNF06 - Breno Alexandre </b></summary> 
 
 <b>Tabela 69:</b> Estrutura do requisito
 
@@ -1347,7 +1347,7 @@ A tabela 70 mostra os elos do requisito RNF06.
 </details>
 
 <details>
-  <summary><b> RNF07 - </b></summary> 
+  <summary><b> RNF07 - Breno Alexandre </b></summary> 
 
 <b>Tabela 71:</b> Estrutura do requisito
 
@@ -1382,7 +1382,7 @@ A tabela 72 mostra os elos do requisito RNF07.
 </details>
 
 <details>
-  <summary><b> RNF08 - </b></summary> 
+  <summary><b> RNF08 - Breno Alexandre </b></summary> 
 
 <b>Tabela 73:</b> Estrutura do requisito
 
@@ -1417,7 +1417,7 @@ A tabela 74 mostra os elos do requisito RNF08.
 </details>
 
 <details>
-  <summary><b> RNF09 - </b></summary> 
+  <summary><b> RNF09 - 	Bruno Araújo </b></summary> 
 
 <b>Tabela 75:</b> Estrutura do requisito
 
@@ -1452,7 +1452,7 @@ A tabela 76 mostra os elos do requisito RNF09.
 </details>
 
 <details>
-  <summary><b> RNF10 - </b></summary> 
+  <summary><b> RNF10 - 	Bruno Araújo </b></summary> 
 
 <b>Tabela 77:</b> Estrutura do requisito
 
@@ -1487,7 +1487,7 @@ A tabela 78 mostra os elos do requisito RNF10.
 </details>
 
 <details>
-  <summary><b> RNF11 - </b></summary> 
+  <summary><b> RNF11 - 	Bruno Araújo </b></summary> 
 
 <b>Tabela 79:</b> Estrutura do requisito
 
@@ -1522,7 +1522,7 @@ A tabela 80 mostra os elos do requisito RNF11.
 </details>
 
 <details>
-  <summary><b> RNF12 - </b></summary> 
+  <summary><b> RNF12 - 	Bruno Araújo </b></summary> 
 
 <b>Tabela 81:</b> Estrutura do requisito
 
@@ -1557,7 +1557,7 @@ A tabela 82 mostra os elos do requisito RNF12.
 </details>
 
 <details>
-  <summary><b> RNF13 - </b></summary> 
+  <summary><b> RNF13 - 	Bruno Araújo </b></summary> 
 
 <b>Tabela 83:</b> Estrutura do requisito
 
@@ -1592,7 +1592,7 @@ A tabela 84 mostra os elos do requisito RNF13.
 </details>
 
 <details>
-  <summary><b> RNF14 - </b></summary> 
+  <summary><b> RNF14 - Bruno Araújo</b></summary> 
 
 <b>Tabela 85:</b> Estrutura do requisito
 
@@ -1627,7 +1627,7 @@ A tabela 86 mostra os elos do requisito RNF14.
 </details>
 
 <details>
-  <summary><b> RNF15 - </b></summary> 
+  <summary><b> RNF15 - 	Bruno Araújo </b></summary> 
 
 <b>Tabela 87:</b> Estrutura do requisito
 
@@ -1662,7 +1662,7 @@ A tabela 88 mostra os elos do requisito RNF15.
 </details>
 
 <details>
-  <summary><b> RNF16 - </b></summary> 
+  <summary><b> RNF16 - Caio Mesquita </b></summary> 
 
 <b>Tabela 89:</b> Estrutura do requisito
 
@@ -1697,7 +1697,7 @@ A tabela 90 mostra os elos do requisito RNF16.
 </details>
 
 <details>
-  <summary><b> RNF17 - </b></summary> 
+  <summary><b> RNF17 - Caio Mesquita </b></summary> 
 
 <b>Tabela 91:</b> Estrutura do requisito
 
@@ -1732,7 +1732,7 @@ A tabela 92 mostra os elos do requisito RNF17.
 </details>
 
 <details>
-  <summary><b> RNF18 - </b></summary> 
+  <summary><b> RNF18 - Caio Mesquita </b></summary> 
 
 <b>Tabela 93:</b> Estrutura do requisito
 
@@ -1767,7 +1767,7 @@ A tabela 94 mostra os elos do requisito RNF18.
 </details>
 
 <details>
-  <summary><b> RNF19 - </b></summary> 
+  <summary><b> RNF19 - Caio Mesquita </b></summary> 
 
 <b>Tabela 95:</b> Estrutura do requisito
 
@@ -1802,7 +1802,7 @@ A tabela 96 mostra os elos do requisito RNF19.
 </details>
 
 <details>
-  <summary><b> RNF20 - </b></summary> 
+  <summary><b> RNF20 - Caio Mesquita </b></summary> 
 
 <b>Tabela 97:</b> Estrutura do requisito
 
@@ -1837,7 +1837,7 @@ A tabela 98 mostra os elos do requisito RNF20.
 </details>
 
 <details>
-  <summary><b> RNF21 - </b></summary> 
+  <summary><b> RNF21 - Caio Mesquita </b></summary> 
 
 <b>Tabela 99:</b> Estrutura do requisito
 
@@ -1872,7 +1872,7 @@ A tabela 100 mostra os elos do requisito RNF21.
 </details>
 
 <details>
-  <summary><b> RNF22 - </b></summary> 
+  <summary><b> RNF22 - Caio Mesquita </b></summary> 
 
 <b>Tabela 101:</b> Estrutura do requisito
 
@@ -1907,7 +1907,7 @@ A tabela 102 mostra os elos do requisito RNF22.
 </details>
 
 <details>
-  <summary><b> RNF23 - </b></summary> 
+  <summary><b> RNF23 - Caio Mesquita </b></summary> 
 
 <b>Tabela 103:</b> Estrutura do requisito
 
@@ -1942,7 +1942,7 @@ A tabela 104 mostra os elos do requisito RNF23.
 </details>
 
 <details>
-  <summary><b> RNF24 - </b></summary> 
+  <summary><b> RNF24 - Caio Mesquita </b></summary> 
 
 <b>Tabela 105:</b> Estrutura do requisito
 
@@ -1977,7 +1977,7 @@ A tabela 106 mostra os elos do requisito RNF24.
 </details>
 
 <details>
-  <summary><b> RNF25 - </b></summary> 
+  <summary><b> RNF25 - Iago Passaglia </b></summary> 
 
 <b>Tabela 107:</b> Estrutura do requisito
 
