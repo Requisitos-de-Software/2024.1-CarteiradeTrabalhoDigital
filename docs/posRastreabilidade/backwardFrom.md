@@ -96,7 +96,7 @@ Com base nos Elos acima, os requisitos devem ser definidos com base na tabela 1.
 <details>
   <summary><b> RF01 - Usuário se registrar no aplicativo - Iago Passaglia  </b></summary> 
 
-
+<b>Tabela 3:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -137,6 +137,8 @@ Tabela 2: Elos do requisito RF01
 <details>
   <summary><b> RF02 - Usuário pode fazer login para entrar na sua página pessoal - Iago Passaglia </b></summary> 
 
+<b>Tabela 5:</b> Estrutura do requisito
+
 | Características      | Explicação |
 | -------------------- | ---------- |
 | Origem do Requisito  | - |
@@ -171,6 +173,7 @@ Tabela 3: Elos do requisito RF02
 <details>
   <summary><b> RF03 - Usuário pode consultar suas informações pessoais - Iago Passaglia </b></summary> 
 
+<b>Tabela 7:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -211,6 +214,8 @@ Tabela 4: Elos do requisito RF03
   <summary><b> RF04 - Usuário pode atualizar suas informações pessoais - Iago Passaglia </b></summary> 
 
 
+<b>Tabela 9:</b> Estrutura do requisito
+
 | Características      | Explicação |
 | -------------------- | ---------- |
 | Origem do Requisito  | - |
@@ -246,6 +251,8 @@ Tabela 5: Elos do requisito RF04
 
 <details>
   <summary><b> RF05 - Usuário trabalhador pode consultar contratos de trabalho - Iago Passaglia </b></summary> 
+
+ <b>Tabela 11:</b> Estrutura do requisito
  
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -282,6 +289,7 @@ Tabela 6: Elos do requisito RF05
 <details>
   <summary><b> RF06 - Usuário trabalhador pode atualizar contratos de trabalho - Iago Passaglia </b></summary> 
 
+<b>Tabela 13:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -317,7 +325,8 @@ Tabela 7: Elos do requisito RF06
 
 <details>
   <summary><b> RF07 - Usuário pode gerar PDF com dados da carteira - Larissa Stéfane </b></summary> 
- 
+
+ <b>Tabela 15:</b> Estrutura do requisito
 
 - **Onde foi elicitado**: [Análise de Documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) por meio de [Manual da Carteira de Trabalho Digital](https://empregabrasil.mte.gov.br/wp-content/uploads/2023/02/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf) e [Cartilha da Carteira de Trabalho Digital](https://www.focuscontabil.com/wp-content/uploads/2020/05/Cartilha-CTP-Digital-02.pdf).
 
@@ -363,6 +372,8 @@ Tabela 8: Elos do requisito RF07
 <details>
   <summary><b> RF08 - Usuário trabalhador visualizar gráficos com históricos e remunerações dos seus trabalhos - Larissa Stéfane  </b></summary> 
 
+  <b>Tabela 17:</b> Estrutura do requisito
+  
 | Características      | Explicação |
 | -------------------- | ---------- |
 | Origem do Requisito  | - |
@@ -397,7 +408,8 @@ Tabela 9: Elos do requisito RF08
 
 <details>
   <summary><b> RF09 - Usuário pode realizar anotações - Larissa Stéfane </b></summary> 
- 
+
+ <b>Tabela 19:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -434,6 +446,7 @@ Tabela 10: Elos do requisito RF09
 <details>
   <summary><b> RF10 - Usuário trabalhador pode fazer denúncias trabalhistas contra a empresa - Larissa Stéfane </b></summary> 
 
+<b>Tabela 21:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -469,6 +482,7 @@ Tabela 11: Elos do requisito RF10
 <details>
   <summary><b> RF11 - Usuário trabalhador pode consultar informações sobre o FGTS e o INSS - Larissa Stéfane </b></summary> 
 
+<b>Tabela 23:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -504,6 +518,7 @@ Tabela 12: Elos do requisito RF11
 <details>
   <summary><b> RF12 - Usuário trabalhador pode consultar benefícios (13º salário, férias remuneradas, adicional noturno, vale-transporte, vale-refeição, plano de saúde, abono salarial, benefício TAC-Taxista, Seguro Desemprego) - Larissa Stéfane </b></summary> 
 
+<b>Tabela 25:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -538,7 +553,8 @@ Tabela 13: Elos do requisito RF12
 
 <details>
   <summary><b> RF13 - Usuário trabalhador pode solicitar benefícios - Larissa Stéfane </b></summary> 
- 
+
+ <b>Tabela 27:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -574,6 +590,8 @@ Tabela 14: Elos do requisito RF13
 
 <details>
   <summary><b> RF14 - Usuário trabalhador pode atualizar(declarar) currículo - Larissa Stéfane </b></summary> 
+
+ <b>Tabela 29:</b> Estrutura do requisito
  
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -609,6 +627,7 @@ Tabela 15: Elos do requisito RF14
 <details>
   <summary><b> RF15 - Usuário trabalhador pode ativar modo de status (procurando emprego ou não) - Luana Medeiros </b></summary> 
  
+<b>Tabela 31:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -643,6 +662,8 @@ Tabela 16: Elos do requisito RF15
 
 <details>
   <summary><b> RF16 - Usuário trabalhador por verificar processos seletivos abertos - Luana Medeiros </b></summary> 
+
+ <b>Tabela 33:</b> Estrutura do requisito
  
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -677,7 +698,8 @@ Tabela 17: Elos do requisito RF16
 
 <details>
   <summary><b> RF17 - Usuário pode ocultar dados sensíveis - Luana Medeiros </b></summary> 
- 
+
+ <b>Tabela 35:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -715,6 +737,7 @@ Tabela 18: Elos do requisito RF17
 <details>
   <summary><b> RF18 - Usuário trabalhador pode consultar o númeroda carteira e de série como CIPS - Luana Medeiros </b></summary> 
  
+<b>Tabela 37:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -750,6 +773,7 @@ Tabela 19: Elos do requisito RF18
 <details>
   <summary><b> RF19 - Usuário recebe notificações do aplicativo - Luana Medeiros </b></summary> 
 
+<b>Tabela 39:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -785,6 +809,7 @@ Tabela 20: Elos do requisito RF19
 <details>
   <summary><b> RF20 - Usuário pode consultar perguntas frequentes - Luana Medeiros </b></summary> 
 
+<b>Tabela 41:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -822,6 +847,8 @@ Tabela 21: Elos do requisito RF20
 <details>
   <summary><b> RF21 - Usuário empresa pode consultar dados dos funcionários - Luana Medeiros </b></summary> 
 
+<b>Tabela 43:</b> Estrutura do requisito
+
 | Características      | Explicação |
 | -------------------- | ---------- |
 | Origem do Requisito  | - |
@@ -858,6 +885,7 @@ Tabela 22: Elos do requisito RF21
 <details>
   <summary><b> RF22 - Usuário empresa pode atualizar dados dos funcionários - Pedro Izarias </b></summary> 
  
+<b>Tabela 45:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -895,6 +923,7 @@ Tabela 23: Elos do requisito RF22
 <details>
   <summary><b> RF23 - Usuário empresa pode consultar contratos de trabalho - Pedro Izarias  </b></summary> 
 
+<b>Tabela 46:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -931,6 +960,7 @@ Tabela 24: Elos do requisito RF23
 <details>
   <summary><b> RF24 - Usuário empresa pode gerar relatórios trabalhistas - Pedro Izarias  </b></summary> 
 
+<b>Tabela 49:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -966,6 +996,7 @@ Tabela 25: Elos do requisito RF24
 <details>
   <summary><b> RF25 - Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos) - Pedro Izarias  </b></summary> 
 
+<b>Tabela 51:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -1000,6 +1031,7 @@ Tabela 26: Elos do requisito RF25
 <details>
   <summary><b> RF26 - Usuário pode gerenciar informações de pagamento de funcionários (salários, bônus, benefícios) - Pedro Izarias  </b></summary> 
 
+<b>Tabela 53:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -1035,6 +1067,7 @@ Tabela 27: Elos do requisito RF26
 <details>
   <summary><b> RF27 - Usuário pode acessar relatórios de desempenho e produtividade dos funcionários - Pedro Izarias  </b></summary> 
 
+<b>Tabela 55:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -1069,6 +1102,7 @@ Tabela 28: Elos do requisito RF27
 <details>
   <summary><b> RF28 - Usuário pode gerenciar eventos corporativos (reuniões, treinamentos, festas) - Pedro Izarias  </b></summary> 
 
+<b>Tabela 57:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
