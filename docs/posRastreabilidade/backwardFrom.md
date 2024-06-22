@@ -46,7 +46,6 @@ Sendo assim, para garantir consistência na definição de requisitos, cada inte
 
 <b>Tabela 1:</b> Template das estruturas.
 
-
 | Características      | Explicação |
 | -------------------- | ---------- |
 | Origem do Requisito  | - |
@@ -57,6 +56,7 @@ Sendo assim, para garantir consistência na definição de requisitos, cada inte
 | Desenvolvimento      | - |
 | Nível de Priorização | - |
 
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a> e  </b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a> 
 
 ### Os Elos
 
@@ -81,15 +81,13 @@ Ainda de acordo com [Rastreabilidade de Requisitos](https://www-di.inf.puc-rio.b
 Com base nos Elos acima, os requisitos devem ser definidos com base na tabela 1.
 
 
-
 <b>Tabela 2:</b> Template dos Elos.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|
 | - | - | - | - |
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
-
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a> e  </b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a> 
 
 
 ## Rastreabilidade dos Requisitos Funcionais
