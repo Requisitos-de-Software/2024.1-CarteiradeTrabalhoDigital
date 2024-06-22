@@ -84,9 +84,9 @@ Com base nos Elos acima, os requisitos devem ser definidos com base na tabela 1.
 
 <b>Tabela 2:</b> Template dos Elos.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a> e  </b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a> 
 
@@ -120,9 +120,10 @@ A tabela 2 mostra os elos do requisito RF01.
 
 <b>Tabela 4:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -161,9 +162,10 @@ A tabela 3 mostra os elos do requisito RF02.
 
 <b>Tabela 6:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -198,9 +200,9 @@ A tabela 4 mostra os elos do requisito RF03.
 
 <b>Tabela 8:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
                                       |                                   |
@@ -241,9 +243,10 @@ A tabela 5 mostra os elos do requisito RF04.
 <b>Tabela 10:</b> Elo do Requisito
 
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -279,9 +282,10 @@ A tabela 6 mostra os elos do requisito RF05.
 
 <b>Tabela 12:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -317,9 +321,9 @@ A tabela 7 mostra os elos do requisito RF06.
 
 <b>Tabela 14:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -393,9 +397,9 @@ A tabela 9 mostra os elos do requisito RF08.
 
 <b>Tabela 18:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -431,9 +435,9 @@ A tabela 10 mostra os elos do requisito RF09.
 
 <b>Tabela 20:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -469,9 +473,9 @@ A tabela 22 mostra os elos do requisito RF10.
 
 <b>Tabela 22:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -506,9 +510,9 @@ A tabela 24 mostra os elos do requisito RF11.
 
 <b>Tabela 24:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -543,9 +547,9 @@ A tabela 26 mostra os elos do requisito RF12.
 
 <b>Tabela 26:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -580,9 +584,9 @@ A tabela 28 mostra os elos do requisito RF13.
 
 <b>Tabela 28:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -618,9 +622,9 @@ A tabela 30 mostra os elos do requisito RF14.
 
 <b>Tabela 30:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -655,9 +659,10 @@ A tabela 32 mostra os elos do requisito RF15.
 
 <b>Tabela 32:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -692,9 +697,9 @@ A tabela 34 mostra os elos do requisito RF16.
 
 <b>Tabela 34:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -730,9 +735,9 @@ A tabela 36 mostra os elos do requisito RF17.
 
 <b>Tabela 36:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -768,9 +773,9 @@ A tabela 38 mostra os elos do requisito RF18.
 
 <b>Tabela 38:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -805,9 +810,9 @@ A tabela 40 mostra os elos do requisito RF19.
 
 <b>Tabela 40:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -843,9 +848,10 @@ A tabela 42 mostra os elos do requisito RF20.
 
 Tabela 42: Elos do requisito RF20
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -882,9 +888,9 @@ A tabela 44 mostra os elos do requisito RF21.
 
 <b>Tabela 44:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -921,9 +927,10 @@ A tabela 46 mostra os elos do requisito RF22.
 
 <b>Tabela 46:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -960,9 +967,9 @@ A tabela 48 mostra os elos do requisito RF23.
 
 <b>Tabela 48:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -997,9 +1004,10 @@ A tabela 50 mostra os elos do requisito RF24.
 
 <b>Tabela 50:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1034,9 +1042,9 @@ A tabela 52 mostra os elos do requisito RF25.
 
 <b>Tabela 52:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1070,9 +1078,10 @@ A tabela 54 mostra os elos do requisito RF26.
 
 <b>Tabela 54:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1107,9 +1116,9 @@ A tabela 56 mostra os elos do requisito RF27.
 
 <b>Tabela 56:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1143,9 +1152,9 @@ A tabela 58 mostra os elos do requisito RF28.
 
 <b>Tabela 58:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1182,9 +1191,9 @@ A tabela 60 mostra os elos do requisito RNF01.
 
 <b>Tabela 60:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""></a>.
 
@@ -1218,9 +1227,9 @@ A tabela 62 mostra os elos do requisito RNF02.
 
 <b>Tabela 62:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1254,9 +1263,9 @@ A tabela 64 mostra os elos do requisito RNF03.
 
 <b>Tabela 64:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1290,9 +1299,9 @@ A tabela 66 mostra os elos do requisito RNF04.
 
 <b>Tabela 66:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1326,9 +1335,9 @@ A tabela 68 mostra os elos do requisito RNF05.
 
 <b>Tabela 68:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1362,9 +1371,10 @@ A tabela 70 mostra os elos do requisito RNF06.
 
 <b>Tabela 70:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1398,9 +1408,10 @@ A tabela 72 mostra os elos do requisito RNF07.
 
 <b>Tabela 72:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1434,9 +1445,9 @@ A tabela 74 mostra os elos do requisito RNF08.
 
 <b>Tabela 74:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1470,9 +1481,10 @@ A tabela 76 mostra os elos do requisito RNF09.
 
 <b>Tabela 76:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1506,9 +1518,9 @@ A tabela 78 mostra os elos do requisito RNF10.
 
 <b>Tabela 78:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1542,9 +1554,10 @@ A tabela 80 mostra os elos do requisito RNF11.
 
 <b>Tabela 80:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1578,9 +1591,10 @@ A tabela 82 mostra os elos do requisito RNF12.
 
 <b>Tabela 82:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1614,9 +1628,9 @@ A tabela 84 mostra os elos do requisito RNF13.
 
 <b>Tabela 84:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1650,9 +1664,9 @@ A tabela 86 mostra os elos do requisito RNF14.
 
 <b>Tabela 86:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1686,9 +1700,10 @@ A tabela 88 mostra os elos do requisito RNF15.
 
 <b>Tabela 88:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1722,9 +1737,10 @@ A tabela 90 mostra os elos do requisito RNF16.
 
 <b>Tabela 90:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1758,9 +1774,10 @@ A tabela 92 mostra os elos do requisito RNF17.
 
 <b>Tabela 92:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1794,9 +1811,9 @@ A tabela 94 mostra os elos do requisito RNF18.
 
 <b>Tabela 94:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1830,9 +1847,10 @@ A tabela 96 mostra os elos do requisito RNF19.
 
 <b>Tabela 96:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1866,9 +1884,10 @@ A tabela 98 mostra os elos do requisito RNF20.
 
 <b>Tabela 98:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1902,9 +1921,10 @@ A tabela 100 mostra os elos do requisito RNF21.
 
 <b>Tabela 100:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1938,9 +1958,9 @@ A tabela 102 mostra os elos do requisito RNF22.
 
 <b>Tabela 102:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -1974,9 +1994,10 @@ A tabela 104 mostra os elos do requisito RNF23.
 
 <b>Tabela 104:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -2010,9 +2031,9 @@ A tabela 106 mostra os elos do requisito RNF24.
 
 <b>Tabela 106:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
 
 <b> Autora: </b> <a href=""> </a>.
 
@@ -2046,9 +2067,10 @@ A tabela 108 mostra os elos do requisito RNF25.
 
 <b>Tabela 108:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| - | - | - | - | - |
+
 
 <b> Autora: </b> <a href=""> </a>.
 
