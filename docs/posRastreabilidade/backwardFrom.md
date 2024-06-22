@@ -48,6 +48,7 @@ Sendo assim, para garantir consistência na definição de requisitos, cada inte
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -100,6 +101,7 @@ Com base nos Elos acima, os requisitos devem ser definidos com base na tabela 1.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -140,6 +142,7 @@ A tabela 2 mostra os elos do requisito RF01.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -176,6 +179,7 @@ A tabela 3 mostra os elos do requisito RF02.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -217,6 +221,7 @@ A tabela 4 mostra os elos do requisito RF03.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -255,6 +260,7 @@ A tabela 5 mostra os elos do requisito RF04.
  
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -292,6 +298,7 @@ A tabela 6 mostra os elos do requisito RF05.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -375,6 +382,7 @@ A tabela 8 mostra os elos do requisito RF07.
   
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -412,6 +420,7 @@ A tabela 9 mostra os elos do requisito RF08.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -449,6 +458,7 @@ A tabela 10 mostra os elos do requisito RF09.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -485,6 +495,7 @@ A tabela 22 mostra os elos do requisito RF10.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -521,6 +532,7 @@ A tabela 24 mostra os elos do requisito RF11.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -557,6 +569,7 @@ A tabela 26 mostra os elos do requisito RF12.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -594,6 +607,7 @@ A tabela 28 mostra os elos do requisito RF13.
  
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -630,6 +644,7 @@ A tabela 30 mostra os elos do requisito RF14.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -666,6 +681,7 @@ A tabela 32 mostra os elos do requisito RF15.
  
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -702,6 +718,7 @@ A tabela 34 mostra os elos do requisito RF16.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -740,6 +757,7 @@ A tabela 36 mostra os elos do requisito RF17.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -776,6 +794,7 @@ A tabela 38 mostra os elos do requisito RF18.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -812,6 +831,7 @@ A tabela 40 mostra os elos do requisito RF19.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -850,6 +870,7 @@ Tabela 42: Elos do requisito RF20
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -888,6 +909,7 @@ A tabela 44 mostra os elos do requisito RF21.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -926,6 +948,7 @@ A tabela 46 mostra os elos do requisito RF22.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -963,6 +986,7 @@ A tabela 48 mostra os elos do requisito RF23.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -999,6 +1023,7 @@ A tabela 50 mostra os elos do requisito RF24.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1034,6 +1059,7 @@ A tabela 52 mostra os elos do requisito RF25.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1070,6 +1096,7 @@ A tabela 54 mostra os elos do requisito RF26.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1105,6 +1132,7 @@ A tabela 56 mostra os elos do requisito RF27.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1143,6 +1171,7 @@ A tabela 58 mostra os elos do requisito RF28.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1178,6 +1207,7 @@ A tabela 60 mostra os elos do requisito RNF01.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1213,6 +1243,7 @@ A tabela 62 mostra os elos do requisito RNF02.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1248,6 +1279,7 @@ A tabela 64 mostra os elos do requisito RNF03.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1283,6 +1315,7 @@ A tabela 66 mostra os elos do requisito RNF04.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1318,6 +1351,7 @@ A tabela 68 mostra os elos do requisito RNF05.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1353,6 +1387,7 @@ A tabela 70 mostra os elos do requisito RNF06.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1388,6 +1423,7 @@ A tabela 72 mostra os elos do requisito RNF07.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1423,6 +1459,7 @@ A tabela 74 mostra os elos do requisito RNF08.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1458,6 +1495,7 @@ A tabela 76 mostra os elos do requisito RNF09.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1493,6 +1531,7 @@ A tabela 78 mostra os elos do requisito RNF10.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1528,6 +1567,7 @@ A tabela 80 mostra os elos do requisito RNF11.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1563,6 +1603,7 @@ A tabela 82 mostra os elos do requisito RNF12.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1598,6 +1639,7 @@ A tabela 84 mostra os elos do requisito RNF13.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1633,6 +1675,7 @@ A tabela 86 mostra os elos do requisito RNF14.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1668,6 +1711,7 @@ A tabela 88 mostra os elos do requisito RNF15.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1703,6 +1747,7 @@ A tabela 90 mostra os elos do requisito RNF16.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1738,6 +1783,7 @@ A tabela 92 mostra os elos do requisito RNF17.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1773,6 +1819,7 @@ A tabela 94 mostra os elos do requisito RNF18.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1808,6 +1855,7 @@ A tabela 96 mostra os elos do requisito RNF19.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1843,6 +1891,7 @@ A tabela 98 mostra os elos do requisito RNF20.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1878,6 +1927,7 @@ A tabela 100 mostra os elos do requisito RNF21.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1913,6 +1963,7 @@ A tabela 102 mostra os elos do requisito RNF22.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1948,6 +1999,7 @@ A tabela 104 mostra os elos do requisito RNF23.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -1983,6 +2035,7 @@ A tabela 106 mostra os elos do requisito RNF24.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
+| Nome do Requisito    | - |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
@@ -2028,3 +2081,4 @@ A tabela 108 mostra os elos do requisito RNF25.
 | 1.1    |  Adição da introdução e da metodologia | Larissa Stéfane | Bruno Araújo    | 16/06/2024 |
 | 1.2    |  Adição da rastreabilidade da RF07     | Larissa Stéfane | Bruno Araújo    | 16/06/2024 |
 | 1.3    |  Correção dos templates                | Breno Alexandre | Larissa Stéfane | 20/06/2024 |
+| 1.4    |  Correção dos templates                | Reorganização do artefato | Larissa Stéfane | 20/06/2024 |
