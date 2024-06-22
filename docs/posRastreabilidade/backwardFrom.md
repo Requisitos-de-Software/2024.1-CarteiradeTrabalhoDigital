@@ -375,16 +375,16 @@ A tabela 8 mostra os elos do requisito RF07.
   
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | Usuário trabalhador visualizar gráficos com históricos e remunerações dos seus trabalhos |
+| Origem do Requisito  | [Análise de Documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) por meio de [Manual da Carteira de Trabalho Digital](https://empregabrasil.mte.gov.br/wp-content/uploads/2023/02/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf) e [Cartilha da Carteira de Trabalho Digital](https://www.focuscontabil.com/wp-content/uploads/2020/05/Cartilha-CTP-Digital-02.pdf). |
+| Descrição            | Este requisito estabelece que o usuário deve ser capaz de visualizar gráficos com históricos e remunerações dos seus trabalhos. Esses gráficos devem apresentar uma visão detalhada das remunerações ao longo do tempo e das variações nos diferentes empregos. Assim, deve ter gráficos tanto de cada emprego quanto no geral. Desse modo, esse requisito indica que deve-se permitir que os usuários visualizem gráficos que incluem dados como salários mensais, bônus, e outras remunerações associadas aos seus vínculos empregatícios.|
+| Ambiental            | O contexto do requisito está relacionado à necessidade dos usuários de acompanhar e analisar a evolução de suas remunerações ao longo do tempo. |
+| Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de fornecer um serviço digital que auxilia na coordenação e no manejo de informações por parte do usuário. <br> Isso porque a capacidade de visualizar gráficos de remunerações facilita o acesso dos usuários ao permitir que eles analisem suas informações de maneira visual. |
+| Gerencial            | Este requisito indica que será necessário desenvolver uma interface que permita a visualização de gráficos de remunerações. Isso implica na necessidade de integração do sistema com bancos de dados que armazenam informações salariais e na criação de ferramentas analíticas que gerem os gráficos automaticamente. |
+| Desenvolvimento      | Durante o desenvolvimento, esse requisito etimula a criação de funcionalidades e o uso de recursos que permitam a exibição de gráficos.  Sendo assim, isso inclui a implementação de componentes de front-end para renderização dos gráficos e a lógica de back-end para recuperar e processar os dados corretamente. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 ### Elos de Rastreabilidade
 
@@ -398,8 +398,7 @@ A tabela 9 mostra os elos do requisito RF08.
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
 | - | - | - | - | - |
 
-<b> Autora: </b> <a href=""> </a>.
-
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 </center>
 
 </details>
@@ -422,7 +421,7 @@ A tabela 9 mostra os elos do requisito RF08.
 | Desenvolvimento      | - |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 ### Elos de Rastreabilidade
 
@@ -436,7 +435,7 @@ A tabela 10 mostra os elos do requisito RF09.
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
 | - | - | - | - | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
