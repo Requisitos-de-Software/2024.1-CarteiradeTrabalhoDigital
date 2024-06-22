@@ -1133,6 +1133,80 @@ A tabela 58 mostra os elos do requisito RF28.
 
 </details>
 
+## Rastreabilidade dos Requisitos Não Funcionais
+
+
+<details>
+  <summary><b> RNF01 -   </b></summary> 
+
+<b>Tabela 59:</b> Estrutura do requisito
+
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
+
+<b> Autora: </b> <a href=""> </a>.
+
+### Elos de Rastreabilidade
+
+A tabela 60 mostra os elos do requisito RF01.
+
+<center> 
+
+<b>Tabela 60:</b> Elo do Requisito
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RNF02 - </b></summary> 
+
+<b>Tabela 61:</b> Estrutura do requisito
+
+| Características      | Explicação |
+| -------------------- | ---------- |
+| Origem do Requisito  | - |
+| Descrição            | - |
+| Ambiental            | - |
+| Organizacional       | - |
+| Gerencial            | - |
+| Desenvolvimento      | - |
+| Nível de Priorização | - |
+
+<b> Autora: </b> <a href=""> </a>.
+
+### Elos de Rastreabilidade
+
+A tabela 62 mostra os elos do requisito RF02.
+
+<center> 
+
+<b>Tabela 62:</b> Elo do Requisito
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autora: </b> <a href=""> </a>.
+
+</center>
+
+</details>
+
+
 
 
 ## Referências Bibliográficas
