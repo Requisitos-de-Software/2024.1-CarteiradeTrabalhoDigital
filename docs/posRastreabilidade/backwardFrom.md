@@ -618,10 +618,7 @@ A tabela 30 mostra os elos do requisito RF14.
 
 <b>Tabela 30:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
-
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO | Requisitos Relacionados | | -------------- | ----------------- | ----------------------------------------------------- | ------------- | ------------- | | Alocado | Desenvolvimento | <li> Módulo de Atualização de Currículo <br> <li> Banco de dados de currículos <br> <li> Interface de usuário para entrada e edição de dados dos currículos. | Este elo indica que os currículos estão **relacionados ou alocados** aos componentes dos contratos de trabalho, uma vez que se utilizam os contratos anteriores no currículo como experiência e se utiliza o currículo para contratar ou procurar emprego. | **Os requisitos que fornecem os recursos necessários são:** <br><br> Requisitos Funcionais: <br> <li> RF04: Usuário pode atualizar suas informações pessoais <br> <li> RF06: Usuário trabalhador pode atualizar contratos de trabalho <br> <li> RF24: Usuário empresa pode gerar relatórios trabalhistas <br> <li> RF25: Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos) <br><br> Requisitos não funcionais: <br> <li> RNF05: Todos os textos do sistema devem seguir os padrões tipográficos e de siglas, abreviações e erros conforme as normas. <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real. <br> <li> RNF20: O sistema deve ser totalmente integrado com o eSocial, com uma taxa de sincronização de dados de 99%. <br> <li> RNF22: O sistema deve permitir integração com pelo menos cinco outros sistemas de software, conforme especificado na documentação de requisitos. | 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
