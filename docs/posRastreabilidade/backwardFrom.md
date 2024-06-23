@@ -417,8 +417,8 @@ A tabela 9 mostra os elos do requisito RF08.
 | Descrição            | Esse requisito é usado para permitir que o usuário faça anotações diretamente no aplicativo em diversos pontos, por exemplo, adicionar observações em alguns contratos de trabalho ou em alguns benefícios, ou seja, essas anotações podem ser relacionadas a qualquer informação ou função disponível no aplicativo. Além disso, essas anotações podem ser visíveis apenas para o usuário ou para qualquer um que tenha acesso à informação. |
 | Ambiental | O contexto do requisito está relacionado à necessidade de fornecer aos usuários uma ferramenta para fazer anotações ou observações, pois alguns usuários podem gostar de adiconar algo para  verificar no futuro. |
 | Organizacional | A inclusão deste requisito está alinhada com o objetido do CTD em fornecer um aplicativo que facilite a organização pessoal dos usuários.  |
-| Gerencial | Do ponto de vista gerencial, este requisito exige a garantia de que as anotações sejam integradas com outras funcionalidades do sistema. |
-| Desenvolvimento      | A implementação deste requisito requer a criação de uma interface de para  a inserção, a edição e a exclusão de anotações, além do armazenamento seguro dos dados.|
+| Gerencial | Do ponto de vista gerencial, este requisito exige a garantia de que as anotações sejam integradas com outras funcionalidades do sistema e com o banco de dados, se necessário. |
+| Desenvolvimento      | A implementação deste requisito requer a criação de uma interface de para a inserção, a edição e a exclusão de anotações, além do armazenamento seguro dos dados.|
 | Nível de Priorização | - |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
