@@ -79,9 +79,9 @@ Após a análise de rastreabilidade, organizamos as informações em uma tabela,
 ## Conclusão
 
 ## Bibliografia
-POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamentals: A Study Guide for the Certified Professional for Requirements Engineering Exam - Foundation Level - IREB compliant. ed. Berlin: Springer, 2015. Acesso feito em 22/06/2024
+1. POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamentals: A Study Guide for the Certified Professional for Requirements Engineering Exam - Foundation Level - IREB compliant. ed. Berlin: Springer, 2015. Acesso feito em 22/06/2024
 
-SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Acesso em: 22 de jun de 2024.
+2. SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Acesso em: 22 de jun de 2024.
 
 ## Histórico de Versão
 
