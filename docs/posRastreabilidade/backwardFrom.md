@@ -599,13 +599,13 @@ A tabela 28 mostra os elos do requisito RF13.
  
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | Usuário trabalhador pode atualizar (declarar) currículo |
+| Origem do Requisito  | [Storytelling](Elicitacao/TecnicasElicitacao/Execucao/Storytelling) |
+| Descrição            | Este requisito permite que usuários trabalhadores atualizem ou declarem informações de seus currículos através do sistema, incluindo dados como experiências profissionais, formação acadêmica, habilidades e certificações. |
+| Ambiental            | O contexto do requisito está relacionado à necessidade dos usuários de manterem seus currículos atualizados para fins de candidatura a empregos e para que empregadores possam acessar informações atualizadas sobre os seus empregados. |
+| Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de proporcionar uma plataforma centralizada na gestão de informações profissionais. |
+| Gerencial            | Do ponto de vista gerencial, este requisito indica que será necessário definir processos para a atualização e para a verificação das informações inseridas pelos usuários, garantindo que os dados confiáveis. Além disso, há a necessidade de monitoramento dos currículos. |
+| Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de formulários de entrada de dados, integração com bancos de dados para armazenamento e verificação das informações do currículo, e a implementação de mecanismos de validação para garantir a integridade dos dados. Além disso, deve-se permitir a edição e  a exclusão de informações caso o usuário deseje.|
 | Nível de Priorização | - |
 
 <b> Autora: </b> <a href=""> </a>.
