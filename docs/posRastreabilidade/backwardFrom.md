@@ -493,7 +493,7 @@ A tabela 11 mostra os elos do requisito RF10.
 | Desenvolvimento      | Durante o desenvolvimento, é necessário implementar, na interface, o acesso às informações do FGTS e INSS de forma organizada, o que envolve a integração com APIs dos sistemas responsáveis pelos dados. Também é necessário mecanismos de segurança para proteção das informações pessoais dos usuários. <br> Um observação importânte é que a interface deve ser projetada de acordo com os padrões estabelecidos pelo gov.br. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href="">Larissa Stéfane</a>.
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 ### Elos de Rastreabilidade
 
@@ -507,7 +507,7 @@ A tabela 24 mostra os elos do requisito RF11.
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
 | Recurso | Desenvolvimento | <li> Componentes na interface para consulta de informações do FGTS e INSS. <br> <li> Integração com APIs dos sistemas do FGTS e INSS. <br> <li> Mecanismos para segurança de dados | Os componentes para consultar as informações do FGTS e INSS no aplicativo da Carteira de Trabalho Digital e a integração com APIs dos sistemas do FGTS e INSS e os mecanismos de segurança **são recursos** necessários para implementar o requisito de consulta de informações. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF05: Usuário trabalhador pode consultar contratos de trabalho <br> <li> RF12: Usuário trabalhador pode consultar benefícios (13º salário, férias remuneradas, adicional noturno, Hora extra)  <br> <br>  Requisitos não funcionais: <br> <li> RNF06: A interface do usuário deve estar em conformidade com os manuais de interface gov.br. <br> <li> RNF09: O sistema deve garantir a conformidade com a LGPD (Lei Geral de Proteção de Dados). <br> <li> RNF11: O sistema deve permitir a integração completa com os processos de negócios governamentais, conforme especificado na documentação de requisitos. <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real. |
 
-<b> Autora: </b> <a href="">Larissa Stéfane</a>.
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
@@ -532,7 +532,7 @@ A tabela 24 mostra os elos do requisito RF11.
 | Desenvolvimento      | Durante o desenvolvimento, será necessário criar uma componentes de interface que permitam aos usuários consultar facilmente cada benefício listado. Além disso, também é necessária a implementação de consultas de dados em tempo real e a apresentação das informações obtidas. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 ### Elos de Rastreabilidade
 
@@ -542,11 +542,11 @@ A tabela 26 mostra os elos do requisito RF12.
 
 <b>Tabela 26:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO | Requisitos Relacionados |
+| -------------- | ----------------- | ----------------------------------------------------- | ------------- | ------------- |
+| Recurso | Desenvolvimento | <li> Componentes de interface para consulta de benefícios <br> <li> Integração com APIs ou Banco de dados, como eSocial. | Os componentes na interface para consulta de benefícios no aplicativo da Carteira de Trabalho Digital e a integração com APIs ou bancos de dados **são recursos** necessários para implementar o requisito de consulta de benefícios. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF13: Usuário trabalhador pode solicitar benefícios. <br> <li> RF05: Usuário trabalhador pode consultar contratos de trabalho. <br> <li> RF22: Usuário empresa pode atualizar dados dos funcionários <br> <li> RF25: Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos) <br> <br>  Requisitos não funcionais: <br> <li> RNF05: Todos os textos do sistema devem seguir os padrões tipográficos e de siglas, abreviações e erros conforme as normas. <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real. <br> <li> RNF20: O sistema deve ser totalmente integrado com o eSocial, com uma taxa de sincronização de dados de 99%. |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
@@ -569,7 +569,7 @@ A tabela 26 mostra os elos do requisito RF12.
 | Desenvolvimento      | - |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 ### Elos de Rastreabilidade
 
@@ -583,7 +583,7 @@ A tabela 28 mostra os elos do requisito RF13.
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
 | - | - | - | - | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
@@ -621,7 +621,7 @@ A tabela 30 mostra os elos do requisito RF14.
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
 | - | - | - | - | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
