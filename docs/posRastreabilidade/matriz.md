@@ -43,13 +43,13 @@ Após a análise de rastreabilidade, organizamos as informações na Tabela 1, f
 |         RF19         | --   |  --    |       --      |    --     | --   | 
 |         RF20         | --   |  --    |       --      |    --     | --   | 
 |         RF21         | --   |  --    |       --      |    --     | --   | 
-|         RF22         | Usuário empresa pode atualizar dados dos funcionários   |  Entrevistas e Análise de Documentos    |Incompleto|    --     | --   | 
-|         RF23         | Usuário empresa pode consultar contratos de trabalho   |  Entrevistas e Análise de Documentos    |Incompleto   |    --     | --   | 
-|         RF24         | Usuário empresa pode gerar relatórios trabalhistas   |  Entrevistas e Análise de Documentos   |Incompleto|    --     | --   | 
-|         RF25         | Usuário pode recuperar senha   |  Entrevistas  e Análise de Documentos   |Sim|    --     | --   | 
-|         RF26         | Usuário pode visualizar histórico de contratações   |  Entrevistas e Análise de Documentos    |Incompleto|    --     | --   | 
-|         RF27         | Usuário pode visualizar notificações   |  Entrevistas e Análise de Documentos   |Incompleto|    --     | --   | 
-|         RF28         | Usuário pode visualizar dados de contato da empresa   |  Entrevistas  e Análise de Documentos    |Não|    --     | --   | 
+|         RF22         | Usuário empresa pode atualizar dados dos funcionários   |  Entrevistas e Análise de Documentos    |Incompleto|    --     |  RF03, RF04, RNF14, RNF18   | 
+|         RF23         | Usuário empresa pode consultar contratos de trabalho   |  Entrevistas e Análise de Documentos    |Incompleto   |    --     | RF05, RNF18   | 
+|         RF24         | Usuário empresa pode gerar relatórios trabalhistas   |  Entrevistas e Análise de Documentos   |Incompleto|    --     | RF06, RNF12   | 
+|         RF25         | Usuário pode recuperar senha   |  Entrevistas  e Análise de Documentos   |Sim|    --     | RF05, RNF18   | 
+|         RF26         | Usuário pode visualizar histórico de contratações   |  Entrevistas e Análise de Documentos    |Incompleto|    --     | RF07, RNF12   | 
+|         RF27         | Usuário pode visualizar notificações   |  Entrevistas e Análise de Documentos   |Incompleto|    --     | RF08, RNF12   | 
+|         RF28         | Usuário pode visualizar dados de contato da empresa   |  Entrevistas  e Análise de Documentos    |Não|    --     | RF10, RNF15   | 
 |         RNF01        | --   |  --    |       --      |    --     | --   | 
 |         RNF02        | --   |  --    |       --      |    --     | --   | 
 |         RNF03        | --   |  --    |       --      |    --     | --   | 
