@@ -90,5 +90,5 @@ A matriz de rastreabilidade desenvolvida para o projeto da Carteira Digital de T
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento | Pedro Izarias |  -  |  22/06/2024  |
-| 1.1 |  Adição da Introdução, Desenvolvimento e Matriz de rastreabilidade | Pedro Izarias |  -  |  22/06/2024  |
+| 1.0 | Criação do documento | Pedro Izarias |  Bruno Araújo  |  22/06/2024  |
+| 1.1 |  Adição da Introdução, Desenvolvimento e Matriz de rastreabilidade | Pedro Izarias |  Bruno Araújo  |  22/06/2024  |
