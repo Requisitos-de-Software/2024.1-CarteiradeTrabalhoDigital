@@ -43,7 +43,7 @@ Após a análise de rastreabilidade, organizamos as informações na Tabela 1, f
 |         RF19         | --   |  --    |       --      |    --     | --   | 
 |         RF20         | --   |  --    |       --      |    --     | --   | 
 |         RF21         | --   |  --    |       --      |    --     | --   | 
-|         RF22         | --   |  --    |       --      |    --     | --   | 
+|         RF22         | Usuário empresa pode atualizar dados dos funcionários   |  [Entrevistas](Elicitacao/TecnicasElicitacao/Execucao/Entrevistas.md) e [Análise de Documentos (Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) por meio de [Manual da Carteira de Trabalho Digital](https://empregabrasil.mte.gov.br/wp-content/uploads/2023/02/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf)    |       --      |    --     | --   | 
 |         RF23         | --   |  --    |       --      |    --     | --   | 
 |         RF24         | --   |  --    |       --      |    --     | --   | 
 |         RF25         | --   |  --    |       --      |    --     | --   | 
