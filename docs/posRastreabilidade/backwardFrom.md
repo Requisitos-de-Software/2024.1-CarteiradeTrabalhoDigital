@@ -523,13 +523,13 @@ A tabela 24 mostra os elos do requisito RF11.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | Usuário trabalhador pode consultar benefícios (13º salário, férias remuneradas, adicional noturno, vale-transporte, vale-refeição, plano de saúde, abono salarial, benefício TAC-Taxista, Seguro Desemprego) |
+| Origem do Requisito  | [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) e [Storytelling](Elicitacao/TecnicasElicitacao/Execucao/Storytelling/Entrevistas.md) |
+| Descrição            | Este requisito permite que o usuário consulte diversos benefícios relacionados ao seu trabalho, tais como 13º salário, férias remuneradas, adicional noturno, vale-transporte, vale-refeição, plano de saúde, abono salarial, benefício TAC-Taxista e Seguro Desemprego. Desse modo, a consulta deve ser fácil e acessível e fornecer as informações detalhadas sobre cada benefício. |
+| Ambiental            | A demanda por acesso fácil e rápido às informações sobre benefícios trabalhistas é crescente entre os trabalhadores, especialmente aqueles que desejam gerenciar melhor suas finanças e planejar suas atividades profissionais. Com isso, esse requisito responde a essa necessidade. |
+| Organizacional       | A implementação desse requisito alinha-se com a estratégia organizacional de promover transparência e autonomia aos usuários trabalhadores, fornecendo ferramentas digitais que facilitam o acesso às informações essenciais. |
+| Gerencial            | Do ponto de vista gerencial, este requisito implica na integração de fontes de dados que fornecem informações precisas sobre cada benefício listado. Além disso, é necessário garantir a segurança e a privacidade das informações consultadas pelos usuários. |
+| Desenvolvimento      | Durante o desenvolvimento, será necessário criar uma componentes de interface que permitam aos usuários consultar facilmente cada benefício listado. Além disso, também é necessária a implementação de consultas de dados em tempo real e a apresentação das informações obtidas. |
 | Nível de Priorização | - |
 
 <b> Autora: </b> <a href=""> </a>.
