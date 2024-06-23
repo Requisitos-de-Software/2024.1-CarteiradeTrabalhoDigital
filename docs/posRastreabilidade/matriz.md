@@ -79,9 +79,11 @@ Após a análise de rastreabilidade, organizamos as informações em uma tabela,
 ## Conclusão
 
 ## Bibliografia
+POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamentals: A Study Guide for the Certified Professional for Requirements Engineering Exam - Foundation Level - IREB compliant. ed. Berlin: Springer, 2015. Acesso feito em 22/06/2024
 
 ## Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento | Pedro Izarias |  -  |  23/06/2024  |
+| 1.0 | Criação do documento | Pedro Izarias |  -  |  22/06/2024  |
+| 1.1 |  Adição da Introdução, Desenvolvimento e Matriz de rastreabilidade | Pedro Izarias |  -  |  22/06/2024  |
