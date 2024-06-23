@@ -417,7 +417,7 @@ A tabela 9 mostra os elos do requisito RF08.
 | Descrição            | Este requisito permite que o usuário faça anotações diretamente no aplicativo. Essas anotações podem ser relacionadas a qualquer informação ou função disponível no aplicativo. |
 | Ambiental            | Este requisito deve funcionar em diferentes ambientes de hardware e software, incluindo dispositivos móveis e desktops, com conectividade à internet. |
 | Organizacional       | Este requisito ajuda na organização pessoal do usuário, permitindo o registro de notas importantes que podem ser úteis para consultas futuras. |
-| Gerencial            | - |
+| Gerencial            | As anotações realizadas pelo usuário podem ser usadas para melhorar a gestão de suas informações pessoais e profissionais no aplicativo. |
 | Desenvolvimento      | - |
 | Nível de Priorização | - |
 
