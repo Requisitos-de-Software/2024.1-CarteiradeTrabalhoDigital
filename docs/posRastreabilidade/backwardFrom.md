@@ -341,7 +341,7 @@ A tabela 7 mostra os elos do requisito RF06.
 | Onde foi elicitado  | [Análise de Documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) por meio de [Manual da Carteira de Trabalho Digital](https://empregabrasil.mte.gov.br/wp-content/uploads/2023/02/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf) e [Cartilha da Carteira de Trabalho Digital](https://www.focuscontabil.com/wp-content/uploads/2020/05/Cartilha-CTP-Digital-02.pdf). |
 | Descrição            | Esse requisito estabelece que o usuário deve ser capaz de gerar um arquivo PDF contendo os dados de sua Carteira de Trabalho Digital. Assim, o arquivo de PDF pode incluir informações sobre os contratos de trabalho, os dados pessoais, e outras movimentações profissionais. Além disso, o PDF gerado deve poder ser baixado, enviado por e-mail, ou impresso. |
 | Ambiental            | O contexto do requisito está relacionado à necessidade dos usuários de acessar e de compartilhar facilmente as suas informações trabalhistas. Desse modo, essa funcionalidade deve permitir que os usuários gerem um PDF que inclui dados como detalhes de seus vínculos empregatícios e outras movimentações. Além disso, o PDF pode ser usado para comprovar experiências profissionais e é uma resposta à demanda por maior portabilidade de informações. |
-| Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de fornecer um serviço digital acessível que auxilia na coordenação e no manejo de informações por parte do usuário. Isso porque essa funcionalidade apoia a estratégia de digitalizar os processos e melhorar a usabilidade dos serviços oferecidos. Portanto, a capacidade de gerar PDFs com dados da Carteira de Trabalho facilita a vida dos usuários trabalhadores ao permitir que eles verifiquem e compartilhem seus dados. |
+| Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de fornecer um serviço digital acessível que auxilia na coordenação e no manejo de informações por parte do usuário. Isso porque esse requisito apoia a estratégia de digitalizar os processos e melhorar a usabilidade dos serviços oferecidos. Portanto, a capacidade de gerar PDFs com dados da Carteira de Trabalho facilita a vida dos usuários trabalhadores ao permitir que eles verifiquem e compartilhem seus dados. |
 | Gerencial            | Do ponto de vista gerencial, este requisito indica que será necessário criar um molde com a localização de cada dado quando eles forem recuperados nos bancos de dados quando o PDF for gerado. Assim, ele indica que a gerência deve focar tanto na integração do sistema com os bancos de dados e em como os usuários visualizarão esses dados. |
 | Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de funcionalidades específicas que permitam a exportação dos dados da Carteira de Trabalho Digital em formato PDF. Isso inclui a implementação de um botão ou ícone na interface do usuário para gerar o PDF, bem como a lógica de backend para compilar e para formatar os dados corretamente, como foi citado em **geracional**. Os desenvolvedores também precisam garantir que o PDF gerado possa ser baixado e enviado por e-mail ou impresso. |
 | Nível de Priorização | - |
@@ -410,17 +410,15 @@ A tabela 9 mostra os elos do requisito RF08.
 
  <b>Tabela 19:</b> Estrutura do requisito
 
- **vERIFICAR**
-
 | Características      | Explicação |
 | -------------------- | ---------- |
 | Nome do Requisito    | Usuário pode realizar anotações |
 | Origem do Requisito  | [Análise de Documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) por meio de [Manual da Carteira de Trabalho Digital](https://empregabrasil.mte.gov.br/wp-content/uploads/2023/02/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf) e [Cartilha da Carteira de Trabalho Digital](https://www.focuscontabil.com/wp-content/uploads/2020/05/Cartilha-CTP-Digital-02.pdf). |
-| Descrição            | **nova** permite que o usuário faça anotações diretamente no aplicativo. Essas anotações podem ser relacionadas a qualquer informação ou função disponível no aplicativo. |
-| Ambiental            |  **nova** O requisito deve funcionar em diferentes ambientes de hardware e software, incluindo dispositivos móveis e desktops, com conectividade à internet. |
-| Organizacional       | O requisito ajuda na organização pessoal do usuário, permitindo o registro de notas importantes que podem ser úteis para consultas futuras. |
-| Gerencial            | As anotações realizadas pelo usuário podem ser usadas para melhorar a gestão de suas informações pessoais e profissionais no aplicativo. |
-| Desenvolvimento      | A implementação deste requisito requer a criação de uma interface de usuário intuitiva para inserção, edição e exclusão de anotações, além do armazenamento seguro dos dados. |
+| Descrição            | Esse requisito é usado para permitir que o usuário faça anotações diretamente no aplicativo em diversos pontos, por exemplo, adicionar observações em alguns contratos de trabalho ou em alguns benefícios, ou seja, essas anotações podem ser relacionadas a qualquer informação ou função disponível no aplicativo. Além disso, essas anotações podem ser visíveis apenas para o usuário ou para qualquer um que tenha acesso à informação. |
+| Ambiental | O contexto do requisito está relacionado à necessidade de fornecer aos usuários uma ferramenta para fazer anotações ou observações, pois alguns usuários podem gostar de adiconar algo para ele verificar no futuro. |
+| Organizacional | A inclusão deste requisito está alinhada com o objetido do CTD em fornecer um aplicativo que facilite a organização pessoal dos usuários.  |
+| Gerencial | Do ponto de vista gerencial, este requisito exige a garantia de que as anotações sejam integradas com outras funcionalidades do sistema. |
+| Desenvolvimento      | A implementação deste requisito requer a criação de uma interface de para  a inserção, a edição e a exclusão de anotações, além do armazenamento seguro dos dados.|
 | Nível de Priorização | - |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
