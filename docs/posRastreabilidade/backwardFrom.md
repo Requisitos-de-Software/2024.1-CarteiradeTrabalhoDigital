@@ -412,7 +412,7 @@ A tabela 9 mostra os elos do requisito RF08.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
+| Nome do Requisito    | Usuário pode realizar anotações |
 | Origem do Requisito  | - |
 | Descrição            | - |
 | Ambiental            | - |
