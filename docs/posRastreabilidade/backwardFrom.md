@@ -418,7 +418,7 @@ A tabela 9 mostra os elos do requisito RF08.
 | Ambiental            | Este requisito deve funcionar em diferentes ambientes de hardware e software, incluindo dispositivos móveis e desktops, com conectividade à internet. |
 | Organizacional       | Este requisito ajuda na organização pessoal do usuário, permitindo o registro de notas importantes que podem ser úteis para consultas futuras. |
 | Gerencial            | As anotações realizadas pelo usuário podem ser usadas para melhorar a gestão de suas informações pessoais e profissionais no aplicativo. |
-| Desenvolvimento      | - |
+| Desenvolvimento      | A implementação deste requisito requer a criação de uma interface de usuário intuitiva para inserção, edição e exclusão de anotações, além do armazenamento seguro dos dados. |
 | Nível de Priorização | - |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
