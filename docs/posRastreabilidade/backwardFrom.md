@@ -101,16 +101,16 @@ Com base nos Elos acima, os requisitos devem ser definidos com base na tabela 1.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | Usuário se registrar no aplicativo |
+| Origem do Requisito  | [Análise de documentos	](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos) | 
+| Descrição            | Esse requisito estabelece que o usuário deve ser capaz de realizar o cadastro pelo aplicativo.  |
+| Ambiental            | O contexto do requisito está relacionado à necessidade de novos usuários de acessar o aplicativo com todas suas funções e acessar informações pessoais.  |
+| Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de proteger e armazenar as informações dos usuários. |
+| Gerencial            | Do ponto de vista gerencial, este requisito indica que será necessário armazenar as informações dos usuários conta à conta. Assim, ele indica que a gerência deve focar tanto na integração do sistema com os bancos de dados e em como os usuários visualizarão esses dados. |
+| Desenvolvimento      |  Durante o desenvolvimento, esse requisito implica na criação da integração de outras funcionalidades com as novas contas dos usuários. Isso também implica na criação de um botão de cadastro na tela inicial do aplicativo caso o usuário não estivesse logado ainda. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: </b> <a href="https://github.com/Paxxaglia"> Iago Passaglia </a>.
 
 ### Elos de Rastreabilidade
 
@@ -120,19 +120,18 @@ A tabela 2 mostra os elos do requisito RF01.
 
 <b>Tabela 4:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados |
+| -------------------- | ---------- | ---------- |  ---------- |  ---------- | 
+| Satisfação | Desenvolvimento | <li> Módulo de Cadastro <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo de satisfação indica que o desenvolvimento do módulo de cadastro e do componente de manipulação de dados da carteira é essencial para atender ao requisito de permitir que o usuário se registre no aplicativo. Esses elementos são necessários para criar novas contas de usuários e garantir que os dados sejam armazenados e gerenciados adequadamente, proporcionando uma experiência integrada e segura. | RF02:	Usuário poder fazer login para entrar na sua página pessoal  | 
 
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
-
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 </center>
 
 </details>
+
 
 
 
@@ -143,16 +142,16 @@ A tabela 2 mostra os elos do requisito RF01.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | Usuário poder fazer login para entrar na sua página pessoal |
+| Origem do Requisito  | [Análise de documentos	](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos) |
+| Descrição            | Esse requisito estabelece que o usuário deve ser capaz de realizar o login com seu cadastro prévio e acessar suas informações pessoais. |
+| Ambiental            | O contexto do requisito está relacionado à necessidade de usuários com cadastro prévio de acessar o aplicativo e acessar informações pessoais. |
+| Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de proteger e armazenar as informações dos usuários. |
+| Gerencial            | Do ponto de vista gerencial, este requisito indica que será necessário armazenar as informações dos usuários conta à conta. Assim, ele indica que a gerência deve focar tanto na integração do sistema com os bancos de dados e em como os usuários visualizarão esses dados. |
+| Desenvolvimento      |  Durante o desenvolvimento, esse requisito implica na criação da integração de outras funcionalidades com as contas dos usuários. Isso também implica na criação de um botão de login na tela inicial do aplicativo caso o usuário já tenha criado sua conta. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 ### Elos de Rastreabilidade
 
@@ -164,10 +163,10 @@ A tabela 3 mostra os elos do requisito RF02.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Recurso | Desenvolvimento | <li> Módulo de Login <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração de funcionalidades com as contas dos usuários e da criação de botões de acesso rápido. | RF01: Usuário se registrar no aplicativo  |
 
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 </center>
 
@@ -181,16 +180,16 @@ A tabela 3 mostra os elos do requisito RF02.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | Usuário pode consultar suas informações pessoais |
+| Origem do Requisito  | [Análise de documentos	](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos). |
+| Descrição            | Esse requisito estabelece que o usuário deve ser capaz de acessar suas informações pessoais relacionadas a carteira de trabalho e conta. |
+| Ambiental            | O contexto do requisito está relacionado à necessidade de usuários de acessar informações pessoais. |
+| Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de proteger e armazenar as informações dos usuários. |
+| Gerencial            | Do ponto de vista gerencial, este requisito indica que será necessário armazenar as informações dos usuários conta à conta. Assim, ele indica que a gerência deve focar tanto na integração do sistema com os bancos de dados e em como os usuários visualizarão esses dados. |
+| Desenvolvimento      |  Durante o desenvolvimento, esse requisito implica na criação da integração de outras funcionalidades com as contas dos usuários. Isso também implica na criação de botões de acesso rápido à informações pessoais de cadastro.  |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 ### Elos de Rastreabilidade
 
@@ -202,12 +201,9 @@ A tabela 4 mostra os elos do requisito RF03.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Recurso | Desenvolvimento | <li> Módulo de Informações Pessoais <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração de funcionalidades com as contas dos usuários e da criação de botões de acesso rápido. | RF02: Usuário poder fazer login para entrar na sua página pessoal |
 
-<b> Autora: </b> <a href=""> </a>.
-                                      |                                   |
-
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 </center>
 
@@ -220,16 +216,16 @@ A tabela 4 mostra os elos do requisito RF03.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | Usuário pode atualizar suas informações pessoais |
+| Origem do Requisito  | [Entrevistas](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/TecnicasElicitacao/Execucao/Storytelling/Storytelling). |
+| Descrição            | Esse requisito estabelece que o usuário deve ser capaz de alterar/atualizar suas informações pessoais. |
+| Ambiental            | O contexto do requisito está relacionado à necessidade de usuários de atualizar informações pessoais. |
+| Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de permitir que o usuário sempre tenha suas informações atualizadas. |
+| Gerencial            | Do ponto de vista gerencial, este requisito indica que será necessário armazenar as informações dos usuários conta à conta. Assim, ele indica que a gerência deve focar tanto na integração do sistema com os bancos de dados e em como os usuários visualizarão esses dados. |
+| Desenvolvimento      |  Durante o desenvolvimento, esse requisito implica implica na criação de botões de acesso rápido à informações pessoais de cadastro.  |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 ### Elos de Rastreabilidade
 
@@ -242,10 +238,11 @@ A tabela 5 mostra os elos do requisito RF04.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Recurso | Desenvolvimento | <li> Módulo de Informações Pessoais <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração de funcionalidades com as contas dos usuários e da criação de botões de acesso rápido. | RF02: Usuário poder fazer login para entrar na sua página pessoal |
 
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+
 
 </center>
 
@@ -260,16 +257,17 @@ A tabela 5 mostra os elos do requisito RF04.
  
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | Usuário trabalhador pode consultar contratos de trabalho |
+| Origem do Requisito  | [Análise de documentos	](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos). |
+| Descrição            | Este requisito estabelece que o usuário trabalhador deve ser capaz de consultar seus contratos de trabalho através do aplicativo, visualizando detalhes como datas de início e término, cargos, empresas, e condições contratuais. |
+| Ambiental            | O contexto do requisito está relacionado à necessidade de usuários trabalhadores de acessar informações detalhadas sobre seus contratos de trabalho. |
+| Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de proteger e armazenar as informações dos usuários, além de facilitar o acesso a dados importantes de forma segura e eficiente. |
+| Gerencial            | Do ponto de vista gerencial, este requisito indica que será necessário armazenar as informações dos contratos de trabalho de cada usuário de forma organizada e segura. A gerência deve focar na integração do sistema com os bancos de dados e na interface de usuário para a visualização dessas informações. |
+| Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de funcionalidades que permitam a visualização detalhada dos contratos de trabalho, incluindo a integração com os bancos de dados que armazenam essas informações e a criação de botões e telas específicos no aplicativo para facilitar o acesso dos usuários. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+
 
 ### Elos de Rastreabilidade
 
@@ -281,10 +279,10 @@ A tabela 6 mostra os elos do requisito RF05.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Recurso | Desenvolvimento | <li> Módulo de Informações Trabalhistas <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração de funcionalidades com os bancos de dados de contratos de trabalho e da criação de interfaces específicas para essa consulta. | RF02: Usuário poder fazer login para entrar na sua página pessoal |
 
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 </center>
 
@@ -299,16 +297,16 @@ A tabela 6 mostra os elos do requisito RF05.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | Usuário trabalhador pode atualizar contratos de trabalho |
+| Origem do Requisito  | [Entrevistas](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/TecnicasElicitacao/Execucao/Storytelling/Storytelling). |
+| Descrição            | Este requisito estabelece que o usuário trabalhador deve ser capaz de atualizar seus contratos de trabalho através do aplicativo. |
+| Ambiental            | O contexto do requisito está relacionado à necessidade de usuários trabalhadores de atualizar informações sobre seus contratos de trabalho. |
+| Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de proteger e armazenar as informações dos usuários, além de permitir a atualização de dados importantes de forma segura e eficiente. |
+| Gerencial            | Do ponto de vista gerencial, este requisito indica que será necessário armazenar as atualizações dos contratos de trabalho de cada usuário de forma organizada e segura. A gerência deve focar na integração do sistema com os bancos de dados e na interface de usuário para a atualização dessas informações. |
+| Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de funcionalidades que permitam a atualização detalhada dos contratos de trabalho, incluindo a integração com os bancos de dados que armazenam essas informações e a criação de botões e telas específicos no aplicativo para facilitar o acesso dos usuários. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 ### Elos de Rastreabilidade
 
@@ -320,13 +318,14 @@ A tabela 7 mostra os elos do requisito RF06.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Recurso | Desenvolvimento | <li> Módulo de Informações Trabalhistas <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração de funcionalidades com os bancos de dados de contratos de trabalho e da criação de interfaces específicas para essa consulta. | RF02: Usuário poder fazer login para entrar na sua página pessoal |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 </center>
 
 </details>
+
 
 
 
@@ -2033,16 +2032,16 @@ A tabela 106 mostra os elos do requisito RNF24.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | O sistema deve atualizar os dados do usuário automaticamente a cada 24 horas para evitar defasagem, com uma taxa de sucesso de 99%. |
+| Origem do Requisito  | [Entrevistas](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/TecnicasElicitacao/Execucao/Storytelling/Storytelling). |
+| Descrição            | Este requisito estabelece que o sistema deve atualizar automaticamente os dados do usuário a cada 24 horas para evitar defasagem, garantindo uma taxa de sucesso de 99% |
+| Ambiental            | O contexto do requisito está relacionado à necessidade de manter os dados dos usuários atualizados regularmente e de forma automatizada. |
+| Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de garantir a integridade e a atualização contínua das informações dos usuários. |
+| Gerencial            | Do ponto de vista gerencial, este requisito indica que será necessário desenvolver mecanismos automáticos de atualização de dados e monitoramento de sua eficácia para assegurar uma taxa de sucesso de 99%. |
+| Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de processos automatizados de atualização de dados, integração com sistemas de backend, e mecanismos de verificação e validação para garantir a taxa de sucesso especificada. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 ### Elos de Rastreabilidade
 
@@ -2054,14 +2053,16 @@ A tabela 108 mostra os elos do requisito RNF25.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Recurso | Desenvolvimento | <li> Módulo de Informações Trabalhistas <br> <li> Módulo de Informações Pessoais. <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração com sistemas de backend e de mecanismos de monitoramento para assegurar a taxa de sucesso de 99%. | RF02: Usuário poder fazer login para entrar na sua página pessoal |
 
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+
 
 </center>
 
 </details>
+
 
 
 
@@ -2081,5 +2082,6 @@ A tabela 108 mostra os elos do requisito RNF25.
 | 1.2    |  Adição da rastreabilidade da RF07     | Larissa Stéfane | Bruno Araújo    | 16/06/2024 |
 | 1.3    |  Correção dos templates                | Breno Alexandre | Larissa Stéfane | 20/06/2024 |
 | 1.4    |  Reorganização do artefato             | Larissa Stéfane | Pedro Izarias | 20/06/2024 |
-| 1.5    |  Adicção dos requisitos RF07 até RF14  | Larissa Stéfane | Pedro Izarias | 22/06/2024 |
-| 1.6    |  Adicção dos requisitos RF22 até RF28  | Pedro Izarias | - | 23/06/2024 |
+| 1.5    |  Adição dos requisitos RF07 até RF14  | Larissa Stéfane | Pedro Izarias | 22/06/2024 |
+| 1.6    |  Adição dos requisitos RF22 até RF28  | Pedro Izarias | Iago Passaglia | 23/06/2024 |
+| 1.7    |  Adição dos requisitos RF01 até RF06 e RNF25  | Iago Passaglia | - | 23/06/2024 |
