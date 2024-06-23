@@ -56,4 +56,4 @@ Estão descritas na Tabela 1 as issues para a etapa atual, onde cada issue tem o
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do documento                | Breno Alexandre | -               | 13/06/2024 |
+| 1.0    | Criação do documento                | Breno Alexandre | Bruno Araújo              | 13/06/2024 |
