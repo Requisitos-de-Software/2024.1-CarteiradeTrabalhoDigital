@@ -42,7 +42,7 @@ Sendo assim, para garantir consistência na definição de requisitos, cada inte
 
 - **Desenvolvimento:** artefatos gerados no processo de desenvolvimento relacionados ao requisito.
 
-- **Nível de Priorização:** 
+- **Nível de Priorização:** Indica qual o nível de pirorização de acordo com os resultados das técnicas elicitadas.
 
 <b>Tabela 1:</b> Template das estruturas.
 
