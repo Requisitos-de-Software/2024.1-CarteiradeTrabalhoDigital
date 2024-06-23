@@ -560,13 +560,13 @@ A tabela 26 mostra os elos do requisito RF12.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | Usuário trabalhador pode solicitar benefícios |
+| Origem do Requisito  | [Análise de documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) |
+| Descrição            | Este requisito permite que usuários que são trabalhadores solicitem benefícios através do sistema, passando por análise de documentos ou justiicativa para verificação de elegibilidade do pedido. Então, a empresa recebe o pedido. |
+| Ambiental | O contexto do requisito está relacionado à necessidade dos usuários de acessar e de solicitar benefícios de forma simplificada e digital. | 
+| Organizacional | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de digitalizar e otimizar os processos de gestão, que inclui a gestão de benefícios. Sendo assim, o foco está em melhorar a acessibilidade e a transparência no acesso aos pedidos por benefícios. |
+| Gerencial | Do ponto de vista gerencial, este requisito indica que será necessário estabelecer métricas para o monitoramento contínuo do processo de solicitação de benefícios para assegurar conformidade com as políticas organizacionais e regulatórias e facilitar a solicitação por um benefício.|
+| Desenvolvimento | Durante o desenvolvimento, esse requisito implica na criação de componentes de interfaces para a solicitação de benefícios, na implementação de lógica de negócio para validar os documentos que possam ser enviados, e na integração com sistemas ou bancos de dados externos. |
 | Nível de Priorização | - |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
