@@ -416,7 +416,7 @@ A tabela 9 mostra os elos do requisito RF08.
 | Origem do Requisito  | [Análise de Documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) por meio de [Manual da Carteira de Trabalho Digital](https://empregabrasil.mte.gov.br/wp-content/uploads/2023/02/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf) e [Cartilha da Carteira de Trabalho Digital](https://www.focuscontabil.com/wp-content/uploads/2020/05/Cartilha-CTP-Digital-02.pdf). |
 | Descrição            | Este requisito permite que o usuário faça anotações diretamente no aplicativo. Essas anotações podem ser relacionadas a qualquer informação ou função disponível no aplicativo. |
 | Ambiental            | Este requisito deve funcionar em diferentes ambientes de hardware e software, incluindo dispositivos móveis e desktops, com conectividade à internet. |
-| Organizacional       | - |
+| Organizacional       | Este requisito ajuda na organização pessoal do usuário, permitindo o registro de notas importantes que podem ser úteis para consultas futuras. |
 | Gerencial            | - |
 | Desenvolvimento      | - |
 | Nível de Priorização | - |
