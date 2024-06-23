@@ -17,6 +17,12 @@ A metodologia aplicada para a criação da matriz de rastreabilidade no projeto 
 Após a análise de rastreabilidade, organizamos as informações em uma tabela, formando a matriz de rastreabilidade. Esta matriz permite uma visualização clara das relações entre os requisitos e os artefatos de desenvolvimento. Para assegurar a precisão e a integridade das relações estabelecidas, realizamos uma revisão minuciosa da matriz, confirmando que todos os requisitos foram devidamente abordados. 
 
 ## Matriz
+| ID do Requisito      | Nome | Origem | Implementação | Artefatos | Elos |
+| -------------------- | ---- | ----   | ----          | ----      | ---- |
+|                      |      |        |               |           |      | 
+      
+
+
 
 ## Conclusão
 
