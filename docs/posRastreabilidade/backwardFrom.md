@@ -441,43 +441,43 @@ A tabela 10 mostra os elos do requisito RF09.
 
 </details>
 
-
-
 <details>
   <summary><b> RF10 - Larissa Stéfane </b></summary> 
 
-<b>Tabela 21:</b> Estrutura do requisito
+ <b>Tabela 21:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito | Usuário trabalhador pode fazer denúncias trabalhistas contra a empresa |
+| Onde foi elicitado  | Entrevista |
+| Descrição            | Este requisito permite que o usuário trabalhador faça denúncias anonimamente sobre questões trabalhistas através do aplicativo da Carteira de Trabalho Digital. Assim, o processo deve incluir acesso à aba "Canal de Denúncias Trabalhistas", preenchimento dos detalhes da denúncia (como data, descrição do incidente e possíveis documentos), validação das informações pelo sistema, e envio da denúncia anonimamente para o departamento responsável, ou seja, o minitério dos recursos humanos. |
+| Ambiental            | O contexto do requisito está relacionado à necessidade dos trabalhadores de relatar violações de direitos trabalhistas anonimamente e com segurança ao utilizar o aplicativo como meio. |
+| Organizacional       | Este requisito contribui para a missão do aplicativo da Carteira de Trabalho Digital em facilitar o acesso e a gestão de informações trabalhistas ao promover a transparência e a proteção dos direitos dos trabalhadores. |
+| Gerencial            | Do ponto de vista gerencial, a implementação deste requisito envolve a integração do sistema de denúncias trabalhistas, e um programa de back-end para a verificação dos dados inseridos pelos usuários nas denúncias. Além disso, tembém é necesário garantir o anonimato e a segurança no envio das denúncias. |
+| Desenvolvimento | Durante o desenvolvimento, é necessário implementar uma interface para o acesso ao Canal de Denúncias Trabalhistas, assim, a interface deve permitir ao usuário iniciar, salvar como rascunho, revisar e finalizar o processo de denúncia. Além disso, deve ser desenvolvido uma lógica de verificação de dados, isso inclui validação da data e a verificação de integridade de documentos e mídias anexadas (como fotos ou áudios). Também deve-se utilizar protocolos de segurança para proteger a identidade do usuário denunciante. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 ### Elos de Rastreabilidade
 
-A tabela 22 mostra os elos do requisito RF10.
+A tabela 11 mostra os elos do requisito RF10.
 
 <center> 
 
 <b>Tabela 22:</b> Elo do Requisito
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados |
+| -------------- | ----------------- | ----------------------------------------------------- | -------------| ---- |
+| Satisfação | Desenvolvimento | <li> Integração com canal de denúncias trabalhistas no aplicativo da Carteira de Trabalho Digital <br> <li> Banco de dados de denúncias trabalhistas <br> <li> Lógica de validação de dados inseridos. <br> <li> Código/Criptografia de proteção da identidade do denunciante.  | A integração com “Canal de Denúncias”, o banco de dados de denúncias, a lógica de verificação dos dados inseridos e o método de proteção da identidade **são recursos** necessários para implementar o requisito de fazer denúncias trabalhistas. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF01: Usuário trabalhador pode acessar informações sobre seus contratos de trabalho <br> <li> RF03: Usuário pode consultar suas informações pessoais. <br> <li> RF09:Usuário pode realizar anotações. <br> <li> RF11: Usuário trabalhador pode consultar informações sobre o FGTS e o INSS. <br> <li> RF12:Usuário trabalhador pode consultar benefícios (13º salário, férias remuneradas, adicional noturno, vale-transporte, vale-refeição, plano de saúde, abono salarial, benefício TAC-Taxista, Seguro Desemprego) . <br> <br> Requisitos não funcionais: <br> <li> RNF06: A interface do usuário deve estar em conformidade com os manuais de interface gov.br. <br> <li> RNF09: O sistema deve garantir a conformidade com a LGPD (Lei Geral de Proteção de Dados). <br> <li> RNF11: O sistema deve permitir a integração completa com os processos de negócios governamentais, conforme especificado na documentação de requisitos. <br> <li> RNF20: O sistema deve ser totalmente integrado com o eSocial, com uma taxa de sincronização de dados de 99%. <br> <li> RNF22: O sistema deve permitir integração com pelo menos cinco outros sistemas de software, conforme especificado na documentação de requisitos. | 
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
 </details>
+
+
 
 
 <details>
