@@ -49,7 +49,7 @@ Após a análise de rastreabilidade, organizamos as informações na Tabela 1, f
 |         RF25         | Usuário pode recuperar senha   |  Entrevistas  e Análise de Documentos   |Sim|    --     | RF05, RNF18   | 
 |         RF26         | Usuário pode visualizar histórico de contratações   |  Entrevistas e Análise de Documentos    |Incompleto|    --     | RF07, RNF12   | 
 |         RF27         | Usuário pode visualizar notificações   |  Entrevistas e Análise de Documentos   |Incompleto|    --     | RF08, RNF12   | 
-|         RF28         | Usuário pode visualizar dados de contato da empresa   |  Entrevistas  e Análise de Documentos    |Não|    --     | RF10, RNF15   | 
+|         RF28         | Usuário pode visualizar dados de contato da empresa   |  Entrevistas  e Análise de Documentos    |Não|    Casos de Uso     | RF10, RNF15   | 
 |         RNF01        | --   |  --    |       --      |    --     | --   | 
 |         RNF02        | --   |  --    |       --      |    --     | --   | 
 |         RNF03        | --   |  --    |       --      |    --     | --   | 
