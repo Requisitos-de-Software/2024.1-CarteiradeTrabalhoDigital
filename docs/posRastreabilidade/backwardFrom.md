@@ -477,9 +477,6 @@ A tabela 11 mostra os elos do requisito RF10.
 
 </details>
 
-
-
-
 <details>
   <summary><b> RF11 - Larissa Stéfane </b></summary> 
 
@@ -487,16 +484,16 @@ A tabela 11 mostra os elos do requisito RF10.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | Usuário trabalhador pode consultar informações sobre o FGTS e o INSS |
+| Origem do Requisito  | [Storytelling](docs/Elicitacao/TecnicasElicitacao/Execucao/Storytelling/Entrevistas.md) |
+| Descrição            | Este requisito permite que o usuário trabalhador consulte informações sobre ele em relação ao Fundo de Garantia do Tempo de Serviço (FGTS) e o Instituto Nacional do Seguro Social (INSS) por meio do aplicativo da Carteira de Trabalho Digital. Com isso, as informações disponíveis incluem o saldo do FGTS, os extratos de movimentações, as contribuições previdenciárias, entre outros dados relevantes. |
+| Ambiental            | O contexto desse requisito está relacionado à necessidade dos trabalhadores de acessarem informações atualizadas sobre os seus direitos trabalhistas e previdenciários de maneira digital e integrada. Com isso, a ideia de implementar o acesso a essas informações no aplicativo da carteira de trabalho digital é uma forma de facilitar o acesso a aesses dados.  |
+| Organizacional       | Este requisito contribui para a missão do aplicativo em fornecer uma plataforma centralizada para gestão de informações trabalhistas e previdenciárias ao aumentar a transparência e a acessibilidade para os usuários. |
+| Gerencial            | Do ponto de vista gerencial, a implementação deste requisito envolve a integração com sistemas de gestão do FGTS e do INSS. Além disso, requer a conformidade com normativas legais e regulatórias relacionadas à proteção de dados e a privacidade dos usuários, uma vez que esses dados não podem ser expostos para qualquer pessoa. |
+| Desenvolvimento      | Durante o desenvolvimento, é necessário implementar, na interface, o acesso às informações do FGTS e INSS de forma organizada, o que envolve a integração com APIs dos sistemas responsáveis pelos dados. Também é necessário mecanismos de segurança para proteção das informações pessoais dos usuários. <br> Um observação importânte é que a interface deve ser projetada de acordo com os padrões estabelecidos pelo gov.br. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="">Larissa Stéfane</a>.
 
 ### Elos de Rastreabilidade
 
@@ -508,13 +505,15 @@ A tabela 24 mostra os elos do requisito RF11.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Recurso | Desenvolvimento | <li> Componentes na interface para consulta de informações do FGTS e INSS. <br> <li> Integração com APIs dos sistemas do FGTS e INSS. <br> <li> Mecanismos para segurança de dados | Os componentes para consultar as informações do FGTS e INSS no aplicativo da Carteira de Trabalho Digital e a integração com APIs dos sistemas do FGTS e INSS e os mecanismos de segurança **são recursos** necessários para implementar o requisito de consulta de informações. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF05: Usuário trabalhador pode consultar contratos de trabalho <br> <li> RF12: Usuário trabalhador pode consultar benefícios (13º salário, férias remuneradas, adicional noturno, Hora extra)  <br> <br>  Requisitos não funcionais: <br> <li> RNF06: A interface do usuário deve estar em conformidade com os manuais de interface gov.br. <br> <li> RNF09: O sistema deve garantir a conformidade com a LGPD (Lei Geral de Proteção de Dados). <br> <li> RNF11: O sistema deve permitir a integração completa com os processos de negócios governamentais, conforme especificado na documentação de requisitos. <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real. |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="">Larissa Stéfane</a>.
 
 </center>
 
 </details>
+
+
 
 
 <details>
