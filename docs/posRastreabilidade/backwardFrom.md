@@ -579,9 +579,10 @@ A tabela 28 mostra os elos do requisito RF13.
 
 <b>Tabela 28:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO | Requisitos Relacionados |
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Recurso | Desenvolvimento | <li> Componentes de interface para solicitar o benefícios, por exemplo, local para escrever a solicitação. <br> <li> Integração com APIs ou Banco de dados, como eSocial. <br> <li> Dados dos contratos de trabalho. <br> <li> Dados sobre a empresa | Os componentes para implementar na interface, a integração com APIs e com Banco de Dados e os dados dos contratos de trabalho e das empresas são recursos para a implementação do requisito de solicitar benefício.| **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li>  RF05: Usuário trabalhador pode consultar contratos de trabalho. <br> <li>  RF12: Usuário trabalhador pode consultar benefícios (13º salário, férias remuneradas, adicional noturno, vale-transporte, vale-refeição, plano de saúde, abono salarial, benefício TAC-Taxista, Seguro Desemprego)  <br> <li> RF24: Usuário empresa pode gerar relatórios trabalhistas <br> <li> RF25: Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos) <br> <br>  Requisitos não funcionais: <br> <li> RNF05: Todos os textos do sistema devem seguir os padrões tipográficos e de siglas, abreviações e erros conforme as normas. <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real. <br> <li> RNF20: O sistema deve ser totalmente integrado com o eSocial, com uma taxa de sincronização de dados de 99%. |
+
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
