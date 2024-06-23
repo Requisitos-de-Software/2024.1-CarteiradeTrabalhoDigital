@@ -2080,5 +2080,6 @@ A tabela 108 mostra os elos do requisito RNF25.
 | 1.1    |  Adição da introdução e da metodologia | Larissa Stéfane | Bruno Araújo    | 16/06/2024 |
 | 1.2    |  Adição da rastreabilidade da RF07     | Larissa Stéfane | Bruno Araújo    | 16/06/2024 |
 | 1.3    |  Correção dos templates                | Breno Alexandre | Larissa Stéfane | 20/06/2024 |
-| 1.4    |  Reorganização do artefato             | Larissa Stéfane | - | 20/06/2024 |
-| 1.5    |  Adicção dos requisitos RF07 até RF14  | Larissa Stéfane | - | 22/06/2024 |
+| 1.4    |  Reorganização do artefato             | Larissa Stéfane | Pedro Izarias | 20/06/2024 |
+| 1.5    |  Adicção dos requisitos RF07 até RF14  | Larissa Stéfane | Pedro Izarias | 22/06/2024 |
+| 1.6    |  Adicção dos requisitos RF22 até RF28  | Pedro Izarias | - | 23/06/2024 |
