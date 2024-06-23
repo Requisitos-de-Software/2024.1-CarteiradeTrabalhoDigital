@@ -413,7 +413,7 @@ A tabela 9 mostra os elos do requisito RF08.
 | Características      | Explicação |
 | -------------------- | ---------- |
 | Nome do Requisito    | Usuário pode realizar anotações |
-| Origem do Requisito  | - |
+| Origem do Requisito  | [Análise de Documentos](Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos.md) por meio de [Manual da Carteira de Trabalho Digital](https://empregabrasil.mte.gov.br/wp-content/uploads/2023/02/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf) e [Cartilha da Carteira de Trabalho Digital](https://www.focuscontabil.com/wp-content/uploads/2020/05/Cartilha-CTP-Digital-02.pdf). |
 | Descrição            | - |
 | Ambiental            | - |
 | Organizacional       | - |
