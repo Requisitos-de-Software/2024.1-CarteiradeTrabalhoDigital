@@ -531,7 +531,7 @@ A tabela 32 mostra os artefatos gerados pelo requisito RF07.
 | Casos de Uso                        | <li> [UC03 - Trabalhador acessa detalhes dos contratos de trabalho](modelagem/casoDeUso.md)   <br> <li>  [UC10 - Verificar dados relacionados ao FGTS e INSS](modelagem/casoDeUso.md)       | [Casos de Uso](modelagem/casoDeUso.md)              |
 | Expecificação Suplementar           | **Requisitos de implementação:**  <br> <li> [RI01 - Integração com eSocial <br> <li>  [RI03 - Permitir integração com vários outros software          | [Especificação Suplementar](modelagem/especSuplementar.md)              |
 | História de Usuário                 | [HI07 -  Emitir PDF](modelagemAgil/historiaUsuario.md)            | -               |
-| Backlog                             | <li> [ Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md)   <br> <li>  [Épico:  EP03 – Contratos](modelagemAgil/backlog.md) <br> <li> [História: HI07 - Como usuário, eu quero emitir contratos em PDF para ter uma cópia digital dos mesmos.] (modelagemAgil/backlog.md)      |  [Backlog](modelagemAgil/backlog.md)             |
+| Backlog                             | <li> [ Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md)   <br> <li>  [Épico:  EP03 – Contratos](modelagemAgil/backlog.md) <br> <li> [História: HI07 - Como usuário, eu quero emitir contratos em PDF para ter uma cópia digital dos mesmos.](modelagemAgil/backlog.md)      |  [Backlog](modelagemAgil/backlog.md)             |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -598,7 +598,7 @@ A tabela 36 mostra os artefatos gerados pelo requisito RF08.
 | Casos de Uso                        | <li> [UC03 - Trabalhador acessa detalhes dos contratos de trabalho](modelagem/casoDeUso.md)   <br> <li>  [UC10 - Verificar dados relacionados ao FGTS e INSS](modelagem/casoDeUso.md)       | [Casos de Uso](modelagem/casoDeUso.md)              |
 | Expecificação Suplementar           | **Para a implementação:**  <br> <li> RI01 - Integração com eSocial <br> <li>  RI03 - Permitir integração com vários outros software     <br> <br> **Para a confiabilidade** <br> <li>             CON02 - O sistema deve possuir as informações atualizadas e condizentes com a realidade.  <br> <li>  CON03 - O sistema deve manter íntegra as informações sobre o usuário e seus contratos de trabalho.     | [Especificação Suplementar](modelagem/especSuplementar.md) |
 | História de Usuário                 | [HI08 -  Visualizar gráficos de contratos](modelagemAgil/historiaUsuario.md)            | -               |
-| Backlog                             | <li> [ Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md)   <br> <li>  [Épico:  EP03 – Contratos](modelagemAgil/backlog.md) <br> <li> [História: HI08 - Como usuário, eu quero visualizar gráficos com históricos de contratações e remunerações para entender minha trajetória profissional.] (modelagemAgil/backlog.md)      |  [Backlog](modelagemAgil/backlog.md)             |
+| Backlog                             | <li> [ Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md)   <br> <li>  [Épico:  EP03 – Contratos](modelagemAgil/backlog.md) <br> <li> [História: HI08 - Como usuário, eu quero visualizar gráficos com históricos de contratações e remunerações para entender minha trajetória profissional.](modelagemAgil/backlog.md)      |  [Backlog](modelagemAgil/backlog.md)             |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -665,7 +665,7 @@ A tabela 40 mostra os artefatos gerados pelo requisito RF09.
 | Casos de Uso                        | <li> [UC03 - Trabalhador acessa detalhes dos contratos de trabalho](modelagem/casoDeUso.md)     | [Casos de Uso](modelagem/casoDeUso.md)              |
 | Expecificação Suplementar           | **Para a confiabilidade** <br> <li>             CON02 - O sistema deve possuir as informações atualizadas e condizentes com a realidade.         | [Especificação Suplementar](modelagem/especSuplementar.md)   |
 | História de Usuário                 | [HI09 -  Realizar anotações em contratos](modelagemAgil/historiaUsuario.md)            | -               |
-| Backlog                             | <li> [ Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md)   <br> <li>  [Épico:  EP03 – Contratos](modelagemAgil/backlog.md) <br> <li> [História: HI09 - Como usuário, eu quero realizar anotações sobre os contratos para adicionar informações relevantes.] (modelagemAgil/backlog.md)      |  [Backlog](modelagemAgil/backlog.md)             |
+| Backlog                             | <li> [ Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md)   <br> <li>  [Épico:  EP03 – Contratos](modelagemAgil/backlog.md) <br> <li> [História: HI09 - Como usuário, eu quero realizar anotações sobre os contratos para adicionar informações relevantes.](modelagemAgil/backlog.md)      |  [Backlog](modelagemAgil/backlog.md)             |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
