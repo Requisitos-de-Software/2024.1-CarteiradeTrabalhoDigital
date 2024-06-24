@@ -83,6 +83,72 @@ Com base nos Elos acima, os requisitos devem ser definidos com base na tabela 5.
 ## Rastreabilidade dos Requisitos Funcionais
 
 <details>
+  <summary><b> RF01 - Iago Passaglia  </b></summary>
+
+#### Versões do Requisito
+
+A tabela 6 mostra as versões do requisito RF01.
+
+<b>Tabela 6:</b> Versão do requisito RF01.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 7 mostra a estrutura do requisito RF01.
+
+<b>Tabela 7:</b> Estrutura do requisito RF01.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela 8 mostra os artefatos gerados pelo requisito RF01.
+
+<b>Tabela 8:</b> Artefatos Gerados pelo requisito RF01.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+
+#### Os Elos
+
+A tabela 9 mostra os elos do requisito RF01.
+
+<b>Tabela 9:</b> Elos do requisito RF01.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+
+</center>
+
+</details>
+
+
+<details>
   <summary><b> RFX - nome  </b></summary>
 
 #### Versões do Requisito
@@ -146,6 +212,1632 @@ A tabela x mostra os elos do requisito RFX.
 </center>
 
 </details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
+<details>
+  <summary><b> RFX - nome  </b></summary>
+
+#### Versões do Requisito
+
+A tabela x mostra as versões do requisito RFX.
+
+<b>Tabela x:</b> Versão do requisito RFX.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela x mostra a estrutura do requisito RFX.
+
+<b>Tabela x:</b> Estrutura do requisito RFX.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela x mostra os artefatos gerados pelo requisito RFX.
+
+<b>Tabela x:</b> Artefatos Gerados pelo requisito RFX.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+#### Os Elos
+
+A tabela x mostra os elos do requisito RFX.
+
+<b>Tabela x:</b> Elos do requisito RFX.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/nome">nome</a>.
+
+</center>
+
+</details>
+
 
 ## Rastreabilidade dos Requisitos Não Funcionais
 
