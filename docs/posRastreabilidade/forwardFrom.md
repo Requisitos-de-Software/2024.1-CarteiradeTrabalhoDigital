@@ -1963,6 +1963,72 @@ A tabela 117 mostra os elos do requisito RF28.
 ## Rastreabilidade dos Requisitos Não Funcionais
 
 
+<details>
+  <summary><b> RNF01 - Breno Alexandre </b></summary>
+
+#### Versões do Requisito
+
+A tabela 118 mostra as versões do requisito RNF01.
+
+<b>Tabela 118:</b> Versão do requisito RNF01.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 119 mostra a estrutura do requisito RNF01.
+
+<b>Tabela 119:</b> Estrutura do requisito RNF01.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela 120 mostra os artefatos gerados pelo requisito RNF01.
+
+<b>Tabela 120:</b> Artefatos Gerados pelo requisito RNF01.
+
+| Artefato                                 | Identificador | Rastreabilidade |
+| ---------------------------------------- | ------------- | --------------- |
+| Cenário                                  | -             | -               |
+| Léxico                                   | -             | -               |
+| Casos de Uso                             | -             | -               |
+| Expecificação Suplementar                | -             | -               |
+| NFR Framework (Cartões de Especificação) | -             | -               |
+| NFR Framework (SIGs)                     | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
+
+#### Os Elos
+
+A tabela 121 mostra os elos do requisito RNF01.
+
+<b>Tabela 121:</b> Elos do requisito RNF01.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
+
+</center>
+
+</details>
+
 
 ## Referências Bibliográficas
 
