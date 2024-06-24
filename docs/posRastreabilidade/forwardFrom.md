@@ -752,12 +752,11 @@ A tabela 45 mostra os elos do requisito RF10.
 </details>
 
 
-
-
 <details>
   <summary><b> RF11 - Larissa Stéfane </b></summary>
 
 #### Versões do Requisito
+
 
 A tabela 46 mostra as versões do requisito RF11.
 
@@ -765,7 +764,7 @@ A tabela 46 mostra as versões do requisito RF11.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RF11](Elicitacao/ResquisitosCorrigidos.md)                 |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -775,15 +774,15 @@ A tabela 47 mostra a estrutura do requisito RF11.
 
 <b>Tabela 47:</b> Estrutura do requisito RF11.
 
-| Características                     | Explicação | Rastreabilidade |
-| ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Características                     | Explicação                                                                                  | Rastreabilidade                                      |
+| ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Nome do Requisito                   | Usuário trabalhador pode consultar informações sobre o FGTS e o INSS                        | [RF11](Elicitacao/ResquisitosCorrigidos.md)         |
+| Alocação no App                     | Na área de informações financeiras e benefícios do trabalhador                              | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md) |
+| Resolução de requisitos em conflito | Este requisito depende de integração com sistemas externos do FGTS e INSS. | -                                                   |
+| Verificação                         | Verificar se a funcionalidade exibe corretamente as informações atualizadas do FGTS e INSS. | -                  |
+| Correção de Defeitos                | Durante o desenvolvimento do projeto, não houve necessidade de mudar o requisito, porém, é possível encontrar defeito por meio de feedback dos usuários. |
+| Análise de impacto na evolução      | Médio impacto: Pode afetar a visualização dos contratos de trabalho do usuário e depende de atualizações regulares das informações fornecidas pelo FGTS e INSS | -                                                   |
+
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -795,12 +794,12 @@ A tabela 48 mostra os artefatos gerados pelo requisito RF11.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
-| Casos de Uso                        | -             | -               |
-| Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
-| Backlog                             | -             | -               |
+| Cenário                             |    [Trabalhador deseja verificar dados relacionados ao FGTS e INSS](modelagem/cenarios.md)   | [Cenários](modelagem/cenarios.md)       |
+| Léxico                              |  **Verbo:** <br> <li> [Consultar Vínculos Empregatícios](modelagem/lexico.md)  <br> <br> **Objeto:**  <br> <li>[Benefício](modelagem/lexico.md) <br> <br> **Estado:**  <br> <li> [Benefício Aprovado](modelagem/lexico.md) | [Léxicos](modelagem/lexico.md)               |
+| Casos de Uso                        | <li> [UC10 -  Verificar dados relacionados ao FGTS e INSS](modelagem/casoDeUso.md)     | [Casos de Uso](modelagem/casoDeUso.md)              |
+| Expecificação Suplementar           |  **Para a implementação:**  <br> <li> RI01 - Integração com eSocial <br> <li>  RI03 - Permitir integração com vários outros software     <br> <br> **Para a confiabilidade** <br> <li>             CON02 - O sistema deve possuir as informações atualizadas e condizentes com a realidade.  <br> <li>  CON03 - O sistema deve manter íntegra as informações sobre o usuário e seus contratos de trabalho.        | [Especificação Suplementar](modelagem/especSuplementar.md)   |
+| História de Usuário                 | [HI13 -  Consultar dados a respeito de INSS e FGTS](modelagemAgil/historiaUsuario.md)            | -               |
+| Backlog                             | <li> [ Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md)   <br> <li>  [Épico:  EP04 - Benefícios](modelagemAgil/backlog.md) <br> <li> [História: HI13 - Como usuário, eu quero consultar dados a respeito de INSS e FGTS para acompanhar minhas contribuições.] (modelagemAgil/backlog.md)      |  [Backlog](modelagemAgil/backlog.md)             |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -810,15 +809,17 @@ A tabela 49 mostra os elos do requisito RF11.
 
 <b>Tabela 49:</b> Elos do requisito RF11.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| Recurso | Desenvolvimento | <li> Componentes na interface para consulta de informações do FGTS e INSS. <br> <li> Integração com APIs dos sistemas do FGTS e INSS. <br> <li> Mecanismos para segurança de dados | Os componentes para consultar as informações do FGTS e INSS no aplicativo da Carteira de Trabalho Digital e a integração com APIs dos sistemas do FGTS e INSS e os mecanismos de segurança **são recursos** necessários para implementar o requisito de consulta de informações. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF05: Usuário trabalhador pode consultar contratos de trabalho <br> <li> RF12: Usuário trabalhador pode consultar benefícios (13º salário, férias remuneradas, adicional noturno, Hora extra)  <br> <br>  Requisitos não funcionais: <br> <li> RNF06: A interface do usuário deve estar em conformidade com os manuais de interface gov.br. <br> <li> RNF09: O sistema deve garantir a conformidade com a LGPD (Lei Geral de Proteção de Dados). <br> <li> RNF11: O sistema deve permitir a integração completa com os processos de negócios governamentais, conforme especificado na documentação de requisitos. <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real. |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
 </details>
+
+
 
 
 <details>
