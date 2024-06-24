@@ -77,7 +77,7 @@ Após a análise de rastreabilidade, organizamos as informações na Tabela 1, f
 |         RNF24        | --   |  --    |       --      |    --     | --   | 
 |         RNF25        | --   |  --    |       --      |    --     | --   | 
 
-<b> Autor: </b> <a href=".https://github.com/Izarias">Pedro Izarias</a>, <b> Autor: </b> <a href=".https://github.com/brunocva">Bruno Araújo</a>
+<font size="3"><p style="text-align: center">Autores: [Pedro Izarias](https://github.com/Izarias), [Bruno Araújo](https://github.com/brunocva), [Luana Medeiros](https://github.com/LuaMedeiros), [Larissa Stéfane](https://github.com/SkywalkerSupreme).</p></font>
 
 ## Conclusão
 A matriz de rastreabilidade desenvolvida para o projeto da Carteira Digital de Trabalho provou ser uma ferramenta fundamental para assegurar a conformidade entre os requisitos especificados e os artefatos produzidos ao longo do ciclo de desenvolvimento. Através da metodologia aplicada, foi possível mapear de forma eficaz cada requisito aos seus correspondentes artefatos, garantindo a cobertura completa das necessidades iniciais e a justificativa das funcionalidades implementadas.
