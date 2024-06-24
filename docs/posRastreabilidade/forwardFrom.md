@@ -1035,7 +1035,7 @@ A tabela 62 mostra as versões do requisito RF15.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RF15](Elicitacao/ResquisitosCorrigidos.md)  |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -1047,13 +1047,12 @@ A tabela 63 mostra a estrutura do requisito RF15.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Nome do Requisito                   | Usuário trabalhador pode ativar modo de status (procurando emprego ou não) | -               |
+| Alocação no App                     | Na área de perfil do usuário, seção de status de emprego. | -               |
+| Resolução de requisitos em conflito | O status "procurando emprego" pode influenciar notificações e visibilidade para empresas. Precisa ser gerenciado para não conflitar com outros dados pessoais e de privacidade. | -               |
+| Verificação                         | Verificar se o usuário pode ativar/desativar o modo de status corretamente e se o status é refletido nas interações com empresas. | -               |
+| Correção de Defeitos                | -          | Não foi necessário corrigir falhas para esse requisito. |
+| Análise de impacto na evolução      | Médio impacto: A funcionalidade afeta notificações e interação com empresas, além de ser um ponto sensível para a privacidade do usuário. | -               |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -1080,9 +1079,9 @@ A tabela 65 mostra os elos do requisito RF15.
 
 <b>Tabela 65:</b> Elos do requisito RF15.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| Recurso | Desenvolvimento | <li> Módulo de Gerenciamento de Status <br> <li> Banco de Dados para Armazenamento de Status de Emprego <br> <li> Interface de Usuário para Alteração de Status | O módulo de gerenciamento de status, o banco de dados para armazenamento do status de emprego e a interface de usuário para alteração do status são recursos necessários para implementar este requisito. | **Os requisitos que fornecem os recursos necessários são:** <br><br> Requisitos Funcionais: <br> <li> RF01 Usuário se registrar no aplicativo (necessário para acessar o recurso de ativação de status) <br> <li> RF02 Usuário poder fazer login para entrar na sua página pessoal (necessário para alterar status) <br> <li> RF03 Usuário pode consultar suas informações pessoais (relevante para verificar o status atual) <br> <li> RF19 Usuário recebe notificações do aplicativo (notificar mudanças de status) <br> <li> RF28 Usuário empresa escolher modo de status: "Possui vagas de emprego" ou "Não possui vagas de emprego" (para interação entre status do trabalhador e ofertas de emprego da empresa) <br><br> Requisitos não funcionais: <br> <li> RNF08 O sistema deve implementar autenticação multifator, criptografia AES-256, controle de acesso baseado em funções, e logs de auditoria detalhados (segurança e conformidade) <br> <li> RNF09 O sistema deve garantir a conformidade com a LGPD (Lei Geral de Proteção de Dados) (proteção de dados pessoais) <br> <li> RNF15 O acesso às funcionalidades principais do aplicativo deve exigir autenticação biométrica e ser completado em menos de 30 segundos (segurança e rapidez no acesso) |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -1102,7 +1101,7 @@ A tabela 66 mostra as versões do requisito RF16.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RF16](Elicitacao/ResquisitosCorrigidos.md)   |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -1114,13 +1113,12 @@ A tabela 67 mostra a estrutura do requisito RF16.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Nome do Requisito                   | Usuário trabalhador pode verificar processos seletivos abertos | -               |
+| Alocação no App                     | Na área de busca de empregos, seção de processos seletivos. | -               |
+| Resolução de requisitos em conflito | Garantir que a visualização de processos seletivos não interfira com dados sensíveis do usuário. | -               |
+| Verificação                         | Verificar se o usuário consegue visualizar processos seletivos disponíveis, com informações completas e atualizadas. | -               |
+| Correção de Defeitos                | -          | Não foi necessário corrigir falhas para esse requisito. |
+| Análise de impacto na evolução      |Alto impacto: A funcionalidade deve ser integrada com bancos de dados externos e pode afetar a usabilidade do app significativamente. | -               |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -1147,9 +1145,9 @@ A tabela 69 mostra os elos do requisito RF16.
 
 <b>Tabela 69:</b> Elos do requisito RF16.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| Recurso | Desenvolvimento | <li> Módulo de Consulta de Processos Seletivos <br> <li> Banco de Dados de Vagas de Emprego <br> <li> Interface de Usuário para Visualização de Vagas | O módulo de consulta de processos seletivos, o banco de dados de vagas de emprego e a interface de usuário para visualização das vagas são recursos necessários para implementar este requisito. | **Os requisitos que fornecem os recursos necessários são:** <br><br> Requisitos Funcionais: <br> <li> RF01 Usuário se registrar no aplicativo (necessário para acessar o recurso de ativação de status) <br> <li> RF02 Usuário poder fazer login para entrar na sua página pessoal (necessário para alterar status) <br> <li> RF03 Usuário pode consultar suas informações pessoais (relevante para verificar o status atual) <br> <li> RF15 Usuário trabalhador pode ativar modo de status (procurando emprego ou não) (para filtrar processos seletivos) <br> <li> RF19 Usuário recebe notificações do aplicativo (para informar sobre novos processos seletivos) <br><br> Requisitos não funcionais: <br> <li> RNF08 O sistema deve implementar autenticação multifator, criptografia AES-256, controle de acesso baseado em funções, e logs de auditoria detalhados (segurança e conformidade) <br> <li> RNF09 O sistema deve garantir a conformidade com a LGPD (Lei Geral de Proteção de Dados) (proteção de dados pessoais) <br> <li> RNF15 O acesso às funcionalidades principais do aplicativo deve exigir autenticação biométrica e ser completado em menos de 30 segundos (segurança e rapidez no acesso) |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -1169,7 +1167,7 @@ A tabela 70 mostra as versões do requisito RF17.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RF17](Elicitacao/ResquisitosCorrigidos.md)  |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -1181,13 +1179,12 @@ A tabela 71 mostra a estrutura do requisito RF17.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Nome do Requisito                   | Usuário pode ocultar dados sensíveis | -               |
+| Alocação no App                     | Na área de configurações de privacidade do usuário. | -               |
+| Resolução de requisitos em conflito | O uso dessa funcionalidade deve ser compatível com outros requisitos que necessitam de dados pessoais. | -               |
+| Verificação                         |Verificar se os dados marcados como sensíveis são corretamente ocultados e não acessíveis por terceiros.| -               |
+| Correção de Defeitos                | -          | Não foi necessário corrigir falhas para esse requisito.|
+| Análise de impacto na evolução      | Alto impacto: Afeta a privacidade e segurança dos dados do usuário, crucial para conformidade com a LGPD. | -               |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -1214,9 +1211,9 @@ A tabela 73 mostra os elos do requisito RF17.
 
 <b>Tabela 73:</b> Elos do requisito RF17.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| Recurso | Desenvolvimento | <li> Módulo de Configuração de Privacidade <br> <li> Banco de Dados para Armazenamento de Preferências de Privacidade <br> <li> Interface de Usuário para Configuração de Privacidade | O módulo de configuração de privacidade, o banco de dados para armazenamento das preferências de privacidade e a interface de usuário para configuração de privacidade são recursos necessários para implementar este requisito. | **Os requisitos que fornecem os recursos necessários são:** <br><br> Requisitos Funcionais: <br> <li> RF01 Usuário se registrar no aplicativo (necessário para acessar o recurso de ativação de status) <br> <li> RF02 Usuário poder fazer login para entrar na sua página pessoal (necessário para alterar status) <br> <li> RF03 Usuário pode consultar suas informações pessoais (relevante para verificar o status atual) <br> <li> RF04 Usuário pode atualizar suas informações pessoais (para modificar configurações de privacidade) <br> <li> RF19 Usuário recebe notificações do aplicativo (para informar sobre novos processos seletivos) <br><br> Requisitos não funcionais: <br> <li> RNF08 O sistema deve implementar autenticação multifator, criptografia AES-256, controle de acesso baseado em funções, e logs de auditoria detalhados (segurança e conformidade) <br> <li> RNF09 O sistema deve garantir a conformidade com a LGPD (Lei Geral de Proteção de Dados) (proteção de dados pessoais) |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -1236,7 +1233,7 @@ A tabela 74 mostra as versões do requisito RF18.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RF18](Elicitacao/ResquisitosCorrigidos.md)  |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -1248,13 +1245,12 @@ A tabela 75 mostra a estrutura do requisito RF18.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Nome do Requisito                   | Usuário trabalhador pode consultar o número da carteira e de série como CIPS | -               |
+| Alocação no App                     | Na área de perfil do usuário, seção de dados da carteira de trabalho. | -               |
+| Resolução de requisitos em conflito | Certificar que a exibição destes dados não conflita com a ocultação de dados sensíveis. | -               |
+| Verificação                         | Verificar se o usuário pode visualizar o número da carteira e série corretamente e se os dados são precisos. | -               |
+| Correção de Defeitos                | -          | Não foi necessário corrigir falhas para esse requisito. |
+| Análise de impacto na evolução      | Baixo impacto: Funcionalidade simples que não deve interferir com outras áreas significativas do app. | -               |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -1281,9 +1277,9 @@ A tabela 77 mostra os elos do requisito RF18.
 
 <b>Tabela 77:</b> Elos do requisito RF18.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| Recurso | Desenvolvimento | <li> Módulo de Consulta de Informações da Carteira de Trabalho <br> <li> Banco de Dados de Informações da Carteira de Trabalho <br> <li> Interface de Usuário para Consulta de Dados | O módulo de consulta de informações da carteira de trabalho, o banco de dados de informações da carteira de trabalho e a interface de usuário para consulta de dados são recursos necessários para implementar este requisito. | **Os requisitos que fornecem os recursos necessários são:** <br><br> Requisitos Funcionais: <br> <li> RF01 Usuário se registrar no aplicativo (necessário para acessar o recurso de ativação de status) <br> <li> RF02 Usuário poder fazer login para entrar na sua página pessoal (necessário para alterar status) <br> <li> RF03 Usuário pode consultar suas informações pessoais (relevante para verificar o status atual) <br> <li> RF05 Usuário trabalhador pode consultar contratos de trabalho (relevante para relacionar contratos com o número da carteira) <br> <li> RF19 Usuário recebe notificações do aplicativo (para informar sobre novos processos seletivos) <br><br> Requisitos não funcionais: <br> <li> RNF08 O sistema deve implementar autenticação multifator, criptografia AES-256, controle de acesso baseado em funções, e logs de auditoria detalhados (segurança e conformidade) <br> <li> RNF09 O sistema deve garantir a conformidade com a LGPD (Lei Geral de Proteção de Dados) (proteção de dados pessoais) <br> <li> RNF18 O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real (atualização em tempo real dos dados da carteira) |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -1303,7 +1299,7 @@ A tabela 78 mostra as versões do requisito RF19.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RF19](Elicitacao/ResquisitosCorrigidos.md)  |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -1315,13 +1311,12 @@ A tabela 79 mostra a estrutura do requisito RF19.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Nome do Requisito                   | Usuário recebe notificações do aplicativo  | -               |
+| Alocação no App                     | Configurações de notificação no perfil do usuário, e notificações push no sistema operacional. | -               |
+| Resolução de requisitos em conflito | Gerenciar prioridades e conteúdos das notificações para evitar spam e redundância. | -               |
+| Verificação                         | Verificar se as notificações são enviadas corretamente, de acordo com as configurações do usuário, e se são recebidas sem falhas. | -               |
+| Correção de Defeitos                | -          |Não foi necessário corrigir falhas para esse requisito. |
+| Análise de impacto na evolução      | Alto impacto: Notificações são críticas para a usabilidade e engajamento do usuário com o app. | -               |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -1348,9 +1343,9 @@ A tabela 81 mostra os elos do requisito RF19.
 
 <b>Tabela 81:</b> Elos do requisito RF19.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| Recurso | Desenvolvimento | <li> Módulo de Notificações <br> <li> Serviço de Push Notification <br> <li> Interface de Usuário para Configuração de Notificações | O módulo de notificações, o serviço de push notification e a interface de usuário para configuração de notificações são recursos necessários para implementar este requisito. | **Os requisitos que fornecem os recursos necessários são:** <br><br> Requisitos Funcionais: <br> <li> RF01 Usuário se registrar no aplicativo (necessário para acessar o recurso de ativação de status) <br> <li> RF02 Usuário poder fazer login para entrar na sua página pessoal (necessário para alterar status) <br> <li> RF03 Usuário pode consultar suas informações pessoais (relevante para verificar o status atual) <br> <li> RF15 Usuário trabalhador pode ativar modo de status (procurando emprego ou não) (notificações relacionadas ao status de emprego) <br> <li> RF16 Usuário trabalhador pode verificar processos seletivos abertos (notificações sobre novos processos seletivos) <br> <li> RF17 Usuário pode ocultar dados sensíveis (notificações sobre alterações na privacidade) <br> <li> RF18 Usuário trabalhador pode consultar o número da carteira e de série como CIPS (notificações sobre alterações nos dados da carteira) <br> <li> RF21 Usuário empresa pode consultar dados dos funcionários (notificações para empresas sobre alterações nos dados dos funcionários) <br><br> Requisitos não funcionais: <br> <li> RNF08 O sistema deve implementar autenticação multifator, criptografia AES-256, controle de acesso baseado em funções, e logs de auditoria detalhados (segurança e conformidade) <br> <li> RNF09 O sistema deve garantir a conformidade com a LGPD (Lei Geral de Proteção de Dados) (proteção de dados pessoais) <br> <li> RNF23 O sistema deve enviar notificações precisas com uma taxa de falsos positivos inferior a 5% (eficiência das notificações) |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -1370,7 +1365,7 @@ A tabela 82 mostra as versões do requisito RF20.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            |[RF20](Elicitacao/ResquisitosCorrigidos.md)  |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -1382,13 +1377,12 @@ A tabela 83 mostra a estrutura do requisito RF20.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Nome do Requisito                   | Usuário pode consultar perguntas frequentes | -               |
+| Alocação no App                     | Na área de ajuda ou suporte do aplicativo. | -               |
+| Resolução de requisitos em conflito | Assegurar que a base de perguntas frequentes esteja atualizada e não entre em conflito com informações presentes em outras partes do app. | -               |
+| Verificação                         | Verificar se as perguntas frequentes são acessíveis, bem organizadas e fornecem informações precisas. | -               |
+| Correção de Defeitos                | -          |Não foi necessário corrigir falhas para esse requisito. |
+| Análise de impacto na evolução      | Baixo impacto: Principalmente informativo, ajudando na usabilidade e suporte ao usuário. | -               |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -1415,9 +1409,9 @@ A tabela 85 mostra os elos do requisito RF20.
 
 <b>Tabela 85:</b> Elos do requisito RF20.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| Recurso | Desenvolvimento | <li> Módulo de Perguntas Frequentes (FAQ)  <br> <li> Banco de Dados de Perguntas e Respostas <br> <li> Interface de Usuário para Navegação no FAQ | O módulo de perguntas frequentes, o banco de dados de perguntas e respostas e a interface de usuário para navegação no FAQ são recursos necessários para implementar este requisito. | **Os requisitos que fornecem os recursos necessários são:** <br><br> Requisitos Funcionais: <br> <li> RF01 Usuário se registrar no aplicativo (necessário para acessar o recurso de ativação de status) <br> <li> RF02 Usuário poder fazer login para entrar na sua página pessoal (necessário para alterar status) <br> <li> RF03 Usuário pode consultar suas informações pessoais (relevante para verificar o status atual) <br> <li> RF19 Usuário recebe notificações do aplicativo (para informar sobre novas perguntas frequentes ou atualizações) <br> <br> Requisitos não funcionais: <br> <li> RNF08 O sistema deve implementar autenticação multifator, criptografia AES-256, controle de acesso baseado em funções, e logs de auditoria detalhados (segurança e conformidade) <br> <li> RNF09 O sistema deve garantir a conformidade com a LGPD (Lei Geral de Proteção de Dados) (proteção de dados pessoais) <br> <li> RNF24 O aplicativo deve ser compatível com iOS, Android e Windows, sem apresentar falhas críticas em nenhum dos sistemas operacionais suportados (compatibilidade e usabilidade) |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -1437,7 +1431,7 @@ A tabela 86 mostra as versões do requisito RF21.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RF21](Elicitacao/ResquisitosCorrigidos.md)  |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -1449,13 +1443,12 @@ A tabela 87 mostra a estrutura do requisito RF21.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Nome do Requisito                   | Usuário empresa pode consultar dados dos funcionários | -               |
+| Alocação no App                     | Na área de administração de funcionários, acessível a usuários com perfil de empresa. | -               |
+| Resolução de requisitos em conflito | Garantir que o acesso aos dados dos funcionários não viole a privacidade ou políticas de segurança de dados. | -               |
+| Verificação                         | Verificar se a empresa pode consultar os dados dos funcionários de forma correta e segura. | -               |
+| Correção de Defeitos                | -          | Não foi necessário corrigir falhas para esse requisito. |
+| Análise de impacto na evolução      | Alto impacto: Envolve a integração de dados sensíveis e deve ser gerido com alta segurança e conformidade com a LGPD.| -               |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -1482,9 +1475,9 @@ A tabela 89 mostra os elos do requisito RF21.
 
 <b>Tabela 89:</b> Elos do requisito RF21.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| Recurso | Desenvolvimento | <li> Módulo de Consulta de Dados de Funcionários  <br> <li> Banco de Dados de Informações dos Funcionários <br> <li> Interface de Usuário para Consulta de Dados | O módulo de consulta de dados de funcionários, o banco de dados de informações dos funcionários e a interface de usuário para consulta de dados são recursos necessários para implementar este requisito. | **Os requisitos que fornecem os recursos necessários são:** <br><br> Requisitos Funcionais: <br> <li> RF01 Usuário se registrar no aplicativo (necessário para acessar o recurso de ativação de status) <br> <li> RF02 Usuário poder fazer login para entrar na sua página pessoal (necessário para alterar status) <br> <li> RF03 Usuário pode consultar suas informações pessoais (relevante para verificar o status atual) <br> <li> RF04 Usuário pode atualizar suas informações pessoais (relevante para manter dados dos funcionários atualizados) <br> <li> RF05 Usuário trabalhador pode consultar contratos de trabalho (dados relevantes para empresas) <br> <li> RF06 Usuário trabalhador pode atualizar contratos de trabalho (dados relevantes para empresas) <br> <li> RF17 Usuário pode ocultar dados sensíveis (privacidade dos dados dos funcionários) <br><li> RF22 Usuário empresa pode atualizar dados dos funcionários (manutenção e atualização dos dados) <br><li> RF23 Usuário empresa pode consultar contratos de trabalho (informações contratuais dos funcionários) <br><li> RF24 Usuário empresa pode gerar relatórios trabalhistas (análise de dados dos funcionários) <br> <li> RF25 Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos) (gestão completa dos contratos) <br><br> Requisitos não funcionais: <br> <li> RNF08 O sistema deve implementar autenticação multifator, criptografia AES-256, controle de acesso baseado em funções, e logs de auditoria detalhados (segurança e conformidade) <br> <li> RNF09 O sistema deve garantir a conformidade com a LGPD (Lei Geral de Proteção de Dados) (proteção de dados pessoais) <br> <li> RNF18 O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real (atualização em tempo real dos dados contratuais) <br> <li> RNF20 O sistema deve ser totalmente integrado com o eSocial, com uma taxa de sincronização de dados de 99% (integra|
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
@@ -3652,3 +3645,4 @@ A tabela 217 mostra os elos do requisito RNF25.
 | 1.0    | Criação do artefato                     | Breno Alexandre | Larissa Stéfane | 20/06/2024 |
 | 1.1    | Desenvolvimento do artefato             | Breno Alexandre | Larissa Stéfane | 23/06/2024 |
 | 1.2    | Preenchimento de dados do RF07 até RF14 | Larissa Stéfane |      -          | 24/06/2024 |
+| 1.3    | Preenchimento de dados do RF15 até RF21 | Luana Medeiros  |      -          | 24/06/2024 |
