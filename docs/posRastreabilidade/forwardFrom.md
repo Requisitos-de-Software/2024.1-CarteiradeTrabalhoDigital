@@ -497,7 +497,7 @@ A tabela 30 mostra as versões do requisito RF07.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RF07](Elicitacao/ResquisitosCorrigidos.md)              |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -507,15 +507,14 @@ A tabela 31 mostra a estrutura do requisito RF07.
 
 <b>Tabela 31:</b> Estrutura do requisito RF07.
 
-| Características                     | Explicação | Rastreabilidade |
-| ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Características                     | Explicação                                                | Rastreabilidade                      |
+| ----------------------------------- | --------------------------------------------------------- | ----------------------------------- |
+| Nome do Requisito                   | Usuário pode gerar PDF com dados da carteira              | [RF07](Elicitacao/ResquisitosCorrigidos.md) |
+| Alocação no App                     | Na região de visualizar contratos e currículo             |        [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md)                          |
+| Resolução de requisitos em conflito | Este requisito não conflita com outros requisitos, contudo, para ele funcionar, é necessário que a integração com banco de dados esteja funcionando bem.        | -                                   |
+| Verificação                         | Verificar se todos se a funcionalidade tem acesso a todos os recursos necessários ou realizar um teste ao gerar um PDF com dados reais.  | Será realizada pelo grupo em breve                                   |
+| Correção de Defeitos                | Através de relatórios de bug e feedbacks de usuários.      | Não foi necessário corririgir falhas para esse requisito.                                   |
+| Análise de impacto na evolução      | Baixo impacto: Afeta principalmente a interface de usuário e geração de relatórios | -                                   |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -527,12 +526,12 @@ A tabela 32 mostra os artefatos gerados pelo requisito RF07.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
-| Casos de Uso                        | -             | -               |
-| Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
-| Backlog                             | -             | -               |
+| Cenário                             | [Visualizar aba "Emprego"](modelagem/cenarios.md)  <br> [Exportar Relatório de Vínculos Empregatícios](modelagem/cenarios.md)    <br>    [Verificar direitos trabalhistas do contrato atual](modelagem/cenarios.md)    | [Cenários](modelagem/cenarios.md)             |
+| Léxico                              |  **Verbo:** <br> <li> [Emitir PDF do Contrato de Trabalho](modelagem/lexico.md) <br> <li> [Enviar carteira de trabalho](modelagem/lexico.md)    <br> <br> **Objeto:**  <br> <li> [Contrato de Trabalho](modelagem/lexico.md)  <br> <li> [Informação do Contrato](modelagem/lexico.md) <br> <li> [Vínculo Empregatício](modelagem/lexico.md)  <br> <br> **Estado:** <br> <li> [Contrato Ativo](modelagem/lexico.md) | [Léxicos](modelagem/lexico.md)               |
+| Casos de Uso                        | <li> [UC03 - Trabalhador acessa detalhes dos contratos de trabalho](modelagem/casoDeUso.md)   <br> <li>  [UC10 - Verificar dados relacionados ao FGTS e INSS](modelagem/casoDeUso.md)       | [Casos de Uso](modelagem/casoDeUso.md)              |
+| Expecificação Suplementar           | **Requisitos de implementação:**  <br> <li> [RI01 - Integração com eSocial <br> <li>  [RI03 - Permitir integração com vários outros software          | [Especificação Suplementar](modelagem/especSuplementar.md)              |
+| História de Usuário                 | [HI07 -  Emitir PDF](modelagemAgil/historiaUsuario.md)            | -               |
+| Backlog                             | <li> [ Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md)   <br> <li>  [Épico:  EP03 – Contratos](modelagemAgil/backlog.md) <br> <li> [História: HI07 - Como usuário, eu quero emitir contratos em PDF para ter uma cópia digital dos mesmos.] (modelagemAgil/backlog.md)      |  [Backlog](modelagemAgil/backlog.md)             |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -542,9 +541,9 @@ A tabela 33 mostra os elos do requisito RF07.
 
 <b>Tabela 33:</b> Elos do requisito RF07.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
+| Recurso | Desenvolvimento | <li> Módulo de Geração de Relatórios <br> <li> Biblioteca de Geração de Documentos PDF <br> <li> Documentos/Informações que deram origem ao PDFs gerado. <br> <li> Componente de Manipulação de Dados da Carteira.| O Módulo de Geração de Relatórios utiliza a Biblioteca de Geração de Documentos PDF, os documentos que deram origem ao PDFs gerado e o componente de manipulação de dados como recurso para implementar a funcionalidade de geração de contratos em PDF. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF04: Usuário pode atualizar suas informações pessoais <br> <li> RF06: Usuário trabalhador pode atualizar contratos de trabalho <br> <li> RF14: Usuário trabalhador pode atualizar(declarar) currículo <br> <li> RF22: Usuário empresa pode atualizar dados dos funcionários <br> <li> RF25: Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos) <br> <br>  Requisitos não funcionais: <br> <li> RNF05: Todos os textos do sistema devem seguir os padrões tipográficos e de siglas, abreviações e erros conforme as normas. <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real. <br> <li> RNF20: O sistema deve ser totalmente integrado com o eSocial, com uma taxa de sincronização de dados de 99%. |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
