@@ -645,7 +645,7 @@ A tabela 30 mostra os elos do requisito RF14.
 | Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de funcionalidades que permitam ao usuário ativar ou desativar seu status de procura de emprego, incluindo a implementação de botões de alternância no aplicativo, armazenamento seguro deste status no banco de dados e a atualização das interfaces de empregadores que consultam essas informações. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
 ### Elos de Rastreabilidade
 
@@ -657,10 +657,10 @@ A tabela 32 mostra os elos do requisito RF15.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Recurso | Desenvolvimento | <li> Módulo de Gerenciamento de Status <br> <li> Banco de Dados para Armazenamento de Status de Emprego <br> <li> Interface de Usuário para Alteração de Status | O módulo de gerenciamento de status, o banco de dados para armazenamento do status de emprego e a interface de usuário para alteração do status são recursos necessários para implementar este requisito. | - |
 
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
 </center>
 
@@ -683,7 +683,7 @@ A tabela 32 mostra os elos do requisito RF15.
 | Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de funcionalidades que permitam a visualização detalhada dos processos seletivos abertos, incluindo a integração com bancos de dados que armazenam essas informações e a criação de telas e filtros específicos no aplicativo para facilitar o acesso dos usuários às vagas de interesse. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
 ### Elos de Rastreabilidade
 
@@ -695,9 +695,9 @@ A tabela 34 mostra os elos do requisito RF16.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Recurso | Desenvolvimento | <li> Módulo de Consulta de Processos Seletivos <br> <li> Banco de Dados de Vagas de Emprego <br> <li> Interface de Usuário para Visualização de Vagas | O módulo de consulta de processos seletivos, o banco de dados de vagas de emprego e a interface de usuário para visualização das vagas são recursos necessários para implementar este requisito. | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
 </center>
 
@@ -720,7 +720,7 @@ A tabela 34 mostra os elos do requisito RF16.
 | Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de funcionalidades que permitam ao usuário selecionar e ocultar dados sensíveis. Isso inclui a implementação de opções de configuração de privacidade no aplicativo, o armazenamento seguro dessas preferências no banco de dados e a garantia de que dados ocultados não serão acessíveis por entidades não autorizadas. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
 
 ### Elos de Rastreabilidade
@@ -733,9 +733,9 @@ A tabela 36 mostra os elos do requisito RF17.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Recurso | Desenvolvimento | <li> Módulo de Configuração de Privacidade <br> <li> Banco de Dados para Armazenamento de Preferências de Privacidade <br> <li> Interface de Usuário para Configuração de Privacidade | O módulo de configuração de privacidade, o banco de dados para armazenamento das preferências de privacidade e a interface de usuário para configuração de privacidade são recursos necessários para implementar este requisito. | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
 </center>
 
@@ -759,7 +759,7 @@ A tabela 36 mostra os elos do requisito RF17.
 | Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de funcionalidades que permitam a visualização do número da carteira de trabalho e de série (CIPS) no aplicativo. Isso inclui a integração com bancos de dados que armazenam essas informações, a criação de telas específicas no aplicativo para acesso fácil e a implementação de medidas de segurança para proteger esses dados. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
 ### Elos de Rastreabilidade
 
@@ -771,10 +771,9 @@ A tabela 38 mostra os elos do requisito RF18.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Recurso | Desenvolvimento | <li> Módulo de Consulta de Informações da Carteira de Trabalho <br> <li> Banco de Dados de Informações da Carteira de Trabalho <br> <li> Interface de Usuário para Consulta de Dados | O módulo de consulta de informações da carteira de trabalho, o banco de dados de informações da carteira de trabalho e a interface de usuário para consulta de dados são recursos necessários para implementar este requisito. | - |
 
-<b> Autora: </b> <a href=""> </a>.
-
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 </center>
 
 </details>
@@ -796,7 +795,7 @@ A tabela 38 mostra os elos do requisito RF18.
 | Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de funcionalidades que permitam o envio e a gestão de notificações. Isso inclui a implementação de uma infraestrutura de backend para o envio de notificações, a criação de interfaces no aplicativo onde os usuários possam configurar suas preferências de notificação, e a integração com serviços de push notification para garantir a entrega eficiente das mensagens. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
 ### Elos de Rastreabilidade
 
@@ -808,9 +807,9 @@ A tabela 40 mostra os elos do requisito RF19.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Recurso | Desenvolvimento | <li> Módulo de Notificações <br> <li> Serviço de Push Notification <br> <li> Interface de Usuário para Configuração de Notificações | O módulo de notificações, o serviço de push notification e a interface de usuário para configuração de notificações são recursos necessários para implementar este requisito. | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
 </center>
 
@@ -824,7 +823,7 @@ A tabela 40 mostra os elos do requisito RF19.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | Usuário pode consultar perguntas frequêntes |
+| Nome do Requisito    | Usuário pode consultar perguntas frequentes |
 | Origem do Requisito  | Storytelling e Entrevista |
 | Descrição            | Este requisito estabelece que o usuário deve ser capaz de consultar uma seção de perguntas frequentes (FAQ) através do aplicativo, onde encontrará respostas para as dúvidas mais comuns sobre o uso do aplicativo, funcionalidades, procedimentos, e políticas. |
 | Ambiental            | O contexto do requisito está relacionado à necessidade de fornecer suporte e esclarecer dúvidas comuns dos usuários, permitindo que eles encontrem rapidamente respostas sem a necessidade de contatar o suporte técnico. |
@@ -833,7 +832,7 @@ A tabela 40 mostra os elos do requisito RF19.
 | Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de funcionalidades que permitam a visualização e navegação na seção de perguntas frequentes. Isso inclui a implementação de uma interface de usuário intuitiva, a integração com a base de dados que armazena as perguntas e respostas, e a criação de mecanismos de busca e filtragem para facilitar o acesso às informações relevantes. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
 
 ### Elos de Rastreabilidade
@@ -846,10 +845,10 @@ Tabela 42: Elos do requisito RF20
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Recurso | Desenvolvimento | <li> Módulo de Perguntas Frequentes (FAQ)  <br> <li> Banco de Dados de Perguntas e Respostas <br> <li> Interface de Usuário para Navegação no FAQ | O módulo de perguntas frequentes, o banco de dados de perguntas e respostas e a interface de usuário para navegação no FAQ são recursos necessários para implementar este requisito. | - |
 
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
 </center>
 
@@ -873,7 +872,7 @@ Tabela 42: Elos do requisito RF20
 | Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de funcionalidades que permitam ao usuário empresa acessar e consultar os dados dos funcionários. Isso inclui a implementação de uma interface de usuário específica para empresas, a integração com bancos de dados que armazenam essas informações e a aplicação de medidas de segurança robustas para proteger os dados contra acessos não autorizados. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
 
 ### Elos de Rastreabilidade
@@ -886,9 +885,9 @@ A tabela 44 mostra os elos do requisito RF21.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Recurso | Desenvolvimento | <li> Módulo de Consulta de Dados de Funcionários  <br> <li> Banco de Dados de Informações dos Funcionários <br> <li> Interface de Usuário para Consulta de Dados | O módulo de consulta de dados de funcionários, o banco de dados de informações dos funcionários e a interface de usuário para consulta de dados são recursos necessários para implementar este requisito. | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
 </center>
 
