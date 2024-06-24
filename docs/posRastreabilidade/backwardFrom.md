@@ -1442,35 +1442,32 @@ A tabela 74 mostra os elos do requisito RNF08.
 <details>
   <summary><b> RNF09 - 	Bruno Araújo </b></summary> 
 
-<b>Tabela 75:</b> Estrutura do requisito
+**Tabela 75: Estrutura do requisito**
 
-| Características      | Explicação |
-| -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
-| Nível de Priorização | - |
+| Características      | Explicação                                                                                 |
+| -------------------- | ------------------------------------------------------------------------------------------ |
+| Nome do Requisito    | Conformidade com a LGPD                                                                    |
+| Origem do Requisito  | Análise de documentos                                                                      |
+| Descrição            | O sistema deve garantir a conformidade com a LGPD (Lei Geral de Proteção de Dados).        |
+| Ambiental            | Sim                                                                                        |
+| Organizacional       | Sim                                                                                        |
+| Gerencial            | Sim                                                                                        |
+| Desenvolvimento      | Sim                                                                                        |
+| Nível de Priorização | Alto                                                                                       |
 
-<b> Autora: </b> <a href=""> </a>.
+**Autora:** [Bruno Araújo](https://github.com/brunocva)
 
 ### Elos de Rastreabilidade
 
-A tabela 76 mostra os elos do requisito RNF09.
+**Tabela 76: Elo do Requisito**
 
-<center> 
+| Tipo de Elo | Categoria       | Elementos Rastreáveis      | Descrição do ELO                                | Requisitos Relacionados |
+| ----------- | --------------- | -------------------------- | ----------------------------------------------- | ----------------------- |
+| Satisfação  | Requisito       | Documentação do sistema    | Garante que o sistema esteja em conformidade.  | RNF09, RNF12            |
+| Dependência | Requisito       | Processos e funcionalidades| Dependência da documentação da LGPD.            | RNF09, RNF12            |
 
-<b>Tabela 76:</b> Elo do Requisito
+**Autor:** [Bruno Araújo](https://github.com/brunocva)
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
-
-
-<b> Autora: </b> <a href=""> </a>.
 
 </center>
 
@@ -1479,34 +1476,31 @@ A tabela 76 mostra os elos do requisito RNF09.
 <details>
   <summary><b> RNF10 - 	Bruno Araújo </b></summary> 
 
-<b>Tabela 77:</b> Estrutura do requisito
+**Tabela 77: Estrutura do requisito**
 
-| Características      | Explicação |
-| -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
-| Nível de Priorização | - |
+| Características      | Explicação                                                                                                                                         |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nome do Requisito    | Suporte a Ferramentas de Acessibilidade                                                                                                           |
+| Origem do Requisito  | Análise de documentos                                                                                                                             |
+| Descrição            | O sistema deve oferecer suporte a ampliadores de telas, leitores de telas, programas de reconhecimento de voz, teclados alternativos e dispositivos apontadores alternativos, e ser testado com pelo menos duas ferramentas de acessibilidade diferentes. |
+| Ambiental            | Sim                                                                                                                                              |
+| Organizacional       | Sim                                                                                                                                              |
+| Gerencial            | Sim                                                                                                                                              |
+| Desenvolvimento      | Parcialmente                                                                                                                                     |
+| Nível de Priorização | Médio                                                                                                                                            |
 
-<b> Autora: </b> <a href=""> </a>.
+**Autora:** [Bruno Araújo](https://github.com/brunocva)
 
 ### Elos de Rastreabilidade
 
-A tabela 78 mostra os elos do requisito RNF10.
+**Tabela 78: Elo do Requisito**
 
-<center> 
+| Tipo de Elo | Categoria       | Elementos Rastreáveis  | Descrição do ELO                                                                 | Requisitos Relacionados |
+| ----------- | --------------- | ---------------------- | -------------------------------------------------------------------------------- | ----------------------- |
+| Satisfação  | Requisito       | Ferramentas de teste   | Garante o suporte a ferramentas de acessibilidade.                               | RNF10, RNF14            |
+| Dependência | Ferramentas     | Ferramentas de Acessibilidade | Dependência de ferramentas específicas para testes de acessibilidade.              | RNF10, RNF14            |
 
-<b>Tabela 78:</b> Elo do Requisito
-
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
-
-<b> Autora: </b> <a href=""> </a>.
+**Autora:** [Bruno Araújo](https://github.com/brunocva)
 
 </center>
 
@@ -1515,35 +1509,32 @@ A tabela 78 mostra os elos do requisito RNF10.
 <details>
   <summary><b> RNF11 - 	Bruno Araújo </b></summary> 
 
-<b>Tabela 79:</b> Estrutura do requisito
+**Tabela 79: Estrutura do requisito**
 
-| Características      | Explicação |
-| -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
-| Nível de Priorização | - |
+| Características      | Explicação                                                                                                                                              |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nome do Requisito    | Integração com Processos Governamentais                                                                                                                |
+| Origem do Requisito  | Análise de documentos e Storytelling                                                                                                                   |
+| Descrição            | O sistema deve permitir a integração completa com os processos de negócios governamentais, conforme especificado na documentação de requisitos.        |
+| Ambiental            | Sim                                                                                                                                                   |
+| Organizacional       | Sim                                                                                                                                                   |
+| Gerencial            | Sim                                                                                                                                                   |
+| Desenvolvimento      | Parcialmente                                                                                                                                          |
+| Nível de Priorização | Alto                                                                                                                                                  |
 
-<b> Autora: </b> <a href=""> </a>.
+**Autora:** [Bruno Araújo](https://github.com/brunocva)
 
 ### Elos de Rastreabilidade
 
-A tabela 80 mostra os elos do requisito RNF11.
+**Tabela 80: Elo do Requisito**
 
-<center> 
+| Tipo de Elo | Categoria       | Elementos Rastreáveis | Descrição do ELO                                                        | Requisitos Relacionados |
+| ----------- | --------------- | --------------------- | ----------------------------------------------------------------------- | ----------------------- |
+| Satisfação  | Processos       | Documentação e APIs   | Garante a integração com processos governamentais especificados.        | RNF11                   |
+| Dependência | APIs            | APIs governamentais   | Dependência de APIs e documentações governamentais para a integração.   | RNF11, RNF12            |
 
-<b>Tabela 80:</b> Elo do Requisito
+**Autora:** [Bruno Araújo](https://github.com/brunocva)
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
-
-
-<b> Autora: </b> <a href=""> </a>.
 
 </center>
 
@@ -1552,35 +1543,32 @@ A tabela 80 mostra os elos do requisito RNF11.
 <details>
   <summary><b> RNF12 - 	Bruno Araújo </b></summary> 
 
-<b>Tabela 81:</b> Estrutura do requisito
+**Tabela 81: Estrutura do requisito**
 
-| Características      | Explicação |
-| -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
-| Nível de Priorização | - |
+| Características      | Explicação                                                                                                                             |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Nome do Requisito    | Uso de Vocabulários Controlados                                                                                                        |
+| Origem do Requisito  | Análise de documentos                                                                                                                  |
+| Descrição            | O sistema deve utilizar vocabulários controlados e taxonomias padrão do governo, conforme especificado na documentação.                 |
+| Ambiental            | Sim                                                                                                                                    |
+| Organizacional       | Sim                                                                                                                                    |
+| Gerencial            | Sim                                                                                                                                    |
+| Desenvolvimento      | Sim                                                                                                                                    |
+| Nível de Priorização | Alto                                                                                                                                   |
 
-<b> Autora: </b> <a href=""> </a>.
+**Autora:** [Bruno Araújo](https://github.com/brunocva)
 
 ### Elos de Rastreabilidade
 
-A tabela 82 mostra os elos do requisito RNF12.
+**Tabela 82: Elo do Requisito**
 
-<center> 
+| Tipo de Elo | Categoria       | Elementos Rastreáveis   | Descrição do ELO                                          | Requisitos Relacionados |
+| ----------- | --------------- | ----------------------- | --------------------------------------------------------- | ----------------------- |
+| Satisfação  | Vocabulários    | Documentação do sistema | Garante o uso de vocabulários controlados pelo governo.   | RNF12, RNF11            |
+| Dependência | Taxonomias      | Taxonomias do governo   | Dependência de taxonomias padrão especificadas.           | RNF12, RNF11            |
 
-<b>Tabela 82:</b> Elo do Requisito
+**Autora:** [Bruno Araújo](https://github.com/brunocva)
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
-
-
-<b> Autora: </b> <a href=""> </a>.
 
 </center>
 
@@ -1589,34 +1577,32 @@ A tabela 82 mostra os elos do requisito RNF12.
 <details>
   <summary><b> RNF13 - 	Bruno Araújo </b></summary> 
 
-<b>Tabela 83:</b> Estrutura do requisito
+**Tabela 83: Estrutura do requisito**
 
-| Características      | Explicação |
-| -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
-| Nível de Priorização | - |
+| Características      | Explicação                                                                                                                     |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Nome do Requisito    | Processamento de Solicitações em 2 Minutos                                                                                     |
+| Origem do Requisito  | Análise de documentos e storytelling                                                                                           |
+| Descrição            | O sistema deve processar solicitações de carteira de trabalho em no máximo 2 minutos, com uma taxa de sucesso de 99%.           |
+| Ambiental            | Sim                                                                                                                            |
+| Organizacional       | Sim                                                                                                                            |
+| Gerencial            | Sim                                                                                                                            |
+| Desenvolvimento      | Parcialmente (Algumas vezes o aplicativo apresenta erro)                                                                       |
+| Nível de Priorização | Alto                                                                                                                           |
 
-<b> Autora: </b> <a href=""> </a>.
+**Autora:** [Bruno Araújo](https://github.com/brunocva)
 
 ### Elos de Rastreabilidade
 
-A tabela 84 mostra os elos do requisito RNF13.
+**Tabela 84: Elo do Requisito**
 
-<center> 
+| Tipo de Elo | Categoria       | Elementos Rastreáveis | Descrição do ELO                                                                 | Requisitos Relacionados |
+| ----------- | --------------- | --------------------- | -------------------------------------------------------------------------------- | ----------------------- |
+| Satisfação  | Performance     | Log de processamento  | Garante o processamento em no máximo 2 minutos e taxa de sucesso de 99%.         | RNF13, RNF11            |
+| Dependência | Infraestrutura  | Infraestrutura de TI  | Dependência da infraestrutura de TI para garantir a performance especificada.     | RNF13, RNF11            |
 
-<b>Tabela 84:</b> Elo do Requisito
+**Autora:** [Bruno Araújo](https://github.com/brunocva)
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
-
-<b> Autora: </b> <a href=""> </a>.
 
 </center>
 
@@ -1625,34 +1611,32 @@ A tabela 84 mostra os elos do requisito RNF13.
 <details>
   <summary><b> RNF14 - Bruno Araújo</b></summary> 
 
-<b>Tabela 85:</b> Estrutura do requisito
+**Tabela 85: Estrutura do requisito**
 
-| Características      | Explicação |
-| -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
-| Nível de Priorização | - |
+| Características      | Explicação                                                                                                                            |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Nome do Requisito    | Padrões de Design Aceitos                                                                                                             |
+| Origem do Requisito  | Storytelling                                                                                                                          |
+| Descrição            | O aplicativo deve seguir padrões de design aceitos por empresas e instituições, com uma taxa de conformidade de 95% nas avaliações de usabilidade. |
+| Ambiental            | Sim                                                                                                                                   |
+| Organizacional       | Sim                                                                                                                                   |
+| Gerencial            | Sim                                                                                                                                   |
+| Desenvolvimento      | Parcialmente                                                                                                                          |
+| Nível de Priorização | Médio                                                                                                                                 |
 
-<b> Autora: </b> <a href=""> </a>.
+**Autora:** [Bruno Araújo](https://github.com/brunocva)
 
 ### Elos de Rastreabilidade
 
-A tabela 86 mostra os elos do requisito RNF14.
+**Tabela 86: Elo do Requisito**
 
-<center> 
+| Tipo de Elo | Categoria       | Elementos Rastreáveis       | Descrição do ELO                                                                  | Requisitos Relacionados |
+| ----------- | --------------- | --------------------------- | --------------------------------------------------------------------------------- | ----------------------- |
+| Satisfação  | Usabilidade     | Avaliações de usabilidade   | Garante a conformidade com padrões de design aceitos por empresas e instituições. | RNF14, RNF10            |
+| Dependência | Padrões de Design | Padrões de design aceitos   | Dependência de padrões de design aceitos para garantir a usabilidade.              | RNF14, RNF10            |
 
-<b>Tabela 86:</b> Elo do Requisito
+**Autora:** [Bruno Araújo](https://github.com/brunocva)
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
-
-<b> Autora: </b> <a href=""> </a>.
 
 </center>
 
@@ -1661,35 +1645,32 @@ A tabela 86 mostra os elos do requisito RNF14.
 <details>
   <summary><b> RNF15 - 	Bruno Araújo </b></summary> 
 
-<b>Tabela 87:</b> Estrutura do requisito
+**Tabela 87: Estrutura do requisito**
 
-| Características      | Explicação |
-| -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
-| Nível de Priorização | - |
+| Características      | Explicação                                                                                                                             |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Nome do Requisito    | Backup Diário                                                                                                                          |
+| Origem do Requisito  | Análise de documentos                                                                                                                  |
+| Descrição            | O sistema deve realizar backup diário automático de todos os dados para garantir a recuperação em caso de falhas.                       |
+| Ambiental            | Sim                                                                                                                                    |
+| Organizacional       | Sim                                                                                                                                    |
+| Gerencial            | Sim                                                                                                                                    |
+| Desenvolvimento      | Sim                                                                                                                                    |
+| Nível de Priorização | Alto                                                                                                                                   |
 
-<b> Autora: </b> <a href=""> </a>.
+**Autora:** [Bruno Araújo](https://github.com/brunocva)
 
 ### Elos de Rastreabilidade
 
-A tabela 88 mostra os elos do requisito RNF15.
+**Tabela 88: Elo do Requisito**
 
-<center> 
+| Tipo de Elo | Categoria       | Elementos Rastreáveis | Descrição do ELO                                           | Requisitos Relacionados |
+| ----------- | --------------- | --------------------- | ---------------------------------------------------------- | ----------------------- |
+| Satisfação  | Segurança       | Logs de Backup        | Garante a realização de backups diários automáticos.        | RNF15, RNF12            |
+| Dependência | Infraestrutura  | Infraestrutura de Backup | Dependência da infraestrutura para execução dos backups.   | RNF15, RNF12            |
 
-<b>Tabela 88:</b> Elo do Requisito
+**Autora:** [Bruno Araújo](https://github.com/brunocva)
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
-
-
-<b> Autora: </b> <a href=""> </a>.
 
 </center>
 
@@ -2084,4 +2065,5 @@ A tabela 108 mostra os elos do requisito RNF25.
 | 1.4    |  Reorganização do artefato             | Larissa Stéfane | Pedro Izarias | 20/06/2024 |
 | 1.5    |  Adição dos requisitos RF07 até RF14  | Larissa Stéfane | Pedro Izarias | 22/06/2024 |
 | 1.6    |  Adição dos requisitos RF22 até RF28  | Pedro Izarias | Iago Passaglia | 23/06/2024 |
-| 1.7    |  Adição dos requisitos RF01 até RF06 e RNF25  | Iago Passaglia | - | 23/06/2024 |
+| 1.7    |  Adição dos requisitos RF01 até RF06 e RNF25  | Iago Passaglia | Bruno Araújo | 23/06/2024 |
+| 1.8    |  Adição dos requisitos RNF 09 ao 15  | Bruno Araújo | - | 23/06/2024 |
