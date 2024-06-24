@@ -953,8 +953,6 @@ A tabela 57 mostra os elos do requisito RF13.
 
 </details>
 
-
-
 <details>
   <summary><b> RF14 - Larissa Stéfane </b></summary>
 
@@ -966,7 +964,7 @@ A tabela 58 mostra as versões do requisito RF14.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RF14](Elicitacao/ResquisitosCorrigidos.md)              |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -976,15 +974,14 @@ A tabela 59 mostra a estrutura do requisito RF14.
 
 <b>Tabela 59:</b> Estrutura do requisito RF14.
 
-| Características                     | Explicação | Rastreabilidade |
-| ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Características                     | Explicação                                                                                  | Rastreabilidade                                      |
+| ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Nome do Requisito                   | Usuário trabalhador pode atualizar (declarar) currículo                                     | [RF14](Elicitacao/ResquisitosCorrigidos.md)         |
+| Alocação no App                     | Na área de perfil do usuário ou em uma seção dedicada à atualização de currículo ou declaração de status de emprego.           | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md) |
+| Resolução de requisitos em conflito | Os dados colocados no currículo podem interferir os dados nos contratos de trabalho. | -                                                   |
+| Verificação                         | Verificar se a funcionalidade permite adicionar, editar e salvar informações de currículo corretamente | -                   |
+| Correção de Defeitos                | -                                | Não foi necessário corrigir falhas para esse requisito. |
+| Análise de impacto na evolução      | Médio impacto: Afeta, principalmente, a visualização e os dados de armazenamento do currículo | -                                                   |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -996,12 +993,13 @@ A tabela 60 mostra os artefatos gerados pelo requisito RF14.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
-| Casos de Uso                        | -             | -               |
-| Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
-| Backlog                             | -             | -               |
+| Cenário                             |  [Escolher Modo de Status de Procura de Emprego](modelagem/cenarios.md)    |  [Cenários](modelagem/cenarios.md)       |
+| Léxico                              |  **Verbo:** <br> <li>  [Atualizar dados pessoais](modelagem/lexico.md) <br> <li> [Realizar Anotações no Contrato de Trabalho](modelagem/lexico.md)  <br> <br> **Objeto:**  <br> <li>[Informação do Contrato](modelagem/lexico.md) <br> <br> **Estado:**  <br> <li> Não foi encontrado léxico de estado que possa ser referente aos currículos. | [Léxicos](modelagem/lexico.md)               |
+| Casos de Uso                        | <li> [UC06 -  Escolher Modo de Status de Procura de Emprego.](modelagem/casoDeUso.md)     | [Casos de Uso](modelagem/casoDeUso.md)              |
+| Expecificação Suplementar           |  **Para a implementação:**  <br> <li> RI01 - Integração com eSocial    <br> <br> **Para suportabilidade** <br> <li>             SUP02 - O sistema deve possuir documentação completa e atualizada para o código-fonte do aplicativo, incluindo instruções de instalação, configuração e uso de APIs.        | [Especificação Suplementar](modelagem/especSuplementar.md)   |
+| História de Usuário                 | [HI20 -  Alteração de Status de Contratação](modelagemAgil/historiaUsuario.md)            | [História de Usuário](modelagemAgil/historiaUsuario.md)               |
+| Backlog                             | <li> [ Tema: TM04 - Mural de Vagas](modelagemAgil/backlog.md)   <br> <li>  [Épico:  EP06 - Procura de Empregos](modelagemAgil/backlog.md) <br> <li> [História: HI20 - Como usuário, eu gostaria de alterar meu status de contratação para informar minha disponibilidade no mercado de trabalho.](modelagemAgil/backlog.md)      |  [Backlog](modelagemAgil/backlog.md)             |
+
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -1011,15 +1009,19 @@ A tabela 61 mostra os elos do requisito RF14.
 
 <b>Tabela 61:</b> Elos do requisito RF14.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO | Requisitos Relacionados |
+| -------------- | ----------------- | ----------------------------------------------------- | ------------- | ------------- |
+| Alocado | Desenvolvimento | <li> Módulo de Atualização de Currículo <br> <li> Banco de dados de currículos <br> <li> Interface de usuário para entrada e edição de dados dos currículos. | Este elo indica que os currículos estão **relacionados ou alocados** aos componentes dos contratos de trabalho, uma vez que se utilizam os contratos anteriores no currículo como experiência e se utiliza o currículo para contratar ou procurar emprego. | **Os requisitos que fornecem os recursos necessários são:** <br><br> Requisitos Funcionais: <br> <li> RF04: Usuário pode atualizar suas informações pessoais <br> <li> RF06: Usuário trabalhador pode atualizar contratos de trabalho <br> <li> RF24: Usuário empresa pode gerar relatórios trabalhistas <br> <li> RF25: Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos) <br><br> Requisitos não funcionais: <br> <li> RNF05: Todos os textos do sistema devem seguir os padrões tipográficos e de siglas, abreviações e erros conforme as normas. <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real. <br> <li> RNF20: O sistema deve ser totalmente integrado com o eSocial, com uma taxa de sincronização de dados de 99%. <br> <li> RNF22: O sistema deve permitir integração com pelo menos cinco outros sistemas de software, conforme especificado na documentação de requisitos. | 
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
 </details>
+
+
+
+
 
 
 <details>
