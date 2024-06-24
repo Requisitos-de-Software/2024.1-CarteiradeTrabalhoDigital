@@ -1022,6 +1022,474 @@ A tabela 61 mostra os elos do requisito RF14.
 </details>
 
 
+<details>
+  <summary><b> RF15 - Luana Medeiros </b></summary>
+
+#### Versões do Requisito
+
+A tabela 62 mostra as versões do requisito RF15.
+
+<b>Tabela 62:</b> Versão do requisito RF15.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 63 mostra a estrutura do requisito RF15.
+
+<b>Tabela 63:</b> Estrutura do requisito RF15.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela 64 mostra os artefatos gerados pelo requisito RF15.
+
+<b>Tabela 64:</b> Artefatos Gerados pelo requisito RF15.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Os Elos
+
+A tabela 65 mostra os elos do requisito RF15.
+
+<b>Tabela 65:</b> Elos do requisito RF15.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RF16 - Luana Medeiros </b></summary>
+
+#### Versões do Requisito
+
+A tabela 66 mostra as versões do requisito RF16.
+
+<b>Tabela 66:</b> Versão do requisito RF16.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 67 mostra a estrutura do requisito RF16.
+
+<b>Tabela 67:</b> Estrutura do requisito RF16.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela 68 mostra os artefatos gerados pelo requisito RF16.
+
+<b>Tabela 68:</b> Artefatos Gerados pelo requisito RF16.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Os Elos
+
+A tabela 69 mostra os elos do requisito RF16.
+
+<b>Tabela 69:</b> Elos do requisito RF16.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RF17 - Luana Medeiros </b></summary>
+
+#### Versões do Requisito
+
+A tabela 70 mostra as versões do requisito RF17.
+
+<b>Tabela 70:</b> Versão do requisito RF17.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 71 mostra a estrutura do requisito RF17.
+
+<b>Tabela 71:</b> Estrutura do requisito RF17.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela 72 mostra os artefatos gerados pelo requisito RF17.
+
+<b>Tabela 72:</b> Artefatos Gerados pelo requisito RF17.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Os Elos
+
+A tabela 73 mostra os elos do requisito RF17.
+
+<b>Tabela 73:</b> Elos do requisito RF17.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RF18 - Luana Medeiros </b></summary>
+
+#### Versões do Requisito
+
+A tabela 74 mostra as versões do requisito RF18.
+
+<b>Tabela 74:</b> Versão do requisito RF18.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 75 mostra a estrutura do requisito RF18.
+
+<b>Tabela 75:</b> Estrutura do requisito RF18.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela 76 mostra os artefatos gerados pelo requisito RF18.
+
+<b>Tabela 76:</b> Artefatos Gerados pelo requisito RF18.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Os Elos
+
+A tabela 77 mostra os elos do requisito RF18.
+
+<b>Tabela 77:</b> Elos do requisito RF18.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RF19 - Luana Medeiros </b></summary>
+
+#### Versões do Requisito
+
+A tabela 78 mostra as versões do requisito RF19.
+
+<b>Tabela 78:</b> Versão do requisito RF19.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 79 mostra a estrutura do requisito RF19.
+
+<b>Tabela 79:</b> Estrutura do requisito RF19.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela 80 mostra os artefatos gerados pelo requisito RF19.
+
+<b>Tabela 80:</b> Artefatos Gerados pelo requisito RF19.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Os Elos
+
+A tabela 81 mostra os elos do requisito RF19.
+
+<b>Tabela 81:</b> Elos do requisito RF19.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RF20 - Luana Medeiros </b></summary>
+
+#### Versões do Requisito
+
+A tabela 82 mostra as versões do requisito RF20.
+
+<b>Tabela 82:</b> Versão do requisito RF20.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 83 mostra a estrutura do requisito RF20.
+
+<b>Tabela 83:</b> Estrutura do requisito RF20.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela 84 mostra os artefatos gerados pelo requisito RF20.
+
+<b>Tabela 84:</b> Artefatos Gerados pelo requisito RF20.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Os Elos
+
+A tabela 85 mostra os elos do requisito RF20.
+
+<b>Tabela 85:</b> Elos do requisito RF20.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RF21 - Luana Medeiros </b></summary>
+
+#### Versões do Requisito
+
+A tabela 86 mostra as versões do requisito RF21.
+
+<b>Tabela 86:</b> Versão do requisito RF21.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 87 mostra a estrutura do requisito RF21.
+
+<b>Tabela 87:</b> Estrutura do requisito RF21.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela 88 mostra os artefatos gerados pelo requisito RF21.
+
+<b>Tabela 88:</b> Artefatos Gerados pelo requisito RF21.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+#### Os Elos
+
+A tabela 89 mostra os elos do requisito RF21.
+
+<b>Tabela 89:</b> Elos do requisito RF21.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+</center>
+
+</details>
+
 
 ## Rastreabilidade dos Requisitos Não Funcionais
 
