@@ -552,6 +552,7 @@ A tabela 33 mostra os elos do requisito RF07.
 </details>
 
 
+
 <details>
   <summary><b> RF08 - Larissa Stéfane </b></summary>
 
@@ -563,7 +564,7 @@ A tabela 34 mostra as versões do requisito RF08.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RF08](Elicitacao/ResquisitosCorrigidos.md)               |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -573,15 +574,14 @@ A tabela 35 mostra a estrutura do requisito RF08.
 
 <b>Tabela 35:</b> Estrutura do requisito RF08.
 
-| Características                     | Explicação | Rastreabilidade |
-| ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Características                     | Explicação                                                                                  | Rastreabilidade                                      |
+| ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Nome do Requisito                   | Usuário trabalhador visualizar gráficos com históricos e remunerações dos seus trabalhos    | [RF08](Elicitacao/ResquisitosCorrigidos.md)         |
+| Alocação no App                     | Na região de histórico de trabalhos e remunerações                                          | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md) |
+| Resolução de requisitos em conflito | Este requisito não conflita com outros requisitos, mas necessita de uma base de dados atualizada e precisa. | -                                                   |
+| Verificação                         | Verificar se a funcionalidade acessa todos os dados históricos corretamente ou realizar testes com dados reais. | Será realizada pelo grupo em breve                   |
+| Correção de Defeitos                | Através de relatórios e de feedbacks de usuários.                                       | Não foi necessário corrigir falhas para esse requisito. |
+| Análise de impacto na evolução      | Baixo impacto: Afeta principalmente a interface de usuário e a apresentação de dados históricos e gráficos | -                                                   |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -593,12 +593,12 @@ A tabela 36 mostra os artefatos gerados pelo requisito RF08.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
-| Casos de Uso                        | -             | -               |
-| Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
-| Backlog                             | -             | -               |
+| Cenário                             | <li> [Visualizar aba "Emprego"]( modelagem/cenarios.md)  <br> <li> [Trabalhador na Verificação de Dados do FGTS e INSS](modelagem/cenarios.md)     | [Cenários](modelagem/cenarios.md)             |
+| Léxico                              |  **Verbo:** <br> <li> [Consultar Vínculos Empregatícios](modelagem/lexico.md)   <br> <br> **Objeto:**  <br> <li> [Contrato de Trabalho](modelagem/lexico.md)  <br> <li> [Informação do Contrato](modelagem/lexico.md) <br> <li> [Vínculo Empregatício](modelagem/lexico.md)  <br> <br> **Estado:** <br> <li> [Contrato Ativo](modelagem/lexico.md)) | [Léxicos](modelagem/lexico.md)               |
+| Casos de Uso                        | <li> [UC03 - Trabalhador acessa detalhes dos contratos de trabalho](modelagem/casoDeUso.md)   <br> <li>  [UC10 - Verificar dados relacionados ao FGTS e INSS](modelagem/casoDeUso.md)       | [Casos de Uso](modelagem/casoDeUso.md)              |
+| Expecificação Suplementar           | **Para a implementação:**  <br> <li> RI01 - Integração com eSocial <br> <li>  RI03 - Permitir integração com vários outros software     <br> <br> **Para a confiabilidade** <br> <li>             CON02 - O sistema deve possuir as informações atualizadas e condizentes com a realidade.  <br> <li>  CON03 - O sistema deve manter íntegra as informações sobre o usuário e seus contratos de trabalho.     | [Especificação Suplementar](modelagem/especSuplementar.md) |
+| História de Usuário                 | [HI08 -  Visualizar gráficos de contratos](modelagemAgil/historiaUsuario.md)            | -               |
+| Backlog                             | <li> [ Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md)   <br> <li>  [Épico:  EP03 – Contratos](modelagemAgil/backlog.md) <br> <li> [História: HI08 - Como usuário, eu quero visualizar gráficos com históricos de contratações e remunerações para entender minha trajetória profissional.] (modelagemAgil/backlog.md)      |  [Backlog](modelagemAgil/backlog.md)             |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -608,15 +608,16 @@ A tabela 37 mostra os elos do requisito RF08.
 
 <b>Tabela 37:</b> Elos do requisito RF08.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| Satisfação | Desenvolvimento | <li> Módulo de geração de gráficos. <br> <li> Dados do usuário sobre os seus contratos de trabalho. <br> <li> Componentes que permitem a interação com os gráficos. | O módulo de geração de geração de gráficos junto com os dados o usuário sobre os seus contratos de trabalho e os componentes que permitem interação com os gráficos **satifazem** as necessidades para se implementar o requisito de visualizar gráficos com históricos e remunerações de trabalho.  |  **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF06: Usuário trabalhador pode atualizar contratos de trabalho <br> <li> RF12: Usuário trabalhador pode consultar benefícios (13º salário, férias remuneradas, adicional noturno, vale-transporte, vale-refeição, plano de saúde, abono salarial, benefício TAC-Taxista, Seguro Desemprego) (pode verificar o valor desses benefícios em gráficos)  <br> <li> RF22: Usuário empresa pode atualizar dados dos funcionários <br> <li> RF25: Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos) <br> <li> RF27: Usuário empresa pode gerenciar benefícios trabalhistas <br> <br>  Requisitos não funcionais: <br> <li> RNF06: A interface do usuário deve estar em conformidade com os manuais de interface gov.br. <br> <li> RNF07: A interface do sistema deve incluir todos os elementos básicos de design do Padrão Digital de Governo.  <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real. <br> <li> RNF20: O sistema deve ser totalmente integrado com o eSocial, com uma taxa de sincronização de dados de 99% |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
 </details>
+
 
 
 <details>
