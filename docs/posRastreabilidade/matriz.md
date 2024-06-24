@@ -94,3 +94,4 @@ A matriz de rastreabilidade desenvolvida para o projeto da Carteira Digital de T
 | 1.0 | Criação do documento | Pedro Izarias |  Bruno Araújo  |  22/06/2024  |
 | 1.1 |  Adição da Introdução, Desenvolvimento e Matriz de rastreabilidade | Pedro Izarias |  Bruno Araújo  |  22/06/2024  |
 | 1.1 |  Adição dos RNF 09 ao 15. | Bruno Araújo |  ---  |  23/06/2024  |
+| 1.2 |  Adição dos RF 07 ao 14. | Larissa Stéfane |  ---  |  24/06/2024  |
