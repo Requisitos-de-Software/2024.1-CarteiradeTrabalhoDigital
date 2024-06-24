@@ -899,7 +899,7 @@ A tabela 54 mostra as versões do requisito RF13.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RF13](Elicitacao/ResquisitosCorrigidos.md)               |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -909,15 +909,14 @@ A tabela 55 mostra a estrutura do requisito RF13.
 
 <b>Tabela 55:</b> Estrutura do requisito RF13.
 
-| Características                     | Explicação | Rastreabilidade |
-| ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Características                     | Explicação                                                                                  | Rastreabilidade                                      |
+| ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Nome do Requisito                   | Usuário trabalhador pode solicitar benefícios                                               | [RF13](Elicitacao/ResquisitosCorrigidos.md)         |
+| Alocação no App                     | Na área de gestão de benefícios do trabalhador                                              | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md) |
+| Resolução de requisitos em conflito | O resultado desse requisito depende dos dados atualizados no banco de dados. | -                                                   |
+| Verificação                         | Verificar se a funcionalidade permite solicitar, acompanhar o status e receber confirmações sobre os benefícios solicitados | -                   |
+| Correção de Defeitos                | -                                | Não foi necessário corrigir falhas para esse requisito. |
+| Análise de impacto na evolução      | Médio impacto: Pode afetar a forma como o usuário interpreta os seus benefícios | -                                                   |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -929,12 +928,12 @@ A tabela 56 mostra os artefatos gerados pelo requisito RF13.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
-| Casos de Uso                        | -             | -               |
-| Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
-| Backlog                             | -             | -               |
+| Cenário                             |  [Solicitar Benefício](modelagem/cenarios.md)    |  [Cenários](modelagem/cenarios.md)       |
+| Léxico                              |  **Verbo:** <br> <li>  [Solicitar Benefício](modelagem/lexico.md)   <br> <br> **Objeto:**  <br> <li>[Benefício](modelagem/lexico.md) <br> <br> **Estado:**  <br> <li> [Benefício Aprovado](modelagem/lexico.md) | [Léxicos](modelagem/lexico.md)               |
+| Casos de Uso                        | <li> [UC01 -  Solicitar Benefício](modelagem/casoDeUso.md)     | [Casos de Uso](modelagem/casoDeUso.md)              |
+| Expecificação Suplementar           |  **Para a implementação:**  <br> <li> RI01 - Integração com eSocial <br> <li>  RI03 - Permitir integração com vários outros software     <br> <br> **Para a confiabilidade** <br> <li>             CON02 - O sistema deve possuir as informações atualizadas e condizentes com a realidade.  <br> <li>  CON03 - O sistema deve manter íntegra as informações sobre o usuário e seus contratos de trabalho.        | [Especificação Suplementar](modelagem/especSuplementar.md)   |
+| História de Usuário                 | [HI12 -  Preencher formulário de solicitação de benefício](modelagemAgil/historiaUsuario.md)            | -               |
+| Backlog                             | <li> [ Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md)   <br> <li>  [Épico:  EP04 - Benefícios](modelagemAgil/backlog.md) <br> <li> [História: HI12 - Como usuário, eu quero solicitar benefícios diretamente pelo aplicativo para facilitar o processo.] (modelagemAgil/backlog.md)      |  [Backlog](modelagemAgil/backlog.md)             |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -944,15 +943,16 @@ A tabela 57 mostra os elos do requisito RF13.
 
 <b>Tabela 57:</b> Elos do requisito RF13.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO | Requisitos Relacionados |
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| Recurso | Desenvolvimento | <li> Componentes de interface para solicitar o benefícios, por exemplo, local para escrever a solicitação. <br> <li> Integração com APIs ou Banco de dados, como eSocial. <br> <li> Dados dos contratos de trabalho. <br> <li> Dados sobre a empresa | Os componentes para implementar na interface, a integração com APIs e com Banco de Dados e os dados dos contratos de trabalho e das empresas são recursos para a implementação do requisito de solicitar benefício.| **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li>  RF05: Usuário trabalhador pode consultar contratos de trabalho. <br> <li>  RF12: Usuário trabalhador pode consultar benefícios (13º salário, férias remuneradas, adicional noturno, vale-transporte, vale-refeição, plano de saúde, abono salarial, benefício TAC-Taxista, Seguro Desemprego)  <br> <li> RF24: Usuário empresa pode gerar relatórios trabalhistas <br> <li> RF25: Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos) <br> <br>  Requisitos não funcionais: <br> <li> RNF05: Todos os textos do sistema devem seguir os padrões tipográficos e de siglas, abreviações e erros conforme as normas. <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real. <br> <li> RNF20: O sistema deve ser totalmente integrado com o eSocial, com uma taxa de sincronização de dados de 99%. |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
 </details>
+
 
 
 <details>
