@@ -731,7 +731,7 @@ A tabela 44 mostra os artefatos gerados pelo requisito RF10.
 | Casos de Uso                        | <li> [UC05 - Realizar Denúncias Trabalhistas ](modelagem/casoDeUso.md)     | [Casos de Uso](modelagem/casoDeUso.md)              |
 | Expecificação Suplementar           | **Para a implementação** <br> <li>             [RI03 - Permitir integração com vários outros software](modelagem/especSuplementar.md)   <br> <li>  [RI07 - Ter o básico de segurança: Autenticação, Criptografia, Controle de acesso, Auditoria, Atender as diretrizes e as práticas de segurança no controle de acesso à conta única.](modelagem/especSuplementar.md)      | [Especificação Suplementar](modelagem/especSuplementar.md)   |
 | História de Usuário                 | [HI10 -  Realização de Denúncias Trabalhistas](modelagemAgil/historiaUsuario.md)            | -               |
-| Backlog                             | <li> [ Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md)   <br> <li>  [Épico:  EP03 – Contratos](modelagemAgil/backlog.md) <br> <li> [História: HI10 - Como usuário, eu quero realizar denúncias trabalhistas para reportar irregularidades.] (modelagemAgil/backlog.md)      |  [Backlog](modelagemAgil/backlog.md)             |
+| Backlog                             | <li> [ Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md)   <br> <li>  [Épico:  EP03 – Contratos](modelagemAgil/backlog.md) <br> <li> [História: HI10 - Como usuário, eu quero realizar denúncias trabalhistas para reportar irregularidades.](modelagemAgil/backlog.md)      |  [Backlog](modelagemAgil/backlog.md)             |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
