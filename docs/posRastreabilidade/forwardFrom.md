@@ -686,8 +686,6 @@ A tabela 41 mostra os elos do requisito RF09.
 </details>
 
 
-
-
 <details>
   <summary><b> RF10 - Larissa Stéfane </b></summary>
 
@@ -699,7 +697,7 @@ A tabela 42 mostra as versões do requisito RF10.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RF10](Elicitacao/ResquisitosCorrigidos.md)                |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -709,15 +707,14 @@ A tabela 43 mostra a estrutura do requisito RF10.
 
 <b>Tabela 43:</b> Estrutura do requisito RF10.
 
-| Características                     | Explicação | Rastreabilidade |
-| ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Características                     | Explicação                                                                                  | Rastreabilidade                                      |
+| ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Nome do Requisito                   | Usuário trabalhador pode fazer denúncias trabalhistas contra a empresa                      | [RF10](Elicitacao/ResquisitosCorrigidos.md)         |
+| Alocação no App                     | Na área de suporte ou na aba dedicada à denúncias.          | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md) |
+| Resolução de requisitos em conflito | Este requisito não conflita com outros requisitos, mas depende de uma integração segura com o sistema de gerenciamento de denúncias e com o órgão responsável. | -                                                   |
+| Verificação                         | Verificar se é possível registrar, enviar e acompanhar denúncias corretamente | Como esse requisito gera uma funcionalidade que ainda não foi implementada, não será possível analisar o requisito no aplicativo em sí.                  |
+| Correção de Defeitos                | Através de feedbacks dos usuários.                                       | Não foi necessário corrigir falhas para esse requisito. |
+| Análise de impacto na evolução      | Baixo impacto: Pode afetar a segurança e privacidade dos dados do usuário e o fluxo de comunicação com o sistema de denúncias | -     |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -729,12 +726,12 @@ A tabela 44 mostra os artefatos gerados pelo requisito RF10.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
-| Casos de Uso                        | -             | -               |
-| Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
-| Backlog                             | -             | -               |
+| Cenário                             |    [Canal de Denúncias](modelagem/cenarios.md)  <br> [Exportar Relatório de Vínculos Empregatícios](modelagem/cenarios.md)   | [Cenários](modelagem/cenarios.md)       |
+| Léxico                              |  **Verbo:** <br> <li> Não foi encontrado um léxico de verbo referênte a denúncias  <br> <br> **Objeto:**  <br> <li> Não foi encontrado um léxico de objetos referênte a denúncias <br> <br> **Estado:**  <br> <li> Em Processo de Validação  | [Léxicos](modelagem/lexico.md)               |
+| Casos de Uso                        | <li> [UC05 - Realizar Denúncias Trabalhistas ](modelagem/casoDeUso.md)     | [Casos de Uso](modelagem/casoDeUso.md)              |
+| Expecificação Suplementar           | **Para a implementação** <br> <li>             [RI03 - Permitir integração com vários outros software](modelagem/especSuplementar.md)   <br> <li>  [RI07 - Ter o básico de segurança: Autenticação, Criptografia, Controle de acesso, Auditoria, Atender as diretrizes e as práticas de segurança no controle de acesso à conta única.](modelagem/especSuplementar.md)      | [Especificação Suplementar](modelagem/especSuplementar.md)   |
+| História de Usuário                 | [HI10 -  Realização de Denúncias Trabalhistas](modelagemAgil/historiaUsuario.md)            | -               |
+| Backlog                             | <li> [ Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md)   <br> <li>  [Épico:  EP03 – Contratos](modelagemAgil/backlog.md) <br> <li> [História: HI10 - Como usuário, eu quero realizar denúncias trabalhistas para reportar irregularidades.] (modelagemAgil/backlog.md)      |  [Backlog](modelagemAgil/backlog.md)             |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -744,15 +741,17 @@ A tabela 45 mostra os elos do requisito RF10.
 
 <b>Tabela 45:</b> Elos do requisito RF10.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados |
+| -------------- | ----------------- | ----------------------------------------------------- | -------------| ---- |
+| Satisfação | Desenvolvimento | <li> Integração com canal de denúncias trabalhistas no aplicativo da Carteira de Trabalho Digital <br> <li> Banco de dados de denúncias trabalhistas <br> <li> Lógica de validação de dados inseridos. <br> <li> Código/Criptografia de proteção da identidade do denunciante.  | A integração com “Canal de Denúncias”, o banco de dados de denúncias, a lógica de verificação dos dados inseridos e o método de proteção da identidade **são recursos** necessários para implementar o requisito de fazer denúncias trabalhistas. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF01: Usuário trabalhador pode acessar informações sobre seus contratos de trabalho <br> <li> RF03: Usuário pode consultar suas informações pessoais. <br> <li> RF09:Usuário pode realizar anotações. <br> <li> RF11: Usuário trabalhador pode consultar informações sobre o FGTS e o INSS. <br> <li> RF12:Usuário trabalhador pode consultar benefícios (13º salário, férias remuneradas, adicional noturno, vale-transporte, vale-refeição, plano de saúde, abono salarial, benefício TAC-Taxista, Seguro Desemprego) . <br> <br> Requisitos não funcionais: <br> <li> RNF06: A interface do usuário deve estar em conformidade com os manuais de interface gov.br. <br> <li> RNF09: O sistema deve garantir a conformidade com a LGPD (Lei Geral de Proteção de Dados). <br> <li> RNF11: O sistema deve permitir a integração completa com os processos de negócios governamentais, conforme especificado na documentação de requisitos. <br> <li> RNF20: O sistema deve ser totalmente integrado com o eSocial, com uma taxa de sincronização de dados de 99%. <br> <li> RNF22: O sistema deve permitir integração com pelo menos cinco outros sistemas de software, conforme especificado na documentação de requisitos. | 
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
 </details>
+
+
 
 
 <details>
