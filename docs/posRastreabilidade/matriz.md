@@ -58,13 +58,13 @@ Após a análise de rastreabilidade, organizamos as informações na Tabela 1, f
 |         RNF06        | --   |  --    |       --      |    --     | --   | 
 |         RNF07        | --   |  --    |       --      |    --     | --   | 
 |         RNF08        | --   |  --    |       --      |    --     | --   | 
-|         RNF09        | --   |  --    |       --      |    --     | --   | 
-|         RNF10        | --   |  --    |       --      |    --     | --   | 
-|         RNF11        | --   |  --    |       --      |    --     | --   | 
-|         RNF12        | --   |  --    |       --      |    --     | --   | 
-|         RNF13        | --   |  --    |       --      |    --     | --   | 
-|         RNF14        | --   |  --    |       --      |    --     | --   | 
-|         RNF15        | --   |  --    |       --      |    --     | --   | 
+|         RNF09        | Conformidade com a LGPD                           | Análise de Documentos                   | Incompleto    | --                          | RF03, RF04, RNF14, RNF18           |
+|         RNF10        | Suporte a Ferramentas de Acessibilidade           | Análise de Documentos                   | Incompleto    | --                          | RF05, RNF18                        |
+|         RNF11        | Integração com Processos Governamentais           | Análise de Documentos e Storytelling    | Incompleto    | --                          | RF06, RNF12                        |
+|         RNF12        | Uso de Vocabulários Controlados                   | Análise de Documentos                   | Sim           | --                          | RF07, RNF12                        |
+|         RNF13        | Processamento de Solicitações em 2 Minutos        | Análise de Documentos e Storytelling    | Parcialmente  | --                          | RF08, RNF12                        |
+|         RNF14        | Padrões de Design Aceitos                         | Storytelling                            | Parcialmente  | --                          | RF10, RNF15                        |
+|         RNF15        | Backup Diário                                     | Análise de Documentos                   | Sim           | --                          | RF11, RNF14                        |
 |         RNF16        | --   |  --    |       --      |    --     | --   | 
 |         RNF17        | --   |  --    |       --      |    --     | --   | 
 |         RNF18        | --   |  --    |       --      |    --     | --   | 
@@ -76,7 +76,7 @@ Após a análise de rastreabilidade, organizamos as informações na Tabela 1, f
 |         RNF24        | --   |  --    |       --      |    --     | --   | 
 |         RNF25        | --   |  --    |       --      |    --     | --   | 
 
-<b> Autor: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
+<b> Autor: </b> <a href=".https://github.com/Izarias">Pedro Izarias</a>, <b> Autor: </b> <a href=".https://github.com/brunocva">Bruno Araújo</a>
 
 ## Conclusão
 A matriz de rastreabilidade desenvolvida para o projeto da Carteira Digital de Trabalho provou ser uma ferramenta fundamental para assegurar a conformidade entre os requisitos especificados e os artefatos produzidos ao longo do ciclo de desenvolvimento. Através da metodologia aplicada, foi possível mapear de forma eficaz cada requisito aos seus correspondentes artefatos, garantindo a cobertura completa das necessidades iniciais e a justificativa das funcionalidades implementadas.
