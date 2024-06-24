@@ -636,13 +636,13 @@ A tabela 30 mostra os elos do requisito RF14.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | Usuário trabalhador pode ativar modo de status (procurando emprego ou não) |
+| Origem do Requisito  | 	Entrevistas |
+| Descrição            | Este requisito estabelece que o usuário trabalhador deve ser capaz de ativar ou desativar um modo de status indicando se está procurando emprego ou não. Este status deve ser facilmente alterável através do aplicativo e visível para empregadores e outras entidades relevantes. |
+| Ambiental            | O contexto do requisito está relacionado à necessidade de usuários trabalhadores de informar seu status de disponibilidade para novas oportunidades de emprego, facilitando a comunicação e a visibilidade no mercado de trabalho. |
+| Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de facilitar a interação entre trabalhadores e empregadores, promovendo a empregabilidade e a transparência das informações. |
+| Gerencial            | Do ponto de vista gerencial, este requisito indica que será necessário desenvolver mecanismos que permitam a alteração e o armazenamento seguro do status de emprego dos usuários. A gerência deve assegurar a implementação de uma interface intuitiva para os trabalhadores e a integração com sistemas de visibilidade para empregadores. |
+| Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de funcionalidades que permitam ao usuário ativar ou desativar seu status de procura de emprego, incluindo a implementação de botões de alternância no aplicativo, armazenamento seguro deste status no banco de dados e a atualização das interfaces de empregadores que consultam essas informações. |
 | Nível de Priorização | - |
 
 <b> Autora: </b> <a href=""> </a>.
@@ -674,13 +674,13 @@ A tabela 32 mostra os elos do requisito RF15.
  
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | Usuário trabalhador por verificar processor seletivos abertos |
+| Origem do Requisito  | 	Análise de documentos |
+| Descrição            | Este requisito estabelece que o usuário trabalhador deve ser capaz de verificar processos seletivos abertos através do aplicativo, visualizando detalhes como nome da vaga, empresa contratante, requisitos do cargo, e datas de início e término das inscrições. |
+| Ambiental            | O contexto do requisito está relacionado à necessidade de usuários trabalhadores de acessar informações sobre oportunidades de emprego disponíveis, facilitando a busca e a candidatura a vagas adequadas ao seu perfil. |
+| Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de facilitar o acesso dos trabalhadores a novas oportunidades de emprego, promovendo a empregabilidade e conectando trabalhadores a empregadores de forma eficiente. |
+| Gerencial            | Do ponto de vista gerencial, este requisito indica que será necessário armazenar e atualizar informações sobre processos seletivos abertos de forma organizada e segura. A gerência deve focar na integração do sistema com bancos de dados de vagas de emprego e na interface de usuário para a visualização dessas informações. |
+| Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de funcionalidades que permitam a visualização detalhada dos processos seletivos abertos, incluindo a integração com bancos de dados que armazenam essas informações e a criação de telas e filtros específicos no aplicativo para facilitar o acesso dos usuários às vagas de interesse. |
 | Nível de Priorização | - |
 
 <b> Autora: </b> <a href=""> </a>.
@@ -711,13 +711,13 @@ A tabela 34 mostra os elos do requisito RF16.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | Usuário pode ocultar dados sensíveis |
+| Origem do Requisito  | Análise de documentos e storytelling |
+| Descrição            | Este requisito estabelece que o usuário deve ser capaz de ocultar dados sensíveis, como informações pessoais, através do aplicativo. O usuário pode selecionar quais dados serão ocultados, garantindo maior privacidade e segurança de suas informações. |
+| Ambiental            | O contexto do requisito está relacionado à necessidade de proteger a privacidade dos usuários, permitindo que eles tenham controle sobre quais informações pessoais estão visíveis para terceiros. |
+| Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de proteger as informações dos usuários, oferecendo mecanismos de privacidade que permitam a ocultação de dados sensíveis conforme a preferência de cada indivíduo. |
+| Gerencial            | Do ponto de vista gerencial, este requisito indica que será necessário desenvolver funcionalidades que permitam a configuração de privacidade pelos usuários, além de garantir que essas preferências sejam respeitadas e mantidas no sistema. A gerência deve assegurar a implementação de interfaces intuitivas e a segurança dos dados ocultos. |
+| Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de funcionalidades que permitam ao usuário selecionar e ocultar dados sensíveis. Isso inclui a implementação de opções de configuração de privacidade no aplicativo, o armazenamento seguro dessas preferências no banco de dados e a garantia de que dados ocultados não serão acessíveis por entidades não autorizadas. |
 | Nível de Priorização | - |
 
 <b> Autora: </b> <a href=""> </a>.
@@ -750,13 +750,13 @@ A tabela 36 mostra os elos do requisito RF17.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | Usuário trabalhador pode consultar o número da carteira e de série como CIPS |
+| Origem do Requisito  | Storytelling |
+| Descrição            | Este requisito estabelece que o usuário trabalhador deve ser capaz de consultar o número da carteira de trabalho e de série (CIPS) através do aplicativo. Essas informações devem ser facilmente acessíveis e visualizáveis pelo usuário. |
+| Ambiental            | O contexto do requisito está relacionado à necessidade de os usuários trabalhadores acessarem facilmente informações essenciais de sua carteira de trabalho, como o número da carteira e de série, para diversos fins administrativos e legais. |
+| Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de centralizar e facilitar o acesso às informações dos usuários, garantindo que dados importantes como o número da carteira de trabalho e de série sejam prontamente disponíveis e seguros. |
+| Gerencial            | Do ponto de vista gerencial, este requisito indica que será necessário armazenar e organizar as informações da carteira de trabalho dos usuários de maneira segura. A gerência deve focar na integração do sistema com os bancos de dados que contêm esses números e na interface de usuário para a visualização dessas informações de forma clara e segura. |
+| Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de funcionalidades que permitam a visualização do número da carteira de trabalho e de série (CIPS) no aplicativo. Isso inclui a integração com bancos de dados que armazenam essas informações, a criação de telas específicas no aplicativo para acesso fácil e a implementação de medidas de segurança para proteger esses dados. |
 | Nível de Priorização | - |
 
 <b> Autora: </b> <a href=""> </a>.
@@ -787,13 +787,13 @@ A tabela 38 mostra os elos do requisito RF18.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | Usuário recebem notificações do aplicativo |
+| Origem do Requisito  | Análise de documentos e Storytelling |
+| Descrição            | Este requisito estabelece que o usuário deve receber notificações do aplicativo sobre diversas atualizações e eventos importantes, como novos processos seletivos, alterações no status de emprego, lembretes de compromissos e outras comunicações relevantes. |
+| Ambiental            | O contexto do requisito está relacionado à necessidade de manter os usuários informados e engajados com atualizações e eventos importantes que podem impactar sua vida profissional e o uso do aplicativo. |
+| Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de manter uma comunicação eficaz com os usuários, garantindo que eles estejam sempre cientes de informações relevantes e possam agir prontamente em resposta a essas notificações. |
+| Gerencial            | Do ponto de vista gerencial, este requisito indica que será necessário desenvolver e manter um sistema de notificações eficiente e confiável. A gerência deve assegurar a configuração adequada das notificações, incluindo a personalização das preferências do usuário e a garantia de que as notificações sejam entregues de maneira oportuna e segura. |
+| Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de funcionalidades que permitam o envio e a gestão de notificações. Isso inclui a implementação de uma infraestrutura de backend para o envio de notificações, a criação de interfaces no aplicativo onde os usuários possam configurar suas preferências de notificação, e a integração com serviços de push notification para garantir a entrega eficiente das mensagens. |
 | Nível de Priorização | - |
 
 <b> Autora: </b> <a href=""> </a>.
@@ -824,13 +824,13 @@ A tabela 40 mostra os elos do requisito RF19.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | Usuário pode consultar perguntas frequêntes |
+| Origem do Requisito  | Storytelling e Entrevista |
+| Descrição            | Este requisito estabelece que o usuário deve ser capaz de consultar uma seção de perguntas frequentes (FAQ) através do aplicativo, onde encontrará respostas para as dúvidas mais comuns sobre o uso do aplicativo, funcionalidades, procedimentos, e políticas. |
+| Ambiental            | O contexto do requisito está relacionado à necessidade de fornecer suporte e esclarecer dúvidas comuns dos usuários, permitindo que eles encontrem rapidamente respostas sem a necessidade de contatar o suporte técnico. |
+| Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de melhorar a experiência do usuário e aumentar a eficiência do suporte ao usuário, reduzindo a carga de trabalho do atendimento ao cliente e facilitando o autoatendimento. |
+| Gerencial            | Do ponto de vista gerencial, este requisito indica que será necessário desenvolver e manter uma base de conhecimento organizada e acessível. A gerência deve assegurar que as perguntas frequentes sejam atualizadas regularmente, sejam de fácil navegação e contenham informações precisas e úteis. |
+| Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de funcionalidades que permitam a visualização e navegação na seção de perguntas frequentes. Isso inclui a implementação de uma interface de usuário intuitiva, a integração com a base de dados que armazena as perguntas e respostas, e a criação de mecanismos de busca e filtragem para facilitar o acesso às informações relevantes. |
 | Nível de Priorização | - |
 
 <b> Autora: </b> <a href=""> </a>.
@@ -864,13 +864,13 @@ Tabela 42: Elos do requisito RF20
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | Usuário empresa pode consultar dados dos funcionários |
+| Origem do Requisito  | Entrevistas e análise de documento |
+| Descrição            | Este requisito estabelece que o usuário empresa deve ser capaz de consultar os dados de seus funcionários através do aplicativo. Esses dados podem incluir informações pessoais, históricos de emprego, qualificações, e status de contrato. |
+| Ambiental            | O contexto do requisito está relacionado à necessidade das empresas de acessar e gerenciar informações sobre seus funcionários de forma eficiente e segura, facilitando processos administrativos e de recursos humanos. |
+| Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de fornecer uma ferramenta robusta para as empresas gerenciarem os dados dos funcionários, promovendo a eficiência operacional e a segurança das informações. |
+| Gerencial            | Do ponto de vista gerencial, este requisito indica que será necessário desenvolver funcionalidades que permitam às empresas acessar e visualizar dados dos funcionários de maneira segura e organizada. A gerência deve assegurar a implementação de controles de acesso adequados para proteger a privacidade dos dados dos funcionários e garantir a conformidade com regulamentos de proteção de dados. |
+| Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de funcionalidades que permitam ao usuário empresa acessar e consultar os dados dos funcionários. Isso inclui a implementação de uma interface de usuário específica para empresas, a integração com bancos de dados que armazenam essas informações e a aplicação de medidas de segurança robustas para proteger os dados contra acessos não autorizados. |
 | Nível de Priorização | - |
 
 <b> Autora: </b> <a href=""> </a>.
@@ -2052,8 +2052,9 @@ A tabela 108 mostra os elos do requisito RNF25.
 | 1.1    |  Adição da introdução e da metodologia | Larissa Stéfane | Bruno Araújo    | 16/06/2024 |
 | 1.2    |  Adição da rastreabilidade da RF07     | Larissa Stéfane | Bruno Araújo    | 16/06/2024 |
 | 1.3    |  Correção dos templates                | Breno Alexandre | Larissa Stéfane | 20/06/2024 |
-| 1.4    |  Reorganização do artefato             | Larissa Stéfane | Pedro Izarias | 20/06/2024 |
-| 1.5    |  Adição dos requisitos RF07 até RF14  | Larissa Stéfane | Pedro Izarias | 22/06/2024 |
-| 1.6    |  Adição dos requisitos RF22 até RF28  | Pedro Izarias | Iago Passaglia | 23/06/2024 |
+| 1.4    |  Reorganização do artefato             | Larissa Stéfane | Pedro Izarias   | 20/06/2024 |
+| 1.5    |  Adição dos requisitos RF07 até RF14   | Larissa Stéfane | Pedro Izarias   | 22/06/2024 |
+| 1.6    |  Adição dos requisitos RF22 até RF28   | Pedro Izarias   | Iago Passaglia  | 23/06/2024 |
 | 1.7    |  Adição dos requisitos RF01 até RF06 e RNF25  | Iago Passaglia | Bruno Araújo | 23/06/2024 |
-| 1.8    |  Adição dos requisitos RNF 09 ao 15  | Bruno Araújo | - | 23/06/2024 |
+| 1.8    |  Adição dos requisitos RNF 09 ao 15    | Bruno Araújo    | -               | 23/06/2024 |
+| 1.9    |  Adição dos requisitos RF 15 ao 21     | Luana Medeiros  | -               | 23/06/2024 |
