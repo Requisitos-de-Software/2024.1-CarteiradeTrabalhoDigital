@@ -3572,6 +3572,73 @@ A tabela 213 mostra os elos do requisito RNF24.
 </details>
 
 
+<details>
+  <summary><b> RNF25 - Iago Passaglia </b></summary>
+
+#### Versões do Requisito
+
+A tabela 214 mostra as versões do requisito RNF25.
+
+<b>Tabela 214:</b> Versão do requisito RNF25.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 215 mostra a estrutura do requisito RNF25.
+
+<b>Tabela 215:</b> Estrutura do requisito RNF25.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+
+#### Artefatos Gerados Pelos Requisitos Não Funcionais
+
+A tabela 216 mostra os artefatos gerados pelo requisito RNF25.
+
+<b>Tabela 216:</b> Artefatos Gerados pelo requisito RNF25.
+
+| Artefato                                 | Identificador | Rastreabilidade |
+| ---------------------------------------- | ------------- | --------------- |
+| Cenário                                  | -             | -               |
+| Léxico                                   | -             | -               |
+| Casos de Uso                             | -             | -               |
+| Expecificação Suplementar                | -             | -               |
+| NFR Framework (Cartões de Especificação) | -             | -               |
+| NFR Framework (SIGs)                     | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+
+#### Os Elos
+
+A tabela 217 mostra os elos do requisito RNF25.
+
+<b>Tabela 217:</b> Elos do requisito RNF25.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+
+</center>
+
+</details>
+
+
 ## Referências Bibliográficas
 
 1. 
