@@ -620,6 +620,409 @@ A tabela 37 mostra os elos do requisito RF08.
 </details>
 
 
+<details>
+  <summary><b> RF09 - Larissa Stéfane </b></summary>
+
+#### Versões do Requisito
+
+A tabela 38 mostra as versões do requisito RF09.
+
+<b>Tabela 38:</b> Versão do requisito RF09.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 39 mostra a estrutura do requisito RF09.
+
+<b>Tabela 39:</b> Estrutura do requisito RF09.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela 40 mostra os artefatos gerados pelo requisito RF09.
+
+<b>Tabela 40:</b> Artefatos Gerados pelo requisito RF09.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+#### Os Elos
+
+A tabela 41 mostra os elos do requisito RF09.
+
+<b>Tabela 41:</b> Elos do requisito RF09.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RF10 - Larissa Stéfane </b></summary>
+
+#### Versões do Requisito
+
+A tabela 42 mostra as versões do requisito RF10.
+
+<b>Tabela 42:</b> Versão do requisito RF10.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 43 mostra a estrutura do requisito RF10.
+
+<b>Tabela 43:</b> Estrutura do requisito RF10.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela 44 mostra os artefatos gerados pelo requisito RF10.
+
+<b>Tabela 44:</b> Artefatos Gerados pelo requisito RF10.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+#### Os Elos
+
+A tabela 45 mostra os elos do requisito RF10.
+
+<b>Tabela 45:</b> Elos do requisito RF10.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RF11 - Larissa Stéfane </b></summary>
+
+#### Versões do Requisito
+
+A tabela 46 mostra as versões do requisito RF11.
+
+<b>Tabela 46:</b> Versão do requisito RF11.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 47 mostra a estrutura do requisito RF11.
+
+<b>Tabela 47:</b> Estrutura do requisito RF11.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela 48 mostra os artefatos gerados pelo requisito RF11.
+
+<b>Tabela 48:</b> Artefatos Gerados pelo requisito RF11.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+#### Os Elos
+
+A tabela 49 mostra os elos do requisito RF11.
+
+<b>Tabela 49:</b> Elos do requisito RF11.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RF12 - Larissa Stéfane </b></summary>
+
+#### Versões do Requisito
+
+A tabela 50 mostra as versões do requisito RF12.
+
+<b>Tabela 50:</b> Versão do requisito RF12.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 51 mostra a estrutura do requisito RF12.
+
+<b>Tabela 51:</b> Estrutura do requisito RF12.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela 52 mostra os artefatos gerados pelo requisito RF12.
+
+<b>Tabela 52:</b> Artefatos Gerados pelo requisito RF12.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+#### Os Elos
+
+A tabela 53 mostra os elos do requisito RF12.
+
+<b>Tabela 53:</b> Elos do requisito RF12.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RF13 - Larissa Stéfane </b></summary>
+
+#### Versões do Requisito
+
+A tabela 54 mostra as versões do requisito RF13.
+
+<b>Tabela 54:</b> Versão do requisito RF13.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 55 mostra a estrutura do requisito RF13.
+
+<b>Tabela 55:</b> Estrutura do requisito RF13.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela 56 mostra os artefatos gerados pelo requisito RF13.
+
+<b>Tabela 56:</b> Artefatos Gerados pelo requisito RF13.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+#### Os Elos
+
+A tabela 57 mostra os elos do requisito RF13.
+
+<b>Tabela 57:</b> Elos do requisito RF13.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RF14 - Larissa Stéfane </b></summary>
+
+#### Versões do Requisito
+
+A tabela 58 mostra as versões do requisito RF14.
+
+<b>Tabela 58:</b> Versão do requisito RF14.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 59 mostra a estrutura do requisito RF14.
+
+<b>Tabela 59:</b> Estrutura do requisito RF14.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+#### Artefatos Gerados Pelos Requisitos Funcionais
+
+A tabela 60 mostra os artefatos gerados pelo requisito RF14.
+
+<b>Tabela 60:</b> Artefatos Gerados pelo requisito RF14.
+
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | -             | -               |
+| Léxico                              | -             | -               |
+| Casos de Uso                        | -             | -               |
+| Expecificação Suplementar           | -             | -               |
+| História de Usuário                 | -             | -               |
+| Backlog                             | -             | -               |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+#### Os Elos
+
+A tabela 61 mostra os elos do requisito RF14.
+
+<b>Tabela 61:</b> Elos do requisito RF14.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
+
+</details>
+
+
+
 ## Rastreabilidade dos Requisitos Não Funcionais
 
 
