@@ -2969,6 +2969,609 @@ A tabela 177 mostra os elos do requisito RNF15.
 </details>
 
 
+<details>
+  <summary><b> RNF16 - Caio Mesquita </b></summary>
+
+#### Versões do Requisito
+
+A tabela 178 mostra as versões do requisito RNF16.
+
+<b>Tabela 178:</b> Versão do requisito RNF16.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 179 mostra a estrutura do requisito RNF16.
+
+<b>Tabela 179:</b> Estrutura do requisito RNF16.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Artefatos Gerados Pelos Requisitos Não Funcionais
+
+A tabela 180 mostra os artefatos gerados pelo requisito RNF16.
+
+<b>Tabela 180:</b> Artefatos Gerados pelo requisito RNF16.
+
+| Artefato                                 | Identificador | Rastreabilidade |
+| ---------------------------------------- | ------------- | --------------- |
+| Cenário                                  | -             | -               |
+| Léxico                                   | -             | -               |
+| Casos de Uso                             | -             | -               |
+| Expecificação Suplementar                | -             | -               |
+| NFR Framework (Cartões de Especificação) | -             | -               |
+| NFR Framework (SIGs)                     | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Os Elos
+
+A tabela 181 mostra os elos do requisito RNF16.
+
+<b>Tabela 181:</b> Elos do requisito RNF16.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RNF17 - Caio Mesquita </b></summary>
+
+#### Versões do Requisito
+
+A tabela 182 mostra as versões do requisito RNF17.
+
+<b>Tabela 182:</b> Versão do requisito RNF17.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 183 mostra a estrutura do requisito RNF17.
+
+<b>Tabela 183:</b> Estrutura do requisito RNF17.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Artefatos Gerados Pelos Requisitos Não Funcionais
+
+A tabela 184 mostra os artefatos gerados pelo requisito RNF17.
+
+<b>Tabela 184:</b> Artefatos Gerados pelo requisito RNF17.
+
+| Artefato                                 | Identificador | Rastreabilidade |
+| ---------------------------------------- | ------------- | --------------- |
+| Cenário                                  | -             | -               |
+| Léxico                                   | -             | -               |
+| Casos de Uso                             | -             | -               |
+| Expecificação Suplementar                | -             | -               |
+| NFR Framework (Cartões de Especificação) | -             | -               |
+| NFR Framework (SIGs)                     | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Os Elos
+
+A tabela 185 mostra os elos do requisito RNF17.
+
+<b>Tabela 185:</b> Elos do requisito RNF17.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RNF18 - Caio Mesquita </b></summary>
+
+#### Versões do Requisito
+
+A tabela 186 mostra as versões do requisito RNF18.
+
+<b>Tabela 186:</b> Versão do requisito RNF18.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 187 mostra a estrutura do requisito RNF18.
+
+<b>Tabela 187:</b> Estrutura do requisito RNF18.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Artefatos Gerados Pelos Requisitos Não Funcionais
+
+A tabela 188 mostra os artefatos gerados pelo requisito RNF18.
+
+<b>Tabela 188:</b> Artefatos Gerados pelo requisito RNF18.
+
+| Artefato                                 | Identificador | Rastreabilidade |
+| ---------------------------------------- | ------------- | --------------- |
+| Cenário                                  | -             | -               |
+| Léxico                                   | -             | -               |
+| Casos de Uso                             | -             | -               |
+| Expecificação Suplementar                | -             | -               |
+| NFR Framework (Cartões de Especificação) | -             | -               |
+| NFR Framework (SIGs)                     | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Os Elos
+
+A tabela 189 mostra os elos do requisito RNF18.
+
+<b>Tabela 189:</b> Elos do requisito RNF18.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RNF19 - Caio Mesquita </b></summary>
+
+#### Versões do Requisito
+
+A tabela 190 mostra as versões do requisito RNF19.
+
+<b>Tabela 190:</b> Versão do requisito RNF19.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 191 mostra a estrutura do requisito RNF19.
+
+<b>Tabela 191:</b> Estrutura do requisito RNF19.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Artefatos Gerados Pelos Requisitos Não Funcionais
+
+A tabela 192 mostra os artefatos gerados pelo requisito RNF19.
+
+<b>Tabela 192:</b> Artefatos Gerados pelo requisito RNF19.
+
+| Artefato                                 | Identificador | Rastreabilidade |
+| ---------------------------------------- | ------------- | --------------- |
+| Cenário                                  | -             | -               |
+| Léxico                                   | -             | -               |
+| Casos de Uso                             | -             | -               |
+| Expecificação Suplementar                | -             | -               |
+| NFR Framework (Cartões de Especificação) | -             | -               |
+| NFR Framework (SIGs)                     | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Os Elos
+
+A tabela 193 mostra os elos do requisito RNF19.
+
+<b>Tabela 193:</b> Elos do requisito RNF19.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RNF20 - Caio Mesquita </b></summary>
+
+#### Versões do Requisito
+
+A tabela 194 mostra as versões do requisito RNF20.
+
+<b>Tabela 194:</b> Versão do requisito RNF20.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 195 mostra a estrutura do requisito RNF20.
+
+<b>Tabela 195:</b> Estrutura do requisito RNF20.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Artefatos Gerados Pelos Requisitos Não Funcionais
+
+A tabela 196 mostra os artefatos gerados pelo requisito RNF20.
+
+<b>Tabela 196:</b> Artefatos Gerados pelo requisito RNF20.
+
+| Artefato                                 | Identificador | Rastreabilidade |
+| ---------------------------------------- | ------------- | --------------- |
+| Cenário                                  | -             | -               |
+| Léxico                                   | -             | -               |
+| Casos de Uso                             | -             | -               |
+| Expecificação Suplementar                | -             | -               |
+| NFR Framework (Cartões de Especificação) | -             | -               |
+| NFR Framework (SIGs)                     | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Os Elos
+
+A tabela 197 mostra os elos do requisito RNF20.
+
+<b>Tabela 197:</b> Elos do requisito RNF20.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RNF21 - Caio Mesquita </b></summary>
+
+#### Versões do Requisito
+
+A tabela 198 mostra as versões do requisito RNF21.
+
+<b>Tabela 198:</b> Versão do requisito RNF21.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 199 mostra a estrutura do requisito RNF21.
+
+<b>Tabela 199:</b> Estrutura do requisito RNF21.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Artefatos Gerados Pelos Requisitos Não Funcionais
+
+A tabela 200 mostra os artefatos gerados pelo requisito RNF21.
+
+<b>Tabela 200:</b> Artefatos Gerados pelo requisito RNF21.
+
+| Artefato                                 | Identificador | Rastreabilidade |
+| ---------------------------------------- | ------------- | --------------- |
+| Cenário                                  | -             | -               |
+| Léxico                                   | -             | -               |
+| Casos de Uso                             | -             | -               |
+| Expecificação Suplementar                | -             | -               |
+| NFR Framework (Cartões de Especificação) | -             | -               |
+| NFR Framework (SIGs)                     | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Os Elos
+
+A tabela 201 mostra os elos do requisito RNF21.
+
+<b>Tabela 201:</b> Elos do requisito RNF21.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RNF22 - Caio Mesquita </b></summary>
+
+#### Versões do Requisito
+
+A tabela 202 mostra as versões do requisito RNF22.
+
+<b>Tabela 202:</b> Versão do requisito RNF22.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 203 mostra a estrutura do requisito RNF22.
+
+<b>Tabela 203:</b> Estrutura do requisito RNF22.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Artefatos Gerados Pelos Requisitos Não Funcionais
+
+A tabela 204 mostra os artefatos gerados pelo requisito RNF22.
+
+<b>Tabela 204:</b> Artefatos Gerados pelo requisito RNF22.
+
+| Artefato                                 | Identificador | Rastreabilidade |
+| ---------------------------------------- | ------------- | --------------- |
+| Cenário                                  | -             | -               |
+| Léxico                                   | -             | -               |
+| Casos de Uso                             | -             | -               |
+| Expecificação Suplementar                | -             | -               |
+| NFR Framework (Cartões de Especificação) | -             | -               |
+| NFR Framework (SIGs)                     | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Os Elos
+
+A tabela 205 mostra os elos do requisito RNF22.
+
+<b>Tabela 205:</b> Elos do requisito RNF22.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RNF23 - Caio Mesquita </b></summary>
+
+#### Versões do Requisito
+
+A tabela 206 mostra as versões do requisito RNF23.
+
+<b>Tabela 206:</b> Versão do requisito RNF23.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 207 mostra a estrutura do requisito RNF23.
+
+<b>Tabela 207:</b> Estrutura do requisito RNF23.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Artefatos Gerados Pelos Requisitos Não Funcionais
+
+A tabela 208 mostra os artefatos gerados pelo requisito RNF23.
+
+<b>Tabela 208:</b> Artefatos Gerados pelo requisito RNF23.
+
+| Artefato                                 | Identificador | Rastreabilidade |
+| ---------------------------------------- | ------------- | --------------- |
+| Cenário                                  | -             | -               |
+| Léxico                                   | -             | -               |
+| Casos de Uso                             | -             | -               |
+| Expecificação Suplementar                | -             | -               |
+| NFR Framework (Cartões de Especificação) | -             | -               |
+| NFR Framework (SIGs)                     | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Os Elos
+
+A tabela 209 mostra os elos do requisito RNF23.
+
+<b>Tabela 209:</b> Elos do requisito RNF23.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary><b> RNF24 - Caio Mesquita </b></summary>
+
+#### Versões do Requisito
+
+A tabela 210 mostra as versões do requisito RNF24.
+
+<b>Tabela 210:</b> Versão do requisito RNF24.
+
+| Versão                              | Rastreabilidade |
+| ----------------------------------- | --------------- |
+| Versão 1                            | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Estrutura de Desenvolvimento do Requisito
+
+A tabela 211 mostra a estrutura do requisito RNF24.
+
+<b>Tabela 211:</b> Estrutura do requisito RNF24.
+
+| Características                     | Explicação | Rastreabilidade |
+| ----------------------------------- | ---------- | --------------- |
+| Nome do Requisito                   | -          | -               |
+| Alocação no App                     | -          | -               |
+| Resolução de requisitos em conflito | -          | -               |
+| Verificação                         | -          | -               |
+| Correção de Defeitos                | -          | -               |
+| Análise de impacto na evolução      | -          | -               |
+| Correção de Defeitos                | -          | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Artefatos Gerados Pelos Requisitos Não Funcionais
+
+A tabela 212 mostra os artefatos gerados pelo requisito RNF24.
+
+<b>Tabela 212:</b> Artefatos Gerados pelo requisito RNF24.
+
+| Artefato                                 | Identificador | Rastreabilidade |
+| ---------------------------------------- | ------------- | --------------- |
+| Cenário                                  | -             | -               |
+| Léxico                                   | -             | -               |
+| Casos de Uso                             | -             | -               |
+| Expecificação Suplementar                | -             | -               |
+| NFR Framework (Cartões de Especificação) | -             | -               |
+| NFR Framework (SIGs)                     | -             | -               |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+#### Os Elos
+
+A tabela 213 mostra os elos do requisito RNF24.
+
+<b>Tabela 213:</b> Elos do requisito RNF24.
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
+| ----------- | --------- | --------------------- | ---------------- |
+| - | - | - | - |
+
+<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
+
+</center>
+
+</details>
+
+
 ## Referências Bibliográficas
 
 1. 
