@@ -343,7 +343,7 @@ A tabela 7 mostra os elos do requisito RF06.
 | Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de fornecer um serviço digital acessível que auxilia na coordenação e no manejo de informações por parte do usuário. Isso porque esse requisito apoia a estratégia de digitalizar os processos e melhorar a usabilidade dos serviços oferecidos. Portanto, a capacidade de gerar PDFs com dados da Carteira de Trabalho facilita a vida dos usuários trabalhadores ao permitir que eles verifiquem e compartilhem seus dados. |
 | Gerencial            | Do ponto de vista gerencial, este requisito indica que será necessário criar um molde com a localização de cada dado quando eles forem recuperados nos bancos de dados quando o PDF for gerado. Assim, ele indica que a gerência deve focar tanto na integração do sistema com os bancos de dados e em como os usuários visualizarão esses dados. |
 | Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de funcionalidades específicas que permitam a exportação dos dados da Carteira de Trabalho Digital em formato PDF. Isso inclui a implementação de um botão ou ícone na interface do usuário para gerar o PDF, bem como a lógica de backend para compilar e para formatar os dados corretamente, como foi citado em **geracional**. Os desenvolvedores também precisam garantir que o PDF gerado possa ser baixado e enviado por e-mail ou impresso. |
-| Nível de Priorização | - |
+| Nível de Priorização | [Médio segundo o backlog com o stakeholder](modelagemAgil/backlog.md) |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -381,7 +381,7 @@ A tabela 8 mostra os elos do requisito RF07.
 | Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de fornecer um serviço digital que auxilia na coordenação e no manejo de informações por parte do usuário. <br> Isso porque a capacidade de visualizar gráficos de remunerações facilita o acesso dos usuários ao permitir que eles analisem suas informações de maneira visual. |
 | Gerencial            | Este requisito indica que será necessário desenvolver uma interface que permita a visualização de gráficos de remunerações. Isso implica na necessidade de integração do sistema com bancos de dados que armazenam informações salariais e na criação de ferramentas analíticas que gerem os gráficos automaticamente. |
 | Desenvolvimento      | Durante o desenvolvimento, esse requisito etimula a criação de funcionalidades e o uso de recursos que permitam a exibição de gráficos.  Sendo assim, isso inclui a implementação de componentes de front-end para renderização dos gráficos e a lógica de back-end para recuperar e processar os dados corretamente. |
-| Nível de Priorização | - |
+| Nível de Priorização | [Baixo segundo o backlog com o stakeholder](modelagemAgil/backlog.md) |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -418,7 +418,7 @@ A tabela 9 mostra os elos do requisito RF08.
 | Organizacional | A inclusão deste requisito está alinhada com o objetido do CTD em fornecer um aplicativo que facilite a organização pessoal dos usuários.  |
 | Gerencial | Do ponto de vista gerencial, este requisito exige a garantia de que as anotações sejam integradas com outras funcionalidades do sistema e com o banco de dados, se necessário. |
 | Desenvolvimento      | A implementação deste requisito requer a criação de uma interface de para a inserção, a edição e a exclusão de anotações, além do armazenamento seguro dos dados.|
-| Nível de Priorização | - |
+| Nível de Priorização | [Baixo segundo o backlog com o stakeholder](modelagemAgil/backlog.md) |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -454,7 +454,7 @@ A tabela 10 mostra os elos do requisito RF09.
 | Organizacional       | Este requisito contribui para a missão do aplicativo da Carteira de Trabalho Digital em facilitar o acesso e a gestão de informações trabalhistas ao promover a transparência e a proteção dos direitos dos trabalhadores. |
 | Gerencial            | Do ponto de vista gerencial, a implementação deste requisito envolve a integração do sistema de denúncias trabalhistas, e um programa de back-end para a verificação dos dados inseridos pelos usuários nas denúncias. Além disso, tembém é necesário garantir o anonimato e a segurança no envio das denúncias. |
 | Desenvolvimento | Durante o desenvolvimento, é necessário implementar uma interface para o acesso ao Canal de Denúncias Trabalhistas, assim, a interface deve permitir ao usuário iniciar, salvar como rascunho, revisar e finalizar o processo de denúncia. Além disso, deve ser desenvolvido uma lógica de verificação de dados, isso inclui validação da data e a verificação de integridade de documentos e mídias anexadas (como fotos ou áudios). Também deve-se utilizar protocolos de segurança para proteger a identidade do usuário denunciante. |
-| Nível de Priorização | - |
+| Nível de Priorização | [Médio segundo o backlog com o stakeholder](modelagemAgil/backlog.md) |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -491,7 +491,7 @@ A tabela 11 mostra os elos do requisito RF10.
 | Organizacional       | Este requisito contribui para a missão do aplicativo em fornecer uma plataforma centralizada para gestão de informações trabalhistas e previdenciárias ao aumentar a transparência e a acessibilidade para os usuários. |
 | Gerencial            | Do ponto de vista gerencial, a implementação deste requisito envolve a integração com sistemas de gestão do FGTS e do INSS. Além disso, requer a conformidade com normativas legais e regulatórias relacionadas à proteção de dados e a privacidade dos usuários, uma vez que esses dados não podem ser expostos para qualquer pessoa. |
 | Desenvolvimento      | Durante o desenvolvimento, é necessário implementar, na interface, o acesso às informações do FGTS e INSS de forma organizada, o que envolve a integração com APIs dos sistemas responsáveis pelos dados. Também é necessário mecanismos de segurança para proteção das informações pessoais dos usuários. <br> Um observação importânte é que a interface deve ser projetada de acordo com os padrões estabelecidos pelo gov.br. |
-| Nível de Priorização | - |
+| Nível de Priorização | [Alto segundo o backlog com o stakeholder](modelagemAgil/backlog.md) |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -530,7 +530,7 @@ A tabela 24 mostra os elos do requisito RF11.
 | Organizacional       | A implementação desse requisito alinha-se com a estratégia organizacional de promover transparência e autonomia aos usuários trabalhadores, fornecendo ferramentas digitais que facilitam o acesso às informações essenciais. |
 | Gerencial            | Do ponto de vista gerencial, este requisito implica na integração de fontes de dados que fornecem informações precisas sobre cada benefício listado. Além disso, é necessário garantir a segurança e a privacidade das informações consultadas pelos usuários. |
 | Desenvolvimento      | Durante o desenvolvimento, será necessário criar uma componentes de interface que permitam aos usuários consultar facilmente cada benefício listado. Além disso, também é necessária a implementação de consultas de dados em tempo real e a apresentação das informações obtidas. |
-| Nível de Priorização | - |
+| Nível de Priorização | [Alto segundo o backlog com o stakeholder](modelagemAgil/backlog.md) |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -567,7 +567,7 @@ A tabela 26 mostra os elos do requisito RF12.
 | Organizacional | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de digitalizar e otimizar os processos de gestão, que inclui a gestão de benefícios. Sendo assim, o foco está em melhorar a acessibilidade e a transparência no acesso aos pedidos por benefícios. |
 | Gerencial | Do ponto de vista gerencial, este requisito indica que será necessário estabelecer métricas para o monitoramento contínuo do processo de solicitação de benefícios para assegurar conformidade com as políticas organizacionais e regulatórias e facilitar a solicitação por um benefício.|
 | Desenvolvimento | Durante o desenvolvimento, esse requisito implica na criação de componentes de interfaces para a solicitação de benefícios, na implementação de lógica de negócio para validar os documentos que possam ser enviados, e na integração com sistemas ou bancos de dados externos. |
-| Nível de Priorização | - |
+| Nível de Priorização | [Alto segundo o backlog com o stakeholder](modelagemAgil/backlog.md) |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -606,7 +606,7 @@ A tabela 28 mostra os elos do requisito RF13.
 | Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de proporcionar uma plataforma centralizada na gestão de informações profissionais. |
 | Gerencial            | Do ponto de vista gerencial, este requisito indica que será necessário definir processos para a atualização e para a verificação das informações inseridas pelos usuários, garantindo que os dados confiáveis. Além disso, há a necessidade de monitoramento dos currículos. |
 | Desenvolvimento      | Durante o desenvolvimento, esse requisito implica na criação de formulários de entrada de dados, integração com bancos de dados para armazenamento e verificação das informações do currículo, e a implementação de mecanismos de validação para garantir a integridade dos dados. Além disso, deve-se permitir a edição e  a exclusão de informações caso o usuário deseje.|
-| Nível de Priorização | - |
+| Nível de Priorização | [Baixo segundo o backlog com o stakeholder](modelagemAgil/backlog.md) |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
