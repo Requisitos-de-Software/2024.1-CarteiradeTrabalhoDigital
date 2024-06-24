@@ -1442,7 +1442,7 @@ A tabela 74 mostra os elos do requisito RNF08.
 
 <details>
   <summary><b> RNF09 - 	Bruno Araújo </b></summary> 
-
+  
 **Tabela 75: Estrutura do Requisito**
 
 | Características      | Explicação                                                                                               |
@@ -1460,10 +1460,11 @@ A tabela 74 mostra os elos do requisito RNF08.
 
 ### Tabela 76: Elo do Requisito
 
-| Tipo de Elo | Categoria       | Elementos Rastreáveis      | Descrição do ELO                                | Requisitos Relacionados |
-| ----------- | --------------- | -------------------------- | ----------------------------------------------- | ----------------------- |
-| Satisfação  | Requisito       | Documentação do sistema    | Garante que o sistema esteja em conformidade.  | RNF09, RNF12            |
-| Dependência | Requisito       | Processos e funcionalidades| Dependência da documentação da LGPD.            | RNF09, RNF12            |
+**Tabela 76: Elo do Requisito**
+
+| Tipo de Elo | Categoria       | Elementos Rastreáveis                                | Descrição do ELO | Requisitos Relacionados |
+| ----------- | --------------- | ---------------------------------------------------- | ---------------- | ----------------------- |
+| Recurso     | Desenvolvimento | <li>Política de Conformidade <br><li> Auditoria de Conformidade | O sistema deve seguir políticas e realizar auditorias para assegurar a conformidade com a LGPD. | RNF09, RNF12 |
 
 **Autor:** [Bruno Araújo](https://github.com/brunocva)
 
@@ -1473,7 +1474,7 @@ A tabela 74 mostra os elos do requisito RNF08.
 
 <details>
   <summary><b> RNF10 - 	Bruno Araújo </b></summary> 
-
+  
 **Tabela 77: Estrutura do Requisito**
 
 | Características      | Explicação                                                                                                         |
@@ -1491,15 +1492,14 @@ A tabela 74 mostra os elos do requisito RNF08.
 
 ### Tabela 78: Elo do Requisito
 
-| Tipo de Elo | Categoria       | Elementos Rastreáveis       | Descrição do ELO                                      | Requisitos Relacionados |
-| ----------- | --------------- | --------------------------- | ----------------------------------------------------- | ----------------------- |
-| Satisfação  | Requisito       | Ferramentas de Acessibilidade| Garantir a compatibilidade com ferramentas de acessibilidade. | RNF10, RNF14            |
-| Dependência | Requisito       | Processos de Acessibilidade | Dependência da documentação das ferramentas de acessibilidade. | RNF10, RNF14            |
+**Tabela 78: Elo do Requisito**
+
+| Tipo de Elo | Categoria       | Elementos Rastreáveis                                      | Descrição do ELO | Requisitos Relacionados |
+| ----------- | --------------- | --------------------------------------------------------- | ---------------- | ----------------------- |
+| Recurso     | Desenvolvimento | <li> Ferramentas de Acessibilidade <br><li> Relatório de Testes de Acessibilidade | O sistema deve ser compatível com várias ferramentas de acessibilidade e deve ser testado adequadamente. | RNF10, RNF14 |
 
 **Autor:** [Bruno Araújo](https://github.com/brunocva)
 
-
-**Autor:** [Bruno Araújo](https://github.com/brunocva)
 
 </center>
 
@@ -1507,7 +1507,7 @@ A tabela 74 mostra os elos do requisito RNF08.
 
 <details>
   <summary><b> RNF11 - 	Bruno Araújo </b></summary> 
-
+  
 **Tabela 79: Estrutura do Requisito**
 
 | Características      | Explicação                                                                                                     |
@@ -1525,14 +1525,13 @@ A tabela 74 mostra os elos do requisito RNF08.
 
 ### Tabela 80: Elo do Requisito
 
-| Tipo de Elo | Categoria       | Elementos Rastreáveis       | Descrição do ELO                                       | Requisitos Relacionados |
-| ----------- | --------------- | --------------------------- | ------------------------------------------------------ | ----------------------- |
-| Satisfação  | Requisito       | Interfaces Governamentais   | Garantir a integração com sistemas governamentais.     | RNF11, RNF12            |
-| Dependência | Requisito       | Documentação Governamental  | Dependência da documentação de requisitos governamentais. | RNF11, RNF12            |
+**Tabela 80: Elo do Requisito**
+
+| Tipo de Elo | Categoria       | Elementos Rastreáveis                            | Descrição do ELO | Requisitos Relacionados |
+| ----------- | --------------- | ------------------------------------------------ | ---------------- | ----------------------- |
+| Recurso     | Desenvolvimento | <li> Interfaces Governamentais <br><li> Documentação de Integração | O sistema deve integrar-se com os processos e sistemas governamentais, conforme especificações. | RNF11, RNF12 |
 
 **Autor:** [Bruno Araújo](https://github.com/brunocva)
-
-
 
 </center>
 
@@ -1554,16 +1553,18 @@ A tabela 74 mostra os elos do requisito RNF08.
 | Desenvolvimento      | Implementação de vocabulários controlados e taxonomias nas funcionalidades do sistema.              |
 | Nível de Priorização | Médio                                                                                              |
 
-**Autora:** [Bruno Araújo](https://github.com/brunocva)
+**Autor:** [Bruno Araújo](https://github.com/brunocva)
 
 ### Tabela 82: Elo do Requisito
 
-| Tipo de Elo | Categoria       | Elementos Rastreáveis       | Descrição do ELO                                   | Requisitos Relacionados |
-| ----------- | --------------- | --------------------------- | -------------------------------------------------- | ----------------------- |
-| Satisfação  | Requisito       | Vocabulários Controlados    | Garantir o uso de vocabulários e taxonomias padrão.| RNF12, RNF14            |
-| Dependência | Requisito       | Documentação de Padrões     | Dependência da documentação de padrões governamentais. | RNF
+**Tabela 82: Elo do Requisito**
 
-**Autora:** [Bruno Araújo](https://github.com/brunocva)
+| Tipo de Elo | Categoria       | Elementos Rastreáveis                                      | Descrição do ELO | Requisitos Relacionados |
+| ----------- | --------------- | --------------------------------------------------------- | ---------------- | ----------------------- |
+| Recurso     | Desenvolvimento | <li> Vocabulários Controlados <br><li> Documentação de Padrões | O sistema deve utilizar vocabulários controlados e taxonomias padrão para garantir consistência. | RNF12, RNF14 |
+
+**Autor:** [Bruno Araújo](https://github.com/brunocva)
+
 
 </center>
 
@@ -1589,13 +1590,13 @@ A tabela 74 mostra os elos do requisito RNF08.
 
 ### Tabela 84: Elo do Requisito
 
-| Tipo de Elo | Categoria       | Elementos Rastreáveis  | Descrição do ELO                                              | Requisitos Relacionados |
-| ----------- | --------------- | ---------------------- | ------------------------------------------------------------- | ----------------------- |
-| Satisfação  | Requisito       | Logs de Processamento  | Garante o processamento de solicitações dentro do tempo esperado. | RNF13, RNF14            |
-| Dependência | Requisito       | Documentação de Algoritmos | Dependência da documentação dos algoritmos de processamento. | RNF13, RNF14            |
+**Tabela 84: Elo do Requisito**
+
+| Tipo de Elo | Categoria       | Elementos Rastreáveis                            | Descrição do ELO | Requisitos Relacionados |
+| ----------- | --------------- | ------------------------------------------------ | ---------------- | ----------------------- |
+| Recurso     | Desenvolvimento | <li> Logs de Processamento <br><li> Documentação de Algoritmos | Garante o processamento de solicitações dentro do tempo esperado através de algoritmos eficientes e logs. | RNF13, RNF14 |
 
 **Autor:** [Bruno Araújo](https://github.com/brunocva)
-
 
 </center>
 
@@ -1621,13 +1622,13 @@ A tabela 74 mostra os elos do requisito RNF08.
 
 ### Tabela 86: Elo do Requisito
 
-| Tipo de Elo | Categoria       | Elementos Rastreáveis       | Descrição do ELO                                                   | Requisitos Relacionados |
-| ----------- | --------------- | --------------------------- | ------------------------------------------------------------------ | ----------------------- |
-| Satisfação  | Requisito       | Avaliações de Usabilidade   | Garante a conformidade com padrões de design aceitos.              | RNF14, RNF15            |
-| Dependência | Requisito       | Documentação de Design      | Dependência da documentação dos padrões de design estabelecidos.   | RNF14, RNF15            |
+**Tabela 86: Elo do Requisito**
+
+| Tipo de Elo | Categoria       | Elementos Rastreáveis                                      | Descrição do ELO | Requisitos Relacionados |
+| ----------- | --------------- | --------------------------------------------------------- | ---------------- | ----------------------- |
+| Recurso     | Desenvolvimento | <li> Padrões de Design <br><li> Avaliações de Usabilidade | O aplicativo deve seguir padrões de design aceitos por empresas e instituições, com uma taxa de conformidade de 95% nas avaliações de usabilidade. | RNF14, RNF15 |
 
 **Autor:** [Bruno Araújo](https://github.com/brunocva)
-
 
 </center>
 
@@ -1653,13 +1654,13 @@ A tabela 74 mostra os elos do requisito RNF08.
 
 ### Tabela 88: Elo do Requisito
 
-| Tipo de Elo | Categoria       | Elementos Rastreáveis       | Descrição do ELO                                        | Requisitos Relacionados |
-| ----------- | --------------- | --------------------------- | ------------------------------------------------------- | ----------------------- |
-| Satisfação  | Requisito       | Logs de Backup              | Garante a realização e integridade dos backups diários. | RNF15, RNF12            |
-| Dependência | Requisito       | Documentação de Backup      | Dependência da documentação das rotinas de backup.      | RNF15, RNF12            |
+**Tabela 88: Elo do Requisito**
+
+| Tipo de Elo | Categoria       | Elementos Rastreáveis                            | Descrição do ELO | Requisitos Relacionados |
+| ----------- | --------------- | ------------------------------------------------ | ---------------- | ----------------------- |
+| Recurso     | Desenvolvimento | <li> Logs de Backup <br><li> Documentação de Backup | Garante a realização e integridade dos backups diários através de logs e documentação detalhada. | RNF15, RNF12 |
 
 **Autor:** [Bruno Araújo](https://github.com/brunocva)
-
 
 </center>
 
