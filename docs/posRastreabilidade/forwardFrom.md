@@ -631,7 +631,7 @@ A tabela 38 mostra as versões do requisito RF09.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RF09](Elicitacao/ResquisitosCorrigidos.md)               |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -641,15 +641,14 @@ A tabela 39 mostra a estrutura do requisito RF09.
 
 <b>Tabela 39:</b> Estrutura do requisito RF09.
 
-| Características                     | Explicação | Rastreabilidade |
-| ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Características                     | Explicação                                                                                  | Rastreabilidade                                      |
+| ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Nome do Requisito                   | Usuário pode realizar anotações                                                             | [RF09](Elicitacao/ResquisitosCorrigidos.md)         |
+| Alocação no App                     | Na área de perfil do usuário e dentro de cada contrato ou trabalho específico               | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md) |
+| Resolução de requisitos em conflito | Este requisito não conflita com outros requisitos, mas depende da funcionalidade de armazenamento de dados. | -                                                   |
+| Verificação                         | Verificar se a funcionalidade permite criar, editar e salvar anotações.          | Será realizada pelo grupo em breve                   |
+| Correção de Defeitos                | Através de relatórios de feedbacks dos usuários.                                       | Não foi necessário corrigir falhas para esse requisito no decorrer do dosenvolvimento devido a sua simplicidade. |
+| Análise de impacto na evolução      | Baixo impacto: Afeta principalmente a interface de usuário e a funcionalidade de armazenamento de dados. | -                                                   |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -661,12 +660,12 @@ A tabela 40 mostra os artefatos gerados pelo requisito RF09.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
-| Casos de Uso                        | -             | -               |
-| Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
-| Backlog                             | -             | -               |
+| Cenário                             |  Não foi possível identificar um cenário para este requisito.    |  -       |
+| Léxico                              |  **Verbo:** <br> <li> [Realizar Anotações no Contrato de Trabalho](modelagem/lexico.md)   <br> <br> **Objeto:**  <br> <li> [Informação do Contrato](modelagem/lexico.md)  | [Léxicos](modelagem/lexico.md)               |
+| Casos de Uso                        | <li> [UC03 - Trabalhador acessa detalhes dos contratos de trabalho](modelagem/casoDeUso.md)     | [Casos de Uso](modelagem/casoDeUso.md)              |
+| Expecificação Suplementar           | **Para a confiabilidade** <br> <li>             CON02 - O sistema deve possuir as informações atualizadas e condizentes com a realidade.         | [Especificação Suplementar](modelagem/especSuplementar.md)   |
+| História de Usuário                 | [HI09 -  Realizar anotações em contratos](modelagemAgil/historiaUsuario.md)            | -               |
+| Backlog                             | <li> [ Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md)   <br> <li>  [Épico:  EP03 – Contratos](modelagemAgil/backlog.md) <br> <li> [História: HI09 - Como usuário, eu quero realizar anotações sobre os contratos para adicionar informações relevantes.] (modelagemAgil/backlog.md)      |  [Backlog](modelagemAgil/backlog.md)             |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -676,15 +675,17 @@ A tabela 41 mostra os elos do requisito RF09.
 
 <b>Tabela 41:</b> Elos do requisito RF09.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria         | Elementos Rastreáveis                                    | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | -----------------  | ----------------------------------------------------- | -------------| ---- |
+| Recurso | Desenvolvimento | <li> Módulo de Anotações <br> <li> Banco de Dados para Armazenamento de Anotações <br> <li> Interface de Usuário para Inserção, Edição e Exclusão de Anotações.| O banco de dados para armazenar as anotações realizadas pelos usuários e a interface de usuário para permitir a inserção, edição e exclusão dessas anotações **são recursos** o módulo de anotações| **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF03: Usuário pode consultar suas informações pessoais <br> <li> RF04: Usuário pode atualizar suas informações pessoais <br> <li> RF14: Usuário trabalhador pode atualizar(declarar) currículo <br> <br>  Requisitos não funcionais: <br> <li> RNF14: O aplicativo deve seguir padrões de design aceitos por empresas e instituições, com uma taxa de conformidade de 95% nas avaliações de usabilidade. <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real.|
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
 </details>
+
+
 
 
 <details>
