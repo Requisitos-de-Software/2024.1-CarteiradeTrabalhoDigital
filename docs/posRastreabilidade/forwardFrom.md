@@ -1065,7 +1065,7 @@ A tabela 64 mostra os artefatos gerados pelo requisito RF15.
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
 | Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
+| Léxico                              |**Verbo:** <br> <li> Atualizar dados pessoais  <br> <br> **Objeto:**  <br> <li>Perfil do Trabalhador <br><li> Notificação <br><br> **Estado:**  <br> <li> Em Processo de Validação <li> Conexão Estável <br> | [Léxicos](modelagem/lexico.md) |
 | Casos de Uso                        | -             | -               |
 | Expecificação Suplementar           | -             | -               |
 | História de Usuário                 | -             | -               |
@@ -1131,7 +1131,7 @@ A tabela 68 mostra os artefatos gerados pelo requisito RF16.
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
 | Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
+| Léxico                              | **Verbo:** <br> <li> Consultar Vínculos Empregatícios  <br> <br> **Objeto:**  <br> <li> Vínculo Empregatício <br><br> **Estado:**  <br> <li> Em Processo de Validação <li> Conexão Estável <br> | [Léxicos](modelagem/lexico.md)|
 | Casos de Uso                        | -             | -               |
 | Expecificação Suplementar           | -             | -               |
 | História de Usuário                 | -             | -               |
@@ -1197,7 +1197,7 @@ A tabela 72 mostra os artefatos gerados pelo requisito RF17.
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
 | Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
+| Léxico                              | **Verbo:** <br> <li> Atualizar dados pessoais  <br> <br> **Objeto:**  <br> <li> Perfil do Trabalhador <br><br> **Estado:**  <br> <li> Em Processo de Validação <li> Conexão Estável <br> | [Léxicos](modelagem/lexico.md) |
 | Casos de Uso                        | -             | -               |
 | Expecificação Suplementar           | -             | -               |
 | História de Usuário                 | -             | -               |
@@ -1263,7 +1263,7 @@ A tabela 76 mostra os artefatos gerados pelo requisito RF18.
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
 | Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
+| Léxico                              |**Verbo:** <br> <li> Consultar Vínculos Empregatícios  <br> <br> **Objeto:**  <br> <li> Carteira <br><br> **Estado:**  <br> <li> Contrato Ativo <li> Conexão Estável <br> | [Léxicos](modelagem/lexico.md) |
 | Casos de Uso                        | -             | -               |
 | Expecificação Suplementar           | -             | -               |
 | História de Usuário                 | -             | -               |
@@ -1329,7 +1329,7 @@ A tabela 80 mostra os artefatos gerados pelo requisito RF19.
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
 | Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
+| Léxico                              | **Verbo:** <br> <li> Solicitar Benefício <br> <li> Consultar Vínculos Empregatícios <br> <br> **Objeto:**  <br> <li> Notificação <br><br> **Estado:**  <br> <li> Conexão Estável <li> Em Processo de Validação <br> | [Léxicos](modelagem/lexico.md) |
 | Casos de Uso                        | -             | -               |
 | Expecificação Suplementar           | -             | -               |
 | História de Usuário                 | -             | -               |
@@ -1395,7 +1395,7 @@ A tabela 84 mostra os artefatos gerados pelo requisito RF20.
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
 | Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
+| Léxico                              | **Verbo:** <br> <li> Consultar Vínculos Empregatícios <br> <br> **Objeto:**  <br> <li> Perfil do Trabalhador <br><br> **Estado:**  <br> <li> Conexão Estável <br> | [Léxicos](modelagem/lexico.md) |
 | Casos de Uso                        | -             | -               |
 | Expecificação Suplementar           | -             | -               |
 | História de Usuário                 | -             | -               |
@@ -1461,7 +1461,7 @@ A tabela 88 mostra os artefatos gerados pelo requisito RF21.
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
 | Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
+| Léxico                              | **Verbo:** <br> <li> Consultar Vínculos Empregatícios <br> <li> Atualizar dados pessoais <br> <br> **Objeto:**  <br> <li> Contrato de Trabalho <br> <li>Informação do Contrato <br> <br> **Estado:**  <br> <li> Contrato Ativo <br> <li>Em Processo de Validação<br> <li>Conexão Estável<br> | [Léxicos](modelagem/lexico.md) |
 | Casos de Uso                        | -             | -               |
 | Expecificação Suplementar           | -             | -               |
 | História de Usuário                 | -             | -               |
