@@ -799,7 +799,7 @@ A tabela 48 mostra os artefatos gerados pelo requisito RF11.
 | Casos de Uso                        | <li> [UC10 -  Verificar dados relacionados ao FGTS e INSS](modelagem/casoDeUso.md)     | [Casos de Uso](modelagem/casoDeUso.md)              |
 | Expecificação Suplementar           |  **Para a implementação:**  <br> <li> RI01 - Integração com eSocial <br> <li>  RI03 - Permitir integração com vários outros software     <br> <br> **Para a confiabilidade** <br> <li>             CON02 - O sistema deve possuir as informações atualizadas e condizentes com a realidade.  <br> <li>  CON03 - O sistema deve manter íntegra as informações sobre o usuário e seus contratos de trabalho.        | [Especificação Suplementar](modelagem/especSuplementar.md)   |
 | História de Usuário                 | [HI13 -  Consultar dados a respeito de INSS e FGTS](modelagemAgil/historiaUsuario.md)            |  [História de Usuário](modelagemAgil/historiaUsuario.md)               |
-| Backlog                             | <li> [ Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md)   <br> <li>  [Épico:  EP04 - Benefícios](modelagemAgil/backlog.md) <br> <li> [História: HI13 - Como usuário, eu quero consultar dados a respeito de INSS e FGTS para acompanhar minhas contribuições.] (modelagemAgil/backlog.md)      |  [Backlog](modelagemAgil/backlog.md)             |
+| Backlog                             | <li> [ Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md)   <br> <li>  [Épico:  EP04 - Benefícios](modelagemAgil/backlog.md) <br> <li> [História: HI13 - Como usuário, eu quero consultar dados a respeito de INSS e FGTS para acompanhar minhas contribuições.](modelagemAgil/backlog.md)      |  [Backlog](modelagemAgil/backlog.md)             |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -867,7 +867,7 @@ A tabela 52 mostra os artefatos gerados pelo requisito RF12.
 | Casos de Uso                        | <li> [UC08 -  Consultar seguro desemprego](modelagem/casoDeUso.md)     | [Casos de Uso](modelagem/casoDeUso.md)              |
 | Expecificação Suplementar           |  **Para a implementação:**  <br> <li> RI01 - Integração com eSocial <br> <li>  RI03 - Permitir integração com vários outros software     <br> <br> **Para a confiabilidade** <br> <li>             CON02 - O sistema deve possuir as informações atualizadas e condizentes com a realidade.  <br> <li>  CON03 - O sistema deve manter íntegra as informações sobre o usuário e seus contratos de trabalho.        | [Especificação Suplementar](modelagem/especSuplementar.md)   |
 | História de Usuário                 | [HI14 -  manual a respeito dos benefícios que tenho direito](modelagemAgil/historiaUsuario.md)            | [História de Usuário](modelagemAgil/historiaUsuario.md)               |
-| Backlog                             | <li> [ Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md)   <br> <li>  [Épico:  EP04 - Benefícios](modelagemAgil/backlog.md) <br> <li> [História: HI14 - Como usuário, eu quero possuir um manual a respeito dos benefícios que tenho direito para entender melhor cada um deles.] (modelagemAgil/backlog.md)      |  [Backlog](modelagemAgil/backlog.md)             |
+| Backlog                             | <li> [ Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md)   <br> <li>  [Épico:  EP04 - Benefícios](modelagemAgil/backlog.md) <br> <li> [História: HI14 - Como usuário, eu quero possuir um manual a respeito dos benefícios que tenho direito para entender melhor cada um deles.](modelagemAgil/backlog.md)      |  [Backlog](modelagemAgil/backlog.md)             |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -3645,7 +3645,8 @@ A tabela 217 mostra os elos do requisito RNF25.
 
 ## Histórico de Versão
 
-| Versão | Alteração                   | Responsável     | Revisor         | Data       |
-| ------ | --------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do artefato         | Breno Alexandre | Larissa Stéfane | 20/06/2024 |
-| 1.1    | Desenvolvimento do artefato | Breno Alexandre | -               | 23/06/2024 |
+| Versão | Alteração                               | Responsável     | Revisor         | Data       |
+| ------ | --------------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação do artefato                     | Breno Alexandre | Larissa Stéfane | 20/06/2024 |
+| 1.1    | Desenvolvimento do artefato             | Breno Alexandre | Larissa Stéfane | 23/06/2024 |
+| 1.2    | Preenchimento de dados do RF07 até RF14 | Larissa Stéfane |      -          | 24/06/2024 |
