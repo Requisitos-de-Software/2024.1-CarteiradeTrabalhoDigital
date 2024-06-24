@@ -833,7 +833,7 @@ A tabela 50 mostra as versões do requisito RF12.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RF12](Elicitacao/ResquisitosCorrigidos.md)                |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -843,15 +843,14 @@ A tabela 51 mostra a estrutura do requisito RF12.
 
 <b>Tabela 51:</b> Estrutura do requisito RF12.
 
-| Características                     | Explicação | Rastreabilidade |
-| ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Características                     | Explicação                                                                                  | Rastreabilidade                                      |
+| ----------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Nome do Requisito                   | Usuário trabalhador pode consultar benefícios (13º salário, férias remuneradas, adicional noturno, vale-transporte, vale-refeição, plano de saúde, abono salarial, benefício TAC-Taxista, Seguro Desemprego) | [RF12](Elicitacao/ResquisitosCorrigidos.md)         |
+| Alocação no App                     | Na área de informações sobre benefícios do trabalhador                                       | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md) |
+| Resolução de requisitos em conflito | Este requisito pode entrar em conflito, em relação às informações, sobre os benefícios, por exemplo, solicitar benefícios.  | -                                                   |
+| Verificação                         | Verificar se a funcionalidade exibe corretamente todas as informações  sobre os benefícios que um usuário empregado tem.| -                  |
+| Correção de Defeitos                | Durante o desenvolvimento do projeto, não houve necessidade de mudar o requisito, porém, é possível encontrar defeito por meio de feedback dos usuários. | - |
+| Análise de impacto na evolução      | Baixo impacto: Afeta principalmente a exibição de informações sobre benefícios | -                                                   |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -863,12 +862,12 @@ A tabela 52 mostra os artefatos gerados pelo requisito RF12.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
-| Casos de Uso                        | -             | -               |
-| Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
-| Backlog                             | -             | -               |
+| Cenário                             |    Não foi encontrado um cenário para esse requisito   | [Outros cenários](modelagem/cenarios.md)       |
+| Léxico                              |  **Verbo:** <br> <li>  Não foi encontrado um léxico de verbo referênte a consultar benefícos  <br> <br> **Objeto:**  <br> <li>[Benefício](modelagem/lexico.md) <br> <br> **Estado:**  <br> <li> [Benefício Aprovado](modelagem/lexico.md) | [Léxicos](modelagem/lexico.md)               |
+| Casos de Uso                        | <li> [UC08 -  Consultar seguro desemprego](modelagem/casoDeUso.md)     | [Casos de Uso](modelagem/casoDeUso.md)              |
+| Expecificação Suplementar           |  **Para a implementação:**  <br> <li> RI01 - Integração com eSocial <br> <li>  RI03 - Permitir integração com vários outros software     <br> <br> **Para a confiabilidade** <br> <li>             CON02 - O sistema deve possuir as informações atualizadas e condizentes com a realidade.  <br> <li>  CON03 - O sistema deve manter íntegra as informações sobre o usuário e seus contratos de trabalho.        | [Especificação Suplementar](modelagem/especSuplementar.md)   |
+| História de Usuário                 | [HI14 -  manual a respeito dos benefícios que tenho direito](modelagemAgil/historiaUsuario.md)            | [História de Usuário](modelagemAgil/historiaUsuario.md)               |
+| Backlog                             | <li> [ Tema: TM02 - Contratos de Trabalho e Benefícios](modelagemAgil/backlog.md)   <br> <li>  [Épico:  EP04 - Benefícios](modelagemAgil/backlog.md) <br> <li> [História: HI14 - Como usuário, eu quero possuir um manual a respeito dos benefícios que tenho direito para entender melhor cada um deles.] (modelagemAgil/backlog.md)      |  [Backlog](modelagemAgil/backlog.md)             |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -878,9 +877,9 @@ A tabela 53 mostra os elos do requisito RF12.
 
 <b>Tabela 53:</b> Elos do requisito RF12.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO | Requisitos Relacionados |
+| -------------- | ----------------- | ----------------------------------------------------- | ------------- | ------------- |
+| Recurso | Desenvolvimento | <li> Componentes de interface para consulta de benefícios <br> <li> Integração com APIs ou Banco de dados, como eSocial. <br> <li> Dados dos contratos de trabalho.| Os componentes na interface para consulta de benefícios no aplicativo da Carteira de Trabalho Digital e a integração com APIs ou bancos de dados **são recursos** necessários para implementar o requisito de consulta de benefícios. | **Os requisitos que fornecem os recursos necessários são:** <br> <br> Requisitos Funcionais: <br> <li> RF13: Usuário trabalhador pode solicitar benefícios. <br> <li> RF05: Usuário trabalhador pode consultar contratos de trabalho. <br> <li> RF22: Usuário empresa pode atualizar dados dos funcionários <br> <li> RF25: Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos) <br> <br>  Requisitos não funcionais: <br> <li> RNF05: Todos os textos do sistema devem seguir os padrões tipográficos e de siglas, abreviações e erros conforme as normas. <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real. <br> <li> RNF20: O sistema deve ser totalmente integrado com o eSocial, com uma taxa de sincronização de dados de 99%. |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
