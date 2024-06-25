@@ -50,14 +50,14 @@ Após a análise de rastreabilidade, organizamos as informações na Tabela 1, f
 |         RF26         | Usuário pode visualizar histórico de contratações   |  Entrevistas e Análise de Documentos    |Incompleto|    Cenários, Léxicos, Especificação Suplementar, Histórias de Usuário     | RF07, RNF12   | 
 |         RF27         | Usuário pode visualizar notificações   |  Entrevistas e Análise de Documentos   |Incompleto|    Cenários, Léxicos, Especificação Suplementar, Histórias de Usuário     | RF08, RNF12   | 
 |         RF28         | Usuário pode visualizar dados de contato da empresa   |  Entrevistas  e Análise de Documentos    |Não|    Cenários, Léxicos, Especificação Suplementar, Histórias de Usuário    | RF10, RNF15   | 
-|         RNF01        | --   |  --    |       --      |    --     | --   | 
-|         RNF02        | --   |  --    |       --      |    --     | --   | 
-|         RNF03        | --   |  --    |       --      |    --     | --   | 
-|         RNF04        | --   |  --    |       --      |    --     | --   | 
-|         RNF05        | --   |  --    |       --      |    --     | --   | 
-|         RNF06        | --   |  --    |       --      |    --     | --   | 
-|         RNF07        | --   |  --    |       --      |    --     | --   | 
-|         RNF08        | --   |  --    |       --      |    --     | --   | 
+|         RNF01        | Processar solicitações da carteira de trabalho em no máximo 2 minutos                                                                           | Análise de Documentos | Parcialmente | NFR Framework | RF05, RF06, RF22, RF23, RF25, RNF13, RNF16                                                         | 
+|         RNF02        | Escalar para suportar até 1 milhão de usuários simultâneos e permitir personalização das interfaces de usuário                                  | Análise de Documentos | Parcialmente | NFR Framework | Todos os RFs e RNF01, RNF02, RNF03, RNF04, RNF10, RNF13, RNF15, RNF16, RNF18, RNF23, RNF24 e RNF25 | 
+|         RNF03        | Suportar um aumento de 100% no volume de dados, transações e número de usuários                                                                 | Análise de Documentos | Sim          | NFR Framework | Todos os RFs e RNF01, RNF02, RNF03, RNF04, RNF13, RNF15, RNF16, RNF18, RNF23, RNF24 e RNF25        | 
+|         RNF04        | Processar até 10.000 transações por segundo, mesmo em picos de uso nacional                                                                     | Análise de Documentos | Parcialmente | NFR Framework | Todos os RFs e RNF01, RNF02, RNF03, RNF04, RNF13, RNF15, RNF16, RNF18, RNF23, RNF24 e RNF25        | 
+|         RNF05        | Os textos do sistema devem seguir os padrões tipográficos e de siglas, abreviações e erros conforme as normas                                   | Análise de Documentos | Sim          | NFR Framework | RNF06, RNF07,  RNF12, RNF14                                                                        | 
+|         RNF06        | A interface do usuário deve estar em conformidade com os manuais de interface gov.br                                                            | Análise de Documentos | Parcialmente | NFR Framework | RNF05, RNF07,  RNF12, RNF14                                                                        | 
+|         RNF07        | A interface do sistema deve incluir todos os elementos básicos de design do Padrão Digital de Governo                                           | Análise de Documentos | Parcialmente | NFR Framework | RNF05, RNF06,  RNF12, RNF14                                                                        | 
+|         RNF08        | O sistema deve implementar autenticação multifator, criptografia AES-256, controle de acesso baseado em funções, e logs de auditoria detalhados | Análise de Documentos | Sim          | NFR Framework | RF01, RF02, RF03, RF04, RF10, RF17, RNF09                                                          | 
 | -------------------- | ------------------------------------------------- | --------------------------------------- | ------------- | --------------------------- | ---------------------------------- |
 |         RNF09        | Conformidade com a LGPD                           | Análise de Documentos                   | Incompleto    | Documentação de Conformidade| RF03, RF04, RNF14, RNF18           |
 |         RNF10        | Suporte a Ferramentas de Acessibilidade           | Análise de Documentos                   | Incompleto    | Relatório de Acessibilidade | RF05, RNF18                        |
@@ -76,7 +76,7 @@ Após a análise de rastreabilidade, organizamos as informações na Tabela 1, f
 |         RNF24        |O aplicativo deve ser compatível com iOS, Android e Windows, sem apresentar falhas críticas em nenhum dos sistemas operacionais suportados.	   |  Storytelling  | Parcialmente |    [NRF Framework](modelagemAgil/NFR.md)  | RNF14 | 
 |         RNF25        | --   |  --    |       --      |    --     | --   | 
 
-<font size="3"><p style="text-align: center">Autores: [Pedro Izarias](https://github.com/Izarias), [Bruno Araújo](https://github.com/brunocva), [Luana Medeiros](https://github.com/LuaMedeiros), [Larissa Stéfane](https://github.com/SkywalkerSupreme).</p></font>
+<font size="3"><p style="text-align: center">Autores: [Pedro Izarias](https://github.com/Izarias), [Bruno Araújo](https://github.com/brunocva), [Luana Medeiros](https://github.com/LuaMedeiros), [Larissa Stéfane](https://github.com/SkywalkerSupreme),  [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
 
 ## Conclusão
 A matriz de rastreabilidade desenvolvida para o projeto da Carteira Digital de Trabalho provou ser uma ferramenta fundamental para assegurar a conformidade entre os requisitos especificados e os artefatos produzidos ao longo do ciclo de desenvolvimento. Através da metodologia aplicada, foi possível mapear de forma eficaz cada requisito aos seus correspondentes artefatos, garantindo a cobertura completa das necessidades iniciais e a justificativa das funcionalidades implementadas.
@@ -92,7 +92,8 @@ A matriz de rastreabilidade desenvolvida para o projeto da Carteira Digital de T
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Pedro Izarias |  Bruno Araújo  |  22/06/2024  |
 | 1.1 |  Adição da Introdução, Desenvolvimento e Matriz de rastreabilidade | Pedro Izarias |  Bruno Araújo  |  22/06/2024  |
-| 1.1 |  Adição dos RNF 09 ao 15. | Bruno Araújo |  ---  |  23/06/2024  |
-| 1.2 |  Adição dos RF 07 ao 14. | Larissa Stéfane |  ---  |  24/06/2024  |
-| 1.3 |  Adição dos RF 15 ao 21. | Luana Medeiros |  ---  |  24/06/2024  |
-| 1.4 |  Adição dos RnF 16 ao 24. |Caio Mesquita |  ---  |  24/06/2024  |
+| 1.2 |  Adição dos RNF 09 ao 15. | Bruno Araújo |  ---  |  23/06/2024  |
+| 1.3 |  Adição dos RF 07 ao 14. | Larissa Stéfane |  ---  |  24/06/2024  |
+| 1.4 |  Adição dos RF 15 ao 21. | Luana Medeiros |  ---  |  24/06/2024  |
+| 1.5 |  Adição dos RnF 16 ao 24. |Caio Mesquita |  ---  |  24/06/2024  |
+| 1.6 |  Adição dos RnFs 1 a 8. | Breno Alexandre |  ---  |  24/06/2024  |
