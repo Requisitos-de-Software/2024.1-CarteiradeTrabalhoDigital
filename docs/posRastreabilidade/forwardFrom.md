@@ -107,13 +107,12 @@ A tabela 7 mostra a estrutura do requisito RF01.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Nome do Requisito                   | Usuário se registrar no aplicativo |  [RF01](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/ResquisitosCorrigidos) |
+| Alocação no App                     | Página inicial quando se instala o aplicativo | -               |
+| Resolução de requisitos em conflito | Este requisito não conflita com outros requisitos. | -               |
+| Verificação                         | Verificar se a funcionalidade cadastra adequadamente os usuários | - |
+| Correção de Defeitos                | Através de relatórios e de feedbacks de usuários. | Não foi necessário corrigir falhas para esse requisito. |
+| Análise de impacto na evolução      | Alto impacto: A funcionalidade referida afeta todo o funcionamento do sistema considerando que sem ela o novo usuário não consegue acessar o sistema | -               |
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
@@ -125,12 +124,12 @@ A tabela 8 mostra os artefatos gerados pelo requisito RF01.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
-| Casos de Uso                        | -             | -               |
-| Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
-| Backlog                             | -             | -               |
+| Cenário                             | O requisito não possui cenário atrelado | -               |
+| Léxico                              | O requisito não possui Léxico atrelado | -               |
+| Casos de Uso                        | O requisito não possui Casos de Uso atrelado | -               |
+| Especificação Suplementar           | O requisito não possui Especificação Suplementar atrelada | -               |
+| História de Usuário                 | O requisito não possui História de Usuário atrelada | -               |
+| Backlog                             | O requisito não possui Backlog atrelado | -               |
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
@@ -140,15 +139,24 @@ A tabela 9 mostra os elos do requisito RF01.
 
 <b>Tabela 9:</b> Elos do requisito RF01.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados |
+| -------------------- | ---------- | ---------- |  ---------- |  ---------- | 
+| Satisfação | Desenvolvimento | <li> Módulo de Cadastro <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo de satisfação indica que o desenvolvimento do módulo de cadastro e do componente de manipulação de dados da carteira é essencial para atender ao requisito de permitir que o usuário se registre no aplicativo. Esses elementos são necessários para criar novas contas de usuários e garantir que os dados sejam armazenados e gerenciados adequadamente, proporcionando uma experiência integrada e segura. | RF02:	Usuário poder fazer login para entrar na sua página pessoal  | 
+
+
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 </center>
 
 </details>
+
+
+
+
+
+
+
 
 
 <details>
@@ -162,7 +170,7 @@ A tabela 10 mostra as versões do requisito RF02.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RF02](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/ResquisitosCorrigidos)|
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
@@ -174,13 +182,12 @@ A tabela 11 mostra a estrutura do requisito RF02.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Nome do Requisito                   | Usuário poder fazer login para entrar na sua página pessoal | [RF02](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/ResquisitosCorrigidos) |
+| Alocação no App                     | Pagina inicial quando se instala o aplicativo | -               |
+| Resolução de requisitos em conflito | O requisito só pode ser utilizado caso o requisito RF01 seja atendido | [RF01](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/ResquisitosCorrigidos) |
+| Verificação                         | É necessário verificar se as informações de login estão de acordo com as informações de cadastro | -               |
+| Correção de Defeitos                | Através de relatórios e de feedbacks de usuários. | -               |
+| Análise de impacto na evolução      | Alto impacto: A funcionalidade referida afeta todo o funcionamento do sistema, considerando que sem ela o usuário não consegue acessar o sistema | -               |
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
@@ -192,12 +199,12 @@ A tabela 12 mostra os artefatos gerados pelo requisito RF02.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
-| Casos de Uso                        | -             | -               |
-| Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
-| Backlog                             | -             | -               |
+| Cenário                             | O requisito não possui cenário atrelado | -               |
+| Léxico                              | O requisito não possui Léxico atrelado | -               |
+| Casos de Uso                        | O requisito não possui Casos de Uso atrelado | -               |
+| Especificação Suplementar           | O requisito não possui Especificação Suplementar atrelada | -               |
+| História de Usuário                 | O requisito não possui História de Usuário atrelada | -               |
+| Backlog                             | O requisito não possui Backlog atrelado | -               |
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
@@ -207,15 +214,20 @@ A tabela 13 mostra os elos do requisito RF02.
 
 <b>Tabela 13:</b> Elos do requisito RF02.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| Recurso | Desenvolvimento | <li> Módulo de Login <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração de funcionalidades com as contas dos usuários e da criação de botões de acesso rápido. | RF01: Usuário se registrar no aplicativo  |
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 </center>
 
 </details>
+
+
+
+
+
 
 
 <details>
@@ -229,7 +241,7 @@ A tabela 14 mostra as versões do requisito RF03.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RF03](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/ResquisitosCorrigidos) |
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
@@ -241,13 +253,12 @@ A tabela 15 mostra a estrutura do requisito RF03.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Nome do Requisito                   | Usuário pode consultar suas informações pessoais | [RF03](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/ResquisitosCorrigidos) |
+| Alocação no App                     | Barra de navegação inferior | -               |
+| Resolução de requisitos em conflito | Este requisito não conflita com outros requisitos. | -               |
+| Verificação                         | É necessário verificar se as informações mostradas estão de acordo com as informações do usuário logado. | -               |
+| Correção de Defeitos                | Através de relatórios e de feedbacks de usuários. | -               |
+| Análise de impacto na evolução      | Baixo impacto: Considerando que a visualização de informações pessoais não afeta diretamente outras áreas do aplicativo  | -               |
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
@@ -259,12 +270,12 @@ A tabela 16 mostra os artefatos gerados pelo requisito RF03.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
-| Casos de Uso                        | -             | -               |
-| Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
-| Backlog                             | -             | -               |
+| Cenário                             | O requisito não possui cenário atrelado | -               |
+| Léxico                              | O requisito não possui Léxico atrelado | -               |
+| Casos de Uso                        | O requisito não possui Casos de Uso atrelado | -               |
+| Especificação Suplementar           | O requisito não possui Especificação Suplementar atrelada | -               |
+| História de Usuário                 | HI04 | [HI04](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/historiaUsuario)|
+| Backlog                             | EP02  | [EP02](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/backlog) |
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
@@ -274,15 +285,22 @@ A tabela 17 mostra os elos do requisito RF03.
 
 <b>Tabela 17:</b> Elos do requisito RF03.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| Recurso | Desenvolvimento | <li> Módulo de Informações Pessoais <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração de funcionalidades com as contas dos usuários e da criação de botões de acesso rápido. | RF02: Usuário poder fazer login para entrar na sua página pessoal |
+
+
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 </center>
 
 </details>
+
+
+
+
+
 
 
 <details>
@@ -296,7 +314,7 @@ A tabela 18 mostra as versões do requisito RF04.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RF04](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/ResquisitosCorrigidos)  |
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
@@ -308,13 +326,12 @@ A tabela 19 mostra a estrutura do requisito RF04.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Nome do Requisito                   | Usuário pode alterar suas informações pessoais | [RF04](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/ResquisitosCorrigidos) |
+| Alocação no App                     | Página de informações pessoais. | -               |
+| Resolução de requisitos em conflito | Este requisito depende da execução do requisito RF03  |  [RF03](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/ResquisitosCorrigidos) |
+| Verificação                         | É necessário verificar se as informações a serem alteradas estão de acordo com as informações do usuário logado. | -               |
+| Correção de Defeitos                | Através de relatórios e de feedbacks de usuários. | -               |
+| Análise de impacto na evolução      | Alto impacto: Considerando que a alteração de informações pessoais afeta diretamente outras áreas do aplicativo <br> como informações sobre a carteira e sobre contratos trabalhistas  | - |
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
@@ -326,12 +343,12 @@ A tabela 20 mostra os artefatos gerados pelo requisito RF04.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
-| Casos de Uso                        | -             | -               |
-| Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
-| Backlog                             | -             | -               |
+| Cenário                             | Atualização das Informações pessoais | [Cenário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagem/cenarios?id=atualização-das-informações-pessoais) |
+| Léxico                              | Atualizar dados pessoais | [Léxico](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagem/lexico)               |
+| Casos de Uso                        | O requisito não possui Casos de Uso atrelado | -               |
+| Especificação Suplementar           | CON03, RI08 | [CON03, RI08](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagem/especSuplementar) |
+| História de Usuário                 | HI05 | [HI05](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/historiaUsuario)|
+| Backlog                             | EP02  | [EP02](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/backlog) |
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
@@ -341,15 +358,23 @@ A tabela 21 mostra os elos do requisito RF04.
 
 <b>Tabela 21:</b> Elos do requisito RF04.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| Recurso | Desenvolvimento | <li> Módulo de Informações Pessoais <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração de funcionalidades com as contas dos usuários e da criação de botões de acesso rápido. | RF02: Usuário poder fazer login para entrar na sua página pessoal |
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 </center>
 
 </details>
+
+
+
+
+
+
+
+
 
 
 <details>
@@ -363,7 +388,7 @@ A tabela 22 mostra as versões do requisito RF05.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RF05](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/ResquisitosCorrigidos)  |
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
@@ -375,13 +400,13 @@ A tabela 23 mostra a estrutura do requisito RF05.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Nome do Requisito                   | Usuário trabalhador pode consultar contratos de trabalho | [RF05](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/ResquisitosCorrigidos) |
+| Alocação no App                     | Página de contratos de trabalho. | -               |
+| Resolução de requisitos em conflito | Este requisito não conflita com outros requisitos.  | |
+| Verificação                         | É necessário verificar se as informações de trabalhos mostradas estão de acordo com as informações de contratos do usuário logado. | -               |
+| Correção de Defeitos                | Através de relatórios e de feedbacks de usuários. | -               |
+| Análise de impacto na evolução      | Baixo impacto: Considerando que a visualização de informações trabalhistas não afeta diretamente outras áreas do aplicativo. | - |
+
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
@@ -393,12 +418,12 @@ A tabela 24 mostra os artefatos gerados pelo requisito RF05.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
-| Casos de Uso                        | -             | -               |
-| Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
-| Backlog                             | -             | -               |
+| Cenário                             | O requisito não possui cenário atrelado | -               |
+| Léxico                              | Contrato de Trabalho | [Léxico](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagem/lexico) |
+| Casos de Uso                        | UC03 | [UC03](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagem/casoDeUso)|
+| Especificação Suplementar           | CON03 | [CON03](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagem/especSuplementar)|
+| História de Usuário                 | HI06 | [HI06](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/historiaUsuario)|
+| Backlog                             | EP03  | [EP03](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/backlog) |
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
@@ -408,15 +433,21 @@ A tabela 25 mostra os elos do requisito RF05.
 
 <b>Tabela 25:</b> Elos do requisito RF05.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| Recurso | Desenvolvimento | <li> Módulo de Informações Trabalhistas <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração de funcionalidades com os bancos de dados de contratos de trabalho e da criação de interfaces específicas para essa consulta. | RF02: Usuário poder fazer login para entrar na sua página pessoal |
+
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 </center>
 
 </details>
+
+
+
+
+
 
 
 <details>
@@ -430,7 +461,7 @@ A tabela 26 mostra as versões do requisito RF06.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RF06](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/ResquisitosCorrigidos)  |
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
@@ -442,13 +473,13 @@ A tabela 27 mostra a estrutura do requisito RF06.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Nome do Requisito                   | Usuário trabalhador pode atualizar contratos de trabalho | [RF06](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/ResquisitosCorrigidos) |
+| Alocação no App                     | Página de contratos de trabalho. | -               |
+| Resolução de requisitos em conflito | Este requisito não conflita com outros requisitos, porém, depende da implementação do requisito RF05  | [RF05](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/ResquisitosCorrigidos) |
+| Verificação                         | É necessário verificar se as informações de trabalhos a serem alteradas estão de acordo com as informações de contratos do usuário logado.  | -               |
+| Correção de Defeitos                | Através de relatórios e de feedbacks de usuários. | -               |
+| Análise de impacto na evolução      | Alto impacto: Considerando que a alteração de informações trabalhistas afeta diretamente outras áreas do aplicativo. | - |
+
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
@@ -460,12 +491,12 @@ A tabela 28 mostra os artefatos gerados pelo requisito RF06.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
-| Léxico                              | -             | -               |
-| Casos de Uso                        | -             | -               |
-| Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
-| Backlog                             | -             | -               |
+| Cenário                             | Atualização dos Contratos de Trabalho - Tabela 4 | [Cenário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagem/cenarios) |
+| Léxico                              | Contrato de Trabalho - Tabela 3 | [Léxico](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagem/lexico) |
+| Casos de Uso                        | UC04 | [UC04](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagem/casoDeUso)|
+| Especificação Suplementar           | CON03 | [CON03](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagem/especSuplementar)|
+| História de Usuário                 | HI17  | [HI17](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/historiaUsuario)|
+| Backlog                             | EP05  | [EP03](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/backlog) |
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
@@ -475,11 +506,16 @@ A tabela 29 mostra os elos do requisito RF06.
 
 <b>Tabela 29:</b> Elos do requisito RF06.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| Recurso | Desenvolvimento | <li> Módulo de Informações Trabalhistas <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração de funcionalidades com os bancos de dados de contratos de trabalho e da criação de interfaces específicas para essa consulta. | RF02: Usuário poder fazer login para entrar na sua página pessoal |
+
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+
+</center>
+
+</details>
 
 </center>
 
@@ -3582,7 +3618,7 @@ A tabela 214 mostra as versões do requisito RNF25.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RNF25](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/ResquisitosCorrigidos)  |
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
@@ -3594,15 +3630,17 @@ A tabela 215 mostra a estrutura do requisito RNF25.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Nome do Requisito                   | O sistema deve atualizar os dados do usuário automaticamente a cada 24 horas para evitar defasagem, com uma taxa de sucesso de 99%. | [RNF25](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/ResquisitosCorrigidos) |
+| Alocação no App                     | API interna | -               |
+| Resolução de requisitos em conflito | Esse requisito não conflita com nenhum outro requisito. | -               |
+| Verificação                         | É necessário verificar se as atualizações estão sendo feitas diariamente e se os dados atualizados estão corretos | -               |
+| Correção de Defeitos                | Através de relatórios e de feedbacks de usuários. | -               |
+| Análise de impacto na evolução      | Alto impacto: Considerando que a atualização frequente dos dados do aplicativo e sua eficácia afeta todo o ecossistema do app. | - |
+
+
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+
 
 #### Artefatos Gerados Pelos Requisitos Não Funcionais
 
@@ -3610,14 +3648,15 @@ A tabela 216 mostra os artefatos gerados pelo requisito RNF25.
 
 <b>Tabela 216:</b> Artefatos Gerados pelo requisito RNF25.
 
-| Artefato                                 | Identificador | Rastreabilidade |
-| ---------------------------------------- | ------------- | --------------- |
-| Cenário                                  | -             | -               |
-| Léxico                                   | -             | -               |
-| Casos de Uso                             | -             | -               |
-| Expecificação Suplementar                | -             | -               |
-| NFR Framework (Cartões de Especificação) | -             | -               |
-| NFR Framework (SIGs)                     | -             | -               |
+| Artefato                            | Identificador | Rastreabilidade |
+| ----------------------------------- | ------------- | --------------- |
+| Cenário                             | O requisito não possui cenário atrelado | -               |
+| Léxico                              | O requisito não possui Léxico atrelado | -               |
+| Casos de Uso                        | O requisito não possui Casos de Uso atrelado | -               |
+| Especificação Suplementar           | O requisito não possui Especificação Suplementar atrelada | -               |
+| NFR Framework (Cartões de Especificação) | NF25 | [NFR Framework](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/NFR) |
+| NFR Framework (SIGs)                     | Diagrama | [NFR Framework](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/NFR) |
+
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
@@ -3627,11 +3666,14 @@ A tabela 217 mostra os elos do requisito RNF25.
 
 <b>Tabela 217:</b> Elos do requisito RNF25.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
+| Recurso | Desenvolvimento | <li> Módulo de Informações Trabalhistas <br> <li> Módulo de Informações Pessoais. <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração com sistemas de backend e de mecanismos de monitoramento para assegurar a taxa de sucesso de 99%. | RF02: Usuário poder fazer login para entrar na sua página pessoal |
+
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+
 
 </center>
 
