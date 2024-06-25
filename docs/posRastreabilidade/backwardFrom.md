@@ -1672,16 +1672,16 @@ A tabela 74 mostra os elos do requisito RNF08.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | O sistema deve permitir ao usuário atualizar seus dados em no máximo 15 minutos, sem a necessidade de intermediários, com uma taxa de sucesso de 95%. |
+| Origem do Requisito  | [Storytelling](Elicitacao/TecnicasElicitacao/Execucao/Storytelling/Storytelling.md) |
+| Descrição            | O requisito afirma que o usuário deve poder atualizar seus dados pessoais com no máximo 15 minutos de ações, sem a necessidade de algum fator terceiro para intermediar a ação e com uma taxa de sucesso acima de 95% das tentativas. |
+| Ambiental            | No contexto ambiental, o requisito está ligado a qualidade do serviço oferecido ao usuário por parte do aplicativo |
+| Organizacional       | No aspecto organizacional, o requisito está ligado diretamente com fornecer um uso flúido e eficaz do aplicativo por parte dos usuários |
+| Gerencial            | O requisito está ligado com a otimização de processos a fim de melhorar a performance da aplicação |
+| Desenvolvimento      | A implementação do requisito está ligado a criação de uma interface para envio e acompanhamento dos status dos documentos para atualização cadastral |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: Caio Mesquita </b> <a href="https://github.com/Caiomesvie"> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -1691,12 +1691,14 @@ A tabela 90 mostra os elos do requisito RNF16.
 
 <b>Tabela 90:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Tipo de Elo | Categoria        | Elementos Rastreáveis                                                                                                   | Descrição do ELO                                                                                                    | Requisitos Relacionados |
+|-------------|------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|
+| Recurso     | Desenvolvimento  | <li> Módulo de atualização de dados do usuário. <br> <li> Sistema de autenticação e autorização. <br> <li> Banco de dados com suporte a atualizações em tempo real. <br> <li> Ferramentas de monitoramento e análise de desempenho. | O módulo de atualização de dados do usuário, o sistema de autenticação e autorização, o banco de dados com suporte a atualizações em tempo real e as ferramentas de monitoramento e análise de desempenho **fornecem os recursos necessários** para garantir que o usuário possa atualizar seus dados em no máximo 15 minutos, sem intermediários, e com uma taxa de sucesso de 95%. | <li> RF04: Usuário pode atualizar suas informações pessoais <br> <li> RF22: Usuário empresa pode atualizar dados dos funcionários <br>  |
 
 
-<b> Autora: </b> <a href=""> </a>.
+
+
+<b> Autor: Caio Mesquita </b> <a href="https://github.com/Caiomesvie"> </a>.
 
 </center>
 
@@ -1709,16 +1711,16 @@ A tabela 90 mostra os elos do requisito RNF16.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | 	O sistema deve apresentar dados pessoais com orientações claras e links para correção, com uma taxa de conformidade de 100% nas verificações. |
+| Origem do Requisito  | Storytelling |
+| Descrição            | O requisito descreve que os dados pessoais dos usuários devem ser retornados visiveis a eles e com passo a passo para que eles sejam alterados, caso haja a necessidade por parte do usuário. |
+| Ambiental            | Este requisito está contexualizado na necessidade de fornecer um uso de qualidade do aplicativo por parte do usuário. |
+| Organizacional       | Neste contexto, o requisito está ligado com a missão de ofercer um aplicativo de uso amplo e fácil acesso a fim de atingir o maior número de usuários com maior acessibilidade.  |
+| Gerencial            | Do ponto de vista gerencial,  a implementação deste requisito está ligado com a realização de um estudo de UI e UX design visando a busca pela maior intuitividade possível. |
+| Desenvolvimento      | No âmbito do desenvolvimento, a implementação deste requisot exige a validação por parte dos usuários e póssiveis alterações no design e organização da interface.|
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: Caio Mesquita </b> <a href="https://github.com/Caiomesvie"> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -1728,12 +1730,14 @@ A tabela 92 mostra os elos do requisito RNF17.
 
 <b>Tabela 92:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Tipo de Elo | Categoria| Elementos Rastreáveis | Descrição do ELO  | Requisitos Relacionados |
+|-------------|------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|
+| Satisfação  | Desenvolvimento  | <li> Interface de usuário para visualização de dados pessoais. <br> <li> Sistema de orientação e ajuda. <br> <li> Links para páginas de correção de dados. <br> <li> Módulo de verificação de conformidade. | A interface de usuário para visualização de dados pessoais, o sistema de orientação e ajuda, os links para páginas de correção de dados e o módulo de verificação de conformidade **satisfazem as necessidades** para garantir que o sistema apresente dados pessoais com orientações claras e links para correção, com uma taxa de conformidade de 100% nas verificações. | <li> RF03: Usuário pode consultar suas informações pessoais <br> <li> RF04: Usuário pode atualizar suas informações pessoais <br> <li> RF22: Usuário empresa pode atualizar dados dos funcionários <br> <li> RNF09: O sistema deve garantir a conformidade com a LGPD (Lei Geral de Proteção de Dados). |
 
 
-<b> Autora: </b> <a href=""> </a>.
+
+
+<b> Autor: Caio Mesquita </b> <a href="https://github.com/Caiomesvie"> </a>.
 
 </center>
 
@@ -1746,16 +1750,16 @@ A tabela 92 mostra os elos do requisito RNF17.
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real.	 |
+| Origem do Requisito  | Análise de documentos e storytelling |
+| Descrição            | A aplicação deve ter uma aba com uma lista contendo todos os contratos de trabalho que pertencem ao usuário, com a opção de detalhar os dados do contrato. |
+| Ambiental            | Este requisito está ligado ao contexto do usuário acessar os seus dados trabalhistas, uma das principais funções do aplicativo CTD.|
+| Organizacional       | Entre os objetivos e as estratégias do aplicativo CTD, este requisito alinha-se com a missão de garantir o acesso do usuário aos seus dados pessoais e registros de documentos. |
+| Gerencial            | No contexto gerencial,  é importante assegurar a integração com o orgão que fornece os dados dos vínculos empregatícios do usuário|
+| Desenvolvimento      | No âmbito do desenvolvimento, é necessário a implantação de uma interface onde há a lista de contratos de trabalho e a garantia da integração com os dados do Ministério do Trabalho |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: Caio Mesquita </b> <a href="https://github.com/Caiomesvie"> </a>.
 
 ### Elos de Rastreabilidade
 
@@ -1765,85 +1769,53 @@ A tabela 94 mostra os elos do requisito RNF18.
 
 <b>Tabela 94:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+ | Tipo de Elo | Categoria        | Elementos Rastreáveis                                                                                                   | Descrição do ELO                                                                                                    | Requisitos Relacionados |
+|-------------|------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|
+| Recurso     | Desenvolvimento  | <li> Módulo de listagem de contratos de trabalho. <br> <li> Sistema de atualização em tempo real. <br> <li> Banco de dados com suporte a atualizações em tempo real. <br> <li> Ferramentas de monitoramento e análise de desempenho. | O módulo de listagem de contratos de trabalho, o sistema de atualização em tempo real, o banco de dados com suporte a atualizações em tempo real e as ferramentas de monitoramento e análise de desempenho **fornecem os recursos necessários** para garantir que o sistema liste contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real. | <li> RF05: Usuário trabalhador pode consultar contratos de trabalho. <br> <li> RF23: Usuário empresa pode consultar contratos de trabalho. <br> <li> RF25: Usuário empresa pode gerenciar contratos de trabalho (adicionar novos, atualizar já existentes e encerrar contratos). <br> <li> RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real. |
 
-<b> Autora: </b> <a href=""> </a>.
+
+
+<b> Autor: Caio Mesquita </b> <a href="https://github.com/Caiomesvie"> </a>.
 
 </center>
 
 </details>
 
+
 <details>
-  <summary><b> RNF19 - Caio Mesquita </b></summary> 
+  <summary><b> RNF20 - Caio Mesquita </b></summary> 
 
 <b>Tabela 95:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | O sistema deve ser totalmente integrado com o eSocial, com uma taxa de sincronização de dados de 99%.	 |
+| Origem do Requisito  | Análise de documentos |
+| Descrição            | O aplicativo da CTD deve ser integrado com o eSocial, sistema onde há a comunicação com o governo a respeito de  situação de vínculos empregatícios, contribuições previdenciárias, folhas de pagamento, acidente de trabalho, avisos prévios, escriturações fiscais, além de informações sobre o FGTS. |
+| Ambiental            | Este Requisto está ligado com o uso dos dados do eSocial a fim de expôr de forma mais fácil para o usuário estes dados. |
+| Organizacional       | Este requisito está ligado com a missão de expôr para o usuário seus dados pessoais acerca da sua vida trabalhista. |
+| Gerencial            | Do ponto de vista da Gerência, este requisito está ligado com a integração plena com o eSocial e como os dados serão entregues ao usuário. |
+| Desenvolvimento      | Do ponto de vista de desenvolvimento, o requisito exige que haja a integração funcional com o banco de dados do eSocial e formas de como expôr esses dados para o usuário e de formas diferentes, divididos em tópicos específicos para os diferentes tipos de dados. |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: Caio Mesquita </b> <a href="https://github.com/Caiomesvie"> </a>.
 
 ### Elos de Rastreabilidade
 
-A tabela 96 mostra os elos do requisito RNF19.
+A tabela 96 mostra os elos do requisito RNF20.
 
 <center> 
 
 <b>Tabela 96:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Tipo de Elo | Categoria        | Elementos Rastreáveis                                                                                                   | Descrição do ELO                                                                                                    | Requisitos Relacionados |
+|-------------|------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|
+| Recurso     | Desenvolvimento  | <li> Módulo de integração com eSocial. <br> <li> Sistema de sincronização de dados. <br> <li> Banco de dados com suporte a integração em tempo real. <br> <li> Interface de usuário para exibição dos dados do eSocial. | O módulo de integração com o eSocial, o sistema de sincronização de dados, o banco de dados com suporte a integração em tempo real e a interface de usuário para exibição dos dados do eSocial **fornecem os recursos necessários** para garantir que o sistema seja totalmente integrado com o eSocial, com uma taxa de sincronização de dados de 99%. | <li> RF11: Usuário trabalhador pode consultar informações sobre o FGTS e o INSS. <br> <li> RF23: Usuário empresa pode consultar contratos de trabalho. <br> <li> RF27: Usuário empresa pode gerenciar benefícios trabalhistas. |
 
 
-<b> Autora: </b> <a href=""> </a>.
-
-</center>
-
-</details>
-
-<details>
-  <summary><b> RNF20 - Caio Mesquita </b></summary> 
-
-<b>Tabela 97:</b> Estrutura do requisito
-
-| Características      | Explicação |
-| -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
-| Nível de Priorização | - |
-
-<b> Autora: </b> <a href=""> </a>.
-
-### Elos de Rastreabilidade
-
-A tabela 98 mostra os elos do requisito RNF20.
-
-<center> 
-
-<b>Tabela 98:</b> Elo do Requisito
-
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
 
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: Caio Mesquita </b> <a href="https://github.com/Caiomesvie"> </a>.
 
 </center>
 
@@ -1852,35 +1824,35 @@ A tabela 98 mostra os elos do requisito RNF20.
 <details>
   <summary><b> RNF21 - Caio Mesquita </b></summary> 
 
-<b>Tabela 99:</b> Estrutura do requisito
+<b>Tabela 97:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | O sistema deve ser totalmente integrado com o portal gov.br, com uma taxa de sincronização de dados de 99%.	 |
+| Origem do Requisito  | Análise de documentos	 |
+| Descrição            | O sistema deve ser integrado com o portal do Governo Federal, gov.br |
+| Ambiental            | O requisito está ligado a utilização dos dados fornecidos pelo portal na aplicação do CTD |
+| Organizacional       | Este requisito está alinhado com a missão de simplificar as ações do usuário puxando dados direto do portal gov.br |
+| Gerencial            | Do ponto de vista gerencial,  é importante que os usuários saibam como estão sendo feito os processos de integração em uma linguagem que eles entendam que seus dados não serão violados|
+| Desenvolvimento      | No âmbito de desenvolvimento, este requisito requer a integração funcional com uma API que recupere os dados do portal gov.br e a integração com o login pelo mesmo |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: Caio Mesquita </b> <a href="https://github.com/Caiomesvie"> </a>.
 
 ### Elos de Rastreabilidade
 
-A tabela 100 mostra os elos do requisito RNF21.
+A tabela 98 mostra os elos do requisito RNF21.
 
 <center> 
 
-<b>Tabela 100:</b> Elo do Requisito
+<b>Tabela 98:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Tipo de Elo | Categoria        | Elementos Rastreáveis                                                                                                   | Descrição do ELO                                                                                                    | Requisitos Relacionados |
+|-------------|------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|
+| Recurso     | Desenvolvimento  | <li> Módulo de integração com portal gov.br. <br> <li> Sistema de sincronização de dados. <br> <li> Banco de dados com suporte a integração em tempo real. <br> <li> Interface de usuário para exibição e atualização dos dados do portal gov.br. | O módulo de integração com o portal gov.br, o sistema de sincronização de dados, o banco de dados com suporte a integração em tempo real e a interface de usuário para exibição e atualização dos dados do portal gov.br **fornecem os recursos necessários** para garantir que o sistema seja totalmente integrado com o portal gov.br, com uma taxa de sincronização de dados de 99%. | <li> RF02: Usuário pode fazer login para entrar na sua página pessoal. <br> <li> RF04: Usuário pode atualizar suas informações pessoais. <br> <li> RNF09: O sistema deve garantir a conformidade com a LGPD (Lei Geral de Proteção de Dados). <br> <li> RNF16: O sistema deve permitir ao usuário atualizar seus dados em no máximo 15 minutos, sem a necessidade de intermediários, com uma taxa de sucesso de 95%. <br> <li> RNF25: O sistema deve atualizar os dados do usuário automaticamente a cada 24 horas para evitar defasagem, com uma taxa de sucesso de 99%. |
 
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: Caio Mesquita </b> <a href="https://github.com/Caiomesvie"> </a>.
 
 </center>
 
@@ -1889,34 +1861,36 @@ A tabela 100 mostra os elos do requisito RNF21.
 <details>
   <summary><b> RNF22 - Caio Mesquita </b></summary> 
 
-<b>Tabela 101:</b> Estrutura do requisito
+<b>Tabela 99:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    |O sistema deve permitir integração com pelo menos cinco outros sistemas de software, conforme especificado na documentação de requisitos.	 |
+| Origem do Requisito  | Análise de documentos	 |
+| Descrição            | O aplicativo do CTD deverá ter integração com outros softwares visando uma melhor experiência de usuário em termos gerais |
+| Ambiental            | No contexto ambiental, este requisito está ligado a integrar mais funcionalidades a aplicação utilizando softwares externos |
+| Organizacional       | No quesíto organizacional, este requisito alinha-se com a missão de melhorar a experiência de usuário |
+| Gerencial            | Do ponto de vista gerencial, o requisito exige um estudo para análise de quais softwares não oferecem risco para o uso e integração com a aplicação|
+| Desenvolvimento      | No aspecto do Desenvolvimento, este requisto trás a necessidade de integração de aplicações como por exemplo o software de biometria do celular do usuário, ou até o uso do microsoft Authenticator para mais segurança da aplicação |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: Caio Mesquita </b> <a href="https://github.com/Caiomesvie"> </a>.
 
 ### Elos de Rastreabilidade
 
-A tabela 102 mostra os elos do requisito RNF22.
+A tabela 100 mostra os elos do requisito RNF22.
 
 <center> 
 
-<b>Tabela 102:</b> Elo do Requisito
+<b>Tabela 100:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Tipo de Elo | Categoria       | Elementos Rastreáveis                                                                                                      | Descrição do ELO                                                                                                           | Requisitos Relacionados |
+|-------------|-----------------|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| Alocado     | Desenvolvimento | <li> Módulo de integração com Sistema A. <br> <li> Módulo de integração com Sistema B. <br> <li> Módulo de integração com Sistema C. <br> <li> Módulo de integração com Sistema D. <br> <li> Módulo de integração com Sistema E. | Os módulos de integração com os cinco sistemas especificados fornecem os recursos necessários para permitir a integração do sistema com pelo menos cinco outros sistemas de software. |   <li> RNF20: O sistema deve ser totalmente integrado com o eSocial, com uma taxa de sincronização de dados de 99%.	 <br> <li>RNF21: O sistema deve ser totalmente integrado com o portal gov.br, com uma taxa de sincronização de dados de 99%.	 <br> <li> RNF09: O sistema deve garantir a conformidade com a LGPD (Lei Geral de Proteção de Dados).     |
 
-<b> Autora: </b> <a href=""> </a>.
+
+
+<b> Autor: Caio Mesquita </b> <a href="https://github.com/Caiomesvie"> </a>.
 
 </center>
 
@@ -1925,35 +1899,37 @@ A tabela 102 mostra os elos do requisito RNF22.
 <details>
   <summary><b> RNF23 - Caio Mesquita </b></summary> 
 
-<b>Tabela 103:</b> Estrutura do requisito
+<b>Tabela 101:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | O sistema deve enviar notificações precisas com uma taxa de falsos positivos inferior a 5%.	 |
+| Origem do Requisito  | Storytelling |
+| Descrição            | O aplicativo deve apresentar as notificações relativas ao aplicativo para o usuário, com uma quantidade inferior a 5% de falhas em apresentar notificações que sejam incoerentes |
+| Ambiental            | Este requisito está ligado à necessidade do usuário de estar sempre atualizado sobre qualquer alteração e mudanças na aplicação|
+| Organizacional       | Na questão organizacional, este requisito se alinha com a missão de manter o usuário sempre atualizado e melhorar a utilização da aplicação |
+| Gerencial            | No aspecto gerencial, este requisito indica a necessidade de realização de testes com relação a acurácia dos acertos das notificações |
+| Desenvolvimento      | Na questão do desenvolvimento, há necessidade de otimização das notificações para que elas sejam acessíveis para todos os tipos de usuários com diferentes aparelhos celulares |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: Caio Mesquita </b> <a href="https://github.com/Caiomesvie"> </a>.
 
 ### Elos de Rastreabilidade
 
-A tabela 104 mostra os elos do requisito RNF23.
+A tabela 102 mostra os elos do requisito RNF23.
 
 <center> 
 
-<b>Tabela 104:</b> Elo do Requisito
+<b>Tabela 102:</b> Elo do Requisito
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
-| -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Tipo de Elo | Categoria       | Elementos Rastreáveis                                                                 | Descrição do ELO                                                                                                       | Requisitos Relacionados |
+|-------------|-----------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| Satisfação  | Desenvolvimento | <li> Algoritmo de geração de notificações. <br> <li> Conjunto de regras de validação. | O algoritmo de geração de notificações e o conjunto de regras de validação **satisfazem** a necessidade de enviar notificações precisas com taxa de falsos positivos inferior a 5%. |<li> **RF19** Usuário recebem notificações do aplicativo	</li>   |
 
 
-<b> Autora: </b> <a href=""> </a>.
+
+
+<b> Autor: Caio Mesquita </b> <a href="https://github.com/Caiomesvie"> </a>.
 
 </center>
 
@@ -1962,34 +1938,34 @@ A tabela 104 mostra os elos do requisito RNF23.
 <details>
   <summary><b> RNF24 - Caio Mesquita </b></summary> 
 
-<b>Tabela 105:</b> Estrutura do requisito
+<b>Tabela 103:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
-| Nome do Requisito    | - |
-| Origem do Requisito  | - |
-| Descrição            | - |
-| Ambiental            | - |
-| Organizacional       | - |
-| Gerencial            | - |
-| Desenvolvimento      | - |
+| Nome do Requisito    | O aplicativo deve ser compatível com iOS, Android e Windows, sem apresentar falhas críticas em nenhum dos sistemas operacionais suportados.	 |
+| Origem do Requisito  | Storytelling |
+| Descrição            | O aplicativo do CTD deve funcionar em diferentes sistemas operacionais e aparelhos telefônicos, principalmente Android, IOS e Windows e deve funcionar sem erros críticos q comprometam o uso da aplicação |
+| Ambiental            | Este requisito está ligado aos diversos aparelhos passíveis de serem usasdos pelos usuários para acessar a aplicação |
+| Organizacional       | Este requisito está ligado com a missão de forcener o aplicativo de forma mais ampla, atingindo o maior público possível e abrangendo o máximo de usuários que puder |
+| Gerencial            | Do ponto de vista gerencial, deverá ser monitorado possíveis erros que podem ser gerados pela implementação em diferentes sistemas operacionais  |
+| Desenvolvimento      | Do aspecto de desenvolvimento, deverá ocorrer a implementação das interfaces com a mínima diferença póssivel entre os difentes aparelhos que suportarão o aplicativo |
 | Nível de Priorização | - |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: Caio Mesquita </b> <a href="https://github.com/Caiomesvie"> </a>.
 
 ### Elos de Rastreabilidade
 
-A tabela 106 mostra os elos do requisito RNF24.
+A tabela 104 mostra os elos do requisito RNF24.
 
 <center> 
 
-<b>Tabela 106:</b> Elo do Requisito
+<b>Tabela 104:</b> Elo do Requisito
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| - | - | - | - | - |
+| Alocado     | Desenvolvimento | <li> Testes de compatibilidade com iOS. <br> <li> Testes de compatibilidade com Android. <br> <li> Testes de compatibilidade com Windows. | Os testes de compatibilidade com iOS, Android e Windows **alocam** recursos para garantir que o aplicativo seja compatível sem falhas críticas em nenhum dos sistemas operacionais suportados. | <li> RNF14: O aplicativo deve seguir padrões de design aceitos por empresas e instituições, com uma taxa de conformidade de 95% nas avaliações de usabilidade. <br>  |
 
-<b> Autora: </b> <a href=""> </a>.
+<b> Autor: Caio Mesquita </b> <a href="https://github.com/Caiomesvie"> </a>.
 
 </center>
 
@@ -1998,7 +1974,7 @@ A tabela 106 mostra os elos do requisito RNF24.
 <details>
   <summary><b> RNF25 - Iago Passaglia </b></summary> 
 
-<b>Tabela 107:</b> Estrutura do requisito
+<b>Tabela 105:</b> Estrutura do requisito
 
 | Características      | Explicação |
 | -------------------- | ---------- |
@@ -2015,11 +1991,11 @@ A tabela 106 mostra os elos do requisito RNF24.
 
 ### Elos de Rastreabilidade
 
-A tabela 108 mostra os elos do requisito RNF25.
+A tabela 106 mostra os elos do requisito RNF25.
 
 <center> 
 
-<b>Tabela 108:</b> Elo do Requisito
+<b>Tabela 106:</b> Elo do Requisito
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
@@ -2048,12 +2024,13 @@ A tabela 108 mostra os elos do requisito RNF25.
 | Versão | Alteração                              | Responsável     | Revisor         | Data       |
 | ------ | -------------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    |  Criação do modelo e estrutura         | Larissa Stéfane | Bruno Araújo    | 15/06/2024 |
-| 1.1    |  Adição da introdução e da metodologia | Larissa Stéfane | Bruno Araújo    | 16/06/2024 |
-| 1.2    |  Adição da rastreabilidade da RF07     | Larissa Stéfane | Bruno Araújo    | 16/06/2024 |
-| 1.3    |  Correção dos templates                | Breno Alexandre | Larissa Stéfane | 20/06/2024 |
-| 1.4    |  Reorganização do artefato             | Larissa Stéfane | Pedro Izarias   | 20/06/2024 |
-| 1.5    |  Adição dos requisitos RF07 até RF14   | Larissa Stéfane | Pedro Izarias   | 22/06/2024 |
-| 1.6    |  Adição dos requisitos RF22 até RF28   | Pedro Izarias   | Iago Passaglia  | 23/06/2024 |
-| 1.7    |  Adição dos requisitos RF01 até RF06 e RNF25  | Iago Passaglia | Bruno Araújo | 23/06/2024 |
-| 1.8    |  Adição dos requisitos RNF 09 ao 15    | Bruno Araújo    | -               | 23/06/2024 |
-| 1.9    |  Adição dos requisitos RF 15 ao 21     | Luana Medeiros  | -               | 23/06/2024 |
+| 1.0.1    |  Adição da introdução e da metodologia | Larissa Stéfane | Bruno Araújo    | 16/06/2024 |
+| 1.0.2    |  Adição da rastreabilidade da RF07     | Larissa Stéfane | Bruno Araújo    | 16/06/2024 |
+| 1.0.3    |  Correção dos templates                | Breno Alexandre | Larissa Stéfane | 20/06/2024 |
+| 1.0.4    |  Reorganização do artefato             | Larissa Stéfane | Pedro Izarias   | 20/06/2024 |
+| 1.0.5    |  Adição dos requisitos RF07 até RF14   | Larissa Stéfane | Pedro Izarias   | 22/06/2024 |
+| 1.0.6    |  Adição dos requisitos RF22 até RF28   | Pedro Izarias   | Iago Passaglia  | 23/06/2024 |
+| 1.0.7    |  Adição dos requisitos RF01 até RF06 e RNF25  | Iago Passaglia | Bruno Araújo | 23/06/2024 |
+| 1.0.8    |  Adição dos requisitos RNF 09 ao 15    | Bruno Araújo    | -               | 23/06/2024 |
+| 1.0.9    |  Adição dos requisitos RF 15 ao 21     | Luana Medeiros  | -               | 23/06/2024 |
+| 1.1    |  Adição dos requisitos RNF 16 ao 24     | Caio Mesquita  | -               | 24/06/2024 |
