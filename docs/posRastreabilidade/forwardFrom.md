@@ -2502,65 +2502,65 @@ A tabela 149 mostra os elos do requisito RNF08.
 
 A tabela 150 mostra as versões do requisito RNF09.
 
-<b>Tabela 150:</b> Versão do requisito RNF09.
+**Tabela 150:** Versão do requisito RNF09.
 
-| Versão                              | Rastreabilidade |
-| ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão    | Rastreabilidade |
+|-----------|------------------|
+| Versão 1  | RNF09            |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Estrutura de Desenvolvimento do Requisito
+## Estrutura de Desenvolvimento do Requisito
 
 A tabela 151 mostra a estrutura do requisito RNF09.
 
-<b>Tabela 151:</b> Estrutura do requisito RNF09.
+**Tabela 151:** Estrutura do requisito RNF09.
 
-| Características                     | Explicação | Rastreabilidade |
-| ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Características                        | Explicação                                      | Rastreabilidade                   |
+|----------------------------------------|-------------------------------------------------|-----------------------------------|
+| Nome do Requisito                      | Usuário pode realizar anotações                 | RNF09                             |
+| Alocação no App                        | Na seção de anotações pessoais                  | Diagrama de Caso de Uso           |
+| Resolução de requisitos em conflito    | Não há conflitos com outros requisitos          | -                                 |
+| Verificação                            | Verificar se o usuário consegue adicionar e salvar anotações | Será realizada pelo grupo em breve |
+| Correção de Defeitos                   | Correção via feedback de usuários               | Não foi necessário corrigir falhas para esse requisito. |
+| Análise de impacto na evolução         | Baixo impacto na interface de usuário           | -                                 |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Artefatos Gerados Pelos Requisitos Não Funcionais
+## Artefatos Gerados Pelos Requisitos Não Funcionais
 
 A tabela 152 mostra os artefatos gerados pelo requisito RNF09.
 
-<b>Tabela 152:</b> Artefatos Gerados pelo requisito RNF09.
+**Tabela 152:** Artefatos Gerados pelo requisito RNF09.
 
-| Artefato                                 | Identificador | Rastreabilidade |
-| ---------------------------------------- | ------------- | --------------- |
-| Cenário                                  | -             | -               |
-| Léxico                                   | -             | -               |
-| Casos de Uso                             | -             | -               |
-| Expecificação Suplementar                | -             | -               |
-| NFR Framework (Cartões de Especificação) | -             | -               |
-| NFR Framework (SIGs)                     | -             | -               |
+| Artefato                      | Identificador | Rastreabilidade |
+|-------------------------------|---------------|-----------------|
+| Cenário                       | O cenário não possui cenário atrelado | - |
+| Léxico                        | O requisito não possui léxico atrelado | - |
+| Casos de Uso                  | O requisito não possui casos de uso atrelado | - |
+| Expecificação Suplementar     | O requisito não possui especificação suplementar atrelado | - |
+| NFR Framework (Cartões de Especificação) | O requisito não possui cartões de especificação atrelado | - |
+| NFR Framework (SIGs)          | O requisito não possui SIGs atrelado | - |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Os Elos
+## Os Elos
 
 A tabela 153 mostra os elos do requisito RNF09.
 
-<b>Tabela 153:</b> Elos do requisito RNF09.
+**Tabela 153:** Elos do requisito RNF09.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo   | Categoria       | Elementos Rastreáveis                                                    | Descrição do ELO                                                                                     | Requisitos Relacionados |
+|---------------|-----------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------|
+| Recurso       | Desenvolvimento | <li>Política de Conformidade <br><li> Auditoria de Conformidade          | O sistema deve seguir políticas e realizar auditorias para assegurar a conformidade com a LGPD.      | RNF09, RNF12            |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva)
+
+</details>
 
 </center>
 
 </details>
-
 
 <details>
   <summary><b> RNF10 - Bruno Araújo </b></summary>
@@ -2569,60 +2569,61 @@ A tabela 153 mostra os elos do requisito RNF09.
 
 A tabela 154 mostra as versões do requisito RNF10.
 
-<b>Tabela 154:</b> Versão do requisito RNF10.
+**Tabela 154:** Versão do requisito RNF10.
 
-| Versão                              | Rastreabilidade |
-| ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão    | Rastreabilidade |
+|-----------|------------------|
+| Versão 1  | RNF10            |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Estrutura de Desenvolvimento do Requisito
+## Estrutura de Desenvolvimento do Requisito
 
 A tabela 155 mostra a estrutura do requisito RNF10.
 
-<b>Tabela 155:</b> Estrutura do requisito RNF10.
+**Tabela 155:** Estrutura do requisito RNF10.
 
-| Características                     | Explicação | Rastreabilidade |
-| ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Características                        | Explicação                                      | Rastreabilidade                   |
+|----------------------------------------|-------------------------------------------------|-----------------------------------|
+| Nome do Requisito                      | Usuário trabalhador pode fazer denúncias trabalhistas contra a empresa | RNF10                             |
+| Alocação no App                        | Na seção de denúncias                           | Diagrama de Caso de Uso           |
+| Resolução de requisitos em conflito    | Este requisito pode entrar em conflito com os requisitos de atualização de dados, pois exige um sistema de denúncia confiável e seguro | -                                 |
+| Verificação                            | Testar a funcionalidade de envio e recebimento de denúncias | Será realizada pelo grupo em breve |
+| Correção de Defeitos                   | Correção via feedback de usuários               | Não foi necessário corrigir falhas para esse requisito. |
+| Análise de impacto na evolução         | Médio impacto devido a implicações legais e de segurança | -                                 |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Artefatos Gerados Pelos Requisitos Não Funcionais
+## Artefatos Gerados Pelos Requisitos Não Funcionais
 
 A tabela 156 mostra os artefatos gerados pelo requisito RNF10.
 
-<b>Tabela 156:</b> Artefatos Gerados pelo requisito RNF10.
+**Tabela 156:** Artefatos Gerados pelo requisito RNF10.
 
-| Artefato                                 | Identificador | Rastreabilidade |
-| ---------------------------------------- | ------------- | --------------- |
-| Cenário                                  | -             | -               |
-| Léxico                                   | -             | -               |
-| Casos de Uso                             | -             | -               |
-| Expecificação Suplementar                | -             | -               |
-| NFR Framework (Cartões de Especificação) | -             | -               |
-| NFR Framework (SIGs)                     | -             | -               |
+| Artefato                      | Identificador | Rastreabilidade |
+|-------------------------------|---------------|-----------------|
+| Cenário                       | O cenário não possui cenário atrelado | - |
+| Léxico                        | O requisito não possui léxico atrelado | - |
+| Casos de Uso                  | O requisito não possui casos de uso atrelado | - |
+| Expecificação Suplementar     | O requisito não possui especificação suplementar atrelado | - |
+| NFR Framework (Cartões de Especificação) | O requisito não possui cartões de especificação atrelado | - |
+| NFR Framework (SIGs)          | O requisito não possui SIGs atrelado | - |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Os Elos
+## Os Elos
 
 A tabela 157 mostra os elos do requisito RNF10.
 
-<b>Tabela 157:</b> Elos do requisito RNF10.
+**Tabela 157:** Elos do requisito RNF10.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo   | Categoria       | Elementos Rastreáveis                                                    | Descrição do ELO                                                                                     | Requisitos Relacionados |
+|---------------|-----------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------|
+| Recurso       | Desenvolvimento | <li> Ferramentas de Acessibilidade <br><li> Relatório de Testes de Acessibilidade | O sistema deve ser compatível com várias ferramentas de acessibilidade e deve ser testado adequadamente. | RNF10, RNF14            |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva)
+
+</details>
 
 </center>
 
@@ -2636,60 +2637,61 @@ A tabela 157 mostra os elos do requisito RNF10.
 
 A tabela 158 mostra as versões do requisito RNF11.
 
-<b>Tabela 158:</b> Versão do requisito RNF11.
+**Tabela 158:** Versão do requisito RNF11.
 
-| Versão                              | Rastreabilidade |
-| ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão    | Rastreabilidade |
+|-----------|------------------|
+| Versão 1  | RNF11            |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Estrutura de Desenvolvimento do Requisito
+## Estrutura de Desenvolvimento do Requisito
 
 A tabela 159 mostra a estrutura do requisito RNF11.
 
-<b>Tabela 159:</b> Estrutura do requisito RNF11.
+**Tabela 159:** Estrutura do requisito RNF11.
 
-| Características                     | Explicação | Rastreabilidade |
-| ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Características                        | Explicação                                      | Rastreabilidade                   |
+|----------------------------------------|-------------------------------------------------|-----------------------------------|
+| Nome do Requisito                      | Usuário trabalhador pode consultar informações sobre o FGTS e o INSS | RNF11                             |
+| Alocação no App                        | Na seção de consulta de benefícios              | Diagrama de Caso de Uso           |
+| Resolução de requisitos em conflito    | Este requisito não conflita com outros requisitos, mas depende da integração com as bases de dados do FGTS e INSS | -                                 |
+| Verificação                            | Verificar se as informações do FGTS e INSS são exibidas corretamente | Será realizada pelo grupo em breve |
+| Correção de Defeitos                   | Correção via feedback de usuários               | Não foi necessário corrigir falhas para esse requisito. |
+| Análise de impacto na evolução         | Médio impacto devido à necessidade de manter as integrações com os sistemas do FGTS e INSS | -                                 |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Artefatos Gerados Pelos Requisitos Não Funcionais
+## Artefatos Gerados Pelos Requisitos Não Funcionais
 
 A tabela 160 mostra os artefatos gerados pelo requisito RNF11.
 
-<b>Tabela 160:</b> Artefatos Gerados pelo requisito RNF11.
+**Tabela 160:** Artefatos Gerados pelo requisito RNF11.
 
-| Artefato                                 | Identificador | Rastreabilidade |
-| ---------------------------------------- | ------------- | --------------- |
-| Cenário                                  | -             | -               |
-| Léxico                                   | -             | -               |
-| Casos de Uso                             | -             | -               |
-| Expecificação Suplementar                | -             | -               |
-| NFR Framework (Cartões de Especificação) | -             | -               |
-| NFR Framework (SIGs)                     | -             | -               |
+| Artefato                      | Identificador | Rastreabilidade |
+|-------------------------------|---------------|-----------------|
+| Cenário                       | O cenário não possui cenário atrelado | - |
+| Léxico                        | O requisito não possui léxico atrelado | - |
+| Casos de Uso                  | O requisito não possui casos de uso atrelado | - |
+| Expecificação Suplementar     | O requisito não possui especificação suplementar atrelado | - |
+| NFR Framework (Cartões de Especificação) | O requisito não possui cartões de especificação atrelado | - |
+| NFR Framework (SIGs)          | O requisito não possui SIGs atrelado | - |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Os Elos
+## Os Elos
 
 A tabela 161 mostra os elos do requisito RNF11.
 
-<b>Tabela 161:</b> Elos do requisito RNF11.
+**Tabela 161:** Elos do requisito RNF11.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo   | Categoria       | Elementos Rastreáveis                                                    | Descrição do ELO                                                                                     | Requisitos Relacionados |
+|---------------|-----------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------|
+| Recurso       | Desenvolvimento | <li> Interfaces Governamentais <br><li> Documentação de Integração | O sistema deve integrar-se com os processos e sistemas governamentais, conforme especificações. | RNF11, RNF12            |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva)
+
+</details>
 
 </center>
 
@@ -2703,60 +2705,61 @@ A tabela 161 mostra os elos do requisito RNF11.
 
 A tabela 162 mostra as versões do requisito RNF12.
 
-<b>Tabela 162:</b> Versão do requisito RNF12.
+**Tabela 162:** Versão do requisito RNF12.
 
-| Versão                              | Rastreabilidade |
-| ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão    | Rastreabilidade |
+|-----------|------------------|
+| Versão 1  | RNF12            |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Estrutura de Desenvolvimento do Requisito
+## Estrutura de Desenvolvimento do Requisito
 
 A tabela 163 mostra a estrutura do requisito RNF12.
 
-<b>Tabela 163:</b> Estrutura do requisito RNF12.
+**Tabela 163:** Estrutura do requisito RNF12.
 
-| Características                     | Explicação | Rastreabilidade |
-| ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Características                        | Explicação                                      | Rastreabilidade                   |
+|----------------------------------------|-------------------------------------------------|-----------------------------------|
+| Nome do Requisito                      | Usuário trabalhador pode consultar benefícios   | RNF12                             |
+| Alocação no App                        | Na seção de consulta de benefícios              | Diagrama de Caso de Uso           |
+| Resolução de requisitos em conflito    | Este requisito depende da integração com diversos sistemas de benefícios | -                                 |
+| Verificação                            | Verificar se todos os benefícios são exibidos corretamente e se a funcionalidade está operando conforme esperado | Será realizada pelo grupo em breve |
+| Correção de Defeitos                   | Correção via feedback de usuários               | Não foi necessário corrigir falhas para esse requisito. |
+| Análise de impacto na evolução         | Médio impacto devido à necessidade de integração com múltiplos sistemas | -                                 |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Artefatos Gerados Pelos Requisitos Não Funcionais
+## Artefatos Gerados Pelos Requisitos Não Funcionais
 
 A tabela 164 mostra os artefatos gerados pelo requisito RNF12.
 
-<b>Tabela 164:</b> Artefatos Gerados pelo requisito RNF12.
+**Tabela 164:** Artefatos Gerados pelo requisito RNF12.
 
-| Artefato                                 | Identificador | Rastreabilidade |
-| ---------------------------------------- | ------------- | --------------- |
-| Cenário                                  | -             | -               |
-| Léxico                                   | -             | -               |
-| Casos de Uso                             | -             | -               |
-| Expecificação Suplementar                | -             | -               |
-| NFR Framework (Cartões de Especificação) | -             | -               |
-| NFR Framework (SIGs)                     | -             | -               |
+| Artefato                      | Identificador | Rastreabilidade |
+|-------------------------------|---------------|-----------------|
+| Cenário                       | O cenário não possui cenário atrelado | - |
+| Léxico                        | O requisito não possui léxico atrelado | - |
+| Casos de Uso                  | O requisito não possui casos de uso atrelado | - |
+| Expecificação Suplementar     | O requisito não possui especificação suplementar atrelado | - |
+| NFR Framework (Cartões de Especificação) | O requisito não possui cartões de especificação atrelado | - |
+| NFR Framework (SIGs)          | O requisito não possui SIGs atrelado | - |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Os Elos
+## Os Elos
 
 A tabela 165 mostra os elos do requisito RNF12.
 
-<b>Tabela 165:</b> Elos do requisito RNF12.
+**Tabela 165:** Elos do requisito RNF12.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo   | Categoria       | Elementos Rastreáveis                                                    | Descrição do ELO                                                                                     | Requisitos Relacionados |
+|---------------|-----------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------|
+| Recurso       | Desenvolvimento | <li> Vocabulários Controlados <br><li> Documentação de Padrões           | O sistema deve utilizar vocabulários controlados e taxonomias padrão para garantir consistência.     | RNF12, RNF14            |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva)
+
+</details>
 
 </center>
 
@@ -2770,60 +2773,61 @@ A tabela 165 mostra os elos do requisito RNF12.
 
 A tabela 166 mostra as versões do requisito RNF13.
 
-<b>Tabela 166:</b> Versão do requisito RNF13.
+**Tabela 166:** Versão do requisito RNF13.
 
-| Versão                              | Rastreabilidade |
-| ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão    | Rastreabilidade |
+|-----------|------------------|
+| Versão 1  | RNF13            |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Estrutura de Desenvolvimento do Requisito
+## Estrutura de Desenvolvimento do Requisito
 
 A tabela 167 mostra a estrutura do requisito RNF13.
 
-<b>Tabela 167:</b> Estrutura do requisito RNF13.
+**Tabela 167:** Estrutura do requisito RNF13.
 
-| Características                     | Explicação | Rastreabilidade |
-| ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Características                        | Explicação                                      | Rastreabilidade                   |
+|----------------------------------------|-------------------------------------------------|-----------------------------------|
+| Nome do Requisito                      | Usuário trabalhador pode solicitar benefícios   | RNF13                             |
+| Alocação no App                        | Na seção de solicitação de benefícios            | Diagrama de Caso de Uso           |
+| Resolução de requisitos em conflito    | Este requisito depende da integração com diversos sistemas de benefícios | -                                 |
+| Verificação                            | Verificar se os benefícios podem ser solicitados corretamente e se a funcionalidade está operando conforme esperado | Será realizada pelo grupo em breve |
+| Correção de Defeitos                   | Correção via feedback de usuários               | Não foi necessário corrigir falhas para esse requisito. |
+| Análise de impacto na evolução         | Médio impacto devido à necessidade de integração com múltiplos sistemas | -                                 |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Artefatos Gerados Pelos Requisitos Não Funcionais
+## Artefatos Gerados Pelos Requisitos Não Funcionais
 
 A tabela 168 mostra os artefatos gerados pelo requisito RNF13.
 
-<b>Tabela 168:</b> Artefatos Gerados pelo requisito RNF13.
+**Tabela 168:** Artefatos Gerados pelo requisito RNF13.
 
-| Artefato                                 | Identificador | Rastreabilidade |
-| ---------------------------------------- | ------------- | --------------- |
-| Cenário                                  | -             | -               |
-| Léxico                                   | -             | -               |
-| Casos de Uso                             | -             | -               |
-| Expecificação Suplementar                | -             | -               |
-| NFR Framework (Cartões de Especificação) | -             | -               |
-| NFR Framework (SIGs)                     | -             | -               |
+| Artefato                      | Identificador | Rastreabilidade |
+|-------------------------------|---------------|-----------------|
+| Cenário                       | O cenário não possui cenário atrelado | - |
+| Léxico                        | O requisito não possui léxico atrelado | - |
+| Casos de Uso                  | O requisito não possui casos de uso atrelado | - |
+| Expecificação Suplementar     | O requisito não possui especificação suplementar atrelado | - |
+| NFR Framework (Cartões de Especificação) | O requisito não possui cartões de especificação atrelado | - |
+| NFR Framework (SIGs)          | O requisito não possui SIGs atrelado | - |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Os Elos
+## Os Elos
 
 A tabela 169 mostra os elos do requisito RNF13.
 
-<b>Tabela 169:</b> Elos do requisito RNF13.
+**Tabela 169:** Elos do requisito RNF13.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo   | Categoria       | Elementos Rastreáveis                                                    | Descrição do ELO                                                                                     | Requisitos Relacionados |
+|---------------|-----------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------|
+| Recurso       | Desenvolvimento | <li> Logs de Processamento <br><li> Documentação de Algoritmos           | Garante o processamento de solicitações dentro do tempo esperado através de algoritmos eficientes e logs. | RNF13, RNF14            |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva)
+
+</details>
 
 </center>
 
@@ -2837,60 +2841,61 @@ A tabela 169 mostra os elos do requisito RNF13.
 
 A tabela 170 mostra as versões do requisito RNF14.
 
-<b>Tabela 170:</b> Versão do requisito RNF14.
+**Tabela 170:** Versão do requisito RNF14.
 
-| Versão                              | Rastreabilidade |
-| ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão    | Rastreabilidade |
+|-----------|------------------|
+| Versão 1  | RNF14            |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Estrutura de Desenvolvimento do Requisito
+## Estrutura de Desenvolvimento do Requisito
 
 A tabela 171 mostra a estrutura do requisito RNF14.
 
-<b>Tabela 171:</b> Estrutura do requisito RNF14.
+**Tabela 171:** Estrutura do requisito RNF14.
 
-| Características                     | Explicação | Rastreabilidade |
-| ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Características                        | Explicação                                      | Rastreabilidade                   |
+|----------------------------------------|-------------------------------------------------|-----------------------------------|
+| Nome do Requisito                      | Usuário trabalhador pode atualizar(declarar) currículo   | RNF14                             |
+| Alocação no App                        | Na seção de atualização de currículo            | Diagrama de Caso de Uso           |
+| Resolução de requisitos em conflito    | Este requisito não conflita com outros requisitos, mas requer a funcionalidade de edição de perfil | -                                 |
+| Verificação                            | Verificar se o usuário consegue atualizar o currículo corretamente | Será realizada pelo grupo em breve |
+| Correção de Defeitos                   | Correção via feedback de usuários               | Não foi necessário corrigir falhas para esse requisito. |
+| Análise de impacto na evolução         | Baixo impacto, afeta principalmente a interface de usuário e a base de dados do perfil do usuário | -                                 |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Artefatos Gerados Pelos Requisitos Não Funcionais
+## Artefatos Gerados Pelos Requisitos Não Funcionais
 
 A tabela 172 mostra os artefatos gerados pelo requisito RNF14.
 
-<b>Tabela 172:</b> Artefatos Gerados pelo requisito RNF14.
+**Tabela 172:** Artefatos Gerados pelo requisito RNF14.
 
-| Artefato                                 | Identificador | Rastreabilidade |
-| ---------------------------------------- | ------------- | --------------- |
-| Cenário                                  | -             | -               |
-| Léxico                                   | -             | -               |
-| Casos de Uso                             | -             | -               |
-| Expecificação Suplementar                | -             | -               |
-| NFR Framework (Cartões de Especificação) | -             | -               |
-| NFR Framework (SIGs)                     | -             | -               |
+| Artefato                      | Identificador | Rastreabilidade |
+|-------------------------------|---------------|-----------------|
+| Cenário                       | O cenário não possui cenário atrelado | - |
+| Léxico                        | O requisito não possui léxico atrelado | - |
+| Casos de Uso                  | O requisito não possui casos de uso atrelado | - |
+| Expecificação Suplementar     | O requisito não possui especificação suplementar atrelado | - |
+| NFR Framework (Cartões de Especificação) | O requisito não possui cartões de especificação atrelado | - |
+| NFR Framework (SIGs)          | O requisito não possui SIGs atrelado | - |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Os Elos
+## Os Elos
 
 A tabela 173 mostra os elos do requisito RNF14.
 
-<b>Tabela 173:</b> Elos do requisito RNF14.
+**Tabela 173:** Elos do requisito RNF14.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo   | Categoria       | Elementos Rastreáveis                                                    | Descrição do ELO                                                                                     | Requisitos Relacionados |
+|---------------|-----------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------|
+| Recurso       | Desenvolvimento | <li> Padrões de Design <br><li> Avaliações de Usabilidade           | O aplicativo deve seguir padrões de design aceitos por empresas e instituições, com uma taxa de conformidade de 95% nas avaliações de usabilidade. | RNF14, RNF15            |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva)
+
+</details>
 
 </center>
 
@@ -2904,60 +2909,59 @@ A tabela 173 mostra os elos do requisito RNF14.
 
 A tabela 174 mostra as versões do requisito RNF15.
 
-<b>Tabela 174:</b> Versão do requisito RNF15.
+**Tabela 174:** Versão do requisito RNF15.
 
-| Versão                              | Rastreabilidade |
-| ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão    | Rastreabilidade |
+|-----------|------------------|
+| Versão 1  | RNF15            |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Estrutura de Desenvolvimento do Requisito
+## Estrutura de Desenvolvimento do Requisito
 
 A tabela 175 mostra a estrutura do requisito RNF15.
 
-<b>Tabela 175:</b> Estrutura do requisito RNF15.
+**Tabela 175:** Estrutura do requisito RNF15.
 
-| Características                     | Explicação | Rastreabilidade |
-| ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
+| Características                        | Explicação                                      | Rastreabilidade                   |
+|----------------------------------------|-------------------------------------------------|-----------------------------------|
+| Nome do Requisito                      | Usuário trabalhador pode ativar modo de status (procurando emprego ou não)   | RNF15                             |
+| Alocação no App                        | Na seção de perfil do usuário                   | Diagrama de Caso de Uso           |
+| Resolução de requisitos em conflito    | Este requisito não conflita com outros requisitos, mas requer a funcionalidade de edição de perfil | -                                 |
+| Verificação                            | Verificar se o usuário consegue alterar o status de procura de emprego corretamente | Será realizada pelo grupo em breve |
+| Correção de Defeitos                   | Correção via feedback de usuários               | Não foi necessário corrigir falhas para esse requisito. |
+| Análise de impacto na evolução         | Baixo impacto, afeta principalmente a interface de usuário e a base de dados do perfil do usuário | -                                 |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Artefatos Gerados Pelos Requisitos Não Funcionais
+## Artefatos Gerados Pelos Requisitos Não Funcionais
 
 A tabela 176 mostra os artefatos gerados pelo requisito RNF15.
 
-<b>Tabela 176:</b> Artefatos Gerados pelo requisito RNF15.
+**Tabela 176:** Artefatos Gerados pelo requisito RNF15.
 
-| Artefato                                 | Identificador | Rastreabilidade |
-| ---------------------------------------- | ------------- | --------------- |
-| Cenário                                  | -             | -               |
-| Léxico                                   | -             | -               |
-| Casos de Uso                             | -             | -               |
-| Expecificação Suplementar                | -             | -               |
-| NFR Framework (Cartões de Especificação) | -             | -               |
-| NFR Framework (SIGs)                     | -             | -               |
+| Artefato                      | Identificador | Rastreabilidade |
+|-------------------------------|---------------|-----------------|
+| Cenário                       | O cenário não possui cenário atrelado | - |
+| Léxico                        | O requisito não possui léxico atrelado | - |
+| Casos de Uso                  | O requisito não possui casos de uso atrelado | - |
+| Expecificação Suplementar     | O requisito não possui especificação suplementar atrelado | - |
+| NFR Framework (Cartões de Especificação) | O requisito não possui cartões de especificação atrelado | - |
+| NFR Framework (SIGs)          | O requisito não possui SIGs atrelado | - |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva).
 
-#### Os Elos
+## Os Elos
 
 A tabela 177 mostra os elos do requisito RNF15.
 
-<b>Tabela 177:</b> Elos do requisito RNF15.
+**Tabela 177:** Elos do requisito RNF15.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo   | Categoria       | Elementos Rastreáveis                                                    | Descrição do ELO                                                                                     | Requisitos Relacionados |
+|---------------|-----------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------|
+| Recurso       | Desenvolvimento | <li> Logs de Backup <br><li> Documentação de Backup                | Garante a realização e integridade dos backups diários através de logs e documentação detalhada. | RNF15, RNF12            |
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+**Autor:** [Bruno Araújo](https://github.com/brunocva)
 
 </center>
 
@@ -3644,5 +3648,6 @@ A tabela 217 mostra os elos do requisito RNF25.
 | ------ | --------------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do artefato                     | Breno Alexandre | Larissa Stéfane | 20/06/2024 |
 | 1.1    | Desenvolvimento do artefato             | Breno Alexandre | Larissa Stéfane | 23/06/2024 |
-| 1.2    | Preenchimento de dados do RF07 até RF14 | Larissa Stéfane |      -          | 24/06/2024 |
+| 1.2    | Preenchimento de dados do RF07 até RF14 | Larissa Stéfane |      Bruno Araújo          | 24/06/2024 |
 | 1.3    | Preenchimento de dados do RF15 até RF21 | Luana Medeiros  |      -          | 24/06/2024 |
+| 1.4    | Preenchimento de dados do RNF 09 até RNF 15 | Bruno Araújo  |                | 24/06/2024 |
