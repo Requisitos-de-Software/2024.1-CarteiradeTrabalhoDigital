@@ -95,7 +95,7 @@ A tabela 6 mostra as versões do requisito RF01.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | [RF01](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/ResquisitosCorrigidos)  |
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
