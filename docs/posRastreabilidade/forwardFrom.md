@@ -287,7 +287,7 @@ A tabela 17 mostra os elos do requisito RF03.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| Recurso | Desenvolvimento | <li> Módulo de Informações Pessoais <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração de funcionalidades com as contas dos usuários e da criação de botões de acesso rápido. | RF02: Usuário poder fazer login para entrar na sua página pessoal |
+| Recurso | Desenvolvimento | <li> Módulo de Informações Pessoais <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração de funcionalidades com as contas dos usuários e da criação de botões de acesso rápido. | RF04: Usuário pode alterar suas informações pessoais |
 
 
 
@@ -360,7 +360,7 @@ A tabela 21 mostra os elos do requisito RF04.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| Recurso | Desenvolvimento | <li> Módulo de Informações Pessoais <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração de funcionalidades com as contas dos usuários e da criação de botões de acesso rápido. | RF02: Usuário poder fazer login para entrar na sua página pessoal |
+| Recurso | Desenvolvimento | <li> Módulo de Informações Pessoais <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração de funcionalidades com as contas dos usuários e da criação de botões de acesso rápido. | RF03: Usuário pode consultar suas informações pessoais |
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
@@ -435,7 +435,7 @@ A tabela 25 mostra os elos do requisito RF05.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| Recurso | Desenvolvimento | <li> Módulo de Informações Trabalhistas <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração de funcionalidades com os bancos de dados de contratos de trabalho e da criação de interfaces específicas para essa consulta. | RF02: Usuário poder fazer login para entrar na sua página pessoal |
+| Recurso | Desenvolvimento | <li> Módulo de Informações Trabalhistas <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração de funcionalidades com os bancos de dados de contratos de trabalho e da criação de interfaces específicas para essa consulta. | RF06:  Usuário trabalhador pode atualizar contratos de trabalho |
 
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
@@ -508,7 +508,7 @@ A tabela 29 mostra os elos do requisito RF06.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| Recurso | Desenvolvimento | <li> Módulo de Informações Trabalhistas <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração de funcionalidades com os bancos de dados de contratos de trabalho e da criação de interfaces específicas para essa consulta. | RF02: Usuário poder fazer login para entrar na sua página pessoal |
+| Recurso | Desenvolvimento | <li> Módulo de Informações Trabalhistas <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração de funcionalidades com os bancos de dados de contratos de trabalho e da criação de interfaces específicas para essa consulta. | RF05:  Usuário trabalhador pode consultar contratos de trabalho |
 
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
@@ -3608,7 +3608,7 @@ A tabela 217 mostra os elos do requisito RNF25.
 
 | Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO| Requisitos Relacionados | 
 | -------------- | ----------------- | ----------------------------------------------------- | -------------|-------------|
-| Recurso | Desenvolvimento | <li> Módulo de Informações Trabalhistas <br> <li> Módulo de Informações Pessoais. <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração com sistemas de backend e de mecanismos de monitoramento para assegurar a taxa de sucesso de 99%. | RF02: Usuário poder fazer login para entrar na sua página pessoal |
+| Recurso | Desenvolvimento | <li> Módulo de Informações Trabalhistas <br> <li> Módulo de Informações Pessoais. <br> <li> Componente de Manipulação de Dados da Carteira. | Este elo indica que o requisito depende da integração com sistemas de backend e de mecanismos de monitoramento para assegurar a taxa de sucesso de 99%. | RNF18: O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real. |
 
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
@@ -3629,6 +3629,6 @@ A tabela 217 mostra os elos do requisito RNF25.
 | ------ | --------------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do artefato                     | Breno Alexandre | Larissa Stéfane | 20/06/2024 |
 | 1.1    | Desenvolvimento do artefato             | Breno Alexandre | Larissa Stéfane | 23/06/2024 |
-| 1.2    | Preenchimento de dados do RF07 até RF14 | Larissa Stéfane |      Bruno Araújo          | 24/06/2024 |
-| 1.3    | Preenchimento de dados do RF15 até RF21 | Luana Medeiros  |      -          | 24/06/2024 |
-| 1.4    | Preenchimento de dados do RNF 09 até RNF 15 | Bruno Araújo  |                | 24/06/2024 |
+| 1.2    | Preenchimento de dados do RF07 até RF14 | Larissa Stéfane | Bruno Araújo          | 24/06/2024 |
+| 1.3    | Preenchimento de dados do RF15 até RF21 | Luana Medeiros  | Iago Passaglia | 24/06/2024 |
+| 1.4    | Preenchimento de dados do RNF 09 até RNF 15 | Bruno Araújo |  Iago Passaglia | 24/06/2024 |
