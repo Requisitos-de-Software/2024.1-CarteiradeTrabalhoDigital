@@ -1064,11 +1064,11 @@ A tabela 64 mostra os artefatos gerados pelo requisito RF15.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
+| Cenário                             | Trabalhador deseja atualizar seu status de procura de emprego no aplicativo. | [Cenários](modelagem/cenarios.md) |
 | Léxico                              |**Verbo:** <br> <li> Atualizar dados pessoais  <br> <br> **Objeto:**  <br> <li>Perfil do Trabalhador <br><li> Notificação <br><br> **Estado:**  <br> <li> Em Processo de Validação <li> Conexão Estável <br> | [Léxicos](modelagem/lexico.md) |
-| Casos de Uso                        | -             | -               |
+| Casos de Uso                        | UC06: Escolher Modo de Status de Procura de Emprego | [Casos de Uso](modelagem/casoDeUso.md) |
 | Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
+| História de Usuário                 | HI20 - Status de contratação | [História de Usuário](modelagemAgil/historiaUsuario.md)|
 | Backlog                             | -             | -               |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
@@ -1130,11 +1130,11 @@ A tabela 68 mostra os artefatos gerados pelo requisito RF16.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
+| Cenário                             | Trabalhador deseja consultar as vagas de emprego disponíveis. | [Cenários](modelagem/cenarios.md)  |
 | Léxico                              | **Verbo:** <br> <li> Consultar Vínculos Empregatícios  <br> <br> **Objeto:**  <br> <li> Vínculo Empregatício <br><br> **Estado:**  <br> <li> Em Processo de Validação <li> Conexão Estável <br> | [Léxicos](modelagem/lexico.md)|
-| Casos de Uso                        | -             | -               |
+| Casos de Uso                        | UC02: Visualiza aba emprego | [Casos de Uso](modelagem/casoDeUso.md)|
 | Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
+| História de Usuário                 | HI19 - Acesso a informações de vagas de emprego | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 | Backlog                             | -             | -               |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
@@ -1196,11 +1196,11 @@ A tabela 72 mostra os artefatos gerados pelo requisito RF17.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
+| Cenário                             | Trabalhador deseja configurar as suas preferências de privacidade no aplicativo. | [Cenários](modelagem/cenarios.md) |
 | Léxico                              | **Verbo:** <br> <li> Atualizar dados pessoais  <br> <br> **Objeto:**  <br> <li> Perfil do Trabalhador <br><br> **Estado:**  <br> <li> Em Processo de Validação <li> Conexão Estável <br> | [Léxicos](modelagem/lexico.md) |
-| Casos de Uso                        | -             | -               |
+| Casos de Uso                        | UC04:	Atualização de Contrato | [Casos de Uso](modelagem/casoDeUso.md) |
 | Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
+| História de Usuário                 | HI21 - Configurações de privacidade | [História de Usuário](modelagemAgil/historiaUsuario.md)|
 | Backlog                             | -             | -               |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
@@ -1262,11 +1262,11 @@ A tabela 76 mostra os artefatos gerados pelo requisito RF18.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
+| Cenário                             | Trabalhador deseja visualizar suas informações de carteira de trabalho.| [Cenários](modelagem/cenarios.md) |
 | Léxico                              |**Verbo:** <br> <li> Consultar Vínculos Empregatícios  <br> <br> **Objeto:**  <br> <li> Carteira <br><br> **Estado:**  <br> <li> Contrato Ativo <li> Conexão Estável <br> | [Léxicos](modelagem/lexico.md) |
-| Casos de Uso                        | -             | -               |
+| Casos de Uso                        | UC03:	Trabalhador acessa detalhes dos contratos de trabalho | [Casos de Uso](modelagem/casoDeUso.md)|
 | Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
+| História de Usuário                 | HI04 - Visualizar o perfil e dados | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 | Backlog                             | -             | -               |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
@@ -1328,11 +1328,11 @@ A tabela 80 mostra os artefatos gerados pelo requisito RF19.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
+| Cenário                             | Trabalhador deseja receber notificações relevantes do aplicativo. | [Cenários](modelagem/cenarios.md)|
 | Léxico                              | **Verbo:** <br> <li> Solicitar Benefício <br> <li> Consultar Vínculos Empregatícios <br> <br> **Objeto:**  <br> <li> Notificação <br><br> **Estado:**  <br> <li> Conexão Estável <li> Em Processo de Validação <br> | [Léxicos](modelagem/lexico.md) |
-| Casos de Uso                        | -             | -               |
+| Casos de Uso                        | UC02:	Visualizar aba "Emprego" | [Casos de Uso](modelagem/casoDeUso.md) |
 | Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
+| História de Usuário                 | HI22 - Visualizar relatório de atividades da conta | [História de Usuário](modelagemAgil/historiaUsuario.md)|
 | Backlog                             | -             | -               |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
@@ -1394,11 +1394,11 @@ A tabela 84 mostra os artefatos gerados pelo requisito RF20.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
+| Cenário                             | Trabalhador deseja consultar perguntas frequentes relacionadas aos seus direitos trabalhistas. | [Cenários](modelagem/cenarios.md) |
 | Léxico                              | **Verbo:** <br> <li> Consultar Vínculos Empregatícios <br> <br> **Objeto:**  <br> <li> Perfil do Trabalhador <br><br> **Estado:**  <br> <li> Conexão Estável <br> | [Léxicos](modelagem/lexico.md) |
-| Casos de Uso                        | -             | -               |
+| Casos de Uso                        | UC09	Verificar direitos trabalhistas do contrato atual | [Casos de Uso](modelagem/casoDeUso.md) |
 | Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
+| História de Usuário                 | HI25 - Acessar um manual para o uso do aplicativo e possíveis dúvidas | [História de Usuário](modelagemAgil/historiaUsuario.md)|
 | Backlog                             | -             | -               |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
@@ -1460,11 +1460,11 @@ A tabela 88 mostra os artefatos gerados pelo requisito RF21.
 
 | Artefato                            | Identificador | Rastreabilidade |
 | ----------------------------------- | ------------- | --------------- |
-| Cenário                             | -             | -               |
+| Cenário                             | Empregador deseja visualizar dados dos seus funcionários. | [Cenários](modelagem/cenarios.md) |
 | Léxico                              | **Verbo:** <br> <li> Consultar Vínculos Empregatícios <br> <li> Atualizar dados pessoais <br> <br> **Objeto:**  <br> <li> Contrato de Trabalho <br> <li>Informação do Contrato <br> <br> **Estado:**  <br> <li> Contrato Ativo <br> <li>Em Processo de Validação<br> <li>Conexão Estável<br> | [Léxicos](modelagem/lexico.md) |
-| Casos de Uso                        | -             | -               |
+| Casos de Uso                        | UC04:	Atualização de Contrato | [Casos de Uso](modelagem/casoDeUso.md) |
 | Expecificação Suplementar           | -             | -               |
-| História de Usuário                 | -             | -               |
+| História de Usuário                 | HI15 - Acessar o histórico de candidatos | [História de Usuário](modelagemAgil/historiaUsuario.md) |
 | Backlog                             | -             | -               |
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
