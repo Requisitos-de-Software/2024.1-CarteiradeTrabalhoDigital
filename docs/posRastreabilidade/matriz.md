@@ -66,15 +66,14 @@ Após a análise de rastreabilidade, organizamos as informações na Tabela 1, f
 |         RNF13        | Processamento de Solicitações em 2 Minutos        | Análise de Documentos e Storytelling    | Parcialmente  | Log de Processamento        | RF08, RNF12                        |
 |         RNF14        | Padrões de Design Aceitos                         | Storytelling                            | Parcialmente  | Avaliação de Usabilidade    | RF10, RNF15                        |
 |         RNF15        | Backup Diário                                     | Análise de Documentos                   | Sim           | Logs de Backup              | RF11, RNF14                        |
-|         RNF16        | --   |  --    |       --      |    --     | --   | 
-|         RNF17        | --   |  --    |       --      |    --     | --   | 
-|         RNF18        | --   |  --    |       --      |    --     | --   | 
-|         RNF19        | --   |  --    |       --      |    --     | --   | 
-|         RNF20        | --   |  --    |       --      |    --     | --   | 
-|         RNF21        | --   |  --    |       --      |    --     | --   | 
-|         RNF22        | --   |  --    |       --      |    --     | --   | 
-|         RNF23        | --   |  --    |       --      |    --     | --   | 
-|         RNF24        | --   |  --    |       --      |    --     | --   | 
+|         RNF16        |O sistema deve permitir ao usuário atualizar seus dados em no máximo 15 minutos, sem a necessidade de intermediários, com uma taxa de sucesso de 95%.	 | Storytelling	 | Parcialmente  |    [NRF Framework](modelagemAgil/NFR.md)   <br> [Cenários](/modelagem/cenarios.md) <br> [Casos de uso](/modelagem/casoDeUso.md) |  RF04  <br>  RF22 | 
+|         RNF17        | O sistema deve apresentar dados pessoais com orientações claras e links para correção, com uma taxa de conformidade de 100% nas verificações.	 | Storytelling   | Parcialmente |    [NRF Framework](modelagemAgil/NFR.md) <br> [Cenários](/modelagem/cenarios.md) <br> [Casos de uso](/modelagem/casoDeUso.md)  | RF03 <br> RF04 <br> RF22 <br> RNF09  | 
+|         RNF18        | O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real.	 | Análise de documentos e storytelling   |       Parcialmente  |   [NRF Framework](modelagemAgil/NFR.md)  <br> [Cenários](/modelagem/cenarios.md) <br> [Casos de uso](/modelagem/casoDeUso.md)  | RF05 <br> RF23 <br> RF25 <br> RNF18   | 
+|         RNF20        | O sistema deve ser totalmente integrado com o eSocial, com uma taxa de sincronização de dados de 99%.	| Análise de documentos   | Parcialmente    |   [NRF Framework](modelagemAgil/NFR.md) <br> [Cenários](/modelagem/cenarios.md) <br> [Casos de uso](/modelagem/casoDeUso.md)  | RF11 <br>  RF23  <br>  RF27 | 
+|         RNF21        | O sistema deve ser totalmente integrado com o portal gov.br, com uma taxa de sincronização de dados de 99%.	  |  Análise de documentos	   |Parcialmente|    [NRF Framework](modelagemAgil/NFR.md) <br> [Cenários](/modelagem/cenarios.md) <br> [Casos de uso](/modelagem/casoDeUso.md) | RF02  <br>  RF04 <br> RNBF09  <br>  RNF16 <br> RNF25  | 
+|         RNF22        | O sistema deve permitir integração com pelo menos cinco outros sistemas de software, conforme especificado na documentação de requisitos.	   |  Análise de documentos	   |     Parcialmente  |   [NRF Framework](modelagemAgil/NFR.md)   | RF19   | 
+|         RNF23        | O sistema deve enviar notificações precisas com uma taxa de falsos positivos inferior a 5%.	  | Storytelling    |   Parcialmente |  [NRF Framework](modelagemAgil/NFR.md)    | RNF09 <br> RNF20 <br> RNF21  | 
+|         RNF24        |O aplicativo deve ser compatível com iOS, Android e Windows, sem apresentar falhas críticas em nenhum dos sistemas operacionais suportados.	   |  Storytelling  | Parcialmente |    [NRF Framework](modelagemAgil/NFR.md)  | RNF14 | 
 |         RNF25        | --   |  --    |       --      |    --     | --   | 
 
 <font size="3"><p style="text-align: center">Autores: [Pedro Izarias](https://github.com/Izarias), [Bruno Araújo](https://github.com/brunocva), [Luana Medeiros](https://github.com/LuaMedeiros), [Larissa Stéfane](https://github.com/SkywalkerSupreme).</p></font>
@@ -96,3 +95,4 @@ A matriz de rastreabilidade desenvolvida para o projeto da Carteira Digital de T
 | 1.1 |  Adição dos RNF 09 ao 15. | Bruno Araújo |  ---  |  23/06/2024  |
 | 1.2 |  Adição dos RF 07 ao 14. | Larissa Stéfane |  ---  |  24/06/2024  |
 | 1.3 |  Adição dos RF 15 ao 21. | Luana Medeiros |  ---  |  24/06/2024  |
+| 1.4 |  Adição dos RnF 16 ao 24. |Caio Mesquita |  ---  |  24/06/2024  |
