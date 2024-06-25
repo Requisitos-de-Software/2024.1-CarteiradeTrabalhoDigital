@@ -2954,7 +2954,7 @@ A tabela 178 mostra as versões do requisito RNF16.
 
 | Versão                              | Rastreabilidade |
 | ----------------------------------- | --------------- |
-| Versão 1                            | -               |
+| Versão 1                            | -   RNF16        |
 
 <b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
 
@@ -2999,9 +2999,9 @@ A tabela 181 mostra os elos do requisito RNF16.
 
 <b>Tabela 181:</b> Elos do requisito RNF16.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria        | Elementos Rastreáveis                                                                                                   | Descrição do ELO                                                                                                    |
+|-------------|------------------|------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Recurso     | Desenvolvimento  | <li> Módulo de atualização de dados do usuário. <br> <li> Sistema de autenticação e autorização. <br> <li> Banco de dados com suporte a atualizações em tempo real. <br> <li> Ferramentas de monitoramento e análise de desempenho. | O módulo de atualização de dados do usuário, o sistema de autenticação e autorização, o banco de dados com suporte a atualizações em tempo real e as ferramentas de monitoramento e análise de desempenho **fornecem os recursos necessários** para garantir que o usuário possa atualizar seus dados em no máximo 15 minutos, sem intermediários, e com uma taxa de sucesso de 95%. |
 
 <b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
 
@@ -3066,9 +3066,9 @@ A tabela 185 mostra os elos do requisito RNF17.
 
 <b>Tabela 185:</b> Elos do requisito RNF17.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria| Elementos Rastreáveis | Descrição do ELO  | 
+|-------------|------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Satisfação  | Desenvolvimento  | <li> Interface de usuário para visualização de dados pessoais. <br> <li> Sistema de orientação e ajuda. <br> <li> Links para páginas de correção de dados. <br> <li> Módulo de verificação de conformidade. | A interface de usuário para visualização de dados pessoais, o sistema de orientação e ajuda, os links para páginas de correção de dados e o módulo de verificação de conformidade **satisfazem as necessidades** para garantir que o sistema apresente dados pessoais com orientações claras e links para correção, com uma taxa de conformidade de 100% nas verificações. |
 
 <b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
 
@@ -3133,77 +3133,9 @@ A tabela 189 mostra os elos do requisito RNF18.
 
 <b>Tabela 189:</b> Elos do requisito RNF18.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
-
-<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
-
-</center>
-
-</details>
-
-
-<details>
-  <summary><b> RNF19 - Caio Mesquita </b></summary>
-
-#### Versões do Requisito
-
-A tabela 190 mostra as versões do requisito RNF19.
-
-<b>Tabela 190:</b> Versão do requisito RNF19.
-
-| Versão                              | Rastreabilidade |
-| ----------------------------------- | --------------- |
-| Versão 1                            | -               |
-
-<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
-
-#### Estrutura de Desenvolvimento do Requisito
-
-A tabela 191 mostra a estrutura do requisito RNF19.
-
-<b>Tabela 191:</b> Estrutura do requisito RNF19.
-
-| Características                     | Explicação | Rastreabilidade |
-| ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | -          | -               |
-| Alocação no App                     | -          | -               |
-| Resolução de requisitos em conflito | -          | -               |
-| Verificação                         | -          | -               |
-| Correção de Defeitos                | -          | -               |
-| Análise de impacto na evolução      | -          | -               |
-| Correção de Defeitos                | -          | -               |
-
-<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
-
-#### Artefatos Gerados Pelos Requisitos Não Funcionais
-
-A tabela 192 mostra os artefatos gerados pelo requisito RNF19.
-
-<b>Tabela 192:</b> Artefatos Gerados pelo requisito RNF19.
-
-| Artefato                                 | Identificador | Rastreabilidade |
-| ---------------------------------------- | ------------- | --------------- |
-| Cenário                                  | -             | -               |
-| Léxico                                   | -             | -               |
-| Casos de Uso                             | -             | -               |
-| Expecificação Suplementar                | -             | -               |
-| NFR Framework (Cartões de Especificação) | -             | -               |
-| NFR Framework (SIGs)                     | -             | -               |
-
-<b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
-
-#### Os Elos
-
-A tabela 193 mostra os elos do requisito RNF19.
-
-<b>Tabela 193:</b> Elos do requisito RNF19.
-
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
-
+ | Tipo de Elo | Categoria        | Elementos Rastreáveis                                                                                                   | Descrição do ELO                                                                                                    | 
+|-------------|------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Recurso     | Desenvolvimento  | <li> Módulo de listagem de contratos de trabalho. <br> <li> Sistema de atualização em tempo real. <br> <li> Banco de dados com suporte a atualizações em tempo real. <br> <li> Ferramentas de monitoramento e análise de desempenho. | O módulo de listagem de contratos de trabalho, o sistema de atualização em tempo real, o banco de dados com suporte a atualizações em tempo real e as ferramentas de monitoramento e análise de desempenho **fornecem os recursos necessários** para garantir que o sistema liste contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real. |
 <b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
 
 </center>
@@ -3267,9 +3199,9 @@ A tabela 197 mostra os elos do requisito RNF20.
 
 <b>Tabela 197:</b> Elos do requisito RNF20.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria        | Elementos Rastreáveis                                                                                                   | Descrição do ELO                                                                                                    | 
+|-------------|------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Recurso     | Desenvolvimento  | <li> Módulo de integração com eSocial. <br> <li> Sistema de sincronização de dados. <br> <li> Banco de dados com suporte a integração em tempo real. <br> <li> Interface de usuário para exibição dos dados do eSocial. | O módulo de integração com o eSocial, o sistema de sincronização de dados, o banco de dados com suporte a integração em tempo real e a interface de usuário para exibição dos dados do eSocial **fornecem os recursos necessários** para garantir que o sistema seja totalmente integrado com o eSocial, com uma taxa de sincronização de dados de 99%. |
 
 <b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
 
@@ -3334,9 +3266,9 @@ A tabela 201 mostra os elos do requisito RNF21.
 
 <b>Tabela 201:</b> Elos do requisito RNF21.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria        | Elementos Rastreáveis                                                                                                   | Descrição do ELO                                                                                                    | 
+|-------------|------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Recurso     | Desenvolvimento  | <li> Módulo de integração com portal gov.br. <br> <li> Sistema de sincronização de dados. <br> <li> Banco de dados com suporte a integração em tempo real. <br> <li> Interface de usuário para exibição e atualização dos dados do portal gov.br. | O módulo de integração com o portal gov.br, o sistema de sincronização de dados, o banco de dados com suporte a integração em tempo real e a interface de usuário para exibição e atualização dos dados do portal gov.br **fornecem os recursos necessários** para garantir que o sistema seja totalmente integrado com o portal gov.br, com uma taxa de sincronização de dados de 99%. | 
 
 <b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
 
@@ -3401,9 +3333,10 @@ A tabela 205 mostra os elos do requisito RNF22.
 
 <b>Tabela 205:</b> Elos do requisito RNF22.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria       | Elementos Rastreáveis                                                                                                      | Descrição do ELO                                                                                                           | 
+|-------------|-----------------|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Alocado     | Desenvolvimento | <li> Módulo de integração com Sistema A. <br> <li> Módulo de integração com Sistema B. <br> <li> Módulo de integração com Sistema C. <br> <li> Módulo de integração com Sistema D. <br> <li> Módulo de integração com Sistema E. | Os módulos de integração com os cinco sistemas especificados fornecem os recursos necessários para permitir a integração do sistema com pelo menos cinco outros sistemas de software. |  
+
 
 <b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
 
@@ -3468,9 +3401,9 @@ A tabela 209 mostra os elos do requisito RNF23.
 
 <b>Tabela 209:</b> Elos do requisito RNF23.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria       | Elementos Rastreáveis                                                                 | Descrição do ELO                                                                                                       | 
+|-------------|-----------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Satisfação  | Desenvolvimento | <li> Algoritmo de geração de notificações. <br> <li> Conjunto de regras de validação. | O algoritmo de geração de notificações e o conjunto de regras de validação **satisfazem** a necessidade de enviar notificações precisas com taxa de falsos positivos inferior a 5%. |
 
 <b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
 
@@ -3535,15 +3468,16 @@ A tabela 213 mostra os elos do requisito RNF24.
 
 <b>Tabela 213:</b> Elos do requisito RNF24.
 
-| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO |
-| ----------- | --------- | --------------------- | ---------------- |
-| - | - | - | - |
+| Tipo de Elo | Categoria | Elementos Rastreáveis | Descrição do ELO|
+| -------------- | ----------------- | ----------------------------------------------------- | -------------|
+| Alocado     | Desenvolvimento | <li> Testes de compatibilidade com iOS. <br> <li> Testes de compatibilidade com Android. <br> <li> Testes de compatibilidade com Windows. | Os testes de compatibilidade com iOS, Android e Windows **alocam** recursos para garantir que o aplicativo seja compatível sem falhas críticas em nenhum dos sistemas operacionais suportados. | 
 
 <b> Autor: </b> <a href="https://github.com/caiomesvie">Caio Mesquita</a>.
 
 </center>
 
 </details>
+
 
 
 <details>
