@@ -25,6 +25,7 @@ Segue o cronograma para esta etapa, na tabela 1.
 
 | Artefato | Autor(a)(es) | Lista(Pronta/Incompleta/Não tem) | Autor(a)(es) | Responsável pelo VDV | Inspecionador(a) | Prioridade |
 | -------- | ------------ | -------------------------------- | ------------ | -------------------- | ---------------- | ---------- |
+| | | | | | | |
 
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
