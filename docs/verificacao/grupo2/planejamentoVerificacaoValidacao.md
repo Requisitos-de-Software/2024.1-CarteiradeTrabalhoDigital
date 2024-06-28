@@ -23,9 +23,10 @@ Segue o cronograma para esta etapa, na tabela 1.
 
 <b>Tabela 1:</b> Cronograma.
 
-| Artefato | Autor(a)(es) | Lista(Pronta/Incompleta/Não tem) | Autor(a)(es) | Responsável pelo VDV | Inspecionador(a) | Prioridade |
-| -------- | ------------ | -------------------------------- | ------------ | -------------------- | ---------------- | ---------- |
-| | | | | | | |
+| Artefato                           | Autor(a)(es)                               | Lista      | Autor(a)(es)   | Responsável pelo VDV | Inspecionador(a) | Prioridade |
+| ---------------------------------- | ------------------------------------------ | ---------- | -------------- | -------------------- | ---------------- | ---------- |
+| **README**                         | Caio e Larissa                             | Não tem    |                |                      | Iago Passaglia   | Baixa      |
+| **APRESENTAÇÕES**                  | Caio e Iago                                | Não tem    |                |                      | Breno Alexandre  | Baixa      |
 
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
