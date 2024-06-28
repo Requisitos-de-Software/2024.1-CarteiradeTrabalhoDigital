@@ -24,15 +24,19 @@ De início, deverá ser feita uma verificação e correção informal da lista d
 
 ## Erros da Lista
 
-A tabela a seguir mostra os erros encontrados na lista de verficação, assim como .
+A tabela a seguir mostra os erros encontrados na lista de verficação, assim como os locais e as soluções usadas.
 
 <center>
 
-<b>Tabela 1:</b> Lista de verificação para NOME.
+<b>Tabela 1:</b> Verificação da lista de verificação para NOME.
 
 | Erro    | Explicação | Local | Solução |
 | ------- | ---------- | ----- | ------- |
 | erroTal | explicacao | local | solucao |
+
+<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+
+</center>
 
 ## Lista de verificação
 
@@ -40,7 +44,7 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato NOME, a
 
 <center>
 
-<b>Tabela 1:</b> Lista de verificação para NOME.
+<b>Tabela 2:</b> Lista de verificação para NOME.
 
 | ID  | Pergunta | Explicação | Rastreabilidade | Captura de tela |
 | --- | -------- | ---------- | --------------- | --------------- |
@@ -61,7 +65,7 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato NOME.
 
 <center>
 
-<b>Tabela 2:</b> Resposta da lista de verificação para NOME.
+<b>Tabela 3:</b> Resposta da lista de verificação para NOME.
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 | -- | --------- | ------------------------------------------------ |
@@ -78,7 +82,7 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArte
 
 <center>
 
-<b>Tabela 3:</b> Sugestões de melhoria para NOME.
+<b>Tabela 4:</b> Sugestões de melhoria para NOME.
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
