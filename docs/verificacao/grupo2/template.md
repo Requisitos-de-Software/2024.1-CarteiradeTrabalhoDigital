@@ -4,6 +4,7 @@
 ## Sumário
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
+* [Erros da Lista](#Erros-da-Lista)
 * [Lista de Verificação](#Lista-de-Verificação)
 * [Inspeção](#Inspeção)
 * [Vídeo da Inspeção](#Vídeo-da-Inspeção)
@@ -19,8 +20,19 @@ O seguinte documento possui o intuito de utilizar a lista de verificação para 
 
 ## Metodologia
 
-Será utilizada uma lista de verificação contendo perguntas e respostas sobre o artefato. Com a conclusão das respostas, o grupo avaliado poderá realizar alterações e melhorias para assegurar que o artefato esteja em conformidade com as diretrizes estabelecidas.
+De início, deverá ser feita uma verificação e correção informal da lista de verificação feita para o grupo 3, se ela já existir. Após isso, será utilizada a lista de verificação, que contém perguntas e respostas sobre o artefato. Com a conclusão das respostas, o grupo avaliado poderá realizar alterações e melhorias para assegurar que o artefato esteja em conformidade com as diretrizes estabelecidas.
 
+## Erros da Lista
+
+A tabela a seguir mostra os erros encontrados na lista de verficação, assim como .
+
+<center>
+
+<b>Tabela 1:</b> Lista de verificação para NOME.
+
+| Erro    | Explicação | Local | Solução |
+| ------- | ---------- | ----- | ------- |
+| erroTal | explicacao | local | solucao |
 
 ## Lista de verificação
 
