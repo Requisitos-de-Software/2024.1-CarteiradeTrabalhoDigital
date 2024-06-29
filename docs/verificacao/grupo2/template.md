@@ -7,8 +7,8 @@
 * [Erros da Lista](#Erros-da-Lista)
 * [Lista de Verificação](#Lista-de-Verificação)
 * [Inspeção](#Inspeção)
-* [Vídeo da Inspeção](#Vídeo-da-Inspeção)
 * [Erros Encontrados](#Erros-Encontrados)
+* [Vídeo da Inspeção](#Vídeo-da-Inspeção)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
 
