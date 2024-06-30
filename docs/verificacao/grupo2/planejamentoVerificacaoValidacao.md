@@ -32,6 +32,10 @@ Segue o cronograma para esta etapa, na tabela 1.
 | Heatmap                            | Bruno Araújo                               | Não tem    | Não tem        | Breno Alexandre      | Iago Passaglia   | Baixa      |
 | Cronograma                         | Breno, Caio, Larissa e Luana               | Não tem    | Não tem        | Pedro Izarias        | Bruno Araújo     | Baixa      |
 | Ferramentas Utilizadas             | Larissa Stéfane                            | Não tem    | Não tem        | Caio Mesquita        | Breno Alexandre  | Baixa      |
+| Análise de Documentos             | Larissa Stéfane                            | Tem    | Não tem        | Caio Mesquita        | Breno Alexandre  | Baixa      |
+| Rich Picture             | Pedro Izarias                            | Tem    | Não tem        | Caio Mesquita        | Breno Alexandre  | Baixa      |
+| In or Out             | Luana Medeiros                            | Tem    | Não tem        | Caio Mesquita        | Breno Alexandre  | Baixa      |
+| Léxicos             | Pedro Izarias                            |  Tem    | Não tem        | Caio Mesquita        | Breno Alexandre  | Baixa      |
 
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
