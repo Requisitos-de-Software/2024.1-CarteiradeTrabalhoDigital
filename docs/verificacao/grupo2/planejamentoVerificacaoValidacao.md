@@ -40,8 +40,8 @@ Segue o cronograma para esta etapa, na tabela 1.
 | Histórias de Usuário               | Larissa Stéfane                            | Tem        | Larissa Stéfane                         |     -                | -                | Alta       |
 | Cartões de Especificação           | Larissa Stéfane                            | Tem        | Larissa Stéfane                         |     -                | -                | Alta       |
 | SIG Softgoal Interdependency Graph | Larissa Stéfane                            | Tem        | Larissa Stéfane                         |     -                | -                | Alta       |
-| Questionário                       | Larissa Stéfane                            | Não tem    | Não tem                                 |     -                | -                | Média      |
-| Priorização - Quadrante            | Larissa Stéfane                            | Não tem    | Não tem                                 |     -                | -                | Média      |
+| Questionário                       | Larissa Stéfane                            | Não tem    | Larissa Stéfane                         |     -                | -                | Média      |
+| Priorização - Quadrante            | Larissa Stéfane                            | Não tem    | Larissa Stéfane                         |     -                | -                | Média      |
 | Rich Picture                       | Pedro Izarias                              | Tem        |     -                                   |     -                | Pedro Izarias    | Baixa      |
 | In or Out                          | Luana Medeiros                             | Tem        |    -                                    |    -                 | Pedro Izarias    | Baixa      |
 | Léxicos                            | Pedro Izarias                              |  Tem       |    -                                    |    -                 | Pedro Izarias    | Baixa      |
