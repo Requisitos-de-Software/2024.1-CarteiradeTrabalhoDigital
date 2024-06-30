@@ -293,7 +293,7 @@ entrega 3:
 - falta metodologias
 
 entrega 4:
-- faltou cornograma pra reuniao do backlog
+- faltou cronograma pra reuniao do backlog
 - motivo de escolha do PO
 - onde, quem e quando entrevista com PO
 - requisitos tem que ser verificaveis e fontes
