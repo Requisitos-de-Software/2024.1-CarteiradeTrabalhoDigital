@@ -23,19 +23,19 @@ Segue o cronograma para esta etapa, na tabela 1.
 
 <b>Tabela 1:</b> Cronograma.
 
-| Artefato                           | Autor(a)(es)                               | Lista      | Autor(a)(es)   | Responsável pelo VDV | Inspecionador(a) | Prioridade |
-| ---------------------------------- | ------------------------------------------ | ---------- | -------------- | -------------------- | ---------------- | ---------- |
-| **README**                         | Caio e Larissa                             | Não tem    | Não tem        | Iago Passaglia       | Luana Medeiros   | Baixa      |
-| **APRESENTAÇÕES**                  | Caio e Iago                                | Não tem    | Não tem        | Bruno Araújo         | Pedro Izarias    | Baixa      |
-| **REUNIÕES(ATAS)**                 | Breno, Bruno, Iago e Larissa               | Não tem    | Não tem        | Pedro Izarias        | Caio Mesquita    | Baixa      |
+| Artefato                           | Autor(a)(es)                               | Lista      | Quem vai fazer a lista                  | Responsável pelo VDV | Inspecionador(a) | Prioridade |
+| ---------------------------------- | ------------------------------------------ | ---------- | --------------------------------------- | -------------------- | ---------------- | ---------- |
+| **README**                         | Caio e Larissa                             | Não tem    | Não tem                                 | Iago Passaglia       | Luana Medeiros   | Baixa      |
+| **APRESENTAÇÕES**                  | Caio e Iago                                | Não tem    | Não tem                                 | Bruno Araújo         | Pedro Izarias    | Baixa      |
+| **REUNIÕES(ATAS)**                 | Breno, Bruno, Iago e Larissa               | Não tem    | Não tem                                 | Pedro Izarias        | Caio Mesquita    | Baixa      |
 | **PLANEJAMENTO** | | | | | | |
-| Heatmap                            | Bruno Araújo                               | Não tem    | Não tem        | Breno Alexandre      | Iago Passaglia   | Baixa      |
-| Cronograma                         | Breno, Caio, Larissa e Luana               | Não tem    | Não tem        | Pedro Izarias        | Bruno Araújo     | Baixa      |
-| Ferramentas Utilizadas             | Larissa Stéfane                            | Não tem    | Não tem        | Caio Mesquita        | Breno Alexandre  | Baixa      |
-| Análise de Documentos             | Larissa Stéfane                            | Tem    |     -    |     -     | Pedro Izarias  | Baixa      |
-| Rich Picture             | Pedro Izarias                            | Tem    |     -     |     -     | Pedro Izarias  | Baixa      |
-| In or Out             | Luana Medeiros                            | Tem    |    -      |    -      | Pedro Izarias  | Baixa      |
-| Léxicos             | Pedro Izarias                            |  Tem    |    -      |    -      | Pedro Izarias  | Baixa      |
+| Heatmap                            | Bruno Araújo                               | Não tem    | Não tem                                 | Breno Alexandre      | Iago Passaglia   | Baixa      |
+| Cronograma                         | Breno, Caio, Larissa e Luana               | Não tem    | Não tem                                 | Pedro Izarias        | Bruno Araújo     | Baixa      |
+| Ferramentas Utilizadas             | Larissa Stéfane                            | Não tem    | Não tem                                 | Caio Mesquita        | Breno Alexandre  | Baixa      |
+| Análise de Documentos              | Larissa Stéfane                            | Tem        | Larissa Stéfane                         |     -                | -                | Alta       |
+| Rich Picture                       | Pedro Izarias                              | Tem        |     -                                   |     -                | Pedro Izarias  | Baixa      |
+| In or Out                          | Luana Medeiros                             | Tem        |    -                                    |    -                 | Pedro Izarias  | Baixa      |
+| Léxicos                            | Pedro Izarias                              |  Tem       |    -                                    |    -                 | Pedro Izarias  | Baixa      |
 
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
