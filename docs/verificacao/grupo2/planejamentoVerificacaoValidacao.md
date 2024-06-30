@@ -32,7 +32,7 @@ Segue o cronograma para esta etapa, na tabela 1.
 | Heatmap                            | Bruno Araújo                               | Não tem    | Não tem        | Breno Alexandre      | Iago Passaglia   | Baixa      |
 | Cronograma                         | Breno, Caio, Larissa e Luana               | Não tem    | Não tem        | Pedro Izarias        | Bruno Araújo     | Baixa      |
 | Ferramentas Utilizadas             | Larissa Stéfane                            | Não tem    | Não tem        | Caio Mesquita        | Breno Alexandre  | Baixa      |
-| Análise de Documentos             | Larissa Stéfane                            | Tem    |     -    | Caio Mesquita        | Pedro Izarias  | Baixa      |
+| Análise de Documentos             | Larissa Stéfane                            | Tem    |     -    |     -     | Pedro Izarias  | Baixa      |
 | Rich Picture             | Pedro Izarias                            | Tem    |     -     |     -     | Pedro Izarias  | Baixa      |
 | In or Out             | Luana Medeiros                            | Tem    |    -      |    -      | Pedro Izarias  | Baixa      |
 | Léxicos             | Pedro Izarias                            |  Tem    |    -      |    -      | Pedro Izarias  | Baixa      |
