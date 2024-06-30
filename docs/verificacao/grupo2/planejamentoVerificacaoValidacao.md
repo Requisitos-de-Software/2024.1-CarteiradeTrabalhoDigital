@@ -8,7 +8,7 @@
 
 ## Introdução
 
-O seguinte documento possui o intuito de planejar a confecção/reutilização de listas de verificação para os artefatos do grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de IHC, semestre 2024.1. Este planejamento servirá como guia para os membros relizarem seu trabalho.
+O seguinte documento possui o intuito de planejar a confecção/reutilização de listas de verificação para os artefatos do grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. Este planejamento servirá como guia para os membros relizarem seu trabalho.
 
 ## Metodologia
 
