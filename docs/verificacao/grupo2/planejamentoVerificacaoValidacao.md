@@ -33,9 +33,18 @@ Segue o cronograma para esta etapa, na tabela 1.
 | Cronograma                         | Breno, Caio, Larissa e Luana               | Não tem    | Não tem                                 | Pedro Izarias        | Bruno Araújo     | Baixa      |
 | Ferramentas Utilizadas             | Larissa Stéfane                            | Não tem    | Não tem                                 | Caio Mesquita        | Breno Alexandre  | Baixa      |
 | Análise de Documentos              | Larissa Stéfane                            | Tem        | Larissa Stéfane                         |     -                | -                | Alta       |
-| Rich Picture                       | Pedro Izarias                              | Tem        |     -                                   |     -                | Pedro Izarias  | Baixa      |
-| In or Out                          | Luana Medeiros                             | Tem        |    -                                    |    -                 | Pedro Izarias  | Baixa      |
-| Léxicos                            | Pedro Izarias                              |  Tem       |    -                                    |    -                 | Pedro Izarias  | Baixa      |
+| Perfil do Usuário                  | Larissa Stéfane                            | Tem        | Larissa Stéfane                         |     -                | -                | Alta       | 
+| Análise de Documentos              | Larissa Stéfane                            | Tem        | Larissa Stéfane                         |     -                | -                | Alta       |
+| Cenários                           | Larissa Stéfane                            | Tem        | Larissa Stéfane                         |     -                | -                | Alta       |
+| Especificação Suplementar          | Larissa Stéfane                            | Incompleto | Larissa Stéfane                         |     -                | -                | Alta       |
+| Histórias de Usuário               | Larissa Stéfane                            | Tem        | Larissa Stéfane                         |     -                | -                | Alta       |
+| Cartões de Especificação           | Larissa Stéfane                            | Tem        | Larissa Stéfane                         |     -                | -                | Alta       |
+| SIG Softgoal Interdependency Graph | Larissa Stéfane                            | Tem        | Larissa Stéfane                         |     -                | -                | Alta       |
+| Questionário                       | Larissa Stéfane                            | Não tem    | Não tem                                 |     -                | -                | Média      |
+| Priorização - Quadrante            | Larissa Stéfane                            | Não tem    | Não tem                                 |     -                | -                | Média      |
+| Rich Picture                       | Pedro Izarias                              | Tem        |     -                                   |     -                | Pedro Izarias    | Baixa      |
+| In or Out                          | Luana Medeiros                             | Tem        |    -                                    |    -                 | Pedro Izarias    | Baixa      |
+| Léxicos                            | Pedro Izarias                              |  Tem       |    -                                    |    -                 | Pedro Izarias    | Baixa      |
 
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
@@ -46,4 +55,5 @@ Segue o cronograma para esta etapa, na tabela 1.
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do artefato                 | Breno Alexandre | -               | 28/06/2024 |
+| 1.0    | Criação do artefato                 | Breno Alexandre | Larissa Stéfane | 28/06/2024 |
+| 1.1    | Afição de alguns pontos na lista    | Breno Alexandre | Larissa Stéfane | 28/06/2024 |
