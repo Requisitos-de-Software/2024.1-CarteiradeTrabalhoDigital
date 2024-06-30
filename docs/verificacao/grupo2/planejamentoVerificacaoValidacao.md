@@ -42,9 +42,9 @@ Segue o cronograma para esta etapa, na tabela 1.
 | SIG Softgoal Interdependency Graph | Larissa Stéfane                            | Tem        | Larissa Stéfane                         |     -                | -                | Alta       |
 | Questionário                       | Larissa Stéfane                            | Não tem    | Larissa Stéfane                         |     -                | -                | Média      |
 | Priorização - Quadrante            | Larissa Stéfane                            | Não tem    | Larissa Stéfane                         |     -                | -                | Média      |
-| Rich Picture                       | Pedro Izarias                              | Tem        |     -                                   |     -                | Pedro Izarias    | Baixa      |
-| In or Out                          | Luana Medeiros                             | Tem        |    -                                    |    -                 | Pedro Izarias    | Baixa      |
-| Léxicos                            | Pedro Izarias                              |  Tem       |    -                                    |    -                 | Pedro Izarias    | Baixa      |
+| Rich Picture                       | Pedro Izarias                              | Tem        |     -                                   |     -                |  -    | Baixa      |
+| In or Out                          | Luana Medeiros                             | Tem        |    -                                    |    -                 |   -   | Baixa      |
+| Léxicos                            | Pedro Izarias                              |  Tem       |    -                                    |    -                 |   -   | Baixa      |
 
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
