@@ -31,7 +31,7 @@ Segue o cronograma para esta etapa, na tabela 1.
 | **PLANEJAMENTO** | | | | | | |
 | Heatmap                            | Bruno Araújo                               | Não tem    | Não tem                                 | Breno Alexandre      | Iago Passaglia   | Baixa      |
 | Cronograma                         | Breno, Caio, Larissa e Luana               | Não tem    | Não tem                                 | Pedro Izarias        | Bruno Araújo     | Baixa      |
-| Ferramentas Utilizadas             | Larissa Stéfane                            | Não tem    | Não tem                                 | Caio Mesquita        | Breno Alexandre  | Baixa      |
+| Ferramentas Utilizadas             | Larissa Stéfane                            | Não tem    | Larissa Stéfane                                 | Caio Mesquita        | Breno Alexandre  | Baixa      |
 | Análise de Documentos              | Larissa Stéfane                            | Tem        | Larissa Stéfane                         |     -                | -                | Alta       |
 | Perfil do Usuário                  | Larissa Stéfane                            | Tem        | Larissa Stéfane                         |     -                | -                | Alta       | 
 | Análise de Documentos              | Larissa Stéfane                            | Tem        | Larissa Stéfane                         |     -                | -                | Alta       |
