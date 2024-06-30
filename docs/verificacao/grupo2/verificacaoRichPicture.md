@@ -135,3 +135,4 @@ O vídeo a seguir a inspeção gravada sobre o artefato Rich Picture.
 | Versão | Alteração                                      | Responsável     | Revisor         | Data       |
 | ------ | ---------------------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do artefato  e da lista de verificação | Iago Passaglia  | --------------  | 30/06/2024 |
+| 1.0    | Adição dos prints de rastreabilidade  | Iago Passaglia  | --------------  | 30/06/2024 |
