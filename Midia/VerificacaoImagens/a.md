@@ -1,6 +1,8 @@
 ## Validação Histórias de Usuários
 
 ![1](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/assets/140026699/aaf4f5ba-b3cd-45a3-bd39-b040f2668a28)
+
+
 ![2](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/assets/140026699/33eccde6-0301-4c8e-9e66-af5a29e3f366)
 
 ![3](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/assets/140026699/165c6519-a702-471a-a037-e15c7bee913e)
