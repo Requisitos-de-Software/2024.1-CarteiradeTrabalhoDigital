@@ -92,9 +92,9 @@ O vídeo a seguir a inspeção gravada sobre o artefato Backlog.
 
 <b>Vídeo 1:</b> Gravação da inspeção de Backlog.
 
-<iframe width="400" height="800" src="" title="Inspeção de NOME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/KYM0W7Mdzks" title="Verificação - Backlog - Grupo 2 CTD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-É possível acessar o vídeo por meio deste [link]().
+É possível acessar o vídeo por meio deste [link](https://youtu.be/KYM0W7Mdzks).
 
 <b>Autor:</b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
