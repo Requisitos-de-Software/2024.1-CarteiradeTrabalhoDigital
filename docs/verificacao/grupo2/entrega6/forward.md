@@ -14,7 +14,7 @@
 
 ## Introdução
 
-O seguinte documento possui o intuito de utilizar a lista de verificação para o artefato [Técnica de Priorização MoSCoW](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/Priorizacao/Execucao/MoSCoW) criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura desta técnica, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
+O seguinte documento possui o intuito de utilizar a lista de verificação para o artefato [Técnica de Rastreabilidade de Requisitos](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/posRastreabilidade/forwardFrom) criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura desta técnica, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
 
 
 ## Metodologia
