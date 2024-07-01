@@ -1,4 +1,4 @@
-# Verificação do artefato nomeDoArtefato
+# Verificação de validação de história de usuários
 
 ## Sumário
 * [Introdução](#Introdução)
@@ -87,9 +87,8 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato NOME.
 | 11  | A história de usuário foi refinada e priorizada de acordo com o valor de negócio e viabilidade técnica? | ----- |
 | 12  | A história de usuário inclui cenários de uso ou exemplos práticos? | ----- |
 | 13  | A história de usuário foi discutida e validada com as partes interessadas relevantes? | ----- |
-| 14  | A história de usuário está alinhada com as práticas de Design Participativo? | ----- |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
 
 </center>
 
@@ -127,7 +126,7 @@ O vídeo a seguir a inspeção gravada sobre o artefato NOME.
 
 ## Referências Bibliográficas
 
-1. Sommerville, Ian. Engenharia de Software. 10ª ed. Pearson, 2011.
+1. https://www.dtidigital.com.br/blog/historias-de-usuario
 
 ## Histórico de versão
 
