@@ -1,4 +1,4 @@
-# Verificação do artefato nomeDoArtefato
+# Verificação do artefato Rich Picture
 
 
 ## Sumário
@@ -15,7 +15,7 @@
 
 ## Introdução
 
-O seguinte Introducing Rich Pictures, CTEC2402 possui o intuito de utilizar a lista de verificação para o artefato de [Rich Picture]() criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. O Introducing Rich Pictures, CTEC2402 apresenta uma tabela com perguntas a serem feitas sobre a estrutura do NOME, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
+O seguinte Rich Picture, CTEC2402 possui o intuito de utilizar a lista de verificação para o artefato de [Rich Picture]() criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. O Introducing Rich Pictures, CTEC2402 apresenta uma tabela com perguntas a serem feitas sobre a estrutura do NOME, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
 
 
 ## Metodologia
@@ -32,9 +32,9 @@ A tabela a seguir mostra os erros encontrados na lista de verficação, assim co
 
 | Erro    | Explicação | Local | Solução |
 | ------- | ---------- | ----- | ------- |
-| erroTal | explicacao | local | solucao |
+| - | - | - | - |
 
-<b>Autor:</b> <a href="https://github.com/?"> ? </a>.
+<b>Autor:</b> <a href="https://github.com/Izarias"> Pedro Izarias </a>.
 
 </center>
 
@@ -86,7 +86,7 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato Rich Picture.
 | 10  | O Rich Picture utiliza atores representados graficamente como figuras de palitos? | ---------- |
 | 11  | O Rich Picture evita ser confuso e é facilmente compreensível? | ---------- |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
@@ -101,9 +101,9 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato Rich Pic
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
-| 1  | sugestao/sugestoes     |
+| 1  | -     |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
@@ -120,7 +120,7 @@ O vídeo a seguir a inspeção gravada sobre o artefato Rich Picture.
 
 É possível acessar o vídeo por meio deste [link]().
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
