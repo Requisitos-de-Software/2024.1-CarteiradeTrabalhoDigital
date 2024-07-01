@@ -109,7 +109,7 @@ O vídeo a seguir a inspeção gravada sobre o artefato da técnica MoSCoW.
 
 ## Referências Bibliográficas
 
-1. **BRASIL**. Ministério da Ciência, Tecnologia e Inovações. Exemplo: Ata de Reunião. Disponível em: https://pdp.mctic.gov.br/MCTI-PDP/guidances/examples/Ata%20Reuniao_21C35EC2.html. Acesso em: 01 jul. 2024.
+1. **WIEGERS**, Karl. Requisitos de software. 3. ed. Rio de Janeiro: Brasport, 2013. Pags. 320 e 321.
 
 
 ## Histórico de versão
