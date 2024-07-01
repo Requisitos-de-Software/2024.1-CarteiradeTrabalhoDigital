@@ -109,9 +109,9 @@ O vídeo a seguir a inspeção gravada sobre o artefato Casos de Uso.
 
 <b>Vídeo 1:</b> Gravação da inspeção de Casos de Uso.
 
+<iframe width="1124" height="632" src="https://www.youtube.com/embed/TAu2fsFzak0" title="Verificação do Artefato de Casos de Uso - Grupo 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-É possível acessar o vídeo por meio deste [link]().
+É possível acessar o vídeo por meio deste [link](https://youtu.be/TAu2fsFzak0).
 
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
