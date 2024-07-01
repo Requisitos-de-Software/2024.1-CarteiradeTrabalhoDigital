@@ -95,7 +95,7 @@ Tabela 3: Inspeção do questionário
 
 ## Erros Encontrados
 
-A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArtefato.
+A tabela a seguir mostra as sugestões de melhorias a cerca do artefato técnica de priorização do quadrante.
 
 <center>
 
