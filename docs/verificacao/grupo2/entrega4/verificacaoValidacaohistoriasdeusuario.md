@@ -17,7 +17,7 @@ O seguinte documento possui o intuito de utilizar a lista de verificação para 
 
 ## Metodologia
 
-De início, deverá ser feita uma verificação e correção informal da lista de verificação feita para o grupo 3, se ela já existir. Após isso, será utilizada a lista de verificação, que contém perguntas e respostas sobre o artefato. Com a conclusão das respostas, o grupo avaliado poderá realizar alterações e melhorias para assegurar que o artefato esteja em conformidade com as diretrizes estabelecidas.
+De início, deverá ser feita uma verificação no projeto da Carteira de Trabalho Digital fundamentada em uma abordagem sistemática. Assim, inicialmente, a integrante do grupo  irá estudar sobr eu assunto e criar uma lista de verificação. Em seguida, os  outros integrantes do grupo irão avaliar as histórias de usuários.
 
 ## Erros da Lista
 
