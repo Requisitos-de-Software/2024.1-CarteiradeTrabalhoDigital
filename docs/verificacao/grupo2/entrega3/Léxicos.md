@@ -88,7 +88,7 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato de Léxicos.
 | 10  |  Os tipos atribuídos a cada símbolo correspondem precisamente aos símbolos?   | Sim | 
 | 11  |  Os léxicos neste trabalho foram designados com algum sistema de rotulagem ou convenção de nomenclatura específica para identificação?   | Sim | - |  
 
-
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
@@ -103,9 +103,11 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Léxi
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
-| 1  | -     |
+| 1  | Seria ideal adicionar a frequência de uso.     |
+| 2  | Seria interessante adicionar hiperlinks entre os sinônimos e os símbolos      |
+| 3  | Seria interesante organizar os léxicos em ordem alfabética.    |
 
-<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
