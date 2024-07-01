@@ -4,7 +4,6 @@
 ## Sumário
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
-* [Erros da Lista](#Erros-da-Lista)
 * [Lista de Verificação](#Lista-de-Verificação)
 * [Inspeção](#Inspeção)
 * [Erros Encontrados](#Erros-Encontrados)
@@ -15,59 +14,53 @@
 
 ## Introdução
 
-O seguinte documento possui o intuito de utilizar a lista de verificação para o artefato de [nomeArtefato]() 
+O seguinte documento possui o intuito de utilizar a lista de verificação para os artefatos das atas:
 
-criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura do NOME, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
+- [Ata01](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata01)
+- [Ata02](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata02)
+- [Ata03](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata03)
+- [Ata04](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata04)
+- [Ata05](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata05)
+- [Ata06](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata06)
+- [Ata07](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata07)
+- [Ata08](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata08)
+- [Ata09](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata09)
+- [Ata10](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata10)
+- [Ata11](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata11)
+
+As atas foram criadas pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura da ata, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
 
 
 ## Metodologia
 
 De início, deverá ser feita uma verificação e correção informal da lista de verificação feita para o grupo 3, se ela já existir. Após isso, será utilizada a lista de verificação, que contém perguntas e respostas sobre o artefato. Com a conclusão das respostas, o grupo avaliado poderá realizar alterações e melhorias para assegurar que o artefato esteja em conformidade com as diretrizes estabelecidas.
 
-## Erros da Lista
-
-A tabela a seguir mostra os erros encontrados na lista de verficação, assim como os locais e as soluções usadas.
-
-<center>
-
-<b>Tabela 1:</b> Verificação da lista de verificação para NOME.
-
-| Erro    | Explicação | Local | Solução |
-| ------- | ---------- | ----- | ------- |
-| erroTal | explicacao | local | solucao |
-
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
-
-</center>
 
 ## Lista de verificação
 
-A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato NOME, assim como observações sobre cada pergunta e sua rastreabilidade, com a referencia bibliográfica de onde cada pergunta veio.
+A tabela a seguir mostra as perguntas a serem feitas a cerca das atas, assim como observações sobre cada pergunta e sua rastreabilidade, com a referencia bibliográfica de onde cada pergunta veio.
 
 <center>
 
-<b>Tabela 2:</b> Lista de verificação para NOME.
+<b>Tabela 2:</b> Lista de verificação para as atas.
 
-| ID  | Pergunta | Explicação | Rastreabilidade | Captura de tela |
-| --- | -------- | ---------- | --------------- | --------------- |
-| 1   | pergunta | explicacao | rastreabilidade | captura         |
+| ID  | Pergunta                  | Explicação                                              | Rastreabilidade                                                                         | Captura de tela |
+| --- | ------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------- |
+| 1   | O artefato contém título? | O artefato deve conter um título como "Ata de Reunião". | [Exemplo: Ata de Reunião](#Referências-Bibliográficas) [¹](#Referências-Bibliográficas) | 
 
-Caso a lista já exista:
 
-<b>Fonte:</b> [nomeArtefato]().
-
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
 </center>
 
 
 ### Inspeção
 
-A tabela a seguir mostra a inspeção feita a cerca do artefato NOME.
+A tabela a seguir mostra a inspeção feita a cerca do artefato das atas.
 
 <center>
 
-<b>Tabela 3:</b> Resposta da lista de verificação para NOME.
+<b>Tabela 3:</b> Resposta da lista de verificação para as atas.
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 | -- | --------- | ------------------------------------------------ |
@@ -80,11 +73,11 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato NOME.
 
 ### Erros Encontrados
 
-A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArtefato.
+A tabela a seguir mostra as sugestões de melhorias a cerca do artefato das atas.
 
 <center>
 
-<b>Tabela 4:</b> Sugestões de melhoria para NOME.
+<b>Tabela 4:</b> Sugestões de melhoria para as atas.
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
@@ -97,13 +90,13 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArte
 
 ### Vídeo da inspeção
 
-O vídeo a seguir a inspeção gravada sobre o artefato NOME.
+O vídeo a seguir a inspeção gravada sobre o artefato das atas.
 
 <center>
 
-<b>Vídeo 1:</b> Gravação da inspeção de NOME.
+<b>Vídeo 1:</b> Gravação da inspeção das atas.
 
-<iframe width="400" height="800" src="" title="Inspeção de NOME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="400" height="800" src="" title="Inspeção das atas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 É possível acessar o vídeo por meio deste [link]().
 
@@ -114,11 +107,11 @@ O vídeo a seguir a inspeção gravada sobre o artefato NOME.
 
 ## Referências Bibliográficas
 
-1. 
+1. **BRASIL**. Ministério da Ciência, Tecnologia e Inovações. Exemplo: Ata de Reunião. Disponível em: https://pdp.mctic.gov.br/MCTI-PDP/guidances/examples/Ata%20Reuniao_21C35EC2.html. Acesso em: 01 jul. 2024.
 
 
 ## Histórico de versão
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do artefato                 | nome            | nome            | nn/06/2024 |
+| 1.0    | Criação do artefato                 | Breno Alexandre | -               | 01/07/2024 |
