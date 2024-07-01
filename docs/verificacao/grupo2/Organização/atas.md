@@ -44,9 +44,10 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca das atas, assim com
 
 <b>Tabela 2:</b> Lista de verificação para as atas.
 
-| ID  | Pergunta                  | Explicação                                              | Rastreabilidade                                                                         | Captura de tela |
-| --- | ------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------- |
-| 1   | O artefato contém título? | O artefato deve conter um título como "Ata de Reunião". | [Exemplo: Ata de Reunião](#Referências-Bibliográficas) [¹](#Referências-Bibliográficas) | 
+| ID  | Pergunta                         | Explicação                                              | Rastreabilidade                                         | Captura de tela |
+| --- | -------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- | --------------- |
+| 1   | O artefato contém título?        | O artefato deve conter um título como "Ata de Reunião". | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | |
+| 2   | O artefato possui identificação? | <b>Identificação:</b> <li>data da reunião <li>hora e minuto de início da reunião <li>hora e minuto de término da reunião <li>local da reunião <li>nome de quem redigiu a ata <li>nome dos convocados para a reunião <li>marcar quem participou da reunião | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | |
 
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
