@@ -4,10 +4,10 @@
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
 * [Lista de Verificação](#Lista-de-Verificação)
-* [Erros Encontrados](#Erros-Encontrados)
+* [Erros da Lista](#Erros-da-Lista)
 * [Inspeção](#Inspeção)
 * [Vídeo da Avaliação](Vídeo-da-Avaliação)
-* [Conclusão e Observações](#Conclusão-e-Observações)
+* [Erros Encontrados](#Erros-Encontrados)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
 
@@ -83,7 +83,22 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArte
 ### Vídeo da Avaliação
 
 
-## Conclusão e Observações
+### Erros Encontrados
+
+A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArtefato.
+
+<center>
+
+<b>Tabela 4:</b> Sugestões de melhoria para NOME.
+
+| ID |  Sugestões de melhoria | 
+| -- | ---------------------- |
+| 1  | sugestao/sugestoes     |
+
+<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+
+</center>
+
 
 
 ## Referências Bibliográficas
