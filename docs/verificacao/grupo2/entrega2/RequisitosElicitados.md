@@ -151,4 +151,4 @@ O vídeo a seguir a inspeção gravada sobre o artefato de Requisitos Elicitados
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do artefato                 | Pedro Izarias            | Larissa Stéfane      | 30/06/2024 |
-| 1.1    | Adição da inspeção                  | Pedro Izarias            | -            | 30/06/2024 |
+| 1.1    | Adição da inspeção                  | Larissa Stéfane            | -            | 01/07/2024 |
