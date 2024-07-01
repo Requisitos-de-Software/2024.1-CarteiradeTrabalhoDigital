@@ -68,7 +68,7 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArte
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
 | -- | ----------| ---------- | --------------- | 
-| 1  | É mostrado ou indicado de onde as informações foram retiradas, ou seja, há rastreabilidade?  |  |
+| 1  | É mostrado ou indicado de onde as informações foram retiradas, ou seja, há rastreabilidade?  | Sim |
 | 2  | Os documentos escolhidos estão de acordo com o contexto de análise de dados e requisitos? | |
 | 3  | O documento identifica as necessidades do aplicativo? |  |
 | 4  | As partes interessadas estão explicitamente listadas na análise do documento? |  |
