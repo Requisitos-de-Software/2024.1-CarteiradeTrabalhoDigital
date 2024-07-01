@@ -170,7 +170,7 @@ Autor: []()
 
 Cronograma 4:
 
-|||
+|------------|--------------------|
 |-|-|
 |entrevistado| Matheus dos Santos |
 |entrevistador| Iago Passaglia |
