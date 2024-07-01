@@ -52,8 +52,7 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca das atas, assim com
 | 4   | A ata fala sobre pendências anteriores? | Registro das pendências de reuniões passadas que ainda não foram solucionadas, identificando o responsável e a data para conclusão da pendência.                                                                                                          | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | |
 | 5   | A ata fala sobre o assunto da reunião?  | Registro das determinações acordadas em reunião para cada assunto tratado. Identificando os assuntos com o mesmo número da pauta da reunião.                                                                                                              | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | |
 | 6   | A ata fala sobre a próxima reunião?     | Registro de quando será realizada a próxima reunião de mesma natureza.                                                                                                                                                                                    | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | |
-| 7   | A ata fala sobre o assunto da reunião?  | Registro de quando será realizada a próxima reunião de mesma natureza.                                                                                                                                                                                    | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | |
-
+| 7   | A ata fala sobre os compromissos?       | Registro dos compromissos acordados durante a reunião (identificados como pendências nos assuntos tratados), identificando o responsável e a data acordada para a conclusão da atividade.                                                               | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
