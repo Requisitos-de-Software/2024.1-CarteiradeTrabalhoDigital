@@ -44,15 +44,22 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca das atas, assim com
 
 <b>Tabela 2:</b> Lista de verificação para as atas.
 
-| ID  | Pergunta                         | Explicação                                                                                                                                                                                                                                                       | Rastreabilidade                                         | Captura de tela |
-| --- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | --------------- |
-| 1   | A ata contém título?                    | O artefato deve conter um título como "Ata de Reunião".                                                                                                                                                                                                   | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | |
-| 2   | A ata possui identificação?             | <b>Identificação:</b> <li>data da reunião <li>hora e minuto de início da reunião <li>hora e minuto de término da reunião <li>local da reunião <li>nome de quem redigiu a ata <li>nome dos convocados para a reunião <li>marcar quem participou da reunião | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | |
-| 3   | A ata têm as pautas descritas?          | A ata deve deixar claro os assuntos a serem discutiods na reunião.                                                                                                                                                                                        | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | |
-| 4   | A ata fala sobre pendências anteriores? | Registro das pendências de reuniões passadas que ainda não foram solucionadas, identificando o responsável e a data para conclusão da pendência.                                                                                                          | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | |
-| 5   | A ata fala sobre o assunto da reunião?  | Registro das determinações acordadas em reunião para cada assunto tratado. Identificando os assuntos com o mesmo número da pauta da reunião.                                                                                                              | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | |
-| 6   | A ata fala sobre a próxima reunião?     | Registro de quando será realizada a próxima reunião de mesma natureza.                                                                                                                                                                                    | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | |
-| 7   | A ata fala sobre os compromissos?       | Registro dos compromissos acordados durante a reunião (identificados como pendências nos assuntos tratados), identificando o responsável e a data acordada para a conclusão da atividade.                                                               | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | |
+| ID  | Pergunta                         | Explicação                                                                                                                                                                                                                                                       | Rastreabilidade                                         | Captura de tela                                                                                                                                                     |
+| --- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | A ata contém título?                    | O artefato deve conter um título como "Ata de Reunião".                                                                                                                                                                                                   | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/atas/printVerificaAta1.jpeg) |
+| 2   | A ata possui identificação?             | <b>Identificação:</b> <li>data da reunião <li>hora e minuto de início da reunião <li>hora e minuto de término da reunião <li>local da reunião <li>nome de quem redigiu a ata <li>nome dos convocados para a reunião <li>marcar quem participou da reunião | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/atas/printVerificaAta2.jpeg) |
+| 3   | A ata têm as pautas descritas?          | A ata deve deixar claro os assuntos a serem discutiods na reunião.                                                                                                                                                                                        | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/atas/printVerificaAta3.jpeg) |
+| 4   | A ata fala sobre pendências anteriores? | Registro das pendências de reuniões passadas que ainda não foram solucionadas, identificando o responsável e a data para conclusão da pendência.                                                                                                          | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/atas/printVerificaAta4.jpeg) |
+| 5   | A ata fala sobre o assunto da reunião?  | Registro das determinações acordadas em reunião para cada assunto tratado. Identificando os assuntos com o mesmo número da pauta da reunião.                                                                                                              | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/atas/printVerificaAta5.png)  |
+| 6   | A ata fala sobre a próxima reunião?     | Registro de quando será realizada a próxima reunião de mesma natureza.                                                                                                                                                                                    | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/atas/printVerificaAta6.jpeg) |
+| 7   | A ata fala sobre os compromissos?       | Registro dos compromissos acordados durante a reunião (identificados como pendências nos assuntos tratados), identificando o responsável e a data acordada para a conclusão da atividade.                                                               | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/atas/printVerificaAta7.jpeg) |
+| 8   | Há o vídeo incorporado na ata?                                             | Player de vídeo de pronta visualização.                      | | |
+| 9   | Há link reserva para caso o vídeo não esteja disponível para vizualização? | Link do vídeo para o youtube.                                | | |
+| 10  | O vídeo da ata está na categoria não listado?                              | Visualização do vídeo deve estar em não listado.             | | |
+| 11  | O artefato tem o nome do/da autor(a) embaixo do vídeo e das tabelas?       | Autoria do vídeo e das tabelas.                              | | |
+| 12  | Há histórico de versionamento?                                             | Deve conter identificação, alteração, autor, revisor e data. | | |
+
+
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
@@ -67,9 +74,20 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato das atas.
 
 <b>Tabela 3:</b> Resposta da lista de verificação para as atas.
 
-| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
-| -- | --------- | ------------------------------------------------ |
-| 1  | pergunta  | resposta                                         |
+| ID |  Pergunta                                                                  | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
+| -- | -------------------------------------------------------------------------- | ------------------------------------------------ |
+| 1  | A ata contém título?                                                       | |
+| 2  | A ata possui identificação?                                                | |
+| 3  | A ata têm as pautas descritas?                                             | |
+| 4  | A ata fala sobre pendências anteriores?                                    | |
+| 5  | A ata fala sobre o assunto da reunião?                                     | |
+| 6  | A ata fala sobre a próxima reunião?                                        | |
+| 7  | A ata fala sobre os compromissos?                                          | |
+| 8  | Há o vídeo incorporado na ata?                                             | |
+| 9  | Há link reserva para caso o vídeo não esteja disponível para vizualização? | |
+| 10 | O vídeo da ata está na categoria não listado?                              | |
+| 11 | O artefato tem o nome do/da autor(a) embaixo do vídeo e das tabelas?       | |
+| 12 | Há histórico de versionamento?                                             | |
 
 <b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
 

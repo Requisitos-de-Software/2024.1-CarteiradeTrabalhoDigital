@@ -1,4 +1,4 @@
-# Verificação do artefato nomeDoArtefato
+# Verificação do artefato Backlog
 
 
 ## Sumário
@@ -15,7 +15,7 @@
 
 ## Introdução
 
-O seguinte documento possui o intuito de utilizar a lista de verificação para o artefato de [Backlog do Produto]() criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura do NOME, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
+O seguinte documento possui o intuito de utilizar a lista de verificação para o artefato de [Backlog do Produto]() criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura do Backlog, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
 
 
 ## Metodologia
@@ -28,7 +28,7 @@ A tabela a seguir mostra os erros encontrados na lista de verficação, assim co
 
 <center>
 
-<b>Tabela 1:</b> Verificação da lista de verificação para NOME.
+<b>Tabela 1:</b> Verificação da lista de verificação para Backlog.
 
 | Erro    | Explicação |  Solução |
 | ------- | ---------- | ------- |
@@ -40,11 +40,11 @@ A tabela a seguir mostra os erros encontrados na lista de verficação, assim co
 
 ## Lista de verificação
 
-A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato NOME, assim como observações sobre cada pergunta e sua rastreabilidade, com a referencia bibliográfica de onde cada pergunta veio.
+A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato Backlog, assim como observações sobre cada pergunta e sua rastreabilidade, com a referencia bibliográfica de onde cada pergunta veio.
 
 <center>
 
-<b>Tabela 2:</b> Lista de verificação para NOME.
+<b>Tabela 2:</b> Lista de verificação para Backlog.
 
 | ID  | Pergunta | Explicação | Rastreabilidade | Captura de tela |
 | --- | -------- | ---------- | --------------- | --------------- |
@@ -61,51 +61,42 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato NOME, a
 
 ### Inspeção
 
-A tabela a seguir mostra a inspeção feita a cerca do artefato NOME.
+A tabela a seguir mostra a inspeção feita a cerca do artefato Backlog.
 
 <center>
 
-<b>Tabela 3:</b> Resposta da lista de verificação para NOME.
+<b>Tabela 3:</b> Resposta da lista de verificação para Backlog.
 
-| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
-| -- | --------- | ------------------------------------------------ |
-| 1  | pergunta  | resposta                                         |
+| ID  | Pergunta                                                                                   | Resposta <br> Sim/Não/Incompleto/Não se aplica  |
+| --- | ------------------------------------------------------------------------------------------ | ------------------------------------ |
+| 01  | O Backlog foi priorizado com um usuário fazendo o papel de Product Owner?                  | Sim |
+| 02  | O backlog está estimável?                                                                  | Sim |
+| 03  | Os Temas, Épicos e Histórias estão de claro entendimento?                                  | Sim |
+| 04  | O Product Backlog está com os épicos, temas e histórias devidamente relacionados entre si? | Sim |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+
+<b>Autor:</b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 </center>
 
 
 ### Erros Encontrados
 
-A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArtefato.
-
-<center>
-
-<b>Tabela 4:</b> Sugestões de melhoria para NOME.
-
-| ID |  Sugestões de melhoria | 
-| -- | ---------------------- |
-| 1  | sugestao/sugestoes     |
-
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
-
-</center>
-
+Não foram encontrados erros no artefato.
 
 ### Vídeo da inspeção
 
-O vídeo a seguir a inspeção gravada sobre o artefato NOME.
+O vídeo a seguir a inspeção gravada sobre o artefato Backlog.
 
 <center>
 
-<b>Vídeo 1:</b> Gravação da inspeção de NOME.
+<b>Vídeo 1:</b> Gravação da inspeção de Backlog.
 
-<iframe width="400" height="800" src="" title="Inspeção de NOME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/KYM0W7Mdzks" title="Verificação - Backlog - Grupo 2 CTD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-É possível acessar o vídeo por meio deste [link]().
+É possível acessar o vídeo por meio deste [link](https://youtu.be/KYM0W7Mdzks).
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 </center>
 
@@ -119,6 +110,7 @@ O vídeo a seguir a inspeção gravada sobre o artefato NOME.
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do artefato                 | Caio Mesquita  | nome            | 30/06/2024 |
+| 1.0    | Criação do artefato                 | Caio Mesquita  | Iago Passaglia            | 30/06/2024 |
+| 1.0    | Realização da inspeção             | Iago Passaglia  | --- | 30/06/2024 |
 
 

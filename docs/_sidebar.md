@@ -117,6 +117,10 @@
         - [Validação das Histórias de usuário](verificacao/grupo3/entrega4/validacaoHistoriasUsuario.md)
         - [NFR Framework](verificacao/grupo3/entrega4/NFR.md)
 
+    * Grupo 2
+      * Organização
+        - [Atas](verificacao/grupo2/Organização/atas.md)
+
 * Pós-Rastreabilidade 
   - [Backward-From](posRastreabilidade/backwardFrom.md)
   - [Foward-From](posRastreabilidade/forwardFrom.md)
