@@ -364,4 +364,4 @@ Autor: []()
 
 | Versão | Alteração                                    | Responsável     | Revisor         | Data       |
 | ------ | -------------------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação de documentação                      | Caio Mesquita   |   | 30/06/2024 |
+| 1.0    | Criação de documentação                      | Caio Mesquita   | Bruno Araújo  | 30/06/2024 |
