@@ -75,4 +75,4 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato nomeDoArtefato.
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento | Bruno Araújo| --  |  01/07/2024 |
+| 1.0 | Criação da documentação de Heatmap| Bruno Araújo| --  |  01/07/2024 |
