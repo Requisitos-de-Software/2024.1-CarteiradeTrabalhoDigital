@@ -1,4 +1,4 @@
-# Verificação do artefato nomeDoArtefato
+# Verificação do artefato Casos de Uso
 
 
 ## Sumário
