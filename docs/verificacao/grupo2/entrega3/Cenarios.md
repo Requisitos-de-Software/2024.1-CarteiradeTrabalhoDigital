@@ -91,6 +91,12 @@ Tabela 3: Inspeção do questionário
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
+
+### Vídeo da inspeção
+
+O vídeo a seguir a inspeção gravada sobre o artefato NOME.
+
+
 ### Erros Encontrados
 
 A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArtefato.
@@ -108,9 +114,6 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArte
 </center>
 
 
-### Vídeo da inspeção
-
-O vídeo a seguir a inspeção gravada sobre o artefato NOME.
 
 
 ## Referências Bibliográficas
