@@ -35,15 +35,14 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca da técnica MoSCoW,
 | 1   | O artefato contém sumário? | O artefato deve conter um sumário para ajudar a guiar pelo artefato. | | |
 | 2   | O artefato contém introdução? | O artefato deve conter uma introdução para explicá-lo. | | |
 | 3   | O artefato contém metodologia? | O artefato deve conter um tópico contendo a metodologia da técnica. | | |
-| 4   | Há o vídeo incorporado na ata? | Player de vídeo de pronta visualização. | | |
+| 4   | Há o vídeo incorporado no artefato? | Player de vídeo de pronta visualização. | | |
 | 5   | Há link reserva para caso o vídeo não esteja disponível para vizualização? | Link do vídeo para o youtube. | | |
-| 6   | O vídeo da ata está na categoria não listado? | Visualização do vídeo deve estar em não listado. | | |
-| 7   | A ata contém título? | O artefato deve conter um título como "Ata de Reunião". | [Requisitos de software, pag.320¹](#Referências-Bibliográficas) | [Captura de tela¹]() |
-
-| 11  | O artefato tem o nome do/da autor(a) embaixo do vídeo e das tabelas? | Autoria do vídeo e das tabelas. | | |
-| 12  | Há histórico de versionamento? | Deve conter identificação, alteração, autor, revisor e data. | | |
-
-
+| 6   | O vídeo da entrevista está na categoria não listado? | Visualização do vídeo deve estar em não listado. | | |
+| 7   | A técnica foi aplicada corretamente? | A técnica MoSCoW de priorização de requisitos classifica-os em quatro categorias: "Must have" (essenciais), "Should have" (importantes), "Could have" (desejáveis) e "Won't have" (não necessários agora). | [Requisitos de software, pag.320¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/imagemVerificacaoMoscow.png) |
+| 8   | Os resultados obtidos estão no artefato? | Resultados da entrevista da técnica com o usuário. | | |
+| 9   | Os requisitos elicitados estão no artefato? | Requisitos elicitados através da entrevista da técnica com o usuário. | | |
+| 10  | O artefato tem o nome do/da autor(a) embaixo do vídeo e das tabelas? | Autoria do vídeo e das tabelas. | | |
+| 11  | Há histórico de versionamento? | Deve conter identificação, alteração, autor, revisor e data. | | |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
@@ -60,18 +59,17 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato da técnica MoSC
 
 | ID |  Pergunta                                                                  | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 | -- | -------------------------------------------------------------------------- | ------------------------------------------------ |
-| 1  | A ata contém título?                                                       | |
-| 2  | A ata possui identificação?                                                | |
-| 3  | A ata têm as pautas descritas?                                             | |
-| 4  | A ata fala sobre pendências anteriores?                                    | |
-| 5  | A ata fala sobre o assunto da reunião?                                     | |
-| 6  | A ata fala sobre a próxima reunião?                                        | |
-| 7  | A ata fala sobre os compromissos?                                          | |
-| 8  | Há o vídeo incorporado na ata?                                             | |
-| 9  | Há link reserva para caso o vídeo não esteja disponível para vizualização? | |
-| 10 | O vídeo da ata está na categoria não listado?                              | |
-| 11 | O artefato tem o nome do/da autor(a) embaixo do vídeo e das tabelas?       | |
-| 12 | Há histórico de versionamento?                                             | |
+| 1   | O artefato contém sumário? | |
+| 2   | O artefato contém introdução? | |
+| 3   | O artefato contém metodologia? | |
+| 4   | Há o vídeo incorporado no artefato? | |
+| 5   | Há link reserva para caso o vídeo não esteja disponível para vizualização? | |
+| 6   | O vídeo da entrevista está na categoria não listado? | |
+| 7   | A técnica foi aplicada corretamente? | |
+| 8   | Os resultados obtidos estão no artefato? | |
+| 9   | Os requisitos elicitados estão no artefato? | |
+| 10  | O artefato tem o nome do/da autor(a) embaixo do vídeo e das tabelas? | |
+| 11  | Há histórico de versionamento? | |
 
 <b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
 
