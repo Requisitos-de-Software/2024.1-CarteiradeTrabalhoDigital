@@ -104,7 +104,7 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArte
 | -- | ---------------------- |
 | 1  | sugestao/sugestoes     |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
 
 </center>
 
@@ -132,4 +132,4 @@ O vídeo a seguir a inspeção gravada sobre o artefato NOME.
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do artefato e da lista                 | Bruno Araújo            | nome            | 30/06/2024 |
+| 1.0    | Criação do artefato -            | Bruno Araújo            | --            | 30/06/2024 |
