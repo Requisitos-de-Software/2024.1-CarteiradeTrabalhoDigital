@@ -16,7 +16,7 @@ Este documento tem como objetivo apresentar a lista de verificação e a avalia�
 
 ## Metodologia 
 
-A metodologia para análise da a técnica de priorização do quadrante do projeto será conduzida em duas etapas. Inicialmente, será elaborada uma lista de verificação composta por tópicos essenciais, os quais servirão como base para a avaliação do documento. Desse modo, esses tópicos abrangerão os dados principais dos usuários, desde os seus dados demográficos até as suas características específicas, como estilo e preferência de aprendizado. Em seguida, utilizando-se dessa lista de verificação como guia, será realizada uma avaliação detalhada do perfil de usuários, examinando cada aspecto individualmente e identificando pontos fortes, áreas de melhoria e eventuais lacunas no documento.
+A metodologia para análise da a técnica de priorização do quadrante do projeto será conduzida em duas etapas. Inicialmente, será elaborada uma lista de verificação composta por tópicos essenciais, os quais servirão como base para a avaliação do documento. Desse modo, esses tópicos abrangerão a priorização dos requisitos.
 
 ## Lista de Verificação
 
