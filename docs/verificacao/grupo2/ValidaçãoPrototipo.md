@@ -362,6 +362,7 @@ Autor: []()
 
 ## Histórico de Versão
 
-| Versão | Alteração                                    | Responsável     | Revisor         | Data       |
-| ------ | -------------------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação de documentação                      | Caio Mesquita   | Bruno Araújo  | 30/06/2024 |
+| Versão | Alteração                                                    | Responsável     | Revisor       | Data       |
+| ------ | ------------------------------------------------------------ | --------------- | ------------- | ---------- |
+| 1.0    | Criação de documentação                                      | Caio Mesquita   | Bruno Araújo  | 30/06/2024 |
+| 1.1    | Adição da avaliação da funcionalidade do canal de Denúncias. | Larissa Stéfane | -             | 01/07/2024 |
