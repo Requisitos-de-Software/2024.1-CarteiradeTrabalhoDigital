@@ -109,9 +109,9 @@ O vídeo a seguir a inspeção gravada sobre o artefato Storytelling.
 
 <b>Vídeo 1:</b> Gravação da inspeção de Storytelling.
 
-<iframe width="400" height="800" src="" title="Inspeção de Storytelling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/i5DEun-1m0s" title="Requisitos - Inspeção do artefato de Storytelling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-É possível acessar o vídeo por meio deste [link]().
+É possível acessar o vídeo por meio deste [link](https://www.youtube.com/watch?v=i5DEun-1m0s).
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -129,4 +129,5 @@ O vídeo a seguir a inspeção gravada sobre o artefato Storytelling.
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do artefato                 | Bruno Araújo    | nome            | 01/07/2024 |
+| 1.0    | Criação do artefato                 | Bruno Araújo    | Larissa Stéane  | 01/07/2024 |
+| 1.1    | Adição da Inspeção                  | Larissa Stéane  | -               | 01/07/2024 |
