@@ -15,7 +15,7 @@
 
 ## Introdução
 
-O seguinte Rich Picture, CTEC2402 possui o intuito de utilizar a lista de verificação para o artefato de [Rich Picture]() criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. O Introducing Rich Pictures, CTEC2402 apresenta uma tabela com perguntas a serem feitas sobre a estrutura do NOME, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
+O seguinte Rich Picture, CTEC2402 possui o intuito de utilizar a lista de verificação para o artefato de [Rich Picture]() criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. O Introducing Rich Pictures, CTEC2402 apresenta uma tabela com perguntas a serem feitas sobre a estrutura do Rich Picture, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
 
 
 ## Metodologia
