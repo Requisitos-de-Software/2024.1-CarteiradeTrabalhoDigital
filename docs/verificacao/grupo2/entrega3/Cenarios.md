@@ -47,6 +47,23 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
+
+## Erros da Lista
+
+A tabela a seguir mostra os erros encontrados na lista de verficação, assim como os locais e as soluções usadas.
+
+<center>
+
+<b>Tabela 1:</b> Verificação da lista de verificação para NOME.
+
+| Erro    | Explicação | Local | Solução |
+| ------- | ---------- | ----- | ------- |
+| erroTal | explicacao | local | solucao |
+
+<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+
+</center>
+
 ## Inspeção
 
 <center>
@@ -73,7 +90,26 @@ Tabela 3: Inspeção do questionário
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
-## Conclusão e Observações
+### Erros Encontrados
+
+A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArtefato.
+
+<center>
+
+<b>Tabela 4:</b> Sugestões de melhoria para NOME.
+
+| ID |  Sugestões de melhoria | 
+| -- | ---------------------- |
+| 1  | sugestao/sugestoes     |
+
+<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+
+</center>
+
+
+### Vídeo da inspeção
+
+O vídeo a seguir a inspeção gravada sobre o artefato NOME.
 
 
 ## Referências Bibliográficas
