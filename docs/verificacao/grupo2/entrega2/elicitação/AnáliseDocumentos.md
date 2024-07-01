@@ -69,23 +69,24 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArte
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
 | -- | ----------| ---------- | --------------- | 
 | 1  | É mostrado ou indicado de onde as informações foram retiradas, ou seja, há rastreabilidade?  | Sim |Sim, há links para todas as referências utilizadas|
-| 2  | Os documentos escolhidos estão de acordo com o contexto de análise de dados e requisitos? | |
-| 3  | O documento identifica as necessidades do aplicativo? |  |
-| 4  | As partes interessadas estão explicitamente listadas na análise do documento? |  |
-| 5  | As partes interessadas estão listadas e indicada de acordo com os seus papéis e responsabilidades? |   |
-| 6  | A análise de documentos inclui uma lista das normas e dos regulamentações relevantes que o aplicativo deve seguir? | |
-| 7  | Identifica as integrações necessárias com outros sistemas existentes? |  |
-| 8  | O documento identifica os requisitos de acessibilidade do aplicativo |  |
-| 9  | Há uma lista dos requisitos não funcionais determinados pelos stakeholders? | | 
+| 2  | Os documentos escolhidos estão de acordo com o contexto de análise de dados e requisitos? | Sim ||
+| 3  | O documento identifica as necessidades do aplicativo? | Sim ||
+| 4  | As partes interessadas estão explicitamente listadas na análise do documento? | Incompleta |As partes interessadas estão no documento mas não estão explicitamente listadas|
+| 5  | As partes interessadas estão listadas e indicadas de acordo com os seus papéis e responsabilidades? |  Não ||
+| 6  | A análise de documentos inclui uma lista das normas e dos regulamentações relevantes que o aplicativo deve seguir? | Sim ||
+| 7  | Identifica as integrações necessárias com outros sistemas existentes? | Sim  ||
+| 8  | O documento identifica os requisitos de acessibilidade do aplicativo | Sim ||
+| 9  | Há uma lista dos requisitos não funcionais determinados pelos stakeholders? | Sim | |
 
 <b> Autora: </b> <a href=""></a>.
 
 ### Vídeo da Avaliação
 
+<iframe width="1124" height="632" src="https://www.youtube.com/embed/b_6zxqO0UGY" title="Verificação do Artefato de Análise de Documentos - Grupo 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Erros Encontrados
 
-A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArtefato.
+A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Análise de Documentos.
 
 <center>
 
@@ -93,9 +94,9 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArte
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
-| 1  | sugestao/sugestoes     |
+| 1  |  Adicionar as partes interessadas explicitamente no documento    |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
