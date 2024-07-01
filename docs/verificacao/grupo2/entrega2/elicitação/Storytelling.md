@@ -67,18 +67,18 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato Storytelling.
 
 <b>Tabela 3:</b> Resposta da lista de verificação para Storytelling.
 
-| ID  | Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
-| --- | -------- | ------------------------------------------------ |
-| 1   | A técnica de storytelling é bem aplicada? | ----- |
-| 2   | O uso de histórias motiva e inspira os participantes? | ----- |
-| 3   | Os participantes são estimulados a compartilhar histórias e conhecimentos? | ----- |
-| 4   | A técnica permite a participação assíncrona e distribuída? | ----- |
-| 5   | A validação das histórias por outros participantes agrega valor? | ----- |
-| 6   | A narrativa utiliza elementos visuais para reforçar a mensagem? | ----- |
-| 7   | A técnica de storytelling é aplicada de forma a facilitar a comunicação entre os participantes? | ----- |
-| 8   | A história é clara e de fácil compreensão? | ----- |
+| ID  | Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação |
+| --- | -------- | ------------------------------------------------ | ---------- |
+| 1   | A técnica de storytelling é bem aplicada? | Sim | - |
+| 2   | O uso de histórias motiva e inspira os participantes? | Não se aplica | - |
+| 3   | Os participantes são estimulados a compartilhar histórias e conhecimentos? | Incompleto | Não é explicado como que foi realizado o estímulo dos participantes |
+| 4   | A técnica permite a participação assíncrona e distribuída? | Sim | - |
+| 5   | A validação das histórias por outros participantes agrega valor? | Não | Não foi realizada a validação das histórias |
+| 6   | A narrativa utiliza elementos visuais para reforçar a mensagem? | Não se aplica | Não foram utilizados elementos visuais com os participantes. |
+| 7   | A técnica de storytelling é aplicada de forma a facilitar a comunicação entre os participantes? | Sim |
+| 8   | A história é clara e de fácil compreensão? | Incompleto | Só tem acesso a história se assistir o vídeo, seria interessante azer uma transcrição. |
 
-**Autor:** [Bruno Araújo](https://github.com/brunocva)
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
@@ -92,9 +92,12 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato Storytel
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
-| 1  | sugestao/sugestoes     |
+| 1  | Adicionar um cronograma de entrevistas.     |
+| 2  | Indicar qual integrante do grupo realizou qual entrevista.     |
+| 3  | Seria interessante complementar mais a metodologia.     |
+| 4  | Adicionar a transcrição das histórias.   |
 
-**Autor:** [Bruno Araújo](https://github.com/brunocva)
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
@@ -110,7 +113,7 @@ O vídeo a seguir a inspeção gravada sobre o artefato Storytelling.
 
 É possível acessar o vídeo por meio deste [link]().
 
-**Autor:** [Bruno Araújo](https://github.com/brunocva)
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
