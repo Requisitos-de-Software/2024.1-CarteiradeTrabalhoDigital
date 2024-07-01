@@ -44,9 +44,9 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca das atas, assim com
 
 <b>Tabela 2:</b> Lista de verificação para as atas.
 
-| ID  | Pergunta | Explicação | Rastreabilidade | Captura de tela |
-| --- | -------- | ---------- | --------------- | --------------- |
-| 1   | pergunta | explicacao | rastreabilidade | captura         |
+| ID  | Pergunta                  | Explicação                                              | Rastreabilidade                                                                         | Captura de tela |
+| --- | ------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------- |
+| 1   | O artefato contém título? | O artefato deve conter um título como "Ata de Reunião". | [Exemplo: Ata de Reunião](#Referências-Bibliográficas) [¹](#Referências-Bibliográficas) | 
 
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
@@ -107,7 +107,7 @@ O vídeo a seguir a inspeção gravada sobre o artefato das atas.
 
 ## Referências Bibliográficas
 
-1. 
+1. **BRASIL**. Ministério da Ciência, Tecnologia e Inovações. Exemplo: Ata de Reunião. Disponível em: https://pdp.mctic.gov.br/MCTI-PDP/guidances/examples/Ata%20Reuniao_21C35EC2.html. Acesso em: 01 jul. 2024.
 
 
 ## Histórico de versão
