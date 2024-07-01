@@ -59,9 +59,8 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato nomeDoArtefato.
 ## Conclusão
 
 ## Referências
-- [https://aprender3.unb.br/mod/url/view.php?id=1218750](https://aprender3.unb.br/mod/url/view.php?id=1218750)
-- 
-- [https://www.guiadacarreira.com.br/blog/heatmap](https://www.guiadacarreira.com.br/blog/heatmap)
+1. [https://aprender3.unb.br/mod/url/view.php?id=1218750](https://aprender3.unb.br/mod/url/view.php?id=1218750)
+2. [https://www.guiadacarreira.com.br/blog/heatmap](https://www.guiadacarreira.com.br/blog/heatmap)
 
 ## Histórico de Versão
 | Versão | Alteração              | Responsável | Revisor | Data       |
