@@ -92,6 +92,7 @@ Tabela 3: Inspeção do questionário
 
 ## Vídeo da Inspeção 
 
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/3PbKHQhpk0E" title="Verificação - priorização por quadrante - grupo 2 CTD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Erros Encontrados
 
@@ -112,9 +113,6 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato técnica
 
 </center>
 
-## Referências Bibliográficas
-
-1. 
 
 ## Histórico de versão
 
