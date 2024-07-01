@@ -28,6 +28,8 @@ As imagens 1,2 e 3, mostram o email enviado.
    <b> Autor: </b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
   </center>
 
+Para acessar a imagem: [link](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/assets/imagensContatoCTD/email1.jpeg)
+
 ## Resposta
 
 <center>
@@ -37,6 +39,9 @@ As imagens 1,2 e 3, mostram o email enviado.
   <b> Autor: </b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
   </center>
 
+Para acessar a imagem: [link](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/assets/imagensContatoCTD/email2.jpeg)
+
+
 ## Envio de Novo Email
 
 <center>
@@ -45,6 +50,8 @@ As imagens 1,2 e 3, mostram o email enviado.
    
   <b> Autor: </b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
   </center>
+
+Para acessar a imagem: [link](https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/assets/imagensContatoCTD/email3.jpeg)
 
 
 ## Histórico de Versão
