@@ -49,16 +49,16 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
-| -- | ----------| ---------- | --------------- | --------- |
-| 1  | É mostrado ou indicado de onde as informações foram retiradas, ou seja, há rastreabilidade?  |  |  |
-| 2  | Os documentos escolhidos estão de acordo com o contexto de análise de dados e requisitos? | |  |
-| 3  | O documento identifica as necessidades do aplicativo? |  |  |
-| 4  | As partes interessadas estão explicitamente listadas na análise do documento? |  |  |
-| 5  | As partes interessadas estão listadas e indicada de acordo com os seus papéis e responsabilidades? |   |  |
-| 6  | A análise de documentos inclui uma lista das normas e dos regulamentações relevantes que o aplicativo deve seguir? | |  | 
-| 7  | Identifica as integrações necessárias com outros sistemas existentes? |  |  |
-| 8  | O documento identifica os requisitos de acessibilidade do aplicativo |  |  |
-| 9  | Há uma lista dos requisitos não funcionais determinados pelos stakeholders? |  | 
+| -- | ----------| ---------- | --------------- | 
+| 1  | É mostrado ou indicado de onde as informações foram retiradas, ou seja, há rastreabilidade?  |  |
+| 2  | Os documentos escolhidos estão de acordo com o contexto de análise de dados e requisitos? | |
+| 3  | O documento identifica as necessidades do aplicativo? |  |
+| 4  | As partes interessadas estão explicitamente listadas na análise do documento? |  |
+| 5  | As partes interessadas estão listadas e indicada de acordo com os seus papéis e responsabilidades? |   |
+| 6  | A análise de documentos inclui uma lista das normas e dos regulamentações relevantes que o aplicativo deve seguir? | |
+| 7  | Identifica as integrações necessárias com outros sistemas existentes? |  |
+| 8  | O documento identifica os requisitos de acessibilidade do aplicativo |  |
+| 9  | Há uma lista dos requisitos não funcionais determinados pelos stakeholders? | | 
 
 
 
