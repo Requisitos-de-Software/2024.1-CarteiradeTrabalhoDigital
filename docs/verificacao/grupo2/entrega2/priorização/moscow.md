@@ -30,13 +30,13 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca da técnica MoSCoW,
 
 <b>Tabela 2:</b> Lista de verificação para a técnica MoSCoW.
 
-| ID  | Pergunta                         | Explicação                                                                                                                                                                                                                                                       | Rastreabilidade                                         | Captura de tela                                                                                                                                                     |
-| --- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | A ata contém título?                    | O artefato deve conter um título como "Ata de Reunião".                                                                                                                                                                                                   | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/atas/printVerificaAta1.jpeg) |
+| ID  | Pergunta | Explicação | Rastreabilidade | Captura de tela |
+| --- | -------- | ---------- | --------------- | --------------- |
+| 1   | A ata contém título? | O artefato deve conter um título como "Ata de Reunião". | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/atas/printVerificaAta1.jpeg) |
 
 
-| 11  | O artefato tem o nome do/da autor(a) embaixo das tabelas?                  | Autoria das tabelas.                                         | | |
-| 12  | Há histórico de versionamento?                                             | Deve conter identificação, alteração, autor, revisor e data. | | |
+| 11  | O artefato tem o nome do/da autor(a) embaixo das tabelas? | Autoria das tabelas. | | |
+| 12  | Há histórico de versionamento? | Deve conter identificação, alteração, autor, revisor e data. | | |
 
 
 
