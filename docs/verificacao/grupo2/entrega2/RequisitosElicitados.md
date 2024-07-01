@@ -78,8 +78,8 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato de Requisitos El
 
 <b>Tabela 3:</b> Resposta da lista de verificação para Requisitos Elicitados.
 
-| ID  | Pergunta     | Resposta <br> | 
-|-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------| 
+| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
+|-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------| ------ |
 | 1  |  Os requisitos elicitados foram identificados com base nas necessidades e objetivos dos usuários, conforme recomendado na literatura? | - |
 | 2  |  Os requisitos elicitados foram definidos com rigor e detalhes, mantendo o foco nas necessidades dos usuários, como recomendado na literatura? | - | 
 | 3  |  Os requisitos elicitados foram classificados de acordo com sua natureza (funcionais, não funcionais, etc.) para facilitar a compreensão e implementação, conforme sugerido na literatura? | - | 
