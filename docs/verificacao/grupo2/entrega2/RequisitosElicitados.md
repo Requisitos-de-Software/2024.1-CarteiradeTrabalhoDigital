@@ -32,7 +32,7 @@ A tabela a seguir mostra os erros encontrados na lista de verficação, assim co
 
 | Erro    | Explicação | Local | Solução |
 | ------- | ---------- | ----- | ------- |
-| - | - | - | - |
+| Falta a captura da tela | Falta a captura da tela referente a cada pergunta | Tabela de Perguntas | Adicionar Link para os prints das referências |
 
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
