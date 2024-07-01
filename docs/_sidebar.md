@@ -73,7 +73,7 @@
   - [Cenários](/modelagem/cenarios.md)
   - [Léxico](/modelagem/lexico.md)
   - [Desenvolvimento do Diagrama de caso de Uso](/ignore/IgnoreDiagramaCasoUso.md)
-  - [Caso de uso](/modelagem/casoDeUso.md)z
+  - [Caso de uso](/modelagem/casoDeUso.md)
   - [Especificação Suplementar](/modelagem/especSuplementar.md)
 
 * Modelagem - Ágil
