@@ -49,18 +49,18 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca das atas, assim com
 | 1   | pergunta | explicacao | rastreabilidade | captura         |
 
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
 </center>
 
 
 ### Inspeção
 
-A tabela a seguir mostra a inspeção feita a cerca do artefato NOME.
+A tabela a seguir mostra a inspeção feita a cerca do artefato das atas.
 
 <center>
 
-<b>Tabela 3:</b> Resposta da lista de verificação para NOME.
+<b>Tabela 3:</b> Resposta da lista de verificação para as atas.
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 | -- | --------- | ------------------------------------------------ |
@@ -73,11 +73,11 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato NOME.
 
 ### Erros Encontrados
 
-A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArtefato.
+A tabela a seguir mostra as sugestões de melhorias a cerca do artefato das atas.
 
 <center>
 
-<b>Tabela 4:</b> Sugestões de melhoria para NOME.
+<b>Tabela 4:</b> Sugestões de melhoria para as atas.
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
@@ -90,13 +90,13 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArte
 
 ### Vídeo da inspeção
 
-O vídeo a seguir a inspeção gravada sobre o artefato NOME.
+O vídeo a seguir a inspeção gravada sobre o artefato das atas.
 
 <center>
 
-<b>Vídeo 1:</b> Gravação da inspeção de NOME.
+<b>Vídeo 1:</b> Gravação da inspeção das atas.
 
-<iframe width="400" height="800" src="" title="Inspeção de NOME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="400" height="800" src="" title="Inspeção das atas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 É possível acessar o vídeo por meio deste [link]().
 
@@ -114,4 +114,4 @@ O vídeo a seguir a inspeção gravada sobre o artefato NOME.
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do artefato                 | nome            | nome            | nn/06/2024 |
+| 1.0    | Criação do artefato                 | Breno Alexandre | -               | 01/07/2024 |
