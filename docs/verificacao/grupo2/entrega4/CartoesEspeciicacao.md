@@ -115,7 +115,10 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArte
 
 ## Referências Bibliográficas
 
+1. Silva, R. A. (2019). NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Recife: Universidade Federal de Pernambuco. Disponível em <https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%c3%87%c3%83O%20Reinaldo%20Ant%c3%b4nio%20da%20Silva.pdf>. Acessado em 09 de junho de 2024.
 
+2. James & Suzanne Robertson. Volere - Modelo para Especificações de Requisitos. 2009. Disponível em <https://www.volere.org/wp-content/uploads/2018/12/template14_ptbra.pdf>.  Acessado em 09 de junho de 2024.
+   
 
 
 ## Histórico de versão
