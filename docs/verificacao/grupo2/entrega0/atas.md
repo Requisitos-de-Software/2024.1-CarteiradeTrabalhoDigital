@@ -4,7 +4,6 @@
 ## Sumário
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
-* [Erros da Lista](#Erros-da-Lista)
 * [Lista de Verificação](#Lista-de-Verificação)
 * [Inspeção](#Inspeção)
 * [Erros Encontrados](#Erros-Encontrados)
@@ -15,46 +14,40 @@
 
 ## Introdução
 
-O seguinte documento possui o intuito de utilizar a lista de verificação para o artefato de [nomeArtefato]() 
+O seguinte documento possui o intuito de utilizar a lista de verificação para os artefatos das atas:
 
-criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura do NOME, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
+- [Ata01](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata01)
+- [Ata02](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata02)
+- [Ata03](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata03)
+- [Ata04](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata04)
+- [Ata05](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata05)
+- [Ata06](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata06)
+- [Ata07](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata07)
+- [Ata08](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata08)
+- [Ata09](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata09)
+- [Ata10](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata10)
+- [Ata11](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/reunioes/ata11)
+
+As atas foram criadas pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura da ata, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
 
 
 ## Metodologia
 
 De início, deverá ser feita uma verificação e correção informal da lista de verificação feita para o grupo 3, se ela já existir. Após isso, será utilizada a lista de verificação, que contém perguntas e respostas sobre o artefato. Com a conclusão das respostas, o grupo avaliado poderá realizar alterações e melhorias para assegurar que o artefato esteja em conformidade com as diretrizes estabelecidas.
 
-## Erros da Lista
-
-A tabela a seguir mostra os erros encontrados na lista de verficação, assim como os locais e as soluções usadas.
-
-<center>
-
-<b>Tabela 1:</b> Verificação da lista de verificação para NOME.
-
-| Erro    | Explicação | Local | Solução |
-| ------- | ---------- | ----- | ------- |
-| erroTal | explicacao | local | solucao |
-
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
-
-</center>
 
 ## Lista de verificação
 
-A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato NOME, assim como observações sobre cada pergunta e sua rastreabilidade, com a referencia bibliográfica de onde cada pergunta veio.
+A tabela a seguir mostra as perguntas a serem feitas a cerca das atas, assim como observações sobre cada pergunta e sua rastreabilidade, com a referencia bibliográfica de onde cada pergunta veio.
 
 <center>
 
-<b>Tabela 2:</b> Lista de verificação para NOME.
+<b>Tabela 2:</b> Lista de verificação para as atas.
 
 | ID  | Pergunta | Explicação | Rastreabilidade | Captura de tela |
 | --- | -------- | ---------- | --------------- | --------------- |
 | 1   | pergunta | explicacao | rastreabilidade | captura         |
 
-Caso a lista já exista:
-
-<b>Fonte:</b> [nomeArtefato]().
 
 <b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
 
