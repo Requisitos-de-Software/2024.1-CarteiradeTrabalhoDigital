@@ -118,7 +118,7 @@ O vídeo a seguir a inspeção gravada sobre o artefato Storytelling.
 
 ## Referências Bibliográficas
 
-1. https://aprender3.unb.br/pluginfile.php/2844991/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 27 ago. 2017.
+1. https://aprender3.unb.br/pluginfile.php/2844991/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 30 junho. 2024.
    
 2. **Interação Humano-Computador e Experiência do Usuário**
    - Barbosa, S. D. J., Silva, B. S. da, Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Autopublicação. ISBN: 978-65-00-19677-1.
@@ -127,4 +127,4 @@ O vídeo a seguir a inspeção gravada sobre o artefato Storytelling.
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do artefato                 | Bruno Araújo    | nome            | nn/06/2024 |
+| 1.0    | Criação do artefato                 | Bruno Araújo    | nome            | 01/07/2024 |
