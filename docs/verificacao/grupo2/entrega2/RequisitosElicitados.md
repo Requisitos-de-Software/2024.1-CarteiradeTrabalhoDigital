@@ -95,7 +95,7 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato de Requisitos El
 | 13 | Os requisitos consideram os requisitos de segurança, como autenticação, autorização e criptografia de dados? | Sim | - |
 | 14 | Os requisitos abordam os requisitos de desempenho, como tempos de resposta esperados e capacidade de processamento? | Sim | - | 
 
-<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
@@ -110,9 +110,13 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Requi
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
-| 1  | sugestao/sugestoes     |
+| 1  | Poderia-se complementar mais alguns dos requisitos funcionais.     |
+| 2  | Seria interessante adicionar os links que levam para os documentos de elicitação para facilitar a rastreabilidade.    |
+| 3  | Precisa adicionar a priorização.     |
+| 4  | Adicionar links ou aumentar a explicação em alguns requisitos, por exemplo, nos de interface.   |
+| 5  | Se possível, mostrar como os que foram implementados estão e explicar o porquê de alguns estarem incompletos.    |
 
-<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
@@ -129,7 +133,7 @@ O vídeo a seguir a inspeção gravada sobre o artefato de Requisitos Elicitados
 
 É possível acessar o vídeo por meio deste [link]().
 
-<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
 
@@ -146,4 +150,5 @@ O vídeo a seguir a inspeção gravada sobre o artefato de Requisitos Elicitados
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do artefato                 | Pedro Izarias            | -            | 30/06/2024 |
+| 1.0    | Criação do artefato                 | Pedro Izarias            | Larissa Stéfane      | 30/06/2024 |
+| 1.1    | Adição da inspeção                  | Pedro Izarias            | -            | 30/06/2024 |
