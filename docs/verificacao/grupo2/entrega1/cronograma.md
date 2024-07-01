@@ -8,7 +8,6 @@
 * [Inspeção](#Inspeção)
 * [Erros Encontrados](#Erros-Encontrados)
 * [Vídeo da Inspeção](#Vídeo-da-Inspeção)
-* [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
 
 
@@ -30,9 +29,14 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do cronograma, assi
 
 <b>Tabela 2:</b> Lista de verificação para o cronograma.
 
-| ID  | Pergunta                                | Explicação                                             |
-| --- | --------------------------------------- | ------------------------------------------------------ |
-| 1   | O artefato contém introdução?           | O artefato deve conter uma introdução para explicá-lo. |
+| ID  | Pergunta                                                     | Explicação                                                                                                          |
+| --- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| 1   | O artefato contém introdução?                                | O artefato deve conter uma introdução para explicá-lo.                                                              |
+| 2   | O artefato contém o cronograma planejado de todas as etapas? | O artefato deve conter o cronograma planejado de todas as etapas que a disciplina de Requisitos de Sotware abrange. |
+| 3   | O artefato contém o cronograma executado de todas as etapas? | O artefato deve conter o cronograma executado de todas as etapas que a disciplina de Requisitos de Sotware abrange. |
+| 4   | O artefato tem o nome do/da autor(a) embaixo das tabelas?    | Autoria das tabelas.                                                                                                |
+| 5   | Há histórico de versionamento?                               | Deve conter identificação, alteração, autor, revisor e data.                                                        |
+
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
@@ -47,9 +51,13 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato do cronograma.
 
 <b>Tabela 3:</b> Resposta da lista de verificação para o cronograma.
 
-| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
-| -- | --------- | ------------------------------------------------ |
-| 1  | pergunta  | resposta                                         |
+| ID |  Pergunta                                                    | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
+| -- | ------------------------------------------------------------ | ------------------------------------------------- |
+| 1  | O artefato contém introdução?                                | |
+| 2  | O artefato contém o cronograma planejado de todas as etapas? | |
+| 3  | O artefato contém o cronograma executado de todas as etapas? | |
+| 4  | O artefato tem o nome do/da autor(a) embaixo das tabelas?    | |
+| 5  | Há histórico de versionamento?                               | |
 
 <b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
 
