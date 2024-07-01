@@ -74,9 +74,20 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato das atas.
 
 <b>Tabela 3:</b> Resposta da lista de verificação para as atas.
 
-| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
-| -- | --------- | ------------------------------------------------ |
-| 1  | pergunta  | resposta                                         |
+| ID |  Pergunta                                                                  | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
+| -- | -------------------------------------------------------------------------- | ------------------------------------------------ |
+| 1  | A ata contém título?                                                       | |
+| 2  | A ata possui identificação?                                                | |
+| 3  | A ata têm as pautas descritas?                                             | |
+| 4  | A ata fala sobre pendências anteriores?                                    | |
+| 5  | A ata fala sobre o assunto da reunião?                                     | |
+| 6  | A ata fala sobre a próxima reunião?                                        | |
+| 7  | A ata fala sobre os compromissos?                                          | |
+| 8  | Há o vídeo incorporado na ata?                                             | |
+| 9  | Há link reserva para caso o vídeo não esteja disponível para vizualização? | |
+| 10 | O vídeo da ata está na categoria não listado?                              | |
+| 11 | O artefato tem o nome do/da autor(a) embaixo do vídeo e das tabelas?       | |
+| 12 | Há histórico de versionamento?                                             | |
 
 <b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
 
