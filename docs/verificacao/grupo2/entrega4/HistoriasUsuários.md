@@ -12,11 +12,11 @@
 
 ## Introdução
 
-Este documento apresenta uma lista de verificação para a análise das histórias de usuário no projeto dos Correios. Nesse contexto, através desta lista de verificação abrangente, busca-se assegurar que cada história de usuário atenda aos critérios de independência, negociabilidade, valor, estimabilidade, adequação entre outros ponto necessários. 
+Este documento apresenta uma lista de verificação para a análise das histórias de usuário no projeto. Nesse contexto, através desta lista de verificação abrangente, busca-se assegurar que cada história de usuário atenda aos critérios de independência, negociabilidade, valor, estimabilidade, adequação entre outros ponto necessários. 
 
 ## Metodologia
 
-A metodologia adotada para a avaliação das histórias de usuário no projeto dos Correios será fundamentada em uma abordagem sistemática. Assim, inicialmente, a integrante do grupo [Larissa Stéfane](https://github.com/SkywalkerSupreme) irá estudar sobr eu assunto e criar uma lista de verificação. Em seguida, os outros integrantes do grupo irão avaliar as histórias de usuários. 
+A metodologia adotada para a avaliação das histórias de usuário no projeto será fundamentada em uma abordagem sistemática. Assim, inicialmente, a integrante do grupo [Larissa Stéfane](https://github.com/SkywalkerSupreme) irá estudar sobr eu assunto e criar uma lista de verificação. Em seguida, os outros integrantes do grupo irão avaliar as histórias de usuários. 
 
 ## Lista de Verificação
 
