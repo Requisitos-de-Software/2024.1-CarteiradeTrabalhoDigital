@@ -4,7 +4,9 @@
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
 * [Lista de Verificação](#Lista-de-Verificação)
-* [Avaliação](#Avaliação)
+* [Erros da Lista](#Erros-da-Lista)
+* [Inspeção](#Inspeção)
+* [Erros Encontrados](#Erros-Encontrados)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
 
@@ -43,11 +45,78 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 
 </center>
 
+## Erros da Lista
 
-## Avaliação
+A tabela a seguir mostra os erros encontrados na lista de verficação, assim como os locais e as soluções usadas.
+
+<center>
+
+<b>Tabela 1:</b> Verificação da lista de verificação para NOME.
+
+| Erro    | Explicação | Local | Solução |
+| ------- | ---------- | ----- | ------- |
+| erroTal | explicacao | local | solucao |
+
+<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+
+</center>
+
+## Inspeção
+
+<center>
+
+Tabela 2: Identificação do artefato avaliado
+ 
+| Entrega | Nome | Versão | Data de desenvolvimento | Autor(es) | Revisor |
+| ------- | ---- | ------ | ----------------------- | --------- | ------- |
+| ------- | ---- | ------ | ----------------------- | --------- | ------- |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
+
+<center>
+
+Tabela 3: Inspeção do questionário
+
+| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
+| -- | ----------| ---------- | --------------- | 
+| -- | ----------| ---------- | --------------- | 
+| -- | ----------| ---------- | --------------- | 
+| -- | ----------| ---------- | --------------- | 
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+
+### Vídeo da inspeção
+
+O vídeo a seguir a inspeção gravada sobre o artefato NOME.
+
+
+### Erros Encontrados
+
+A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArtefato.
+
+<center>
+
+<b>Tabela 4:</b> Sugestões de melhoria para NOME.
+
+| ID |  Sugestões de melhoria | 
+| -- | ---------------------- |
+| 1  | sugestao/sugestoes     |
+
+<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+
+</center>
+
 
 
 ## Referências Bibliográficas
+
+1. CAROLI, Paulo. **Histórias do usuário e a construção de produtos de sucesso**. Disponível em <https://caroli.org/historias-do-usuario-e-a-construcao-de-produtos-de-sucesso/>. Acesso em 30 de junho de 2024.
+
+2. SOARES, Felipe. **Histórias de usuário: desmistificando a escrita de User Story**. Desenvolvimento de Software, Produtos Digitais. Disponível em: <https://www.dtidigital.com.br/blog/historias-de-usuario#Template-para-escrita-de-User-Story>. Acesso em 30 de junho de 2024.
+
 
 
 ## Histórico de versão
