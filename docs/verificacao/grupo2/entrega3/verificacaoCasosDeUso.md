@@ -32,9 +32,9 @@ A tabela a seguir mostra os erros encontrados na lista de verficação, assim co
 
 | Erro    | Explicação | Local | Solução |
 | ------- | ---------- | ----- | ------- |
-| erroTal | explicacao | local | solucao |
+| - | - | - | - |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
@@ -44,7 +44,7 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato Casos d
 
 <center>
 
-<b>Tabela 2:</b> Lista de verificação para NOME.
+<b>Tabela 2:</b> Lista de verificação para Casos de Uso.
 
 | ID  | Pergunta | Explicação | Rastreabilidade | Captura de tela |
 | --- | -------- | ---------- | --------------- | --------------- |
@@ -63,30 +63,30 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato Casos d
 
 ### Inspeção
 
-A tabela a seguir mostra a inspeção feita a cerca do artefato NOME.
+A tabela a seguir mostra a inspeção feita a cerca do artefato Casos de Uso.
 
 <center>
 
-<b>Tabela 3:</b> Resposta da lista de verificação para NOME.
+<b>Tabela 3:</b> Resposta da lista de verificação para Casos de Uso.
 
 | ID  | Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 | --- | -------- | ------------------------------------------------ |
-| 1   | O caso de uso está claramente documentado do ponto de vista do usuário? | ----- |
-| 2   | Os atores estão definidos e identificados corretamente? | ----- |
-| 3   | As funcionalidades principais do sistema estão descritas de maneira clara? | ----- |
-| 4   | Os diagramas de casos de uso estão visualmente claros e organizados? | ----- |
-| 5   | Os casos de uso possuem cenários alternativos documentados? | ----- |
-| 6   | Os diagramas de casos de uso utilizam corretamente as notações padrão da UML? | ----- |
+| 1   | O caso de uso está claramente documentado do ponto de vista do usuário? | Sim |
+| 2   | Os atores estão definidos e identificados corretamente? | Sim |
+| 3   | As funcionalidades principais do sistema estão descritas de maneira clara? | Sim |
+| 4   | Os diagramas de casos de uso estão visualmente claros e organizados? | Sim |
+| 5   | Os casos de uso possuem cenários alternativos documentados? | Sim |
+| 6   | Os diagramas de casos de uso utilizam corretamente as notações padrão da UML? | Sim |
 
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
 
 ### Erros Encontrados
 
-A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArtefato.
+A tabela a seguir mostra as sugestões de melhorias a cerca do artefato Casos de Uso.
 
 <center>
 
@@ -94,26 +94,26 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArte
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
-| 1  | sugestao/sugestoes     |
+| -  | -     |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
 
 ### Vídeo da inspeção
 
-O vídeo a seguir a inspeção gravada sobre o artefato NOME.
+O vídeo a seguir a inspeção gravada sobre o artefato Casos de Uso.
 
 <center>
 
-<b>Vídeo 1:</b> Gravação da inspeção de NOME.
+<b>Vídeo 1:</b> Gravação da inspeção de Casos de Uso.
 
-<iframe width="400" height="800" src="" title="Inspeção de NOME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 É possível acessar o vídeo por meio deste [link]().
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
@@ -127,4 +127,5 @@ O vídeo a seguir a inspeção gravada sobre o artefato NOME.
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do artefato e da lista                 | Iago Passaglia            | nome            | 30/06/2024 |
+| 1.0    | Criação do artefato e da lista                 | Iago Passaglia            | Pedro Izarias            | 30/06/2024 |
+| 1.0    | Adição das respostas               | Pedro Izarias            |  -            | 01/06/2024 |
