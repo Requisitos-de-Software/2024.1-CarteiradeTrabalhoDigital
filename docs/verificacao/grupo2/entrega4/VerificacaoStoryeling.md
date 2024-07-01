@@ -10,7 +10,7 @@
 * [Vídeo da Inspeção](#Vídeo-da-Inspeção)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
-* [Conclusão](#Conclusão)
+
 
 ## Introdução
 
@@ -46,10 +46,14 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato Storyte
 
 | ID  | Pergunta | Explicação | Rastreabilidade | Captura de tela |
 | --- | -------- | ---------- | --------------- | --------------- |
-| 1   | Todos os membros responderam? | Verificar se todos os membros participaram do levantamento de dados. | Sommerville, Ian. Engenharia de Software. 10ª ed. Pearson, 2011, p. 158, parágrafo 2. | |
-| 2   | Todos chegaram a um consenso em comum? | Assegurar que todas as opiniões foram consideradas e um consenso foi alcançado. | Sommerville, Ian. Engenharia de Software. 10ª ed. Pearson, 2011, p. 159, parágrafo 3. | |
-| 3   | O storytelling reflete corretamente os dados coletados? | Garantir que o storytelling apresenta os dados de forma precisa e clara. | Sommerville, Ian. Engenharia de Software. 10ª ed. Pearson, 2011, p. 160, parágrafo 1. | |
-| 4   | O storytelling está visualmente compreensível? | Verificar se a representação visual é fácil de entender e interpretar. | Sommerville, Ian. Engenharia de Software. 10ª ed. Pearson, 2011, p. 160, parágrafo 2. | |
+| 1   | A técnica de storytelling é bem aplicada? | O storytelling deve ser bem aplicado para facilitar a comunicação e compartilhamento de conhecimento. | Requisitos - Aula 07, pág. 20 | Captura |
+| 2   | O uso de histórias motiva e inspira os participantes? | Histórias devem ser usadas para inspirar e motivar os participantes, criando engajamento e interesse. | Requisitos - Aula 07, pág. 20 | Captura |
+| 3   | Os participantes são estimulados a compartilhar histórias e conhecimentos? | Os participantes devem ser estimulados a narrar e compartilhar suas histórias e conhecimentos. | Requisitos - Aula 07, pág. 20 | Captura |
+| 4   | A técnica permite a participação assíncrona e distribuída? | A técnica deve permitir o uso de ferramentas computacionais para a participação assíncrona e distribuída. | Requisitos - Aula 07, pág. 20 | Captura |
+| 5   | A validação das histórias por outros participantes agrega valor? | A validação por outros integrantes agrega valor na coleta de informações, tornando-as mais confiáveis. | Requisitos - Aula 07, pág. 20 | Captura |
+| 6   | A narrativa utiliza elementos visuais para reforçar a mensagem? | Elementos visuais devem ser utilizados para reforçar a narrativa e facilitar a compreensão da mensagem. | Barbosa, S. D. J., et al. (2021). Interação Humano-Computador e Experiência do Usuário. Autopublicação. ISBN: 978-65-00-19677-1. - Página 55 | Captura |
+| 7   | A técnica de storytelling é aplicada de forma a facilitar a comunicação entre os participantes? | O storytelling deve facilitar a comunicação entre os participantes, promovendo o compartilhamento de conhecimentos. | Requisitos - Aula 07, pág. 20 | Captura |
+| 8   | A história é clara, cativante e de fácil compreensão? | A narrativa deve ser clara, cativante e de fácil compreensão para envolver e manter o interesse do público. | Barbosa, S. D. J., et al. (2021). Interação Humano-Computador e Experiência do Usuário. Autopublicação. ISBN: 978-65-00-19677-1. - Página 52 | Captura |
 
 **Autor:** [Bruno Araújo](https://github.com/brunocva)
 
@@ -110,7 +114,10 @@ O vídeo a seguir a inspeção gravada sobre o artefato Storytelling.
 
 ## Referências Bibliográficas
 
-1. https://aprender3.unb.br/pluginfile.php/2844991/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf
+1. https://aprender3.unb.br/pluginfile.php/2844991/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 27 ago. 2017.
+   
+2. **Interação Humano-Computador e Experiência do Usuário**
+   - Barbosa, S. D. J., Silva, B. S. da, Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de versão
 
