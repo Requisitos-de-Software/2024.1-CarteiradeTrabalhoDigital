@@ -1,4 +1,4 @@
-# Verificação do artefato nomeDoArtefato
+# Verificação de Heatmap
 
 ## Sumário
 - Introdução
