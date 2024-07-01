@@ -15,7 +15,7 @@ Este documento apresenta a lista de verificação destinada à análise e à ava
 
 ## Metodologia
 
-A metodologia de avaliação adotada seguirá o seguinte processo: inicialmente, a integrante do grupo, [Larissa Stéfane](https://github.com/SkywalkerSupreme), será responsável pelo desenvolvimento e pela elaboração da lista de verificações destinada à análise do artefato documental, para isso, será utilizadas referências de livros e de artigos.  Em seguida, um outro inte integrante assumirá o papel de avaliador e registrará  as suas observações, apontando tanto os pontos positivos quanto as possíveis áreas de melhoria identificadas.
+A metodologia de avaliação adotada seguirá o seguinte processo: inicialmente, a integrante do grupo, [Larissa Stéfane](https://github.com/SkywalkerSupreme), será responsável pelo desenvolvimento e pela elaboração da lista de verificações destinada à análise do artefato documental, para isso, será utilizadas referências de livros e de artigos.  Em seguida, um outro integrante irá verificar e avalir a lista, com o intúito de corrigir possíveis erros, por fim, um outro integrante do grupo assumirá o papel de avaliador e registrará  as suas observações, apontando tanto os pontos positivos quanto as possíveis áreas de melhoria identificadas.
 
 ## Lista de Verificação
 
