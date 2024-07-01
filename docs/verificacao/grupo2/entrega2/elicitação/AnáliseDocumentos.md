@@ -4,7 +4,8 @@
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
 * [Lista de Verificação](#Lista-de-Verificação)
-* [Avaliação](#Avaliação)
+* [Erros Encontrados](#Erros-Encontrados)
+* [Inspeção](#Inspeção)
 * [Vídeo da Avaliação](Vídeo-da-Avaliação)
 * [Conclusão e Observações](#Conclusão-e-Observações)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
@@ -44,7 +45,23 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 
 </center>
 
-## Avaliação
+### Erros Encontrados
+
+A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArtefato.
+
+<center>
+
+<b>Tabela 4:</b> Sugestões de melhoria para NOME.
+
+| ID |  Sugestões de melhoria | 
+| -- | ---------------------- |
+| 1  | sugestao/sugestoes     |
+
+<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+
+</center>
+
+## Inspeção
 
 **Tabela 2:** Lista de verificação respondida.
 
