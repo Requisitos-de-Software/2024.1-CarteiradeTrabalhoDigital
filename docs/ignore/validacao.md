@@ -23,7 +23,7 @@ As imagens 1,2 e 3, mostram o email enviado.
   
  <center>
    <font size="2"><p style="text-align: center">Imagem 1: Email Enviado</p></font>
-   <img alt="EMail Enviado" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/assets/imagensContatoCTD/email1.jpeg" width="600">
+   <img alt="EMail Enviado" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/assets/imagensContatoCTD/email1.jpeg" width="900">
    <b> Autor: </b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
   </center>
 
@@ -31,7 +31,7 @@ As imagens 1,2 e 3, mostram o email enviado.
 
 <center>
    <font size="2"><p style="text-align: center">Imagem 2: Resposta do Email</p></font>
-   <img alt="Resposta" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/assets/imagensContatoCTD/email2.jpeg" width="600">
+   <img alt="Resposta" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/assets/imagensContatoCTD/email2.jpeg" width="900">
    <b> Autor: </b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
   </center>
 
@@ -39,7 +39,7 @@ As imagens 1,2 e 3, mostram o email enviado.
 
 <center>
    <font size="2"><p style="text-align: center">Imagem 3: Envio de Novo Email</p></font>
-   <img alt="Novo Email Enviado" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/assets/imagensContatoCTD/email3.jpeg" width="600">
+   <img alt="Novo Email Enviado" src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/docs/assets/imagensContatoCTD/email3.jpeg" width="900">
    <b> Autor: </b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
   </center>
 
