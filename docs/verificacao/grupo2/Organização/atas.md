@@ -54,6 +54,10 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca das atas, assim com
 | 6   | A ata fala sobre a próxima reunião?     | Registro de quando será realizada a próxima reunião de mesma natureza.                                                                                                                                                                                    | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/atas/printVerificaAta6.jpeg) |
 | 7   | A ata fala sobre os compromissos?       | Registro dos compromissos acordados durante a reunião (identificados como pendências nos assuntos tratados), identificando o responsável e a data acordada para a conclusão da atividade.                                                                 | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/atas/printVerificaAta7.jpeg) |
 
+| 8   | Há histórico de versionamento? | Deve conter identificação, alteração, autor, revisor e data. | | |
+
+
+
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
 </center>
