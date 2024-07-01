@@ -34,7 +34,7 @@ A tabela a seguir mostra os erros encontrados na lista de verficação, assim co
 | ------- | ---------- | ------- |
 | falta de rastreabilidade | As perguntas estão sem referências | Reformulação das perguntas com a sua devida rastrebilidade  | 
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Caiomesvie">Caio Mesquita</a>.
 
 </center>
 
@@ -54,9 +54,7 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato NOME, a
 |03|Os Temas, Épicos e HIstórias estão de claro entendimento ?|O backlog deve ter clareza suficiente para que os desenvolvedores entendam o que deve ser implementado de um requisito|GOMES, Diego. Product Backlog - Introdução [vídeo]. Agile Coach Diego Gomes. Publicado em 21 Mar. 2020. Disponível em: https://youtu.be/z4ubaBwjCsU. Acesso em: 09/06/2024|-|
 |04|O Product Backlog está com os épicos, temas e histórias devidamente relacionados entre si?|O Backlog deve ter as divisões de temas, épicos e histórias bem definidos para que não haja confusão entre os requisitos e maior eficâcia no seu uso|GOMES, Diego. Product Backlog - Introdução [vídeo]. Agile Coach Diego Gomes. Publicado em 21 Mar. 2020. Disponível em: https://youtu.be/z4ubaBwjCsU. Acesso em: 09/06/2024|-|
 
-<b>Fonte: Caio Mesquita</b> [nomeArtefato]().
-
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor: </b> <a href="https://github.com/Caiomesvie">Caio Mesquita</a>.
 
 </center>
 
