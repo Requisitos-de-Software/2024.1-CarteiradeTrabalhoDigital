@@ -11,11 +11,11 @@
 
 ## Introdução
 
-Este documento tem como objetivo apresentar a lista de verificação e a avaliação do perfil de usuário elaborado para analisar e avaliar o projeto dos Correios, desenvolvido pelo grupo 3 de Interação Humano Computador deste semestre, 2024.1. Sendo assim, a lista de verificação apresentada abaixo oferece um conjunto de critérios e diretrizes para assegurar a qualidade do perfil de usuário, enquanto a lista de avaliação proporciona uma análise sistemática e crítica do documento, visando identificar áreas de melhoria.
+Este documento tem como objetivo apresentar a lista de verificação e a avaliação do perfil de usuário elaborado para analisar e avaliar o projeto do aplicativo da Carteira de Trabalho Digital. Sendo assim, a lista de verificação apresentada abaixo oferece um conjunto de critérios e diretrizes para assegurar a qualidade do perfil de usuário, enquanto a lista de avaliação proporciona uma análise sistemática e crítica do documento, visando identificar áreas de melhoria.
 
 ## Metodologia 
 
-A metodologia para análise do perfil de usuários do projeto dos Correios será conduzida em duas etapas. Inicialmente, será elaborada uma lista de verificação composta por tópicos essenciais, os quais servirão como base para a avaliação do documento. Desse modo, esses tópicos abrangerão os dados principais dos usuários, desde os seus dados demográficos até as suas características específicas, como estilo e preferência de aprendizado. Em seguida, utilizando-se dessa lista de verificação como guia, será realizada uma avaliação detalhada do perfil de usuários, examinando cada aspecto individualmente e identificando pontos fortes, áreas de melhoria e eventuais lacunas no documento.
+A metodologia para análise do perfil de usuários do projeto será conduzida em duas etapas. Inicialmente, será elaborada uma lista de verificação composta por tópicos essenciais, os quais servirão como base para a avaliação do documento. Desse modo, esses tópicos abrangerão os dados principais dos usuários, desde os seus dados demográficos até as suas características específicas, como estilo e preferência de aprendizado. Em seguida, utilizando-se dessa lista de verificação como guia, será realizada uma avaliação detalhada do perfil de usuários, examinando cada aspecto individualmente e identificando pontos fortes, áreas de melhoria e eventuais lacunas no documento.
 
 ## Lista de Verificação
 
