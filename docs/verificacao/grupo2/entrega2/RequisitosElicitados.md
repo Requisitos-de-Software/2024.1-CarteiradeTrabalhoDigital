@@ -129,9 +129,9 @@ O vídeo a seguir a inspeção gravada sobre o artefato de Requisitos Elicitados
 
 <b>Vídeo 1:</b> Gravação da inspeção de Requisitos Elicitados.
 
-<iframe width="400" height="800" src="" title="Inspeção de NOME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/yBvFgys_KgM" title="Requisitos - Inspeção dos Requisitos Elicitados" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-É possível acessar o vídeo por meio deste [link]().
+É possível acessar o vídeo por meio deste [link](https://www.youtube.com/watch?v=yBvFgys_KgM).
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
