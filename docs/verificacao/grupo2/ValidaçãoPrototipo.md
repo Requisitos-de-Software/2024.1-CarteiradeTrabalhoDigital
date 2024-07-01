@@ -212,7 +212,7 @@ Autor: []()
 
 </details>
 
-### Funcionalidade 
+### Canal de Denúncias 
 
 <details>
 <summary size="20"><b> Autor: Larissa Stefane </b></summary> 
@@ -221,29 +221,30 @@ Cronograma 5:
 
 |||
 |-|-|
-|entrevistado||
-|entrevistador||
-|data e hora||
+|entrevistado| Lettícia Ribeiro|
+|entrevistador| Larissa Stéfane|
+|data e hora| 30/06/2024 às 16:00 |
 |||
 
-Autor: []()
+Autor: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 <center>
 Vídeo 5: Entrevista com o usuário para validação
 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/bw2-99VNqjE" title="Requisitos - Validação Protótipo de Alta fidelidade - Canal de Denúncias." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Autor: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-
-Autor: []()
-
+Caso o vídeo não funcione, acesse o [link](https://www.youtube.com/watch?v=bw2-99VNqjE)
 
 Tabela 9: Requisitos abordados na funcionalidade
 
-|ID|Erros e sugestões|
+|ID|Requisito|
 |-|-|
-|SU01||
-|SU02||
-Autor: []()
+|[RF10](Elicitacao/ResquisitosCorrigidos.md)| Usuário trabalhador pode fazer denúncias trabalhistas contra a empresa |
+|[RNF11](Elicitacao/ResquisitosCorrigidos.md) | O sistema deve permitir a integração completa com os processos de negócios governamentais, conforme especificado na documentação de requisitos. |
+
+Autor: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 <br>
 
@@ -252,10 +253,9 @@ Tabela 10: Erros e sugestões de melhorias
 
 |ID|Erros e sugestões|
 |-|-|
-|SU01||
-|SU02||
+|SU01| A usuária não citou nenhuma dificuldade ou erro. Ela também não indicou nenhuma sugestão a mais.|
 
-Autor: []()
+Autor: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </center>
 
