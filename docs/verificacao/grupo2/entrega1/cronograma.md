@@ -30,10 +30,9 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do cronograma, assi
 
 <b>Tabela 2:</b> Lista de verificação para o cronograma.
 
-| ID  | Pergunta                         | Explicação                                                                                                                                                                                                                                                       | Rastreabilidade                                         | Captura de tela                                                                                                                                                     |
-| --- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | A ata contém título?                    | O artefato deve conter um título como "Ata de Reunião".                                                                                                                                                                                                   | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/atas/printVerificaAta1.jpeg) |
-| 1   | A ata contém título?                    | O artefato deve conter um título como "Ata de Reunião".                                                                                                                                                                                                   | [Exemplo: Ata de Reunião¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/atas/printVerificaAta1.jpeg) |
+| ID  | Pergunta                                | Explicação                                             |
+| --- | --------------------------------------- | ------------------------------------------------------ |
+| 1   | O artefato contém introdução?           | O artefato deve conter uma introdução para explicá-lo. |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
@@ -89,12 +88,6 @@ O vídeo a seguir a inspeção gravada sobre o artefato do cronograma.
 <b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
 
 </center>
-
-
-## Referências Bibliográficas
-
-1. **EBY**, Kate; How to create a project schedule. Smartsheet. 2023. Disponível em: https://www.smartsheet.com/content/how-to-create-project-schedule. Acesso em: 1 jul. 2024.
-
 
 ## Histórico de versão
 
