@@ -4,7 +4,8 @@
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
 * [Lista de Verificação](#Lista-de-Verificação)
-* [Avaliação](#Avaliação)
+* [Erros da Lista](#Erros-da-Lista)
+* [Inspeção](#Inspeção)
 * [Conclusão e Observações](#Conclusão-e-Observações)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
@@ -52,6 +53,23 @@ A tabela 1 apresenta a lista de verificação para o perfil de usuário com base
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
+
+## Erros da Lista
+
+A tabela a seguir mostra os erros encontrados na lista de verficação, assim como os locais e as soluções usadas.
+
+<center>
+
+<b>Tabela 1:</b> Verificação da lista de verificação para NOME.
+
+| Erro    | Explicação | Local | Solução |
+| ------- | ---------- | ----- | ------- |
+| erroTal | explicacao | local | solucao |
+
+<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+
+</center>
+
 ## Inspeção
 
 <center>
@@ -80,7 +98,24 @@ Tabela 3: Inspeção do questionário
 
 </center>
 
-## Conclusão e Observações
+## Vídeo da Inspeção 
+
+
+## Erros Encontrados
+
+A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArtefato.
+
+<center>
+
+<b>Tabela 4:</b> Sugestões de melhoria para NOME.
+
+| ID |  Sugestões de melhoria | 
+| -- | ---------------------- |
+| 1  | sugestao/sugestoes     |
+
+<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+
+</center>
 
 ## Referências Bibliográficas
 
@@ -94,4 +129,4 @@ Tabela 3: Inspeção do questionário
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do documento  e elaboração da lista de verificação              | Larissa Stéfane |     -     | 12/06/2024 |
+| 1.0    | Criação do documento  e elaboração da lista de verificação              | Larissa Stéfane |     -     | 30/06/2024 |
