@@ -18,6 +18,25 @@ Este documento tem como objetivo apresentar a lista de verificação e a avalia�
 
 A metodologia para análise da a técnica de priorização do quadrante do projeto será conduzida em duas etapas. Inicialmente, será elaborada uma lista de verificação composta por tópicos essenciais, os quais servirão como base para a avaliação do documento. Desse modo, esses tópicos abrangerão a priorização dos requisitos.
 
+</center>
+
+## Erros da Lista
+
+A tabela a seguir mostra os erros encontrados na lista de verficação, assim como os locais e as soluções usadas.
+
+<center>
+
+<b>Tabela 2:</b> Verificação da lista de verificação para técnica de priorização do quadrante.
+
+| Erro    | Explicação | Local | Solução |
+| ------- | ---------- | ----- | ------- |
+| erroTal | explicacao | local | solucao |
+
+<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+
+</center>
+
+
 ## Lista de Verificação
 
 A tabela 1 apresenta a lista de verificação para a técnica de priorização do quadrante com base nos pontos explicados no livro software requirements third edition, de karl wiegers e joy beatty.
@@ -45,49 +64,29 @@ A tabela 1 apresenta a lista de verificação para a técnica de priorização d
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
-</center>
-
-## Erros da Lista
-
-A tabela a seguir mostra os erros encontrados na lista de verficação, assim como os locais e as soluções usadas.
-
-<center>
-
-<b>Tabela 1:</b> Verificação da lista de verificação para NOME.
-
-| Erro    | Explicação | Local | Solução |
-| ------- | ---------- | ----- | ------- |
-| erroTal | explicacao | local | solucao |
-
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
-
-</center>
 
 ## Inspeção
 
 <center>
 
-Tabela 2: Identificação do artefato avaliado
- 
-| Entrega | Nome | Versão | Data de desenvolvimento | Autor(es) | Revisor |
-| ------- | ---- | ------ | ----------------------- | --------- | ------- |
-| ------- | ---- | ------ | ----------------------- | --------- | ------- |
-
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
-
-</center>
-
-<center>
-
 Tabela 3: Inspeção do questionário
 
-| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
-| -- | ----------| ---------- | --------------- | 
-| -- | ----------| ---------- | --------------- | 
-| -- | ----------| ---------- | --------------- | 
-| -- | ----------| ---------- | --------------- | 
+| ID  | Pergunta de Verificação                                                                                                    | Resposta      |
+|-----|----------------------------------------------------------------------------------------------------------------------------|---------------|
+| 1   | Os requisitos foram classificados em três níveis de prioridade?                                                            | Sim |
+| 2   | Os stakeholders concordaram com as definições de cada nível de prioridade?                                                 | Sim |
+| 3   | A prioridade de cada requisito considera as dimensões de importância e urgência?                                           | Sim |
+| 4   | Os requisitos de alta prioridade são realmente críticos para a próxima versão?                                             | Sim |
+| 5   | Os requisitos de média prioridade são importantes, mas podem esperar por uma versão futura?                                | Sim |
+| 6   | Os requisitos de baixa prioridade são aqueles que os clientes podem viver sem, se necessário?                              | Sim |
+| 7   | Existe um método para lidar com requisitos que são urgentes, mas não importantes?                                          | Incompleto |
+| 8   | A prioridade dos requisitos está documentada em um documento de requisitos ou banco de dados?                              | Sim |
+| 9   | Existe uma convenção para indicar se a prioridade de um requisito de alto nível se aplica aos requisitos subordinados?     | Não |
+| 10  | O processo de priorização é iterativo, se necessário, para gerenciar um número excessivo de requisitos de alta prioridade? | Sim |
+| 11  | As dependências entre requisitos foram consideradas na priorização?                                                        | Não |
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 </center>
 
@@ -100,13 +99,16 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArte
 
 <center>
 
-<b>Tabela 4:</b> Sugestões de melhoria para NOME.
+<b>Tabela 4:</b> Sugestões de melhoria para técnica de priorização do quadrante.
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
-| 1  | sugestao/sugestoes     |
+| 7  | Deixar explícito no documento qual seria o método, se houver     |
+| 8  | Deixar explícito no documento qual seria a convenção, se houver     |
+| 9  | Especificar no documento se na entrevista foram consideradas as dependências    |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 </center>
 
@@ -118,4 +120,5 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArte
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do documento  e elaboração da lista de verificação              | Larissa Stéfane |     -     | 01/07/2024 |
+| 1.0    | Criação do documento  e elaboração da lista de verificação              | Larissa Stéfane |    Iago Passaglia    | 01/07/2024 |
+| 1.1    | Respostas da lista de verificação             | Larissa Stéfane |     -     | 01/07/2024 |
