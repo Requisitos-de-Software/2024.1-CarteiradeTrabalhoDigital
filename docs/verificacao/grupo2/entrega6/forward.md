@@ -35,13 +35,11 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca da técnica Forward
 | 1   | O artefato contém sumário? | O artefato deve conter um sumário para ajudar a guiar pelo artefato. | | |
 | 2   | O artefato contém introdução? | O artefato deve conter uma introdução para explicá-lo. | | |
 | 3   | O artefato contém metodologia? | O artefato deve conter um tópico contendo a metodologia da técnica. | | |
-| 4   | Há o vídeo incorporado no artefato? | Player de vídeo de pronta visualização. | | |
-| 5   | Há link reserva para caso o vídeo não esteja disponível para vizualização? | Link do vídeo para o youtube. | | |
-| 6   | O vídeo da entrevista está na categoria não listado? | Visualização do vídeo deve estar em não listado. | | |
+
 | 7   | A técnica foi aplicada corretamente? | A técnica MoSCoW de priorização de requisitos classifica-os em quatro categorias: "Must have" (essenciais), "Should have" (importantes), "Could have" (desejáveis) e "Won't have" (não necessários agora). | [Requisitos de software, pag.320¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/imagemVerificacaoMoscow.png) |
 | 8   | Os resultados obtidos estão no artefato? | Resultados da entrevista da técnica com o usuário. | | |
 | 9   | Os requisitos elicitados estão no artefato? | Requisitos elicitados através da entrevista da técnica com o usuário. | | |
-| 10  | O artefato tem o nome do/da autor(a) embaixo do vídeo e das tabelas? | Autoria do vídeo e das tabelas. | | |
+| 10  | O artefato tem o nome do/da autor(a) embaixo das tabelas? | Autoria das tabelas. | | |
 | 11  | Há histórico de versionamento? | Deve conter identificação, alteração, autor, revisor e data. | | |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
