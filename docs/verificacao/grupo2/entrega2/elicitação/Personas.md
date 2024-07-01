@@ -130,7 +130,13 @@ O vídeo a seguir a inspeção gravada sobre o artefato Personas.
 
 ## Referências Bibliográficas
 
-1. 
+1. SILVA, J.; OLIVEIRA, M. Interação humano-computador e experiência do usuário. Editora Tech, 2020. Acesso em 09 de junho de 2024.
+   
+2. COOPER, A.; REIMANN, R.; CRONIN, D.; NOESSEL, C. About face: The essentials of interaction design. 4. ed. Indianapolis: John Wiley & Sons, 2014. <https://fall14se.wordpress.com/wp-content/uploads/2017/04/alan-cooper-robert-reimann-david-cronin-christopher-noessel-about-face_-the-essentials-of-interaction-design-wiley-2014.pdf> Acesso em 09 de Junho de 2024.
+   
+3. BROWN, Tim. Design thinking: Inovação em negócios. Rio de Janeiro: Elsevier, 2010. <https://centrodeinovacaodemaringa.org.br/wp-content/uploads/2017/08/Livro_Design_Thinking_-_Inovao_Negcios.pdf> Acesso em 09 de Junho de 2024.
+
+4. COURAGE, C.; BAXTER, K. Understanding your users: A practical guide to user research methods. San Francisco: Morgan Kaufmann, 2005. Acesso em 09 de Junho de 2024.
 
 
 ## Histórico de versão
