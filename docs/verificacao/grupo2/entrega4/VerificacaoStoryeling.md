@@ -53,7 +53,7 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato Storyte
 | 5   | A validação das histórias por outros participantes agrega valor? | A validação por outros integrantes agrega valor na coleta de informações, tornando-as mais confiáveis. | Requisitos - Aula 07, pág. 20 | Captura |
 | 6   | A narrativa utiliza elementos visuais para reforçar a mensagem? | Elementos visuais devem ser utilizados para reforçar a narrativa e facilitar a compreensão da mensagem. | Barbosa, S. D. J., et al. (2021). Interação Humano-Computador e Experiência do Usuário. Autopublicação. ISBN: 978-65-00-19677-1. - Página 55 | Captura |
 | 7   | A técnica de storytelling é aplicada de forma a facilitar a comunicação entre os participantes? | O storytelling deve facilitar a comunicação entre os participantes, promovendo o compartilhamento de conhecimentos. | Requisitos - Aula 07, pág. 20 | Captura |
-| 8   | A história é clara, cativante e de fácil compreensão? | A narrativa deve ser clara, cativante e de fácil compreensão para envolver e manter o interesse do público. | Barbosa, S. D. J., et al. (2021). Interação Humano-Computador e Experiência do Usuário. Autopublicação. ISBN: 978-65-00-19677-1. - Página 52 | Captura |
+| 8   | A história é clara e de fácil compreensão? | A narrativa deve ser clara, cativante e de fácil compreensão para envolver e manter o interesse do público. | Barbosa, S. D. J., et al. (2021). Interação Humano-Computador e Experiência do Usuário. Autopublicação. ISBN: 978-65-00-19677-1. - Página 52 | Captura |
 
 **Autor:** [Bruno Araújo](https://github.com/brunocva)
 
@@ -67,12 +67,16 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato Storytelling.
 
 <b>Tabela 3:</b> Resposta da lista de verificação para Storytelling.
 
-| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
-| -- | --------- | ------------------------------------------------ |
-| 1  | Todos os membros responderam? | ----- |
-| 2  | Todos chegaram a um consenso em comum? | ----- |
-| 3  | O storytelling reflete corretamente os dados coletados? | ----- |
-| 4  | O storytelling está visualmente compreensível? | ----- |
+| ID  | Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
+| --- | -------- | ------------------------------------------------ |
+| 1   | A técnica de storytelling é bem aplicada? | ----- |
+| 2   | O uso de histórias motiva e inspira os participantes? | ----- |
+| 3   | Os participantes são estimulados a compartilhar histórias e conhecimentos? | ----- |
+| 4   | A técnica permite a participação assíncrona e distribuída? | ----- |
+| 5   | A validação das histórias por outros participantes agrega valor? | ----- |
+| 6   | A narrativa utiliza elementos visuais para reforçar a mensagem? | ----- |
+| 7   | A técnica de storytelling é aplicada de forma a facilitar a comunicação entre os participantes? | ----- |
+| 8   | A história é clara e de fácil compreensão? | ----- |
 
 **Autor:** [Bruno Araújo](https://github.com/brunocva)
 
