@@ -32,9 +32,9 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato NOME, a
 | --- | -------- | 
 | 01  |  As apresentações apresentam vídeo na categoria não listado ? | 
 | 02  |  Há histórico de versionamento em todas as apresentações contendo autor e revisor ? | 
-| 01  |  Há link reserva para caso o vídeo não esteja disponível para vizualização ? | 
-| 01  |  Há avaliação da entrega respondida abaixo do vídeo da entrega ? | 
-| 01  |  Há a fonte de todos os elementos e tabelas no artefato? | 
+| 03  |  Há link reserva para caso o vídeo não esteja disponível para vizualização ? | 
+| 04  |  Há avaliação da entrega respondida abaixo do vídeo da entrega ? | 
+| 05  |  Há a fonte de todos os elementos e tabelas no artefato? | 
 
 
 <b>Autor:</b> <a href="https://github.com/Caiomesvie">Caio Mesquita</a>.
