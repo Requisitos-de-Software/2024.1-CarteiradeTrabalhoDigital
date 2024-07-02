@@ -26,7 +26,6 @@ De início, deverá ser feita uma verificação e correção informal da lista d
 
 A tabela a seguir mostra os erros encontrados na lista de verficação, assim como os locais e as soluções usadas.
 
-<center>
 
 <b>Tabela 1:</b> Verificação da lista de verificação para Rich Picture.
 
@@ -36,13 +35,10 @@ A tabela a seguir mostra os erros encontrados na lista de verficação, assim co
 
 <b>Autor:</b> <a href="https://github.com/Izarias"> Pedro Izarias </a>.
 
-</center>
-
 ## Lista de verificação
 
 A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato Rich Picture, assim como observações sobre cada pergunta e sua rastreabilidade, com a referencia bibliográfica de onde cada pergunta veio.
 
-<center>
 
 <b>Tabela 2:</b> Lista de verificação para Rich Picture.
 
@@ -62,14 +58,12 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato Rich Pi
 
 <b>Autor:</b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
-</center>
 
 
 ### Inspeção
 
 A tabela a seguir mostra a inspeção feita a cerca do artefato Rich Picture.
 
-<center>
 
 <b>Tabela 3:</b> Resposta da lista de verificação para Rich Picture.
 
@@ -88,14 +82,11 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato Rich Picture.
 
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
-</center>
-
 
 ### Erros Encontrados
 
 A tabela a seguir mostra as sugestões de melhorias a cerca do artefato Rich Picture.
 
-<center>
 
 <b>Tabela 4:</b> Sugestões de melhoria para Rich Picture.
 
@@ -106,14 +97,12 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato Rich Pic
 
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
-</center>
 
 
 ### Vídeo da inspeção
 
 O vídeo a seguir a inspeção gravada sobre o artefato Rich Picture.
 
-<center>
 
 <b>Vídeo 1:</b> Gravação da inspeção de Rich Picture.
 
@@ -123,7 +112,6 @@ O vídeo a seguir a inspeção gravada sobre o artefato Rich Picture.
 
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
-</center>
 
 
 ## Referências Bibliográficas
