@@ -55,15 +55,15 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato da Matriz de Ras
 
 | ID |  Pergunta                                                                  | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 | -- | -------------------------------------------------------------------------- | ------------------------------------------------ |
-| 1   | O artefato contém sumário? |
-| 2   | O artefato contém introdução? |
-| 3   | O artefato contém metodologia? |
-| 4   | As tabelas estão de acordo com o conceito de matriz de rastreabilidade de acordo com a monografia de Sayao? |
-| 5   | O artefato tem o nome do/da autor(a) embaixo das tabelas? |
-| 6   | O artefato contém as referências corretas? |
-| 7   | Há histórico de versionamento? |
+| 1   | O artefato contém sumário? |Sim|
+| 2   | O artefato contém introdução? | Sim|
+| 3   | O artefato contém metodologia? | Sim |
+| 4   | As tabelas estão de acordo com o conceito de matriz de rastreabilidade de acordo com a monografia de Sayao? | Sim |
+| 5   | O artefato tem o nome do/da autor(a) embaixo das tabelas? | Sim |
+| 6   | O artefato contém as referências corretas? | Sim |
+| 7   | Há histórico de versionamento? | Incompleto|
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Caiomesvie">Caio Mesquita</a>.
 
 </center>
 
@@ -78,11 +78,16 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato da Matri
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
-| 1  | sugestao/sugestoes     |
+| 1  |  Falta de formatação na tabela     |
+| 2  |  Linkar os requisitos com os seus devidos autores    |
+| 3  |  O histórico de versionamento não apresenta revisores  |
+| 4  |  Tabela principal com erro após RNF08 |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+
+<b>Autor:</b> <a href="https://github.com/Caiomesvie">Caio Mesquita</a>.
 
 </center>
+
 
 
 ### Vídeo da inspeção
