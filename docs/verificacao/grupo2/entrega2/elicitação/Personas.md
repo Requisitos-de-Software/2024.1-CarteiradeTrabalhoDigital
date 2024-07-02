@@ -77,17 +77,17 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato Personas.
 
 | ID  | Pergunta     | Resposta <br> Sim, Não, Incompleto | 
 |-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------| 
-| 1  | A quantidade de personas está dentro da faixa recomendada por Courage e Baxter (entre 3 e 12 personas)?  | - |
-| 2  | As personas possuem características significativamente diferentes que representam perfis extremos de usuários, conforme sugerido na literatura?  | - | 
-| 3  | As personas possuem histórias e contextos de uso que ajudam na sua personificação e compreensão?  | - |
-| 4  | As personas possuem metas e motivações claramente definidas, refletindo as razões por trás de seus comportamentos, de acordo com as diretrizes de construção de personas?   | - | 
-| 5  | As personas foram criadas de forma a representar tipos distintos de usuários com necessidades específicas, evitando a tentativa de agradar a todos os possíveis usuários, como recomendado na literatura?   | - |
-| 6  | As personas foram desenvolvidas para serem facilmente compreendidas e usadas como ferramentas eficazes para comunicar e guiar o processo de design de interação, conforme recomendado na literatura?   | -  | 
-| 7  | As personas foram priorizadas adequadamente, com a identificação de uma persona primária que representa o principal alvo de design da interface, sem desconsiderar as necessidades das demais personas, seguindo as diretrizes de design de persona?  |  - | 
-| 8  | As personas foram baseadas em padrões observados durante entrevistas e observações de usuários e potenciais usuários?   | - | 
-| 9  | As personas secundárias foram definidas de forma a complementar as necessidades não atendidas pela persona primária?  | - | 
-| 10  | As personas criadas possuem os elementos Motivações, Comportamentos, Atitudes, Aptidões, Atividades ou elementos equivalentes?   | - | 
-| 12 | As personas possuem detalhes específicos que as tornam eficazes como ferramentas de design e comunicação, como sugerido na literatura? | - | 
+| 1  | A quantidade de personas está dentro da faixa recomendada por Courage e Baxter (entre 3 e 12 personas)?  | Sim |
+| 2  | As personas possuem características significativamente diferentes que representam perfis extremos de usuários, conforme sugerido na literatura?  | Sim | 
+| 3  | As personas possuem histórias e contextos de uso que ajudam na sua personificação e compreensão?  | Sim |
+| 4  | As personas possuem metas e motivações claramente definidas, refletindo as razões por trás de seus comportamentos, de acordo com as diretrizes de construção de personas?   | Sim | 
+| 5  | As personas foram criadas de forma a representar tipos distintos de usuários com necessidades específicas, evitando a tentativa de agradar a todos os possíveis usuários, como recomendado na literatura?   | Sim |
+| 6  | As personas foram desenvolvidas para serem facilmente compreendidas e usadas como ferramentas eficazes para comunicar e guiar o processo de design de interação, conforme recomendado na literatura?   | Sim  | 
+| 7  | As personas foram priorizadas adequadamente, com a identificação de uma persona primária que representa o principal alvo de design da interface, sem desconsiderar as necessidades das demais personas, seguindo as diretrizes de design de persona?  |  Não | 
+| 8  | As personas foram baseadas em padrões observados durante entrevistas e observações de usuários e potenciais usuários?   | Não | 
+| 9  | As personas secundárias foram definidas de forma a complementar as necessidades não atendidas pela persona primária?  | Não | 
+| 10  | As personas criadas possuem os elementos Motivações, Comportamentos, Atitudes, Aptidões, Atividades ou elementos equivalentes?   | Incompleto | 
+| 12 | As personas possuem detalhes específicos que as tornam eficazes como ferramentas de design e comunicação, como sugerido na literatura? | Sim| 
 
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
@@ -104,7 +104,10 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Perso
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
-| 1  | -    |
+| 7  | Realizar o procedimento no artefato    |
+| 8  | Realizar o procedimento no artefato    |
+| 9  | Realizar o procedimento no artefato    |
+| 10  | Completar a composição no artefato    |
 
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
@@ -121,7 +124,7 @@ O vídeo a seguir a inspeção gravada sobre o artefato Personas.
 
 <iframe width="400" height="800" src="" title="Inspeção de NOME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-É possível acessar o vídeo por meio deste [link]().
+É possível acessar o vídeo por meio deste [link](https://youtu.be/rlygTtH1TnU).
 
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
