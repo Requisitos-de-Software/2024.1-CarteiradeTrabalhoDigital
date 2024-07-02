@@ -36,10 +36,14 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca da técnica Forward
 | 2   | O artefato contém introdução? | O artefato deve conter uma introdução para explicá-lo. | | |
 | 3   | O artefato contém metodologia? | O artefato deve conter um tópico contendo a metodologia da técnica. | | |
 
-| 7   | A técnica foi aplicada corretamente? | A técnica MoSCoW de priorização de requisitos classifica-os em quatro categorias: "Must have" (essenciais), "Should have" (importantes), "Could have" (desejáveis) e "Won't have" (não necessários agora). | [Requisitos de software, pag.320¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/imagemVerificacaoMoscow.png) |
+| 7   | A técnica foi aplicada corretamente? | A técnica MoSCoW de priorização de requisitos classifica-os em quatro categorias: "Must have" (essenciais), "Should have" (importantes), "Could have" (desejáveis) e "Won't have" (não necessários agora). | [Rastreabilidade de Requisitos, pag.4¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/imagemVerificacaoForwardFrom.jpeg) |
+
+
+
 | 8   | Os resultados obtidos estão no artefato? | Resultados da entrevista da técnica com o usuário. | | |
 | 9   | Os requisitos elicitados estão no artefato? | Requisitos elicitados através da entrevista da técnica com o usuário. | | |
 | 10  | O artefato tem o nome do/da autor(a) embaixo das tabelas? | Autoria das tabelas. | | |
+| 11  | O artefato contém as referências corretas? | Referências em ordem numérica/alfabética, com links caso seja referência eletrônica, e páginas caso seja livro/pdf | | |
 | 11  | Há histórico de versionamento? | Deve conter identificação, alteração, autor, revisor e data. | | |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
@@ -110,7 +114,7 @@ O vídeo a seguir a inspeção gravada sobre o artefato da técnica Forward-From
 
 ## Referências Bibliográficas
 
-1. **WIEGERS**, Karl. Requisitos de software. 3. ed. Rio de Janeiro: Brasport, 2013. Pags. 320 e 321.
+1. **SAYÃO**, Miriam; LEITE, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. Monografias em Ciência da Computação, n° 20/05. PUC, Rio de Janeiro, 2005. Pag. 4.
 
 
 ## Histórico de versão
