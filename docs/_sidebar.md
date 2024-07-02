@@ -122,43 +122,43 @@
 
 * Verificação Grupo 2
   * Organização
-    - [Apresentações]()
-    - [Reuniões]()
+    - [Apresentações](verificacao/grupo2/Organização/apresentações.md)
+    - [Reuniões](verificacao/grupo2/Organização/atas.md)
   * Planajemanto
-    - [Heatmap]()
-    - [Cronograma]()
-    - [Ferramentas utilizadas]()  
+    - [Heatmap](verificacao/grupo2/entrega1/VerificacaoHeatmap.md)
+    - [Cronograma](verificacao/grupo2/entrega1/cronograma.md)
+    - [Ferramentas utilizadas](verificacao/grupo2/entrega1/Ferramentas.md)  
   * Entrega 1
-    - [Rich Picture](verificacao/grupo3/entrega1/richPicture.md)
+    - [Rich Picture](verificacao/grupo2/entrega1/verificacaoRichPicture.md)
   * Entrega 2
-    - [Perfil de usuário](verificacao/grupo3/entrega2/perfilUsuário.md)
-    - [Personas](verificacao/grupo3/entrega2/personas.md)
+    - [Perfil de usuário](verificacao/grupo2/entrega2/elicitação/PerfilUsuario.md)
+    - [Personas](verificacao/grupo2/entrega2/elicitação/Personas.md)
     * Elicitação
-      - [Análise de Documentos]()
-      - [Encenação adaptada]()
-      - [Questionário]()
-      - [Storytelling]()
-    - [Requisitos Elicitados]()
+      - [Análise de Documentos](verificacao/grupo2/entrega2/elicitação/AnáliseDocumentos.md)
+      - [Encenação adaptada](verificacao/grupo2/entrega2/elicitação/)
+      - [Questionário](verificacao/grupo2/entrega2/elicitação/Questionario.md)
+      - [Storytelling](verificacao/grupo2/entrega2/elicitação/Storytelling.md)
+    - [Requisitos Elicitados](verificacao/grupo2/entrega2/RequisitosElicitados.md)
     * Priorização
-      - [Quadrante ou Três Níveis]()
-      - [In or out]()
-      - [MoSCoW]()
+      - [Quadrante ou Três Níveis](verificacao/grupo2/entrega2/priorização/Quadrante.md)
+      - [In or out](verificacao/grupo2/entrega2/priorização/)
+      - [MoSCoW](verificacao/grupo2/entrega2/priorização/moscow.md)
   * Entrega 3
-    - [Cenários](verificacao/grupo3/entrega3/cenarios.md)
-    - [Léxicos](verificacao/grupo3/entrega3/lexicos.md)
-    - [Casos de uso](verificacao/grupo3/entrega3/casosDeUso.md)
-    - [Especificação Suplementar]()
+    - [Cenários](verificacao/grupo2/entrega3/Cenarios.md)
+    - [Léxicos](verificacao/grupo2/entrega3/Léxicos.md)
+    - [Casos de uso](verificacao/grupo2/entrega3/CasosDeUso.md)
+    - [Especificação Suplementar](verificacao/grupo2/entrega3/)
 
   * Entrega 4
-    - [Backlog do produto]()
-    - [Histórias de usuário]()
+    - [Backlog do produto](verificacao/grupo2/entrega4/backlog.md)
+    - [Histórias de usuário](verificacao/grupo2/entrega4/HistoriasUsuários.md)
     - [NFR Framework]()
   * Entrega 6  
-    - [Backward-from]()
-    - [Forward-from]()
-    - [Matriz de Rastrabilidade]()
-  - [Validação Protótipo]()
-  - [Validação Informal]()
+    - [Backward-from](verificacao/grupo2/entrega6/Backward.md)
+    - [Forward-from](verificacao/grupo2/entrega6/forward.md)
+    - [Matriz de Rastrabilidade](verificacao/grupo2/entrega6/matriz.md)
+  - [Validação Protótipo](verificacao/grupo2/ValidaçãoPrototipo.md)
+  - [Validação Informal](verificacao/grupo2/validacaoInformal.md)
 
 
 
