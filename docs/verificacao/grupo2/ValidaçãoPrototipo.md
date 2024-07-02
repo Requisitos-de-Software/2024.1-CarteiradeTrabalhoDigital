@@ -14,6 +14,15 @@ Este artefato possui a validação com usuários do protótipo de alta fidelidad
 
 Foi feito um protótipo de alta fidelidade na aplicação Figma, que pode ser testado neste [Link](https://www.figma.com/proto/QOVc7j9Xikhr3jv12itkdI/Carteira-de-trabalho-digital?node-id=0-1&t=6NZZuVgOivHWKoYz-1). Utilizando o protótipo, foi feito uma validação da funcionalidade com usuários por meio de uma entrevista presencial onde foram anotadas as sugestões de melhorias a cerca daquela funcionalidade.
 
+
+<center>
+Protótipo Carteira de trabalho digital
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FQOVc7j9Xikhr3jv12itkdI%2FCarteira-de-trabalho-digital%3Fnode-id%3D0-1%26t%3D9J4Nd8gx2w7B1T82-1" allowfullscreen></iframe>
+
+</center>
+
+
 ## Entrevistas
 
 ### Funcionalidade x
