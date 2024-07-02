@@ -74,9 +74,11 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato do crono
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
-| 1  | sugestao/sugestoes     |
+|  01 | Não tem documentado o cronograma executado da entrega 5.2  |
+|  02 | Não tem documentado o cronograma executado da entrega 6  |
+|  03 | Não há revisão no histórico de versão |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Caiomesvie">Caio Mesquita</a>.
 
 </center>
 
