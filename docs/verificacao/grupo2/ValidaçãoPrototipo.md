@@ -19,7 +19,7 @@ Foi feito um protótipo de alta fidelidade na aplicação Figma, que pode ser te
 ### Funcionalidade x
 
 Legenda para ID's:
-
+|RF|Requisito Funcional|
 |-|-|
 |RF|Requisito Funcional|
 |RNF|Requisito Não-Funcional|
