@@ -59,7 +59,7 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato do cronograma.
 | 4  | O artefato tem o nome do/da autor(a) embaixo das tabelas?    | |
 | 5  | Há histórico de versionamento?                               | |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Caiomesvie">Caio Mesquita</a>.
 
 </center>
 
