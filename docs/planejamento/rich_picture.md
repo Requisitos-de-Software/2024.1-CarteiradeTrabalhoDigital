@@ -10,8 +10,9 @@
 
 ## Documento:
 
-  <center>
    <font size="2"><p style="text-align: center">Imagem 1: Rich Picture.</p></font>
+  <center>
+
    <img alt="Rich Picture Carteira de trabalho Digital" src="assets/rich.jpeg" width="600">
    
   </center>
