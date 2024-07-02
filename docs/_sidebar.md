@@ -82,50 +82,86 @@
   - [NFR Framework](modelagemAgil/NFR.md)
 
 
-* Verificação
-
-    * Grupo 3
-      - [Vídeos de Verificação](verificacao/grupo3/videosValidacao.md)
-      - [Planejamento](verificacao/grupo3/Planejamento.md)
-      * Entrega 1
-        - [Rich Picture](verificacao/grupo3/entrega1/richPicture.md)
-      * Entrega 2
-        - [Perfil de usuário](verificacao/grupo3/entrega2/perfilUsuário.md)
-        - [Personas](verificacao/grupo3/entrega2/personas.md)
-        * Elicitação
-          -  [Análise de Documentos](verificacao/grupo3/entrega2/elicitacao/analiseDocumentos.md)
-          -  [Brainstorm](verificacao/grupo3/entrega2/elicitacao/brainstorm.md)
-          -  [Observação](verificacao/grupo3/entrega2/elicitacao/observacao.md)
-          -  [Questionários](verificacao/grupo3/entrega2/elicitacao/questionarios.md)
-         * Priorização
-            - [First Things First](verificacao/grupo3/entrega2/priorizacao/FirstThingsFirst.md) 
-            - [In or Out](verificacao/grupo3/entrega2/priorizacao/InOrOut.md) 
-            - [100$](verificacao/grupo3/entrega2/priorizacao/100$.md)
-      * Entrega 3
-        - [Cenários](verificacao/grupo3/entrega3/cenarios.md)
-        - [Léxicos](verificacao/grupo3/entrega3/lexicos.md)
-        - [Casos de uso](verificacao/grupo3/entrega3/casosDeUso.md)
-        - [Validação dos Casos de Uso](/verificacao/grupo3/entrega3/validacaoCasosDeUso.md)
-        * Especificação sumplementar
-          - [Confiabilidade](verificacao/grupo3/entrega3/especSuplementar/Confiabilidade.md)
-          - [Suportabilidade](verificacao/grupo3/entrega3/especSuplementar/Suportabilidade.md)
-          - [Usabilidade](verificacao/grupo3/entrega3/especSuplementar/Usabilidade.md)
-          - [Desempenho](verificacao/grupo3/entrega3/especSuplementar/desempenho.md)
-      * Entrega 4
-        - [Backlog do produto](verificacao/grupo3/entrega4/backlog.md)
-        - [Histórias de usuário](verificacao/grupo3/entrega4/historiasUsuario.md)
-        - [Validação das Histórias de usuário](verificacao/grupo3/entrega4/validacaoHistoriasUsuario.md)
-        - [NFR Framework](verificacao/grupo3/entrega4/NFR.md)
-
-    * Grupo 2
-      * Organização
-        - [Atas](verificacao/grupo2/Organização/atas.md)
+* Verificação Grupo 3
+  - [Vídeos de Verificação](verificacao/grupo3/videosValidacao.md)
+  - [Planejamento](verificacao/grupo3/Planejamento.md)
+  * Entrega 1
+    - [Rich Picture](verificacao/grupo3/entrega1/richPicture.md)
+  * Entrega 2
+    - [Perfil de usuário](verificacao/grupo3/entrega2/perfilUsuário.md)
+    - [Personas](verificacao/grupo3/entrega2/personas.md)
+    * Elicitação
+      -  [Análise de Documentos](verificacao/grupo3/entrega2/elicitacao/analiseDocumentos.md)
+      - [Brainstorm](verificacao/grupo3/entrega2/elicitacao/brainstorm.md)
+      - [Observação](verificacao/grupo3/entrega2/elicitacao/observacao.md)
+      - [Questionários](verificacao/grupo3/entrega2/elicitacao/questionarios.md)
+    * Priorização
+      - [First Things First](verificacao/grupo3/entrega2/priorizacao/FirstThingsFirst.md) 
+      - [In or Out](verificacao/grupo3/entrega2/priorizacao/InOrOut.md) 
+    - [100$](verificacao/grupo3/entrega2/priorizacao/100$.md)
+  * Entrega 3
+    - [Cenários](verificacao/grupo3/entrega3/cenarios.md)
+    - [Léxicos](verificacao/grupo3/entrega3/lexicos.md)
+    - [Casos de uso](verificacao/grupo3/entrega3/casosDeUso.md)
+    - [Validação dos Casos de Uso](/verificacao/grupo3/entrega3/validacaoCasosDeUso.md)
+    * Especificação sumplementar
+      - [Confiabilidade](verificacao/grupo3/entrega3/especSuplementar/Confiabilidade.md)
+      - [Suportabilidade](verificacao/grupo3/entrega3/especSuplementar/Suportabilidade.md)
+      - [Usabilidade](verificacao/grupo3/entrega3/especSuplementar/Usabilidade.md)         
+      - [Desempenho](verificacao/grupo3/entrega3/especSuplementar/desempenho.md)          
+  * Entrega 4
+    - [Backlog do produto](verificacao/grupo3/entrega4/backlog.md)
+    - [Histórias de usuário](verificacao/grupo3/entrega4/historiasUsuario.md)
+    - [Validação das Histórias de usuário](verificacao/grupo3/entrega4/validacaoHistoriasUsuario.md)
+    - [NFR Framework](verificacao/grupo3/entrega4/NFR.md)      
 
 * Pós-Rastreabilidade 
   - [Backward-From](posRastreabilidade/backwardFrom.md)
   - [Foward-From](posRastreabilidade/forwardFrom.md)
   - [Matriz de Rastreabilidade](posRastreabilidade/matriz.md)
 
-* [Validação](ignore/validacao.md)
-<!-- 
-* Entrega final --> 
+* Verificação Grupo 2
+  * Organização
+    - [Apresentações]()
+    - [Reuniões]()
+  * Planajemanto
+    - [Heatmap]()
+    - [Cronograma]()
+    - [Ferramentas utilizadas]()  
+  * Entrega 1
+    - [Rich Picture](verificacao/grupo3/entrega1/richPicture.md)
+  * Entrega 2
+    - [Perfil de usuário](verificacao/grupo3/entrega2/perfilUsuário.md)
+    - [Personas](verificacao/grupo3/entrega2/personas.md)
+    * Elicitação
+      - [Análise de Documentos]()
+      - [Encenação adaptada]()
+      - [Questionário]()
+      - [Storytelling]()
+    - [Requisitos Elicitados]()
+    * Priorização
+      - [Quadrante ou Três Níveis]()
+      - [In or out]()
+      - [MoSCoW]()
+  * Entrega 3
+    - [Cenários](verificacao/grupo3/entrega3/cenarios.md)
+    - [Léxicos](verificacao/grupo3/entrega3/lexicos.md)
+    - [Casos de uso](verificacao/grupo3/entrega3/casosDeUso.md)
+    - [Especificação Suplementar]()
+
+  * Entrega 4
+    - [Backlog do produto]()
+    - [Histórias de usuário]()
+    - [NFR Framework]()
+  * Entrega 6  
+    - [Backward-from]()
+    - [Forward-from]()
+    - [Matriz de Rastrabilidade]()
+  - [Validação Protótipo]()
+  - [Validação Informal]()
+
+
+
+
+ 
+
