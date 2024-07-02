@@ -33,52 +33,48 @@ Autor: [Caio Mesquita](https://github.com/Caiomesvie)
 <br>
 <br>
 
+
+### Manual do Usuário
+
 <details>
 <summary size="20"><b> Autor: Breno Alexandre </b></summary> 
 
 Cronograma 1:
 
-|||
+| | |
 |-|-|
-|entrevistado||
-|entrevistador||
-|data e hora||
-|||
+| Entrevistado | Limíro Corrêia Guimarães |
+| Entrevistador | Breno Alexandre Soares Garcia |
+| Data e hora | 22:20 |
+| | |
 
-Autor: []()
+<b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
 <center>
+ 
 Vídeo 1: Entrevista com o usuário para validação
 
+<iframe width="400" height="800" src="https://www.youtube-nocookie.com/embed/7K5eJ78Phac?si=cmbHVwWBfiKwaT9X" title=" Requisitos de Software - Avaliação do Protótipo de Alta Fidelidade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[Link](https://www.youtube.com/watch?v=7K5eJ78Phac) caso não possa ver o player.
 
-
-Autor: []()
+<b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
 
 Tabela 1: Requisitos abordados na funcionalidade
 
-|ID|Erros e sugestões|
+|ID|Requisitos abordados|
 |-|-|
-|SU01||
-|SU02||
-Autor: []()
+| RF20 | Usuário pode consultar perguntas frequêntes |
+
+<b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
 <br>
-
-
-Tabela 2: Erros e sugestões de melhorias
-
-|ID|Erros e sugestões|
-|-|-|
-|SU01||
-|SU02||
-
-Autor: []()
 
 </center>
 
 </details>
+
 
 ### Funcionalidade x Seguro Desemprego
 
@@ -397,3 +393,4 @@ Autor: [Pedro Izarias](https://github.com/Izarias)
 | 1.2    | Adição da avaliação da funcionalidade de mudança de status. | Iago Passaglia| -             | 01/07/2024 |
 | 1.3    | Adição da avaliação da funcionalidade de contratos de trabalho | Pedro Izarias| -             | 01/07/2024 |
 | 1.4    | Adição da avaliação da funcionalidade de alterar dados pessoais. | Caio Mesquita| -             | 01/07/2024 |
+| 1.5    | Adição da avaliação da funcionalidade de manual de usuário. | Breno Alexandre | -             | 01/07/2024 |
