@@ -35,11 +35,10 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca da Matriz de Rastre
 | 1   | O artefato contém sumário? | O artefato deve conter um sumário para ajudar a guiar pelo artefato. | | |
 | 2   | O artefato contém introdução? | O artefato deve conter uma introdução para explicá-lo. | | |
 | 3   | O artefato contém metodologia? | O artefato deve conter um tópico contendo a metodologia da técnica. | | |
-| 4   | A técnica foi aplicada corretamente? | A rastreabilidade forward-from, liga os artefatos que foram gerados com os requisitos. | [Rastreabilidade de Requisitos, pag.4¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/ForwardFrom/imagemVerificacaoForwardFrom.jpeg) |
-| 5   | As tabelas estão de acordo com as situações de acordo com a monografia de Sayao? | A rastreabilidade pode auxiliar gerentes e desenvolvedores em várias situações. Ver captura de tela. | [Rastreabilidade de Requisitos, pag.4¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/ForwardFrom/imagemVerificacaoForwardFrom2.jpeg) |
-| 6   | O artefato tem o nome do/da autor(a) embaixo das tabelas? | Autoria das tabelas. | | |
-| 7   | O artefato contém as referências corretas? | Referências em ordem numérica/alfabética, com links caso seja referência eletrônica, e páginas caso seja livro/pdf | | |
-| 8   | Há histórico de versionamento? | Deve conter identificação, alteração, autor, revisor e data. | | |
+| 4   | As tabelas estão de acordo com o conceito de matriz de rastreabilidade de acordo com a monografia de Sayao? | A matriz tem referencias cruzadas dos artefatos que elicitaram requisitos, dos artefatos gerados pelos requisitos e os elos. | [Rastreabilidade de Requisitos, pags. 12 e 13¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/imagemVerificacaoMatriz.jpeg) |
+| 5   | O artefato tem o nome do/da autor(a) embaixo das tabelas? | Autoria das tabelas. | | |
+| 6   | O artefato contém as referências corretas? | Referências em ordem numérica/alfabética, com links caso seja referência eletrônica, e páginas caso seja livro/pdf | | |
+| 7   | Há histórico de versionamento? | Deve conter identificação, alteração, autor, revisor e data. | | |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
@@ -56,14 +55,13 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato da Matriz de Ras
 
 | ID |  Pergunta                                                                  | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 | -- | -------------------------------------------------------------------------- | ------------------------------------------------ |
-| 1   | O artefato contém sumário? | |
-| 2   | O artefato contém introdução? | |
-| 3   | O artefato contém metodologia? | |
-| 4   | A técnica foi aplicada corretamente? | |
-| 5   | As tabelas estão de acordo com as situações de acordo com a monografia de Sayao? | |
-| 6   | O artefato tem o nome do/da autor(a) embaixo das tabelas? | |
-| 7   | O artefato contém as referências corretas? | |
-| 8   | Há histórico de versionamento? | |
+| 1   | O artefato contém sumário? |
+| 2   | O artefato contém introdução? |
+| 3   | O artefato contém metodologia? |
+| 4   | As tabelas estão de acordo com o conceito de matriz de rastreabilidade de acordo com a monografia de Sayao? |
+| 5   | O artefato tem o nome do/da autor(a) embaixo das tabelas? |
+| 6   | O artefato contém as referências corretas? |
+| 7   | Há histórico de versionamento? |
 
 <b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
 
