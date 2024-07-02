@@ -115,5 +115,5 @@ O vídeo a seguir a inspeção gravada sobre o artefato da técnica Forward-From
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do artefato                 | Breno Alexandre | -               | 01/07/2024 |
-| 1.0    | Criação do artefato                 | Breno Alexandre | -               | 01/07/2024 |
+| 1.0    | Criação do artefato                 | Breno Alexandre | Pedro Izarias               | 01/07/2024 |
+| 1.1    | Adição das respostas                | Pedro Izarias | -               | 01/07/2024 |
