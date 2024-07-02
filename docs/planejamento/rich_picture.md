@@ -12,7 +12,7 @@
 
   <center>
    <font size="2"><p style="text-align: center">Imagem 1: Rich Picture.</p></font>
-   <img alt="Rich Picture Guardiões da saúde" src="assets/rich_picture.jpg" width="600">
+   <img alt="Rich Picture Carteira de trabalho Digital" src="assets/rich_picture.jpg" width="600">
    <font size="2"><p style="text-align: center">Fonte: [Pedro Augusto](https://github.com/Izarias).</p></font>
   </center>
 
