@@ -122,6 +122,6 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Anál
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Adição da tabela de verificação | Larissa Stéfane | - | 30/06/2024 |
-| 1.1 | Adição da introdução e da metodologia | Larissa Stéfane |- | 30/06/2024 |
+| 1.0 | Adição da tabela de verificação | Larissa Stéfane | Pedro Izarias | 30/06/2024 |
+| 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | Pedro Izarias | 30/06/2024 |
 | 1.2 | Adição das respostas | Pedro Izarias |- | 01/07/2024 |
