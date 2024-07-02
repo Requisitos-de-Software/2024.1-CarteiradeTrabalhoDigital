@@ -25,8 +25,6 @@ A tabela 1 apresenta a lista de verificação para a análise de documentos com 
 
 Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastreabilidade**.
 
-<center>
-
 **Tabela 1:** Lista de verificação para a análise de documentos utilizada para a elicitação de requisitos.
 
 | ID | Pergunta de Verificação | Explicação | Rastreabilidade | Captura de Tela | 
@@ -43,13 +41,11 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
-</center>
 
 ### Erros Encontrados
 
 A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Análise de Documentos.
 
-<center>
 
 <b>Tabela 4:</b> Sugestões de melhoria para Análise de Documentos.
 
@@ -59,7 +55,6 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Anál
 
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
-</center>
 
 ## Inspeção
 
@@ -88,7 +83,6 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Anál
 
 A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Análise de Documentos.
 
-<center>
 
 <b>Tabela 4:</b> Sugestões de melhoria para Análise de Documentos.
 
@@ -97,8 +91,6 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Anál
 | 1  |  Adicionar as partes interessadas explicitamente no documento    |
 
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
-
-</center>
 
 
 
