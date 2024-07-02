@@ -76,18 +76,18 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato das atas.
 
 | ID |  Pergunta                                                                  | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 | -- | -------------------------------------------------------------------------- | ------------------------------------------------ |
-| 1  | A ata contém título?                                                       | |
-| 2  | A ata possui identificação?                                                | |
-| 3  | A ata têm as pautas descritas?                                             | |
-| 4  | A ata fala sobre pendências anteriores?                                    | |
-| 5  | A ata fala sobre o assunto da reunião?                                     | |
-| 6  | A ata fala sobre a próxima reunião?                                        | |
-| 7  | A ata fala sobre os compromissos?                                          | |
-| 8  | Há o vídeo incorporado na ata?                                             | |
-| 9  | Há link reserva para caso o vídeo não esteja disponível para vizualização? | |
-| 10 | O vídeo da ata está na categoria não listado?                              | |
-| 11 | O artefato tem o nome do/da autor(a) embaixo do vídeo e das tabelas?       | |
-| 12  | Há histórico de versionamento?                                            | |
+| 1  | A ata contém título?                                                       | Sim |
+| 2  | A ata possui identificação?                                                | Sim |
+| 3  | A ata têm as pautas descritas?                                             | Sim |
+| 4  | A ata fala sobre pendências anteriores?                                    | Sim|
+| 5  | A ata fala sobre o assunto da reunião?                                     | Sim|
+| 6  | A ata fala sobre a próxima reunião?                                        | Não se aplica|
+| 7  | A ata fala sobre os compromissos?                                          | Sim |
+| 8  | Há o vídeo incorporado na ata?                                             | Não se aplica|
+| 9  | Há link reserva para caso o vídeo não esteja disponível para vizualização? | Sim |
+| 10 | O vídeo da ata está na categoria não listado?                              | Sim |
+| 11 | O artefato tem o nome do/da autor(a) embaixo do vídeo e das tabelas?       | Sim|
+| 12  | Há histórico de versionamento?                                            | Sim |
 
 <b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
 
@@ -104,11 +104,18 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato das atas
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
-| 1  | sugestao/sugestoes     |
+| 01  | Observação: nem todas as atas possuem registro pois foram realizadas de forma presencial   |
+| 02  | Ata 07 não contém vídeo mas alega que foi realizada via teams   |
+| 03  | Ata 07 contém tabelas incompletas |
+| 04  | Ata 07 contém histórico de versão sem revisor |
+| 05  | Ata 09 contém histórico de versão sem revisor |
+| 06  | Ata 11 apresenta tabela sem autor |
+| 07  | Ata 11 contém histórico de versão sem revisor |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/nome">Caio Mesquita</a>.
 
 </center>
+
 
 
 ### Vídeo da inspeção
