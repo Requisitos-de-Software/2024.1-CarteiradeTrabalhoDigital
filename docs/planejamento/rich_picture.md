@@ -16,7 +16,7 @@
    
   </center>
 
-  <font size="2"><p style="text-align: center">Fonte: [Pedro Augusto](https://github.com/Izarias).</p></font>
+  <font size="2"><p style="text-align: center">Fonte: [Pedro Augusto](https://github.com/Izarias)</p></font>
 
 ## Bibliografia
 - Monk, A., & Howard, S. (1998). The Rich Picture: A Tool for Reasoning About Work Context. Interactions, March-April 1998, 22-30. 
