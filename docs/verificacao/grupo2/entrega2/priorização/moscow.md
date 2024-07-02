@@ -42,7 +42,8 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca da técnica MoSCoW,
 | 8   | Os resultados obtidos estão no artefato? | Resultados da entrevista da técnica com o usuário. | | |
 | 9   | Os requisitos elicitados estão no artefato? | Requisitos elicitados através da entrevista da técnica com o usuário. | | |
 | 10  | O artefato tem o nome do/da autor(a) embaixo do vídeo e das tabelas? | Autoria do vídeo e das tabelas. | | |
-| 11  | Há histórico de versionamento? | Deve conter identificação, alteração, autor, revisor e data. | | |
+| 11  | O artefato contém as referências corretas? | Referências em ordem numérica/alfabética, com links caso seja referência eletrônica, e páginas caso seja livro/pdf |
+| 12  | Há histórico de versionamento? | Deve conter identificação, alteração, autor, revisor e data. |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
@@ -69,7 +70,8 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato da técnica MoSC
 | 8   | Os resultados obtidos estão no artefato? | |
 | 9   | Os requisitos elicitados estão no artefato? | |
 | 10  | O artefato tem o nome do/da autor(a) embaixo do vídeo e das tabelas? | |
-| 11  | Há histórico de versionamento? | |
+| 11  | O artefato contém as referências corretas? | |
+| 12  | Há histórico de versionamento? | |
 
 <b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
 
