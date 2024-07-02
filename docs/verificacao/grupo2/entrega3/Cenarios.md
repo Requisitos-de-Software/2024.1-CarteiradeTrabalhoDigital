@@ -94,7 +94,7 @@ Tabela 3: Inspeção do questionário
 
 ### Vídeo da inspeção
 
-O vídeo a seguir a inspeção gravada sobre o artefato NOME.
+https://youtu.be/blvvG6440fk
 
 
 ### Erros Encontrados
