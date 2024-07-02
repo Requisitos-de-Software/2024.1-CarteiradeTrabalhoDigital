@@ -5,6 +5,7 @@
   - [apresentação 03](/apresentacoes/apresentacao03.md)
   - [apresentação 04](/apresentacoes/apresentacao04.md)
   - [apresentação 05](/apresentacoes/apresentacao5.md)
+  - [apresentação 05.2](apresentacoes/Apresentacao5-2.md)
   - [apresentação 06](/apresentacoes/apresentacao06.md)
 
 * Reuniões
