@@ -46,51 +46,43 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato Backwar
 
 ### Inspeção
 
-A tabela a seguir mostra a inspeção feita a cerca do artefato NOME.
+A tabela a seguir mostra a inspeção feita a cerca do artefato Backward-from.
 
 <center>
 
-<b>Tabela 3:</b> Resposta da lista de verificação para NOME.
+<b>Tabela 3:</b> Resposta da lista de verificação para Backward-from.
 
-| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
-| -- | --------- | ------------------------------------------------ |
-| 1  | pergunta  | resposta                                         |
+| ID  | Pergunta                                                                                  | Resposta <br> Sim/Não/Incompleto/Não se aplica |
+| --- | ----------------------------------------------------------------------------------------- | ------------------------------------ |
+| 01  | Há uma explicação do que é a rastreabilidade Backward-from?                               | Sim |
+| 02  | Há uma explicação do que é um elo de rastreabilidade?                                     | Sim |
+| 03  | Há a explicação de meta-modelo de Toranzo e o porquê ele foi utilizado?                   | Sim |
+| 04  | Há a classificação dos elementos rastreados em um dos quatro níveis propostos por Toranzo?| Sim |
+| 05  | Há a identificação do tipo de elo entre os elementos rastreados?                          | Sim |
+| 06  | A Rastreabilidade deixa claro para o usuário a fonte dos artefatos rastreados?            | Sim |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+
+<b>Autor:</b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 </center>
 
 
 ### Erros Encontrados
 
-A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArtefato.
-
-<center>
-
-<b>Tabela 4:</b> Sugestões de melhoria para NOME.
-
-| ID |  Sugestões de melhoria | 
-| -- | ---------------------- |
-| 1  | sugestao/sugestoes     |
-
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
-
-</center>
-
+Não foram encontrados erros.
 
 ### Vídeo da inspeção
 
-O vídeo a seguir a inspeção gravada sobre o artefato NOME.
-
+O vídeo a seguir a inspeção gravada sobre o artefato Backward-from.
 <center>
 
-<b>Vídeo 1:</b> Gravação da inspeção de NOME.
+<b>Vídeo 1:</b> Gravação da inspeção de Backward-from.
 
-<iframe width="400" height="800" src="" title="Inspeção de NOME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/yIvHz-t0X0A" title="Verificação - Backward-from - Grupo 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-É possível acessar o vídeo por meio deste [link]().
+[Link](https://www.youtube.com/watch?v=yIvHz-t0X0A)
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 </center>
 
@@ -104,5 +96,6 @@ O vídeo a seguir a inspeção gravada sobre o artefato NOME.
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do artefato                 | Caio Mesquita Vieria      | nome            | 01/07/2024 |
+| 1.0    | Criação do artefato                 | Caio Mesquita Vieria | Iago Passaglia   | 01/07/2024 |
+| 1.1    | Adição da inspeção                  | Iago Passaglia       | ---------------- | 01/07/2024 |
 .

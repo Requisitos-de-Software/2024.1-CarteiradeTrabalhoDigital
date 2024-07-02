@@ -163,38 +163,38 @@ Autor: []()
 
 </details>
 
-### Funcionalidade 
+### Mudança de Status 
 
 <details>
 <summary size="20"><b> Autor: Iago Passaglia </b></summary> 
 
 Cronograma 4:
 
-|||
+|------------|--------------------|
 |-|-|
-|entrevistado||
-|entrevistador||
-|data e hora||
-|||
+|entrevistado| Matheus dos Santos |
+|entrevistador| Iago Passaglia |
+|data e hora| 01/07/2024 às 20:30|
 
-Autor: []()
+Autor: [Iago Passaglia](https://github.com/Paxxaglia)
 
 <center>
 Vídeo 4: Entrevista com o usuário para validação
 
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/co3fDzIYQXo" title="Avaliação funcionalidade “mudar status” - grupo 2 - prototipo de alta fidelidade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+(Link)[https://www.youtube.com/embed/co3fDzIYQXo]
 
 
-
-Autor: []()
-
+Autor: [Iago Passaglia](https://github.com/Paxxaglia)
 
 Tabela 7: Requisitos abordados na funcionalidade
 
-|ID|Erros e sugestões|
+|ID| Explicação do requisito |
 |-|-|
-|SU01||
-|SU02||
-Autor: []()
+| RF15 | Usuário trabalhador pode ativar modo de status (procurando emprego ou não) |
+
+Autor: [Iago Passaglia](https://github.com/Paxxaglia)
 
 <br>
 
@@ -203,10 +203,9 @@ Tabela 8: Erros e sugestões de melhorias
 
 |ID|Erros e sugestões|
 |-|-|
-|SU01||
-|SU02||
+|SU01| O entrevistado sugere que o status deveria ser mostrado de alguma forma na página inicial.|
 
-Autor: []()
+Autor: [Iago Passaglia](https://github.com/Paxxaglia)
 
 </center>
 
@@ -365,4 +364,5 @@ Autor: []()
 | Versão | Alteração                                                    | Responsável     | Revisor       | Data       |
 | ------ | ------------------------------------------------------------ | --------------- | ------------- | ---------- |
 | 1.0    | Criação de documentação                                      | Caio Mesquita   | Bruno Araújo  | 30/06/2024 |
-| 1.1    | Adição da avaliação da funcionalidade do canal de Denúncias. | Larissa Stéfane | -             | 01/07/2024 |
+| 1.1    | Adição da avaliação da funcionalidade do canal de Denúncias. | Larissa Stéfane | Iago Passaglia | 01/07/2024 |
+| 1.1    | Adição da avaliação da funcionalidade de mudança de status. | Iago Passaglia| -             | 01/07/2024 |

@@ -87,7 +87,7 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato das atas.
 | 9  | Há link reserva para caso o vídeo não esteja disponível para vizualização? | |
 | 10 | O vídeo da ata está na categoria não listado?                              | |
 | 11 | O artefato tem o nome do/da autor(a) embaixo do vídeo e das tabelas?       | |
-| 12 | Há histórico de versionamento?                                             | |
+| 12  | Há histórico de versionamento?                                            | |
 
 <b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
 
