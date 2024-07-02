@@ -112,7 +112,7 @@ Tabela 3: Requisitos abordados na funcionalidade
 
 |ID|Erros e sugestões|
 |-|-|
-|SU01| Solicitar seguro desemprego|
+|RF13| Solicitar benefício, seguro desemprego|
 
 
 Autor: [Bruno Araújo](https://github.com/brunocva)
@@ -125,7 +125,6 @@ Tabela 4: Erros e sugestões de melhorias
 |ID|Erros e sugestões|
 |-|-|
 |SU01| Não foi sugerido nenhuma melhoria|
-|SU02||
 
 Autor: [Bruno Araújo](https://github.com/brunocva)
 
