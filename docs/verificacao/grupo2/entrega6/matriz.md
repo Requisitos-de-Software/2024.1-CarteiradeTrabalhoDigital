@@ -1,4 +1,4 @@
-# Verificação da Técnica de Rastreabilidade de Requisitos: Forward-From
+# Verificação da Matriz de Rastreabilidade
 
 
 ## Sumário
@@ -14,7 +14,7 @@
 
 ## Introdução
 
-O seguinte documento possui o intuito de utilizar a lista de verificação para o artefato [Técnica de Rastreabilidade de Requisitos Forward-From](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/posRastreabilidade/forwardFrom) criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura desta técnica, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
+O seguinte documento possui o intuito de utilizar a lista de verificação para o artefato [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/posRastreabilidade/matriz) criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura da Matriz de Rastreabilidade, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
 
 
 ## Metodologia
@@ -24,11 +24,11 @@ De início, deverá ser feita uma verificação e correção informal da lista d
 
 ## Lista de verificação
 
-A tabela a seguir mostra as perguntas a serem feitas a cerca da técnica Forward-From, assim como observações sobre cada pergunta e sua rastreabilidade, com a referencia bibliográfica de onde cada pergunta veio.
+A tabela a seguir mostra as perguntas a serem feitas a cerca da Matriz de Rastreabilidade, assim como observações sobre cada pergunta e sua rastreabilidade, com a referencia bibliográfica de onde cada pergunta veio.
 
 <center>
 
-<b>Tabela 2:</b> Lista de verificação para a técnica Forward-From.
+<b>Tabela 2:</b> Lista de verificação para a Matriz de Rastreabilidade.
 
 | ID  | Pergunta | Explicação | Rastreabilidade | Captura de tela |
 | --- | -------- | ---------- | --------------- | --------------- |
@@ -36,7 +36,7 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca da técnica Forward
 | 2   | O artefato contém introdução? | O artefato deve conter uma introdução para explicá-lo. | | |
 | 3   | O artefato contém metodologia? | O artefato deve conter um tópico contendo a metodologia da técnica. | | |
 | 4   | A técnica foi aplicada corretamente? | A rastreabilidade forward-from, liga os artefatos que foram gerados com os requisitos. | [Rastreabilidade de Requisitos, pag.4¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/ForwardFrom/imagemVerificacaoForwardFrom.jpeg) |
-| 5   | As tabelas estão de acordo com as situações de acordo com a monografia de Sayao? | A rastreabilidade pode auxiliar gerentes e desenvolvedores em várias situações. Ver captura de tela. | [Rastreabilidade de Requisitos, pags. 5,6 e 7¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/ForwardFrom/imagemVerificacaoForwardFrom2.jpeg) |
+| 5   | As tabelas estão de acordo com as situações de acordo com a monografia de Sayao? | A rastreabilidade pode auxiliar gerentes e desenvolvedores em várias situações. Ver captura de tela. | [Rastreabilidade de Requisitos, pag.4¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/ForwardFrom/imagemVerificacaoForwardFrom2.jpeg) |
 | 6   | O artefato tem o nome do/da autor(a) embaixo das tabelas? | Autoria das tabelas. | | |
 | 7   | O artefato contém as referências corretas? | Referências em ordem numérica/alfabética, com links caso seja referência eletrônica, e páginas caso seja livro/pdf | | |
 | 8   | Há histórico de versionamento? | Deve conter identificação, alteração, autor, revisor e data. | | |
@@ -48,11 +48,11 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca da técnica Forward
 
 ### Inspeção
 
-A tabela a seguir mostra a inspeção feita a cerca do artefato da técnica Forward-From.
+A tabela a seguir mostra a inspeção feita a cerca do artefato da Matriz de Rastreabilidade.
 
 <center>
 
-<b>Tabela 3:</b> Resposta da lista de verificação para a técnica Forward-From.
+<b>Tabela 3:</b> Resposta da lista de verificação para a Matriz de Rastreabilidade.
 
 | ID |  Pergunta                                                                  | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 | -- | -------------------------------------------------------------------------- | ------------------------------------------------ |
@@ -72,11 +72,11 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato da técnica Forw
 
 ### Erros Encontrados
 
-A tabela a seguir mostra as sugestões de melhorias a cerca do artefato da técnica Forward-From.
+A tabela a seguir mostra as sugestões de melhorias a cerca do artefato da Matriz de Rastreabilidade.
 
 <center>
 
-<b>Tabela 4:</b> Sugestões de melhoria para a técnica Forward-From.
+<b>Tabela 4:</b> Sugestões de melhoria para a Matriz de Rastreabilidade.
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
@@ -89,11 +89,11 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato da técn
 
 ### Vídeo da inspeção
 
-O vídeo a seguir a inspeção gravada sobre o artefato da técnica Forward-From.
+O vídeo a seguir a inspeção gravada sobre o artefato da Matriz de Rastreabilidade.
 
 <center>
 
-<b>Vídeo 1:</b> Gravação da inspeção da técnica Forward-From.
+<b>Vídeo 1:</b> Gravação da inspeção da Matriz de Rastreabilidade.
 
 <iframe width="400" height="800" src="" title="Inspeção da técnica Forward-From" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -106,7 +106,7 @@ O vídeo a seguir a inspeção gravada sobre o artefato da técnica Forward-From
 
 ## Referências Bibliográficas
 
-1. **SAYÃO**, Miriam; LEITE, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. Monografias em Ciência da Computação, n° 20/05. PUC, Rio de Janeiro, 2005. Pag. 4,5,6 e 7.
+1. **SAYÃO**, Miriam; LEITE, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. Monografias em Ciência da Computação, n° 20/05. PUC, Rio de Janeiro, 2005. Pag. 12 e 13.
 
 
 ## Histórico de versão

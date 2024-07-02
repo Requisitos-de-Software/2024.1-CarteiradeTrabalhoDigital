@@ -13,7 +13,7 @@
 
 ## Introdução
 
-O seguinte documento possui o intuito de utilizar a lista de verificação para o artefato de [História de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagem/casoDeUso) criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura do Casos de uso, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido p...
+O seguinte documento possui o intuito de utilizar a lista de verificação para o artefato de [Validação de história de usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagem/casoDeUso) criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura do Casos de uso, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definidos previamente.
 
 ## Metodologia
 
@@ -25,7 +25,7 @@ A tabela a seguir mostra os erros encontrados na lista de verificação, assim c
 
 <center>
 
-**Tabela 1:** Verificação da lista de verificação para Casos de uso.
+**Tabela 1:** Verificação da lista de verificação validação de história de usuário..
 
 | Erro    | Explicação | Local | Solução |
 | ------- | ---------- | ----- | ------- |
@@ -41,7 +41,7 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato Casos d
 
 <center>
 
-**Tabela 2:** Lista de verificação para NOME.
+**Tabela 2:** Lista de verificação para validação de história de usuário..
 
 | ID  | Pergunta | Explicação | Rastreabilidade | Imagem |
 | --- | -------- | ---------- | --------------- | ------ |
@@ -63,11 +63,11 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato Casos d
 
 ### Inspeção
 
-A tabela a seguir mostra a inspeção feita a cerca do artefato NOME.
+A tabela a seguir mostra a inspeção feita a cerca do artefato validação de história de usuário..
 
 <center>
 
-**Tabela 3:** Resposta da lista de verificação para NOME.
+**Tabela 3:** Resposta da lista de verificação para validação de história de usuário.
 
 | ID  | Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 | --- | -------- | ------------------------------------------------ |
@@ -105,11 +105,11 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArte
 
 ### Vídeo da inspeção
 
-O vídeo a seguir a inspeção gravada sobre o artefato NOME.
+O vídeo a seguir a inspeção gravada sobre validação de história de usuário..
 
 <center>
 
-**Vídeo 1:** Gravação da inspeção de NOME.
+**Vídeo 1:** Gravação da inspeção de validação de história de usuário..
 
 <iframe width="400" height="800" src="" title="Inspeção de NOME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
