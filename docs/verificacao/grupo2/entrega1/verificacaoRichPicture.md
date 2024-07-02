@@ -117,9 +117,9 @@ O vídeo a seguir a inspeção gravada sobre o artefato Rich Picture.
 
 <b>Vídeo 1:</b> Gravação da inspeção de Rich Picture.
 
-<iframe width="400" height="800" src="" title="Inspeção de NOME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1124" height="632" src="https://www.youtube.com/embed/1SK4WZ7Fkw8" title="Verificação do Artefato Rich Picture - Grupo 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-É possível acessar o vídeo por meio deste [link]().
+É possível acessar o vídeo por meio deste [link](https://www.youtube.com/embed/1SK4WZ7Fkw8).
 
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
