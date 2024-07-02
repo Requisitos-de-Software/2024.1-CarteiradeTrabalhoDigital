@@ -60,20 +60,20 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato da técnica MoSC
 
 | ID |  Pergunta                                                                  | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 | -- | -------------------------------------------------------------------------- | ------------------------------------------------ |
-| 1   | O artefato contém sumário? | |
-| 2   | O artefato contém introdução? | |
-| 3   | O artefato contém metodologia? | |
-| 4   | Há o vídeo incorporado no artefato? | |
-| 5   | Há link reserva para caso o vídeo não esteja disponível para vizualização? | |
-| 6   | O vídeo da entrevista está na categoria não listado? | |
-| 7   | A técnica foi aplicada corretamente? | |
-| 8   | Os resultados obtidos estão no artefato? | |
-| 9   | Os requisitos elicitados estão no artefato? | |
-| 10  | O artefato tem o nome do/da autor(a) embaixo do vídeo e das tabelas? | |
-| 11  | O artefato contém as referências corretas? | |
-| 12  | Há histórico de versionamento? | |
+| 1   | O artefato contém sumário? |sim |
+| 2   | O artefato contém introdução? | sim |
+| 3   | O artefato contém metodologia? | sim|
+| 4   | Há o vídeo incorporado no artefato? | sim |
+| 5   | Há link reserva para caso o vídeo não esteja disponível para vizualização? | não|
+| 6   | O vídeo da entrevista está na categoria não listado? | sim|
+| 7   | A técnica foi aplicada corretamente? | sim |
+| 8   | Os resultados obtidos estão no artefato? | sim |
+| 9   | Os requisitos elicitados estão no artefato? | sim|
+| 10  | O artefato tem o nome do/da autor(a) embaixo do vídeo e das tabelas? |sim |
+| 11  | O artefato contém as referências corretas? | sim|
+| 12  | Há histórico de versionamento? |sim |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Caiomesvie">Caio Mesquita</a>.
 
 </center>
 
@@ -88,9 +88,9 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato da técn
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
-| 1  | sugestao/sugestoes     |
+| 5 | Não há link reserva para o vídeo   |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Caiomesvie">Caio Mesquita</a>.
 
 </center>
 
