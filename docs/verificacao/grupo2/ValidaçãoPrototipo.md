@@ -333,7 +333,7 @@ Autor: []()
 
 </details>
 
-### Funcionalidade 
+### Funcionalidade Meus Contratos de Trabalho
 
 <details>
 <summary size="20"><b> Autor: Pedro Augusto</b></summary> 
@@ -342,29 +342,32 @@ Cronograma 7:
 
 |||
 |-|-|
-|entrevistado||
-|entrevistador||
-|data e hora||
+|entrevistado|Fernando Vela|
+|entrevistador|Pedro Izarias|
+|data e hora| 01/07/2024 às 18:00|
 |||
 
-Autor: []()
+Autor: [Pedro Izarias](https://github.com/Izarias)
 
 <center>
 Vídeo 7: Entrevista com o usuário para validação
 
 
+<iframe width="1117" height="632" src="https://www.youtube.com/embed/JxwFfKl1dwI" title="Validação do protótipo de alta fidelidade - Contratos de trabalho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Autor: [Pedro Izarias](https://github.com/Izarias)
 
-Autor: []()
+Caso o vídeo não funcione, acesse o [link](https://www.youtube.com/embed/JxwFfKl1dwI)
 
 
 Tabela 13: Requisitos abordados na funcionalidade
 
-|ID|Erros e sugestões|
+|ID| Requisito |
 |-|-|
-|SU01||
-|SU02||
-Autor: []()
+|[RF18](Elicitacao/ResquisitosCorrigidos.md)|O sistema deve listar contratos de trabalho com todos os detalhes relevantes, atualizados em tempo real.|
+|[RF05](Elicitacao/ResquisitosCorrigidos.md)|Usuário trabalhador pode consultar contratos de trabalho.|
+
+Autor: [Pedro Izarias](https://github.com/Izarias)
 
 <br>
 
@@ -372,10 +375,9 @@ Autor: []()
 Tabela 14: Erros e sugestões de melhorias
 |ID|Erros e sugestões|
 |-|-|
-|SU01||
-|SU02||
+|-|-|
 
-Autor: []()
+Autor: [Pedro Izarias](https://github.com/Izarias)
 
 </center>
 
@@ -389,4 +391,6 @@ Autor: []()
 | ------ | ------------------------------------------------------------ | --------------- | ------------- | ---------- |
 | 1.0    | Criação de documentação                                      | Caio Mesquita   | Bruno Araújo  | 30/06/2024 |
 | 1.1    | Adição da avaliação da funcionalidade do canal de Denúncias. | Larissa Stéfane | Iago Passaglia | 01/07/2024 |
-| 1.1    | Adição da avaliação da funcionalidade de mudança de status. | Iago Passaglia| -             | 01/07/2024 |
+| 1.2    | Adição da avaliação da funcionalidade de mudança de status. | Iago Passaglia| -             | 01/07/2024 |
+| 1.3    | Adição da avaliação da funcionalidade de contratos de trabalho | Pedro Izarias| -             | 01/07/2024 |
+| 1.4    | Adição da avaliação da funcionalidade de alterar dados pessoais. | Caio Mesquita| -             | 01/07/2024 |
