@@ -98,11 +98,11 @@ O vídeo a seguir a inspeção gravada sobre o artefato da Matriz de Rastreabili
 
 <b>Vídeo 1:</b> Gravação da inspeção da Matriz de Rastreabilidade.
 
-<iframe width="400" height="800" src="" title="Inspeção da técnica Forward-From" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1236" height="695" src="https://www.youtube.com/embed/CHK9RV8okh4" title="inspeção Matriz Rastreabilidade requisitos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 É possível acessar o vídeo por meio deste [link]().
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Caiomesvie">Caio Mesquita</a>.
 
 </center>
 
@@ -116,4 +116,5 @@ O vídeo a seguir a inspeção gravada sobre o artefato da Matriz de Rastreabili
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do artefato                 | Breno Alexandre | -               | 01/07/2024 |
+| 1.0    | Criação do artefato                 | Breno Alexandre | Caio Mesquita              | 01/07/2024 |
+| 1.0    | realizando inspeção              | Caio Mesquita   |             | 01/07/2024 |
