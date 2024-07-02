@@ -106,7 +106,7 @@ O vídeo a seguir a inspeção gravada sobre o artefato da Matriz de Rastreabili
 
 ## Referências Bibliográficas
 
-1. **SAYÃO**, Miriam; LEITE, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. Monografias em Ciência da Computação, n° 20/05. PUC, Rio de Janeiro, 2005. Pag. 4,5,6 e 7.
+1. **SAYÃO**, Miriam; LEITE, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. Monografias em Ciência da Computação, n° 20/05. PUC, Rio de Janeiro, 2005. Pag. 12 e 13.
 
 
 ## Histórico de versão
