@@ -18,6 +18,18 @@ Foi feito um protótipo de alta fidelidade na aplicação Figma, que pode ser te
 
 ### Funcionalidade x
 
+Legenda para ID's:
+|||
+|-|-|
+|RF|Requisito Funcional|
+|RNF|Requisito Não-Funcional|
+|SU|Sugestão de mudança ou erro|
+Autor: [Caio Mesquita](https://github.com/Caiomesvie)
+
+
+<br>
+<br>
+
 <details>
 <summary size="20"><b> Autor: Breno Alexandre </b></summary> 
 
@@ -114,7 +126,7 @@ Autor: []()
 
 </details>
 
-### Funcionalidade 
+### Alterar Dados do usuário
 
 <details>
 <summary size="20"><b> Autor: Caio Mesquita </b></summary> 
@@ -123,29 +135,38 @@ Cronograma 3:
 
 |||
 |-|-|
-|entrevistado||
-|entrevistador||
-|data e hora||
+|entrevistado|Emivalto Da Costa|
+|entrevistador|Caio Mesquita|
+|data e hora|01/07/2024 13:30|
 |||
 
-Autor: []()
+Autor: [Caio Mesquita](https://github.com/Caiomesvie)
 
 <center>
 Vídeo 3: Entrevista com o usuário para validação
 
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/334ndSTLH84" title="Validação do protótipo Requisitos Leia a descrição" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-
-Autor: []()
+Autor: [Caio Mesquita](https://github.com/Caiomesvie)
 
 
 Tabela 5:Requisitos abordados na funcionalidade
 
-|ID|Erros e sugestões|
+|ID|Requisitos|
 |-|-|
-|SU01||
-|SU02||
-Autor: []()
+|RF02|Usuário poder fazer login para entrar na sua página pessoal	|
+|RF03|Usuário pode consultar suas informações pessoais	|
+|RF04|Usuário pode atualizar suas informações pessoais	|
+|RF17|Usuário pode ocultar dados sensíveis	|
+|RF19|Usuário recebem notificações do aplicativo	|
+|RNF01|O sistema deve processar solicitações da carteira de trabalho em no máximo 2 minutos.	|
+|RNF07|A interface do sistema deve incluir todos os elementos básicos de design do Padrão Digital de Governo.	|
+|RNF13|O sistema deve processar solicitações de carteira de trabalho em no máximo 2 minutos, com uma taxa de sucesso de 99%.	|
+|RNF25|O sistema deve atualizar os dados do usuário automaticamente a cada 24 horas para evitar defasagem, com uma taxa de sucesso de 99%.|
+
+
+Autor: [Caio Mesquita](https://github.com/Caiomesvie)
 
 <br>
 
@@ -154,10 +175,10 @@ Tabela 6: Erros e sugestões de melhorias
 
 |ID|Erros e sugestões|
 |-|-|
-|SU01||
-|SU02||
+|SU01|Adicionar campo de dados CNH aos dados do usuário.|
 
-Autor: []()
+Autor: [Caio Mesquita](https://github.com/Caiomesvie)
+
 
 </center>
 
