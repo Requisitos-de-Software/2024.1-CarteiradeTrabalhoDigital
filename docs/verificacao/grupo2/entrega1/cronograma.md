@@ -91,11 +91,11 @@ O vídeo a seguir a inspeção gravada sobre o artefato do cronograma.
 
 <b>Vídeo 1:</b> Gravação da inspeção do cronograma.
 
-<iframe width="400" height="800" src="" title="Inspeção do cronograma" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1236" height="695" src="https://www.youtube.com/embed/gPzZM-ccJqI" title="inspeção Cronograma requisitos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-É possível acessar o vídeo por meio deste [link]().
+É possível acessar o vídeo por meio deste [link](https://www.youtube.com/watch?v=gPzZM-ccJqI).
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Caiomesvie">Caio Mesquita</a>.
 
 </center>
 
@@ -103,4 +103,5 @@ O vídeo a seguir a inspeção gravada sobre o artefato do cronograma.
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do artefato                 | Breno Alexandre | -               | 01/07/2024 |
+| 1.0    | Criação do artefato                 | Breno Alexandre | Caio Mesquita   | 01/07/2024 |
+| 1.0    |Realização da inspeção             | Caio Mesquita | -               | 01/07/2024 |
