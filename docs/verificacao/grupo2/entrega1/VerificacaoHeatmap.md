@@ -13,7 +13,7 @@
 
 ## Introdução
 
-O seguinte documento possui o intuito de utilizar a lista de verificação para o artefato de [nomeArtefato]() criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura do nomeDoArtefato, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
+O seguinte documento possui o intuito de utilizar a lista de verificação para o artefato de [Heatmap]() criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura do nomeDoArtefato, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
 
 ## Metodologia
 
@@ -25,7 +25,7 @@ A tabela a seguir mostra os erros encontrados na lista de verificação, assim c
 
 <center>
 
-<b>Tabela 1:</b> Verificação da lista de verificação para nomeDoArtefato.
+<b>Tabela 1:</b> Verificação da lista de verificação Heatmap.
 
 | Erro    | Explicação | Local | Solução |
 | ------- | ---------- | ----- | ------- |
@@ -41,7 +41,7 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato nomeDoA
 
 <center>
 
-<b>Tabela 2:</b> Lista de verificação para nomeDoArtefato.
+<b>Tabela 2:</b> Lista de verificação para Heatmap.
 
 | ID  | Pergunta | Explicação | Rastreabilidade | Captura de tela |
 | --- | -------- | ---------- | --------------- | --------------- |
@@ -56,7 +56,7 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato nomeDoA
 
 ### Inspeção
 
-A tabela a seguir mostra a inspeção feita a cerca do artefato nomeDoArtefato.
+A tabela a seguir mostra a inspeção feita a cerca do artefato Heatmap.
 
 ### Tabela 3: Resposta da lista de verificação para nomeDoArtefato
 
