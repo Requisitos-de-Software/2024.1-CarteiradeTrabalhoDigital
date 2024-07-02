@@ -56,16 +56,16 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato da técnica Forw
 
 | ID |  Pergunta                                                                  | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 | -- | -------------------------------------------------------------------------- | ------------------------------------------------ |
-| 1   | O artefato contém sumário? | |
-| 2   | O artefato contém introdução? | |
-| 3   | O artefato contém metodologia? | |
-| 4   | A técnica foi aplicada corretamente? | |
-| 5   | As tabelas estão de acordo com as situações de acordo com a monografia de Sayao? | |
-| 6   | O artefato tem o nome do/da autor(a) embaixo das tabelas? | |
-| 7   | O artefato contém as referências corretas? | |
-| 8   | Há histórico de versionamento? | |
+| 1   | O artefato contém sumário? | Sim |
+| 2   | O artefato contém introdução? | Sim |
+| 3   | O artefato contém metodologia? | Não |
+| 4   | A técnica foi aplicada corretamente? | Sim |
+| 5   | As tabelas estão de acordo com as situações de acordo com a monografia de Sayao? | Sim |
+| 6   | O artefato tem o nome do/da autor(a) embaixo das tabelas? | Sim |
+| 7   | O artefato contém as referências corretas? | Não |
+| 8   | Há histórico de versionamento? | Sim |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
@@ -80,9 +80,11 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato da técn
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
-| 1  | sugestao/sugestoes     |
+| 1  | Colocar a parte de metodologia e o texto do tópico "O que é a rastreabilidade Forward From?"     |
+| 2  | As tabelas referentes aos requisitos não funcionais de 1 ao 8 estão sem respostas     |
+| 3  | O artefato não possui nenhuma referencia bibliográfica ou bibliografia     |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
@@ -95,11 +97,11 @@ O vídeo a seguir a inspeção gravada sobre o artefato da técnica Forward-From
 
 <b>Vídeo 1:</b> Gravação da inspeção da técnica Forward-From.
 
-<iframe width="400" height="800" src="" title="Inspeção da técnica Forward-From" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1124" height="632" src="https://www.youtube.com/embed/jtGz3MrcyJs" title="Verificação do Artefato de Forward-from - Grupo 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-É possível acessar o vídeo por meio deste [link]().
+É possível acessar o vídeo por meio deste [link](https://www.youtube.com/embed/jtGz3MrcyJs).
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
@@ -113,4 +115,5 @@ O vídeo a seguir a inspeção gravada sobre o artefato da técnica Forward-From
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação do artefato                 | Breno Alexandre | -               | 01/07/2024 |
 | 1.0    | Criação do artefato                 | Breno Alexandre | -               | 01/07/2024 |
