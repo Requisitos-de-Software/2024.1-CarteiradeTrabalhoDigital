@@ -47,17 +47,17 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 
 ### Erros Encontrados
 
-A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArtefato.
+A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Análise de Documentos.
 
 <center>
 
-<b>Tabela 4:</b> Sugestões de melhoria para NOME.
+<b>Tabela 4:</b> Sugestões de melhoria para Análise de Documentos.
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
-| 1  | sugestao/sugestoes     |
+| -  | -     |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
@@ -78,7 +78,7 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArte
 | 8  | O documento identifica os requisitos de acessibilidade do aplicativo | Sim ||
 | 9  | Há uma lista dos requisitos não funcionais determinados pelos stakeholders? | Sim | |
 
-<b> Autora: </b> <a href=""></a>.
+<b> Autor: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 ### Vídeo da Avaliação
 
@@ -90,7 +90,7 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Anál
 
 <center>
 
-<b>Tabela 4:</b> Sugestões de melhoria para NOME.
+<b>Tabela 4:</b> Sugestões de melhoria para Análise de Documentos.
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
@@ -124,3 +124,4 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Anál
 | - | - | - | - | - |
 | 1.0 | Adição da tabela de verificação | Larissa Stéfane | - | 30/06/2024 |
 | 1.1 | Adição da introdução e da metodologia | Larissa Stéfane |- | 30/06/2024 |
+| 1.2 | Adição das respostas | Pedro Izarias |- | 01/07/2024 |
