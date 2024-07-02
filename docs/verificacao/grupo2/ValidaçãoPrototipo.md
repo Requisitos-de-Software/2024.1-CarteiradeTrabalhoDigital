@@ -20,10 +20,10 @@ Foi feito um protótipo de alta fidelidade na aplicação Figma, que pode ser te
 
 Legenda para ID's:
 |RF|Requisito Funcional|
-|-|-|
-|RF|Requisito Funcional|
 |RNF|Requisito Não-Funcional|
 |SU|Sugestão de mudança ou erro|
+|-|-|
+
 
 Autor: [Caio Mesquita](https://github.com/Caiomesvie)
 
