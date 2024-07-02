@@ -19,11 +19,12 @@ Foi feito um protótipo de alta fidelidade na aplicação Figma, que pode ser te
 ### Funcionalidade x
 
 Legenda para ID's:
-|||
+
 |-|-|
 |RF|Requisito Funcional|
 |RNF|Requisito Não-Funcional|
 |SU|Sugestão de mudança ou erro|
+
 Autor: [Caio Mesquita](https://github.com/Caiomesvie)
 
 
