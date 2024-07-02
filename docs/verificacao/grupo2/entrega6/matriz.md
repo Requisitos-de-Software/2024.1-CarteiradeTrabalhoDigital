@@ -14,7 +14,7 @@
 
 ## Introdução
 
-O seguinte documento possui o intuito de utilizar a lista de verificação para o artefato [Técnica de Rastreabilidade de Requisitos Forward-From](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/posRastreabilidade/forwardFrom) criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura desta técnica, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
+O seguinte documento possui o intuito de utilizar a lista de verificação para o artefato [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/posRastreabilidade/matriz) criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de Requisitos de Software, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura da Matriz de Rastreabilidade, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
 
 
 ## Metodologia
@@ -24,11 +24,11 @@ De início, deverá ser feita uma verificação e correção informal da lista d
 
 ## Lista de verificação
 
-A tabela a seguir mostra as perguntas a serem feitas a cerca da técnica Forward-From, assim como observações sobre cada pergunta e sua rastreabilidade, com a referencia bibliográfica de onde cada pergunta veio.
+A tabela a seguir mostra as perguntas a serem feitas a cerca da Matriz de Rastreabilidade, assim como observações sobre cada pergunta e sua rastreabilidade, com a referencia bibliográfica de onde cada pergunta veio.
 
 <center>
 
-<b>Tabela 2:</b> Lista de verificação para a técnica Forward-From.
+<b>Tabela 2:</b> Lista de verificação para a Matriz de Rastreabilidade.
 
 | ID  | Pergunta | Explicação | Rastreabilidade | Captura de tela |
 | --- | -------- | ---------- | --------------- | --------------- |
@@ -48,11 +48,11 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca da técnica Forward
 
 ### Inspeção
 
-A tabela a seguir mostra a inspeção feita a cerca do artefato da técnica Forward-From.
+A tabela a seguir mostra a inspeção feita a cerca do artefato da Matriz de Rastreabilidade.
 
 <center>
 
-<b>Tabela 3:</b> Resposta da lista de verificação para a técnica Forward-From.
+<b>Tabela 3:</b> Resposta da lista de verificação para a Matriz de Rastreabilidade.
 
 | ID |  Pergunta                                                                  | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 | -- | -------------------------------------------------------------------------- | ------------------------------------------------ |
@@ -72,11 +72,11 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato da técnica Forw
 
 ### Erros Encontrados
 
-A tabela a seguir mostra as sugestões de melhorias a cerca do artefato da técnica Forward-From.
+A tabela a seguir mostra as sugestões de melhorias a cerca do artefato da Matriz de Rastreabilidade.
 
 <center>
 
-<b>Tabela 4:</b> Sugestões de melhoria para a técnica Forward-From.
+<b>Tabela 4:</b> Sugestões de melhoria para a Matriz de Rastreabilidade.
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
@@ -89,11 +89,11 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato da técn
 
 ### Vídeo da inspeção
 
-O vídeo a seguir a inspeção gravada sobre o artefato da técnica Forward-From.
+O vídeo a seguir a inspeção gravada sobre o artefato da Matriz de Rastreabilidade.
 
 <center>
 
-<b>Vídeo 1:</b> Gravação da inspeção da técnica Forward-From.
+<b>Vídeo 1:</b> Gravação da inspeção da Matriz de Rastreabilidade.
 
 <iframe width="400" height="800" src="" title="Inspeção da técnica Forward-From" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
