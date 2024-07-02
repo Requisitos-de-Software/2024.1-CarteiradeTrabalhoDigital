@@ -80,7 +80,7 @@ Autor: []()
 
 </details>
 
-### Funcionalidade x
+### Funcionalidade x Seguro Desemprego
 
 <details>
 <summary size="20"><b> Autor: Bruno Araújo </b></summary> 
@@ -89,29 +89,33 @@ Cronograma 2:
 
 |||
 |-|-|
-|entrevistado||
-|entrevistador||
-|data e hora||
+|entrevistado|Helder Lopes|
+|entrevistador| Bruno Araújo|
+|data e hora|01/07/2024, 18:00|
 |||
 
-Autor: []()
+ Autor: [Bruno Araújo](https://github.com/brunocva)
 
 <center>
 Vídeo 2: Entrevista com o usuário para validação
 
+<center>
+Vídeo 3: Entrevista com o usuário para validação
+
+<iframe width="1120" height="630" src="https://youtu.be/WLvtNMTb5cs" title="Validação do protótipo Requisitos Leia a descrição" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-
-Autor: []()
+Autor: [Bruno Araújo](https://github.com/brunocva)
 
 
 Tabela 3: Requisitos abordados na funcionalidade
 
 |ID|Erros e sugestões|
 |-|-|
-|SU01||
-|SU02||
-Autor: []()
+|SU01| Solicitar seguro desemprego|
+
+
+Autor: [Bruno Araújo](https://github.com/brunocva)
 
 <br>
 
@@ -120,10 +124,10 @@ Tabela 4: Erros e sugestões de melhorias
 
 |ID|Erros e sugestões|
 |-|-|
-|SU01||
+|SU01| Não foi sugerido nenhuma melhoria|
 |SU02||
 
-Autor: []()
+Autor: [Bruno Araújo](https://github.com/brunocva)
 
 </center>
 
