@@ -57,8 +57,7 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca das atas, assim com
 | 9   | Há link reserva para caso o vídeo não esteja disponível para vizualização? | Link do vídeo para o youtube.                                | | |
 | 10  | O vídeo da ata está na categoria não listado?                              | Visualização do vídeo deve estar em não listado.             | | |
 | 11  | O artefato tem o nome do/da autor(a) embaixo do vídeo e das tabelas?       | Autoria do vídeo e das tabelas.                              | | |
-| 12  | O artefato contém as referências corretas?                                 | Referências em ordem numérica/alfabética, com links caso seja referência eletrônica, e páginas caso seja livro/pdf |
-| 13  | Há histórico de versionamento?                                             | Deve conter identificação, alteração, autor, revisor e data. | | |
+| 12  | Há histórico de versionamento?                                             | Deve conter identificação, alteração, autor, revisor e data. | | |
 
 
 
@@ -88,8 +87,7 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato das atas.
 | 9  | Há link reserva para caso o vídeo não esteja disponível para vizualização? | |
 | 10 | O vídeo da ata está na categoria não listado?                              | |
 | 11 | O artefato tem o nome do/da autor(a) embaixo do vídeo e das tabelas?       | |
-| 12  | O artefato contém as referências corretas?                                | |
-| 13  | Há histórico de versionamento?                                            | |
+| 12  | Há histórico de versionamento?                                            | |
 
 <b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
 
