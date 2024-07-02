@@ -35,12 +35,11 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca da técnica Forward
 | 1   | O artefato contém sumário? | O artefato deve conter um sumário para ajudar a guiar pelo artefato. | | |
 | 2   | O artefato contém introdução? | O artefato deve conter uma introdução para explicá-lo. | | |
 | 3   | O artefato contém metodologia? | O artefato deve conter um tópico contendo a metodologia da técnica. | | |
-
-| 7   | A técnica foi aplicada corretamente? | A técnica MoSCoW de priorização de requisitos classifica-os em quatro categorias: "Must have" (essenciais), "Should have" (importantes), "Could have" (desejáveis) e "Won't have" (não necessários agora). | [Requisitos de software, pag.320¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/imagemVerificacaoMoscow.png) |
-| 8   | Os resultados obtidos estão no artefato? | Resultados da entrevista da técnica com o usuário. | | |
-| 9   | Os requisitos elicitados estão no artefato? | Requisitos elicitados através da entrevista da técnica com o usuário. | | |
-| 10  | O artefato tem o nome do/da autor(a) embaixo das tabelas? | Autoria das tabelas. | | |
-| 11  | Há histórico de versionamento? | Deve conter identificação, alteração, autor, revisor e data. | | |
+| 4   | A técnica foi aplicada corretamente? | A rastreabilidade forward-from, liga os artefatos que foram gerados com os requisitos. | [Rastreabilidade de Requisitos, pag.4¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/ForwardFrom/imagemVerificacaoForwardFrom.jpeg) |
+| 5   | As tabelas estão de acordo com as situações de acordo com a monografia de Sayao? | A rastreabilidade pode auxiliar gerentes e desenvolvedores em várias situações. Ver captura de tela. | [Rastreabilidade de Requisitos, pag.4¹](#Referências-Bibliográficas) | [Captura de tela¹](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/assets/imagensVerificacao/ForwardFrom/imagemVerificacaoForwardFrom2.jpeg) |
+| 6   | O artefato tem o nome do/da autor(a) embaixo das tabelas? | Autoria das tabelas. | | |
+| 7   | O artefato contém as referências corretas? | Referências em ordem numérica/alfabética, com links caso seja referência eletrônica, e páginas caso seja livro/pdf | | |
+| 8   | Há histórico de versionamento? | Deve conter identificação, alteração, autor, revisor e data. | | |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
@@ -60,14 +59,11 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato da técnica Forw
 | 1   | O artefato contém sumário? | |
 | 2   | O artefato contém introdução? | |
 | 3   | O artefato contém metodologia? | |
-| 4   | Há o vídeo incorporado no artefato? | |
-| 5   | Há link reserva para caso o vídeo não esteja disponível para vizualização? | |
-| 6   | O vídeo da entrevista está na categoria não listado? | |
-| 7   | A técnica foi aplicada corretamente? | |
-| 8   | Os resultados obtidos estão no artefato? | |
-| 9   | Os requisitos elicitados estão no artefato? | |
-| 10  | O artefato tem o nome do/da autor(a) embaixo do vídeo e das tabelas? | |
-| 11  | Há histórico de versionamento? | |
+| 4   | A técnica foi aplicada corretamente? | |
+| 5   | As tabelas estão de acordo com as situações de acordo com a monografia de Sayao? | |
+| 6   | O artefato tem o nome do/da autor(a) embaixo das tabelas? | |
+| 7   | O artefato contém as referências corretas? | |
+| 8   | Há histórico de versionamento? | |
 
 <b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
 
@@ -110,7 +106,7 @@ O vídeo a seguir a inspeção gravada sobre o artefato da técnica Forward-From
 
 ## Referências Bibliográficas
 
-1. **WIEGERS**, Karl. Requisitos de software. 3. ed. Rio de Janeiro: Brasport, 2013. Pags. 320 e 321.
+1. **SAYÃO**, Miriam; LEITE, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. Monografias em Ciência da Computação, n° 20/05. PUC, Rio de Janeiro, 2005. Pag. 4,5,6 e 7.
 
 
 ## Histórico de versão
