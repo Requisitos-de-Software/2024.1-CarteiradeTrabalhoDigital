@@ -90,7 +90,7 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato Casos de
 
 <center>
 
-<b>Tabela 4:</b> Sugestões de melhoria para NOME.
+<b>Tabela 4:</b> Sugestões de melhoria para Casos de Uso.
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
