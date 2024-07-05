@@ -93,4 +93,4 @@ Tabela 3. Issues Sprint atual.
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação Ata da Reunião              | Breno Alexandre | -               | 13/06/2024 |
+| 1.0    | Criação Ata da Reunião              | Breno Alexandre | Luana Medeiros | 13/06/2024 |
