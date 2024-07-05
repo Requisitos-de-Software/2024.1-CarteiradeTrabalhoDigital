@@ -128,4 +128,4 @@ Não esquecer de fazer a Introdução com fontes de evidência na literatura. E 
 
 | Versão | Alteração                         | Responsável     | Revisor               | Data       |
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
-| 1.0    | Criação Ata da Reunião            | Breno Alexandre | -                     | 23/05/2024 |
+| 1.0    | Criação Ata da Reunião            | Breno Alexandre | Luana Medeiros | 23/05/2024 |
