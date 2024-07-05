@@ -1,7 +1,5 @@
 # Verificação Especificação Suplementar – Usabilidade
 
-# Verificação para o Perfil do Usuário.
-
 ## Sumário
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
