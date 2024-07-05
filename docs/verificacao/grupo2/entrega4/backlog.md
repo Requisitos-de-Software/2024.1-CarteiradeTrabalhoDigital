@@ -111,6 +111,6 @@ O vídeo a seguir a inspeção gravada sobre o artefato Backlog.
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do artefato                 | Caio Mesquita  | Iago Passaglia            | 30/06/2024 |
-| 1.0    | Realização da inspeção             | Iago Passaglia  | --- | 30/06/2024 |
+| 1.0    | Realização da inspeção             | Iago Passaglia  | Luana Medeiros | 30/06/2024 |
 
 
