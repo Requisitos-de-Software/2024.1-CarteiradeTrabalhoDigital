@@ -100,4 +100,4 @@ O artefato que foi avaliado foi bem sucinto quanto aos detalhes da técnica que 
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Luana Medeiros | Breno Alexandre | 09/06/2024 |
 | 1.1 | Adição de introdução e metodologia | Luana Medeiros | Breno Alexandre | 09/06/2024 |
-| 1.2 | Adição da tabela de avaliação | Breno Alexandre | - | 09/06/2024 |
+| 1.2 | Adição da tabela de avaliação | Breno Alexandre | Luana Medeiros | 09/06/2024 |
