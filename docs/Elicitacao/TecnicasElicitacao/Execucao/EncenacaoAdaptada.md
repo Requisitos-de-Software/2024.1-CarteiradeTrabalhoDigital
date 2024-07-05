@@ -578,4 +578,4 @@ Conclusão do documento na imagem 32:
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação e execução da Encenação Adaptada | Larissa Stéfane | Breno Alexandre  | 13/04/2024 |
-|1.1|Alteração da temática do artefato|Caio Mesquita| - |  18/04/2024 |
+|1.1|Alteração da temática do artefato|Caio Mesquita| Luana Medeiros |  18/04/2024 |
