@@ -124,4 +124,4 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArte
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Adição da tabela de verificação | Larissa Stéfane | - | 30/06/2024 |
+| 1.0 | Adição da tabela de verificação | Larissa Stéfane | Luana Medeiros | 30/06/2024 |
