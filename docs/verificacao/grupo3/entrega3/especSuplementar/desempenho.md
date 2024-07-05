@@ -1,4 +1,4 @@
-# Avaliação Especificação Suplementar - Desempenho 03
+# Verificação Especificação Suplementar - Desempenho 03
 
 ## Sumário
 1. [Introdução](#introdução)
@@ -72,6 +72,6 @@ Os requisitos descritos pelo grupo na parte de desempenho são pouco específico
 
 | Versão | Descrição                     | Autor           | Revisor | Data       |
 |--------|-------------------------------|-----------------|------------|---------|
-| 1.0    | Adição de introdução e metodologia | Iago Passaglia  | -| 10/06/2024 |
-| 1.1    | Adição das tabelas de avaliação | Iago Passaglia  | - | 10/06/2024 |
-| 1.2    | Avaliação| Iago Passaglia  | - | 10/06/2024 |
+| 1.0    | Adição de introdução e metodologia | Iago Passaglia  | Luana Medeiros| 10/06/2024 |
+| 1.1    | Adição das tabelas de avaliação | Iago Passaglia  | Luana Medeiros | 10/06/2024 |
+| 1.2    | Avaliação| Iago Passaglia  | Luana Medeiros | 10/06/2024 |
