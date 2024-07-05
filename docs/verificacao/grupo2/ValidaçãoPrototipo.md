@@ -399,7 +399,7 @@ Autor: [Pedro Izarias](https://github.com/Izarias)
 | ------ | ------------------------------------------------------------ | --------------- | ------------- | ---------- |
 | 1.0    | Criação de documentação                                      | Caio Mesquita   | Bruno Araújo  | 30/06/2024 |
 | 1.1    | Adição da avaliação da funcionalidade do canal de Denúncias. | Larissa Stéfane | Iago Passaglia | 01/07/2024 |
-| 1.2    | Adição da avaliação da funcionalidade de mudança de status. | Iago Passaglia| -             | 01/07/2024 |
-| 1.3    | Adição da avaliação da funcionalidade de contratos de trabalho | Pedro Izarias| -             | 01/07/2024 |
-| 1.4    | Adição da avaliação da funcionalidade de alterar dados pessoais. | Caio Mesquita| -             | 01/07/2024 |
-| 1.5    | Adição da avaliação da funcionalidade de manual de usuário. | Breno Alexandre | -             | 01/07/2024 |
+| 1.2    | Adição da avaliação da funcionalidade de mudança de status. | Iago Passaglia| Luana Medeiros | 01/07/2024 |
+| 1.3    | Adição da avaliação da funcionalidade de contratos de trabalho | Pedro Izarias| Luana Medeiros | 01/07/2024 |
+| 1.4    | Adição da avaliação da funcionalidade de alterar dados pessoais. | Caio Mesquita| Luana Medeiros | 01/07/2024 |
+| 1.5    | Adição da avaliação da funcionalidade de manual de usuário. | Breno Alexandre | Luana Medeiros | 01/07/2024 |
