@@ -289,5 +289,5 @@ Na Tabela 14, está explicitado o cronograma executado das atividades da parte d
 | 1.7    | Atualização cronograma completo                                   | Luana Medeiros  | Breno Alexandre | 16/04/2024 |
 | 1.8    | Cronograma da entrega 3                                           | Caio Mesquita   | Breno Alexandre | 18/05/2024 |
 | 1.9    | Mudança do cronograma pós greve                                   | Caio Mesquita   | Breno Alexandre | 20/05/2024 |
-| 2.0    | Cronograma da entrega 4                                           | Breno Alexandre | -               | 27/05/2024 |
-| 2.1    | Cronograma da entrega 5.1                                         | Breno Alexandre | -               | 10/06/2024 |
+| 2.0    | Cronograma da entrega 4                                           | Breno Alexandre | Luana Medeiros  | 27/05/2024 |
+| 2.1    | Cronograma da entrega 5.1                                         | Breno Alexandre | Luana Medeiros  | 10/06/2024 |
