@@ -76,5 +76,5 @@ Autor: [Pedro Izarias](https://github.com/Izarias)
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do documento                | Caio Mesquita   | - | 09/06/2024 |
-| 1.1    | Adição das respostas                | Pedro Izarias   | - | 10/06/2024 |
+| 1.0    | Criação do documento                | Caio Mesquita   | Luana Medeiros | 09/06/2024 |
+| 1.1    | Adição das respostas                | Pedro Izarias   | Luana Medeiros | 10/06/2024 |
