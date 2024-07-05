@@ -141,4 +141,4 @@ O vídeo a seguir a inspeção gravada sobre o artefato de Léxicos.
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do artefato                 | Pedro Izarias            | Larissa Stéfane            | 30/06/2024 |
-| 1.1    | Inspeção                            | Larissa Stéfane          | -            | 01/07/2024 |
+| 1.1    | Inspeção                            | Larissa Stéfane          | Luana Medeiros | 01/07/2024 |
