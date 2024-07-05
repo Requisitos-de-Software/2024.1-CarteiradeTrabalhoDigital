@@ -128,4 +128,4 @@ O vídeo a seguir a inspeção gravada sobre o artefato Casos de Uso.
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do artefato e da lista                 | Iago Passaglia            | Pedro Izarias            | 30/06/2024 |
-| 1.0    | Adição das respostas               | Pedro Izarias            |  -            | 01/06/2024 |
+| 1.0    | Adição das respostas               | Pedro Izarias            |  Luana Medeiros  | 01/06/2024 |
