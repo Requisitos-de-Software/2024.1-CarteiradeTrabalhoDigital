@@ -250,7 +250,7 @@ A tabela 8 mostra a verificação e avaliação do caso de uso de "Buscar por do
 | 1.0    | Adição de introdução, metodologia e tabela de avaliação | Iago Passaglia  | Bruno Araújo | 09/06/2024 |
 | 1.1    | Adição da avaliação do caso de uso de Realizar compras na loja online| Luana Medeiros  | Bruno Araújo | 10/06/2024 |
 | 1.2    | Adição da avaliação do caso de uso de Calcular preços e prazos de entrega | Larissa Stéfane  | Bruno Araújo| 10/06/2024 |
-| 1.3| Adição da avaliação do caso de uso Rastrear Encomendas | Bruno Araújo  | -- | 10/06/2024 |
-| 1.4    | Adição da avaliação do caso de uso de Mudar endereço de recebimento | Larissa Stéfane  | - | 10/06/2024 |
-| 1.5 | Adição da avaliação do caso de uso de Buscar Documento Perdido | Caio Mesquita| - | 10/06/2024 |
-| 1.6 | Adição da avaliação do caso de uso de Gerenciar minhas importações | Breno Alexandre | - | 10/06/2024 |
+| 1.3| Adição da avaliação do caso de uso Rastrear Encomendas | Bruno Araújo  | Luana Medeiros | 10/06/2024 |
+| 1.4    | Adição da avaliação do caso de uso de Mudar endereço de recebimento | Larissa Stéfane  | Luana Medeiros | 10/06/2024 |
+| 1.5 | Adição da avaliação do caso de uso de Buscar Documento Perdido | Caio Mesquita| Luana Medeiros | 10/06/2024 |
+| 1.6 | Adição da avaliação do caso de uso de Gerenciar minhas importações | Breno Alexandre | Luana Medeiros | 10/06/2024 |
