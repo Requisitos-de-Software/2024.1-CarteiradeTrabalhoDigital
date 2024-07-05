@@ -89,7 +89,7 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato das atas.
 | 11 | O artefato tem o nome do/da autor(a) embaixo do vídeo e das tabelas?       | Sim|
 | 12  | Há histórico de versionamento?                                            | Sim |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/nome">Caio Mesquita</a>.
 
 </center>
 
@@ -145,4 +145,4 @@ O vídeo a seguir a inspeção gravada sobre o artefato das atas.
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do artefato                 | Breno Alexandre | Caio Mesquita       | 01/07/2024 |
-| 1.0    | Realização da inspeção            | Caio Mesquita | -               | 01/07/2024 |
+| 1.0    | Realização da inspeção            | Caio Mesquita | Luana Medeiros | 01/07/2024 |
