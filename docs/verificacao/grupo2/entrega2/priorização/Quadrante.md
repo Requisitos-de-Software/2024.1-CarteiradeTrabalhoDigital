@@ -119,4 +119,4 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato técnica
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do documento  e elaboração da lista de verificação              | Larissa Stéfane |    Iago Passaglia    | 01/07/2024 |
-| 1.1    | Respostas da lista de verificação             | Larissa Stéfane |     -     | 01/07/2024 |
+| 1.1    | Respostas da lista de verificação             | Iago Passaglia | Luana Medeiros | 01/07/2024 |
