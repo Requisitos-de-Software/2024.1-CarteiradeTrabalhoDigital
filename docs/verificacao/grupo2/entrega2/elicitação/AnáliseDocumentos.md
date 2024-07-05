@@ -42,19 +42,6 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 
-### Erros Encontrados
-
-A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Análise de Documentos.
-
-
-<b>Tabela 4:</b> Sugestões de melhoria para Análise de Documentos.
-
-| ID |  Sugestões de melhoria | 
-| -- | ---------------------- |
-| -  | -     |
-
-<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
-
 
 ## Inspeção
 
@@ -116,4 +103,4 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Anál
 | - | - | - | - | - |
 | 1.0 | Adição da tabela de verificação | Larissa Stéfane | Pedro Izarias | 30/06/2024 |
 | 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | Pedro Izarias | 30/06/2024 |
-| 1.2 | Adição das respostas | Pedro Izarias |- | 01/07/2024 |
+| 1.2 | Adição das respostas | Pedro Izarias | Luana Medeiros | 01/07/2024 |
