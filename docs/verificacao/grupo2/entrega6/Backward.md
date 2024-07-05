@@ -97,5 +97,4 @@ O vídeo a seguir a inspeção gravada sobre o artefato Backward-from.
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do artefato                 | Caio Mesquita Vieria | Iago Passaglia   | 01/07/2024 |
-| 1.1    | Adição da inspeção                  | Iago Passaglia       | ---------------- | 01/07/2024 |
-.
+| 1.1    | Adição da inspeção                  | Iago Passaglia       | Luana Medeiros | 01/07/2024 |
