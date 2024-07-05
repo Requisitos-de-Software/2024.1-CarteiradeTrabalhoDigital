@@ -745,6 +745,6 @@ Das histórias de usuários elucidadas no [backlog](modelagemAgil/backlog.md), a
 | 1.3 | Adição História de Usuário em relação ao épico 6: Busca por empregos  |  Larissa Stéfane   |   Iago Passaglia   | 27/05/2024  |
 | 1.4 | Adição História de Usuário em relação ao épico 8: Suporte  |  Pedro Izarias   |   Iago Passaglia   | 27/05/2024  |
 | 1.5 | Adição História de Usuário em relação ao épico 5: Usuário Empregador  |  Luana Medeiros  |   -   | 27/05/2024  | 
-| 1.6 | Adição História de Usuário em relação ao épico 2  |  Caio Mesquita  |   -   | 27/05/2024  | 
+| 1.6 | Adição História de Usuário em relação ao épico 2  |  Caio Mesquita  |   Luana Medeiros   | 27/05/2024  | 
 | 1.7 | Correção de erros na página |  Caio Mesquita  |  Breno Alexandre  | 27/05/2024  | 
-| 1.8 | Adição do épico de segurança  |  Breno Alexandre  |  -   | 27/05/2024  | 
+| 1.8 | Adição do épico de segurança  |  Breno Alexandre  |  Luana Medeiros   | 27/05/2024  | 
