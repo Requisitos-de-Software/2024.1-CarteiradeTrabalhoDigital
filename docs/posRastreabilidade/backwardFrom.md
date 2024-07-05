@@ -2021,16 +2021,17 @@ A tabela 106 mostra os elos do requisito RNF25.
 
 ## Histórico de Versão
 
-| Versão | Alteração                              | Responsável     | Revisor         | Data       |
-| ------ | -------------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    |  Criação do modelo e estrutura         | Larissa Stéfane | Bruno Araújo    | 15/06/2024 |
-| 1.0.1    |  Adição da introdução e da metodologia | Larissa Stéfane | Bruno Araújo    | 16/06/2024 |
-| 1.0.2    |  Adição da rastreabilidade da RF07     | Larissa Stéfane | Bruno Araújo    | 16/06/2024 |
-| 1.0.3    |  Correção dos templates                | Breno Alexandre | Larissa Stéfane | 20/06/2024 |
-| 1.0.4    |  Reorganização do artefato             | Larissa Stéfane | Pedro Izarias   | 20/06/2024 |
-| 1.0.5    |  Adição dos requisitos RF07 até RF14   | Larissa Stéfane | Pedro Izarias   | 22/06/2024 |
-| 1.0.6    |  Adição dos requisitos RF22 até RF28   | Pedro Izarias   | Iago Passaglia  | 23/06/2024 |
-| 1.0.7    |  Adição dos requisitos RF01 até RF06 e RNF25  | Iago Passaglia | Bruno Araújo | 23/06/2024 |
-| 1.0.8    |  Adição dos requisitos RNF 09 ao 15    | Bruno Araújo    | -               | 23/06/2024 |
-| 1.0.9    |  Adição dos requisitos RF 15 ao 21     | Luana Medeiros  | -               | 23/06/2024 |
-| 1.1    |  Adição dos requisitos RNF 16 ao 24     | Caio Mesquita  | -               | 24/06/2024 |
+| Versão   | Alteração                              | Responsável     | Revisor         | Data       |
+| ------   | -------------------------------------- | --------------- | --------------- | ---------- |
+| 1.0      |  Criação do modelo e estrutura         | Larissa Stéfane | Bruno Araújo    | 15/06/2024 |
+| 1.1    |  Adição da introdução e da metodologia | Larissa Stéfane | Bruno Araújo    | 16/06/2024 |
+| 1.2    |  Adição da rastreabilidade da RF07     | Larissa Stéfane | Bruno Araújo    | 16/06/2024 |
+| 1.3    |  Correção dos templates                | Breno Alexandre | Larissa Stéfane | 20/06/2024 |
+| 1.4    |  Reorganização do artefato             | Larissa Stéfane | Pedro Izarias   | 20/06/2024 |
+| 1.5    |  Adição dos requisitos RF07 até RF14   | Larissa Stéfane | Pedro Izarias   | 22/06/2024 |
+| 1.6    |  Adição dos requisitos RF22 até RF28   | Pedro Izarias   | Iago Passaglia  | 23/06/2024 |
+| 1.7    |  Adição dos requisitos RF01 até RF06 e RNF25  | Iago Passaglia | Bruno Araújo | 23/06/2024 |
+| 1.8    |  Adição dos requisitos RNF 09 ao 15    | Bruno Araújo    | Luana Medeiros  | 23/06/2024 |
+| 1.9    |  Adição dos requisitos RF 15 ao 21     | Luana Medeiros  | -               | 23/06/2024 |
+| 2.0    |  Adição dos requisitos RNF 16 ao 24    | Caio Mesquita   | Luana Medeiros  | 24/06/2024 |
+| 2.1    |  Correção do Versionamento             | Luana Medeiros  | -               | 05/07/2024 |
