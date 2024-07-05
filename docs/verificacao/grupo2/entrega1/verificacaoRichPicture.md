@@ -125,4 +125,4 @@ O vídeo a seguir a inspeção gravada sobre o artefato Rich Picture.
 | ------ | ---------------------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do artefato  e da lista de verificação | Iago Passaglia  |Bruno Araújo  | 30/06/2024 |
 | 1.1    | Adição dos prints de rastreabilidade  | Iago Passaglia  | Bruno Araújo  | 30/06/2024 |
-| 1.2    | Adição das respostas  | Pedro Izarias  |  -  | 01/06/2024 |
+| 1.2    | Adição das respostas  | Pedro Izarias  |  Luana Medeiros | 01/06/2024 |
