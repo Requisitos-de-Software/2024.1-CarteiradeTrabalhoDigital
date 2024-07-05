@@ -94,5 +94,5 @@ Caso o vídeo acima não funcione, aperte no [link](https://www.youtube.com/watc
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Pedro Izarias | Larissa Stéfane | 09/06/2024 |
 | 1.1 |  Adição de introdução e metodologia  | Pedro Izarias | Larissa Stéfane | 10/06/2024 |
-| 1.2 |  Adição da avaliação das personas | Larissa Stéfane | - | 10/06/2024 |
-| 1.3 |  Adição do vídeo da avaliação das personas | Larissa Stéfane | - | 10/06/2024 |
+| 1.2 |  Adição da avaliação das personas | Larissa Stéfane | Luana Medeiros | 10/06/2024 |
+| 1.3 |  Adição do vídeo da avaliação das personas | Larissa Stéfane | Luana Medeiros | 10/06/2024 |
