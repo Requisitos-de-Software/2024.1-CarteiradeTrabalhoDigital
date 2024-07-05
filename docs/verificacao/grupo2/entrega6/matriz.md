@@ -117,4 +117,4 @@ O vídeo a seguir a inspeção gravada sobre o artefato da Matriz de Rastreabili
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do artefato                 | Breno Alexandre | Caio Mesquita              | 01/07/2024 |
-| 1.0    | realizando inspeção              | Caio Mesquita   |             | 01/07/2024 |
+| 1.0    | realizando inspeção              | Caio Mesquita   | Luana Medeiros | 01/07/2024 |
