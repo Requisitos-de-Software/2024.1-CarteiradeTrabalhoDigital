@@ -130,4 +130,4 @@ O vídeo a seguir a inspeção gravada sobre o artefato Storytelling.
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do artefato                 | Bruno Araújo    | Larissa Stéane  | 01/07/2024 |
-| 1.1    | Adição da Inspeção                  | Larissa Stéane  | -               | 01/07/2024 |
+| 1.1    | Adição da Inspeção                  | Larissa Stéane  | Luana Medeiros  | 01/07/2024 |
