@@ -79,4 +79,4 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Léx
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Pedro Izarias | Bruno Araújo | 09/06/2024 |
 | 1.1 |  Adição de introdução e metodologia | Pedro Izarias | Bruno Araújo | 10/06/2024 |
-| 1.2|  Adição de Avaliação| Bruno Araújo | - | 10/06/2024 |
+| 1.2|  Adição de Avaliação| Bruno Araújo | Luana Medeiros | 10/06/2024 |
