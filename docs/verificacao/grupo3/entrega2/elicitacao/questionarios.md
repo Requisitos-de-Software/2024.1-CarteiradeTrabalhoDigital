@@ -90,4 +90,4 @@ Os requisitos funcionais da Tabela 1 não estão formatados de maneira testável
 ## Histórico de versão
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do documento                | Caio Mesquita   |  | 09/06/2024 |
+| 1.0    | Criação do documento                | Caio Mesquita   | Luana Medeiros | 09/06/2024 |
