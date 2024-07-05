@@ -91,4 +91,4 @@ A tabela 2 apresenta a lista de verificação para a especificação suplementar
 | - | - | - | - | - |
 | 1.0 | Adição da tabela de verificação | Larissa Stéfane | Bruno Araújo | 09/06/2024 |
 | 1.1 | Adição da introdução e da metodologia | Larissa Stéfane | Bruno Araújo | 09/06/2024 |
-| 1.2 | Adição da avaliação | Breno Alexandre | -  | 10/06/2024 |
+| 1.2 | Adição da avaliação | Breno Alexandre | Luana Medeiros | 10/06/2024 |
