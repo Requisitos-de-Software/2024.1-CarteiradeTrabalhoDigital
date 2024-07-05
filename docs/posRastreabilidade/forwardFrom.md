@@ -1083,8 +1083,8 @@ A tabela 63 mostra a estrutura do requisito RF15.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | Usuário trabalhador pode ativar modo de status (procurando emprego ou não) | -               |
-| Alocação no App                     | Na área de perfil do usuário, seção de status de emprego. | -               |
+| Nome do Requisito                   | Usuário trabalhador pode ativar modo de status (procurando emprego ou não) | [RF15](Elicitacao/ResquisitosCorrigidos.md)  |
+| Alocação no App                     | Na área de perfil do usuário, seção de status de emprego. | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md)  |
 | Resolução de requisitos em conflito | O status "procurando emprego" pode influenciar notificações e visibilidade para empresas. Precisa ser gerenciado para não conflitar com outros dados pessoais e de privacidade. | -               |
 | Verificação                         | Verificar se o usuário pode ativar/desativar o modo de status corretamente e se o status é refletido nas interações com empresas. | -               |
 | Correção de Defeitos                | -          | Não foi necessário corrigir falhas para esse requisito. |
@@ -1149,8 +1149,8 @@ A tabela 67 mostra a estrutura do requisito RF16.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | Usuário trabalhador pode verificar processos seletivos abertos | -               |
-| Alocação no App                     | Na área de busca de empregos, seção de processos seletivos. | -               |
+| Nome do Requisito                   | Usuário trabalhador pode verificar processos seletivos abertos |[RF16](Elicitacao/ResquisitosCorrigidos.md)  |
+| Alocação no App                     | Na área de busca de empregos, seção de processos seletivos. | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md)  |
 | Resolução de requisitos em conflito | Garantir que a visualização de processos seletivos não interfira com dados sensíveis do usuário. | -               |
 | Verificação                         | Verificar se o usuário consegue visualizar processos seletivos disponíveis, com informações completas e atualizadas. | -               |
 | Correção de Defeitos                | -          | Não foi necessário corrigir falhas para esse requisito. |
@@ -1215,8 +1215,8 @@ A tabela 71 mostra a estrutura do requisito RF17.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | Usuário pode ocultar dados sensíveis | -               |
-| Alocação no App                     | Na área de configurações de privacidade do usuário. | -               |
+| Nome do Requisito                   | Usuário pode ocultar dados sensíveis | [RF17](Elicitacao/ResquisitosCorrigidos.md)  |
+| Alocação no App                     | Na área de configurações de privacidade do usuário. | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md)  |
 | Resolução de requisitos em conflito | O uso dessa funcionalidade deve ser compatível com outros requisitos que necessitam de dados pessoais. | -               |
 | Verificação                         |Verificar se os dados marcados como sensíveis são corretamente ocultados e não acessíveis por terceiros.| -               |
 | Correção de Defeitos                | -          | Não foi necessário corrigir falhas para esse requisito.|
@@ -1281,8 +1281,8 @@ A tabela 75 mostra a estrutura do requisito RF18.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | Usuário trabalhador pode consultar o número da carteira e de série como CIPS | -               |
-| Alocação no App                     | Na área de perfil do usuário, seção de dados da carteira de trabalho. | -               |
+| Nome do Requisito                   | Usuário trabalhador pode consultar o número da carteira e de série como CIPS | [RF18](Elicitacao/ResquisitosCorrigidos.md)  |
+| Alocação no App                     | Na área de perfil do usuário, seção de dados da carteira de trabalho. | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md)  |
 | Resolução de requisitos em conflito | Certificar que a exibição destes dados não conflita com a ocultação de dados sensíveis. | -               |
 | Verificação                         | Verificar se o usuário pode visualizar o número da carteira e série corretamente e se os dados são precisos. | -               |
 | Correção de Defeitos                | -          | Não foi necessário corrigir falhas para esse requisito. |
@@ -1347,8 +1347,8 @@ A tabela 79 mostra a estrutura do requisito RF19.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | Usuário recebe notificações do aplicativo  | -               |
-| Alocação no App                     | Configurações de notificação no perfil do usuário, e notificações push no sistema operacional. | -               |
+| Nome do Requisito                   | Usuário recebe notificações do aplicativo  | [RF19](Elicitacao/ResquisitosCorrigidos.md)  |
+| Alocação no App                     | Configurações de notificação no perfil do usuário, e notificações push no sistema operacional. | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md)  |
 | Resolução de requisitos em conflito | Gerenciar prioridades e conteúdos das notificações para evitar spam e redundância. | -               |
 | Verificação                         | Verificar se as notificações são enviadas corretamente, de acordo com as configurações do usuário, e se são recebidas sem falhas. | -               |
 | Correção de Defeitos                | -          |Não foi necessário corrigir falhas para esse requisito. |
@@ -1413,8 +1413,8 @@ A tabela 83 mostra a estrutura do requisito RF20.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | Usuário pode consultar perguntas frequentes | -               |
-| Alocação no App                     | Na área de ajuda ou suporte do aplicativo. | -               |
+| Nome do Requisito                   | Usuário pode consultar perguntas frequentes |[RF20](Elicitacao/ResquisitosCorrigidos.md) |
+| Alocação no App                     | Na área de ajuda ou suporte do aplicativo. | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md)  |
 | Resolução de requisitos em conflito | Assegurar que a base de perguntas frequentes esteja atualizada e não entre em conflito com informações presentes em outras partes do app. | -               |
 | Verificação                         | Verificar se as perguntas frequentes são acessíveis, bem organizadas e fornecem informações precisas. | -               |
 | Correção de Defeitos                | -          |Não foi necessário corrigir falhas para esse requisito. |
@@ -1479,8 +1479,8 @@ A tabela 87 mostra a estrutura do requisito RF21.
 
 | Características                     | Explicação | Rastreabilidade |
 | ----------------------------------- | ---------- | --------------- |
-| Nome do Requisito                   | Usuário empresa pode consultar dados dos funcionários | -               |
-| Alocação no App                     | Na área de administração de funcionários, acessível a usuários com perfil de empresa. | -               |
+| Nome do Requisito                   | Usuário empresa pode consultar dados dos funcionários |[RF21](Elicitacao/ResquisitosCorrigidos.md) |
+| Alocação no App                     | Na área de administração de funcionários, acessível a usuários com perfil de empresa. | [Diagrama de Caso de Uso](ignore/IgnoreDiagramaCasoUso.md) |
 | Resolução de requisitos em conflito | Garantir que o acesso aos dados dos funcionários não viole a privacidade ou políticas de segurança de dados. | -               |
 | Verificação                         | Verificar se a empresa pode consultar os dados dos funcionários de forma correta e segura. | -               |
 | Correção de Defeitos                | -          | Não foi necessário corrigir falhas para esse requisito. |
@@ -3566,3 +3566,4 @@ A tabela 217 mostra os elos do requisito RNF25.
 | 1.2    | Preenchimento de dados do RF07 até RF14 | Larissa Stéfane | Bruno Araújo          | 24/06/2024 |
 | 1.3    | Preenchimento de dados do RF15 até RF21 | Luana Medeiros  | Iago Passaglia | 24/06/2024 |
 | 1.4    | Preenchimento de dados do RNF 09 até RNF 15 | Bruno Araújo |  Iago Passaglia | 24/06/2024 |
+| 1.5    | Atualização de dados do RF15 até RF21   | Luana Medeiros  |  -             | 05/07/2024 |
