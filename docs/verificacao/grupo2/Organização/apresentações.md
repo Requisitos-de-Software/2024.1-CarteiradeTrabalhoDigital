@@ -52,9 +52,9 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato de Apresentaçõ
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 | -- | --------- | ------------------------------------------------ |
-| 1  | pergunta  | resposta                                         |
+| -  | - | - |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> 
 
 </center>
 
@@ -69,9 +69,9 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato Apresent
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
-| 1  | sugestao/sugestoes     |
+| -  | -    |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> 
 
 </center>
 
@@ -84,11 +84,10 @@ O vídeo a seguir a inspeção gravada sobre o artefato Apresentações.
 
 <b>Vídeo 1:</b> Gravação da inspeção de NOME.
 
-<iframe width="400" height="800" src="" title="Inspeção de NOME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 É possível acessar o vídeo por meio deste [link]().
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> 
 
 </center>
 
