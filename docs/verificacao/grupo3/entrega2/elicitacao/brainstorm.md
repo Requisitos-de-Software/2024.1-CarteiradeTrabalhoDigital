@@ -94,4 +94,4 @@ Edição, Editora Campus, 2010. (Versão grátis disponível em: https://leanpub
 | ------ | -------------------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Adição da tabela de verificação              | Breno Alexandre | Caio Mesquita   | 10/06/2024 |
 | 1.1    | Realização do processo de verificação        | Caio Mesquita   | Breno Alexandre | 10/06/2024 |
-| 1.2    | Adição de capítulo e páginas na bibliografia | Breno Alexandre | -               | 11/06/2024 |
+| 1.2    | Adição de capítulo e páginas na bibliografia | Breno Alexandre | Luana Medeiros  | 11/06/2024 |
