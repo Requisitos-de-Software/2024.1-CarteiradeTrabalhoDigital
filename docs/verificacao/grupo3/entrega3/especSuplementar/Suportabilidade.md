@@ -1,4 +1,4 @@
-# Avaliação Especificação Suplementar - Suportabilidade
+# Verificação Especificação Suplementar - Suportabilidade
 
 ## Sumário
 1. [Introdução](#introdução)
