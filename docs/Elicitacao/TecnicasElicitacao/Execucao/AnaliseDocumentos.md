@@ -244,4 +244,4 @@ Aqui se encontra uma lista dos principais requisitos encontrados e elencados no 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação e execução da análise de documentos| Larissa Stéfane | Breno Alexandre |  14/04/2024 |
-| 1.1 | Reogarnização de alguns pontos| Larissa Stéfane | - |  17/05/2024 |
+| 1.1 | Reogarnização de alguns pontos| Larissa Stéfane | Luana Medeiros |  17/05/2024 |
