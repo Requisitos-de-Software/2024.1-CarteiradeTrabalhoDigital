@@ -127,4 +127,4 @@ O vídeo a seguir a inspeção gravada sobre validação de história de usuári
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do artefato verificação de perfil de usuário           | Bruno Araújo            | --            | 30/06/2024 |
+| 1.0    | Criação do artefato verificação de perfil de usuário           | Bruno Araújo            | Luana Medeiros  | 30/06/2024 |
