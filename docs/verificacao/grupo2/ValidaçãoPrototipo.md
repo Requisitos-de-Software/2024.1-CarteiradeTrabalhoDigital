@@ -43,7 +43,7 @@ Autor: [Caio Mesquita](https://github.com/Caiomesvie)
 <br>
 
 
-### Manual do Usuário
+### Funcionalidade: Manual do Usuário
 
 <details>
 <summary size="20"><b> Autor: Breno Alexandre </b></summary> 
@@ -85,7 +85,7 @@ Tabela 1: Requisitos abordados na funcionalidade
 </details>
 
 
-### Funcionalidade Seguro Desemprego
+### Funcionalidade: Seguro Desemprego
 
 <details>
 <summary size="20"><b> Autor: Bruno Araújo </b></summary> 
@@ -137,7 +137,7 @@ Autor: [Bruno Araújo](https://github.com/brunocva)
 
 </details>
 
-### Alterar Dados do usuário
+### Funcionalidade: Alterar Dados do usuário
 
 <details>
 <summary size="20"><b> Autor: Caio Mesquita </b></summary> 
@@ -195,7 +195,7 @@ Autor: [Caio Mesquita](https://github.com/Caiomesvie)
 
 </details>
 
-### Mudança de Status 
+### Funcionalidade: Mudança de Status 
 
 <details>
 <summary size="20"><b> Autor: Iago Passaglia </b></summary> 
@@ -243,7 +243,7 @@ Autor: [Iago Passaglia](https://github.com/Paxxaglia)
 
 </details>
 
-### Canal de Denúncias 
+### Funcionalidade: Canal de Denúncias 
 
 <details>
 <summary size="20"><b> Autor: Larissa Stefane </b></summary> 
@@ -292,7 +292,7 @@ Autor: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </details>
 
-### Funcionalidade 
+### Funcionalidade:
 
 <details>
 <summary size="20"><b> Autor: Luana Medeiros </b></summary> 
@@ -310,8 +310,6 @@ Autor: []()
 
 <center>
 Vídeo 6: Entrevista com o usuário para validação
-
-
 
 
 Autor: []()
@@ -341,7 +339,7 @@ Autor: []()
 
 </details>
 
-### Funcionalidade Meus Contratos de Trabalho
+### Funcionalidade: Meus Contratos de Trabalho
 
 <details>
 <summary size="20"><b> Autor: Pedro Augusto</b></summary> 
