@@ -25,7 +25,7 @@ Protótipo Carteira de Trabalho Digital
 
 ## Entrevistas
 
-### Funcionalidade x
+### Modelo
 
 Abaixo veremos o modelo utilizado para apresentação das entrevistas de avaliação do protótipo de alta fidelidade, que deve ser seguido por cada integrante com sua respectiva funcionalidade escolhida do aplicativo Carteira de Trabalho Digital:
 
