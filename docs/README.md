@@ -64,7 +64,7 @@ Com entusiasmo e dedicação, o nosso grupo planeja realizar um projeto  que se 
 
 ## 📘: Sobre o projeto:
 
-  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/main/Midia/app.png">
+  <img src="https://contabilidadeemdia.com.br/wp-content/uploads/2020/06/foto-artigo.jpg">
 
   **Figura 2**: [Aqui](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/carteira-de-trabalho-digital-tem-mais-de-100-milhoes-de-acessos)
 
