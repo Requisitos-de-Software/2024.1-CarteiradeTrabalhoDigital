@@ -16,9 +16,9 @@ Foi feito um protótipo de alta fidelidade na aplicação Figma, que pode ser te
 
 
 <center>
-Protótipo SIGAA
+Protótipo Carteira de Trabalho Digital
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/3Qt3vMB1AUpiALPp5dQCLG/Prototipo-SIGAA?node-id=7-862&t=NHlvUf3lQt5PYAXn-0&scaling=min-zoom&content-scaling=fixed&page-id=7%3A860&starting-point-node-id=7%3A862&show-proto-sidebar=1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FQOVc7j9Xikhr3jv12itkdI%2FCarteira-de-trabalho-digital%3Fnode-id%3D1-14%26t%3DnxrO2e6ZLKbaJARa-1%26scaling%3Dscale-down%26content-scaling%3Dfixed%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A14" allowfullscreen></iframe>
 
 </center>
 
@@ -85,7 +85,7 @@ Tabela 1: Requisitos abordados na funcionalidade
 </details>
 
 
-### Funcionalidade x Seguro Desemprego
+### Funcionalidade Seguro Desemprego
 
 <details>
 <summary size="20"><b> Autor: Bruno Araújo </b></summary> 
