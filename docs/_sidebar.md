@@ -154,14 +154,23 @@
     - [Backlog do produto](verificacao/grupo2/entrega4/backlog.md)
     - [Histórias de usuário](verificacao/grupo2/entrega4/HistoriasUsuários.md)
     - [NFR Framework]()
-  * Entrega 6  
+  * Entrega 6 
     - [Backward-from](verificacao/grupo2/entrega6/Backward.md)
     - [Forward-from](verificacao/grupo2/entrega6/forward.md)
     - [Matriz de Rastrabilidade](verificacao/grupo2/entrega6/matriz.md)
   - [Validação Protótipo](verificacao/grupo2/ValidaçãoPrototipo.md)
   - [Validação Informal](verificacao/grupo2/validacaoInformal.md)
 
-
+* Entrega Final
+  - [Aplicativo Escolhido](EntregaFinal/AplicativoEscolhido.md)
+  - [Planejamento dos Recursos e das Entregas](EntregaFinal/PlanejamentoRecursosEntregas.md)
+  - [Execução do Projeto](EntregaFinal/Execucao.md)
+  - [Resultados Alcançados](EntregaFinal/ResultadosAlcancados.md)
+  - [Técnicas Utilizadas no Projeto](EntregaFinal/TecnicasUtilizadas.md)
+  - [Artefatos Criados](EntregaFinal/ArtefatosCriados.md)
+  - [Método de Verificações e Validações](EntregaFinal/MetodoVerificacaoValidacao.md)
+  - [Ferramentas Utilizadas](EntregaFinal/FerramentasUtilizadas.md)
+  - [Apresentações](EntregaFinal/Apresentacoes.md)
 
 
  
