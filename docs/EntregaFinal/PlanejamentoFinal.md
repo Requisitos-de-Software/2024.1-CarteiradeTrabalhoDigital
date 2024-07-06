@@ -21,7 +21,7 @@ Este documento tem como objetivo definir qual aluno será responsável por cada 
 | Resultados Alcançados                    | Caio Moreira |  06/07/2024 |
 | Técnicas Utilizadas no Projeto           |        |  06/07/2024|
 | Artefatos Criados                        | Caio Moreira |  06/07/2024 |
-| Método de Verificações e Validações      |        | 06/07/2024|
+| Método de Verificações e Validações      |    Pedro Izarias    | 06/07/2024|
 | Ferramentas Utilizadas                   | Iago Passaglia | 06/07/2024 |
 | Apresentações                            | Iago Passaglia | 06/07/2024 |
 
