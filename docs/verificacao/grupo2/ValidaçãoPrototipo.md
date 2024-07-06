@@ -37,11 +37,7 @@ Legenda para ID's:
 
 
 Autor: [Caio Mesquita](https://github.com/Caiomesvie)
-
-
 <br>
-<br>
-
 
 ### Funcionalidade: Manual do Usuário
 
