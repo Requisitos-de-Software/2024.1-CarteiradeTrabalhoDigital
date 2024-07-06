@@ -8,7 +8,7 @@
 
 ## Introdução
 
-Este artefato possui a validação com usuários do protótipo de alta fidelidade que foi confeccionado pelo grupo, a fim de validar requisitos de forma implementada.
+Este documento apresenta a validação do protótipo de alta fidelidade desenvolvido pelo grupo, realizada com a participação de usuários. O objetivo desta validação é assegurar que os requisitos previamente identificados e implementados no protótipo atendam às necessidades e expectativas dos usuários finais.
 
 ## Metodologia
 
