@@ -6,8 +6,9 @@
 
   <img src="https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/Midia/logoEquipeTransparente.png?raw=true">
 
-   **Figura 1**: Logo da equipe criado [Aqui](https://www.designevo.com/).
  </center>
+
+ **Figura 1**: Logo da equipe criado [Aqui](https://www.designevo.com/)
 
 Somos uma equipe que faz parte da disciplina de Requisitos de Software ministrada pelo professor André de Sales Barros na Universidade de Brasília (UnB). 
 
@@ -63,11 +64,9 @@ Com entusiasmo e dedicação, o nosso grupo planeja realizar um projeto  que se 
 
 ## 📘: Sobre o projeto:
 
-<center>
   <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/carteira-de-trabalho-digital-tem-mais-de-100-milhoes-de-acessos/carteira-de-trabalho.jpg/@@images/4786b7d4-2159-48e9-b44c-d4c728507a6f.jpeg">
 
   **Figura 2**: [Aqui](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/carteira-de-trabalho-digital-tem-mais-de-100-milhoes-de-acessos)
-</center>
 
 O projeto da equipe consiste em um estudo sobre o aplicativo "Carteira de trabalho digital", cujo o objetivo principal é desburocratizar a vida do trabalhador brasileiro, realizando a transição do documento físico da Carteira de Trabalho para um aplicativo, o qual permite tratar das questões trabalhistas de qualquer lugar e em qualquer momento.
 
