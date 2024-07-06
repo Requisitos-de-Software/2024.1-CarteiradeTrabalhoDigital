@@ -64,7 +64,7 @@ Com entusiasmo e dedicação, o nosso grupo planeja realizar um projeto  que se 
 
 ## 📘: Sobre o projeto:
 
-  <img src="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/carteira-de-trabalho-digital-tem-mais-de-100-milhoes-de-acessos/carteira-de-trabalho.jpg/@@images/4786b7d4-2159-48e9-b44c-d4c728507a6f.jpeg">
+  <img src="Midia/app.png">
 
   **Figura 2**: [Aqui](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/carteira-de-trabalho-digital-tem-mais-de-100-milhoes-de-acessos)
 
