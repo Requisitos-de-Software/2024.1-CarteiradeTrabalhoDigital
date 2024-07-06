@@ -64,7 +64,9 @@ Com entusiasmo e dedicação, o nosso grupo planeja realizar um projeto  que se 
 
 ## 📘: Sobre o projeto:
 
+ <center>
   <img src="https://contabilidadeemdia.com.br/wp-content/uploads/2020/06/foto-artigo.jpg">
+ </center>
 
   **Figura 2**: [Aqui](https://contabilidadeemdia.com.br/carteira-de-trabalho-digital-saiba-como-ter-acesso/)
 
