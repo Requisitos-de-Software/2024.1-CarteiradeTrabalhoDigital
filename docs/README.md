@@ -66,7 +66,7 @@ Com entusiasmo e dedicação, o nosso grupo planeja realizar um projeto  que se 
 
   <img src="https://contabilidadeemdia.com.br/wp-content/uploads/2020/06/foto-artigo.jpg">
 
-  **Figura 2**: [Aqui](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/07/carteira-de-trabalho-digital-tem-mais-de-100-milhoes-de-acessos)
+  **Figura 2**: [Aqui](https://contabilidadeemdia.com.br/carteira-de-trabalho-digital-saiba-como-ter-acesso/)
 
 O projeto da equipe consiste em um estudo sobre o aplicativo "Carteira de trabalho digital", cujo o objetivo principal é desburocratizar a vida do trabalhador brasileiro, realizando a transição do documento físico da Carteira de Trabalho para um aplicativo, o qual permite tratar das questões trabalhistas de qualquer lugar e em qualquer momento.
 
