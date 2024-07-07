@@ -241,4 +241,4 @@ Fonte: []()
 
 | Descrição                    | Autor | Revisor | Data       |
 |------------------------------|-------|---------|------------|
-| Criação e elaboração do documento | Iago Passaglia | Pedro Izarias | 06/07/2024 |
+| Criação e elaboração do documento | Iago Passaglia | Pedro Izarias | 07/07/2024 |
