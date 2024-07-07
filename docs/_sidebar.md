@@ -153,7 +153,7 @@
   * Entrega 4
     - [Backlog do produto](verificacao/grupo2/entrega4/backlog.md)
     - [Histórias de usuário](verificacao/grupo2/entrega4/HistoriasUsuários.md)
-    - [NFR Framework]()
+    <!-- - [NFR Framework]() -->
   * Entrega 6 
     - [Backward-from](verificacao/grupo2/entrega6/Backward.md)
     - [Forward-from](verificacao/grupo2/entrega6/forward.md)
