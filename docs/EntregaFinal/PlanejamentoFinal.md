@@ -13,17 +13,17 @@ Este documento tem como objetivo definir qual aluno será responsável por cada 
 
 ## Distribuição de Artefatos
 
-| Artefato                                 | Autor | Data       |
-|------------------------------------------|-------|------------|
-| Aplicativo Escolhido                     |    Bruno Araújo    | 06/07/2024 |
-| Planejamento dos Recursos e das Entregas |        | 06/07/2024 |
-| Execução do Projeto                      |        | 06/07/2024 |
-| Resultados Alcançados                    | Caio Moreira |  06/07/2024 |
-| Técnicas Utilizadas no Projeto           |        |  06/07/2024|
-| Artefatos Criados                        | Caio Moreira |  06/07/2024 |
-| Método de Verificações e Validações      |    Pedro Izarias    | 06/07/2024|
-| Ferramentas Utilizadas                   | Iago Passaglia | 06/07/2024 |
-| Apresentações                            | Iago Passaglia | 06/07/2024 |
+| Artefato                                 | Autor           | Data       |
+| ---------------------------------------- | --------------- | ---------- |
+| Aplicativo Escolhido                     | Bruno Araújo    | 06/07/2024 |
+| Planejamento dos Recursos e das Entregas |                 | 06/07/2024 |
+| Execução do Projeto                      |                 | 06/07/2024 |
+| Resultados Alcançados                    | Caio Moreira    | 06/07/2024 |
+| Técnicas Utilizadas no Projeto           | Breno Alexandre | 06/07/2024 |
+| Artefatos Criados                        | Caio Moreira    | 06/07/2024 |
+| Método de Verificações e Validações      | Pedro Izarias   | 06/07/2024 |
+| Ferramentas Utilizadas                   | Iago Passaglia  | 06/07/2024 |
+| Apresentações                            | Iago Passaglia  | 06/07/2024 |
 
 
 ## Histórico de Versão
