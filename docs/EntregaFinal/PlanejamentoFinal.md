@@ -17,8 +17,8 @@ Este documento tem como objetivo definir qual aluno será responsável por cada 
 | ---------------------------------------- | --------------- | ---------- |
 | Aplicativo Escolhido                     | Bruno Araújo    | 06/07/2024 |
 | Planejamento dos Recursos e das Entregas |                 | 06/07/2024 |
-| Execução do Projeto                      | Luana Medeiros  | 06/07/2024 |
-| Resultados Alcançados                    | Caio Moreira    | 06/07/2024 |
+| Execução do Projeto                      | Caio Moreira    | 06/07/2024 |
+| Resultados Alcançados                    | Luana Medeiros  | 06/07/2024 |
 | Técnicas Utilizadas no Projeto           | Breno Alexandre | 06/07/2024 |
 | Artefatos Criados                        | Caio Moreira    | 06/07/2024 |
 | Método de Verificações e Validações      | Pedro Izarias   | 06/07/2024 |
