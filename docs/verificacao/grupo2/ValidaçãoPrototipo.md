@@ -289,7 +289,7 @@ Autor: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </details>
 
-### Funcionalidade:
+### Funcionalidade: Beneficios
 
 <details>
 <summary size="20"><b> Autor: Luana Medeiros </b></summary> 
@@ -298,18 +298,19 @@ Cronograma 6:
 
 |||
 |-|-|
-|entrevistado||
-|entrevistador||
-|data e hora||
+|entrevistado| Leonardo Ramiro|
+|entrevistador| Luana Medeiros|
+|data e hora| 08/07/2024  17hrs|
 |||
 
-Autor: []()
+Autor: [Luana Medeiros](https://github.com/LuaMedeiros)
 
 <center>
 Vídeo 6: Entrevista com o usuário para validação
 
+<iframe width="1519" height="534" src="https://www.youtube.com/embed/nFAmsvLaLAU" title="Protótipo Alta Fidelidade - Carteira de Trabalho Digital" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Autor: []()
+Autor: [Luana Medeiros](https://github.com/LuaMedeiros)
 
 
 Tabela 11: Requisitos abordados na funcionalidade
@@ -398,3 +399,4 @@ Autor: [Pedro Izarias](https://github.com/Izarias)
 | 1.3    | Adição da avaliação da funcionalidade de contratos de trabalho | Pedro Izarias| Luana Medeiros | 01/07/2024 |
 | 1.4    | Adição da avaliação da funcionalidade de alterar dados pessoais. | Caio Mesquita| Luana Medeiros | 01/07/2024 |
 | 1.5    | Adição da avaliação da funcionalidade de manual de usuário. | Breno Alexandre | Luana Medeiros | 01/07/2024 |
+| 1.6    | Adição da avaliação da funcionalidade de beneficios. | Luana Medeiros | - | 08/07/2024 |
