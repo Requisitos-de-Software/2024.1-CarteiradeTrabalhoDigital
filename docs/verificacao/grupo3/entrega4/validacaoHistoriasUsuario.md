@@ -1,4 +1,4 @@
-# Avaliação Histórias de Usuário
+# Avaliação da Validação das Histórias de Usuário
 ## Sumário
 1. [Introdução](#introdução)
 2. [Metodologia](#metodologia)
