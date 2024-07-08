@@ -1,9 +1,8 @@
 # Cronograma
 
 ## Introdução
-O cronograma da equipe visa organizar todas as tarefas que serão realizadas de acordo com as datas descritas para a entrega e apresentação do 
-projeto presentes no plano de ensino da disciplina de Requisitos de Software para o primeiro semestre de 2024. Os cronogramas executados serão 
-atualizados com o tempo.
+
+O cronograma da equipe visa organizar todas as tarefas que foram realizadas ao longo do projeto de Requisitos de Software durante o semestre 2024.1 pelo grupo 2 referente ao aplicativo Carteira de Trabalho Digital. O Artefato foi dividido em planejamento do projeto, onde temos uma tabela com todas as tarefas, datas, responsáveis, revisores e períodos de revisão das atividades do projeto. Posteriormente temos o tópico de Execução do projeto, onde há os mesmos tópicos porém referentes ás atividades executadas durante o semestre.
 
 ## Planejamento do Projeto
 
