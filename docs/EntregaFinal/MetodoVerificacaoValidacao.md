@@ -114,8 +114,8 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
-| [Backlog do Produto](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega4/backlog) |||
-| [Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega4/HistoriasUsu%C3%A1rios) |||
+| [Backlog do Produto](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega4/backlog) |[Caio](https://github.com/caiomesvie)|[Iago](https://github.com/Paxxaglia)|
+| [Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega4/HistoriasUsu%C3%A1rios) |[Larissa](https://github.com/SkywalkerSupreme)|-|
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
@@ -123,9 +123,9 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 | - |-|-|
-| [BackwardFrom](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega6/Backward) |||
-| [ForwardFrom](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega6/forward) |||
-| [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega6/matriz) |||
+| [BackwardFrom](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega6/Backward) |[Caio](https://github.com/caiomesvie)|[Iago](https://github.com/Paxxaglia)|
+| [ForwardFrom](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega6/forward) |[Breno](https://github.com/brenoalexandre0)|[Pedro](https://github.com/Izarias)|
+| [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega6/matriz) |[Breno](https://github.com/brenoalexandre0)|[Caio](https://github.com/caiomesvie)|
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
