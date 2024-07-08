@@ -26,7 +26,7 @@ Este artefato tem o objetivo de sumarizar todas as verificações e validações
 |-|-|-|
 |Planejamento|Pedro|iago|
 
-Fonte: [Pedro Izarias](github.com/Izarias)
+Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 ## Validações
 
