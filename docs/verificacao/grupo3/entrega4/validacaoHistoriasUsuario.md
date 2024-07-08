@@ -44,7 +44,7 @@ Autor: [Iago Passaglia](https://github.com/paxxaglia)
 
 ## Inspeção
 
-Tabela 1: Tabela de inspeção
+Tabela 2: Tabela de inspeção
 
 <br>
 
