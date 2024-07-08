@@ -51,9 +51,14 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato NOME.
 
 <b>Tabela 3:</b> Resposta da lista de verificação para NOME.
 
-| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
-| -- | --------- | ------------------------------------------------ |
-| 1  | pergunta  | resposta                                         |
+| ID  | Pergunta | Resposta | Observação |
+| --- | -------- | -------- | ---------- |
+| 01  | Há uma lista com as ferramentas que serão utilizadas? | | |
+| 02  | Há a explicação do porquê cada ferramenta está sendo utilizada? | | |
+| 03  | Há um resumo da funcionalidade de cada ferramenta? | | |
+| 04  | Há uma maneira de acessar cada ferramenta citada? | | |
+| 05  | Todas as ferramentas estão referenciadas nas referências bibliográficas? | | |
+| 06  | Todos os links estão funcionais? | | |
 
 <b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
 
