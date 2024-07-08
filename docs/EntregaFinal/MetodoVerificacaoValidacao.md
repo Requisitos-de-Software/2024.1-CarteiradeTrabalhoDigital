@@ -11,7 +11,7 @@
 
 ## Introdução
 
-Este artefato tem o objetivo de sumarizar todas as verificações e validações feitas ao longo do projeto, tanto para o nosso próprio grupo, referente ao aplicativo Carteira de Trabalho Digital, quanto para o Grupo 03. Essas etapas tiveram importância fundamental para melhora geral dos trabalhos dos dois grupos e este documento visa organizar de maneira progressiva em formato de tabelas, todas essas etapas e seus respectivos autores.
+Este artefato tem o objetivo de sumarizar todas as verificações e validações feitas ao longo do projeto, tanto para o nosso próprio grupo, referente ao aplicativo Carteira de Trabalho Digital, quanto para o Grupo 03 do aplicativo dos Correios. Essas etapas tiveram importância fundamental para melhora geral dos trabalhos dos dois grupos e este documento visa organizar de maneira progressiva em formato de tabelas, todas essas etapas e seus respectivos autores.
 
 ## Metodologia
 
@@ -65,6 +65,26 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 | [Backlog do Produto](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega4/backlog) |-|-|
 | [ Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega4/historiasUsuario) |-|-|
 | [ NFR Framework](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega4/NFR) |-|-|
+
+Fonte: [Pedro Izarias](https://github.com/Izarias)
+
+### Grupo 02
+
+#### Tabela 05: Verificação da etapa 01 
+
+|Artefato|Criador da Lista de Verificação |Verificado por|
+|-|-|-|
+|[Reuniões](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Organiza%C3%A7%C3%A3o/atas)|-|-|
+| [HeatMap](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega1/VerificacaoHeatmap)|-|-|
+|[Cronograma](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega1/cronograma)|-|-|
+|[Ferramentas Utilizadas](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega1/Ferramentas)|-|-|
+|[Rich Picture](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega1/verificacaoRichPicture)|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+
+
+
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
