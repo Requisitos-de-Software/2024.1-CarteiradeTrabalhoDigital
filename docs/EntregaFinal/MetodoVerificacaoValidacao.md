@@ -81,7 +81,7 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 |-|-|-|
 | [Backlog do Produto](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega4/backlog) |[Caio](https://github.com/caiomesvie)|[Pedro](https://github.com/Izarias), [Iago](https://github.com/Paxxaglia), [Bruno](https://github.com/brunocva), [Breno](https://github.com/brenoalexandre0), [Luana](https://github.com/LuaMedeiros)|
 | [ Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega4/historiasUsuario) |[Larissa](https://github.com/SkywalkerSupreme)|[Pedro](https://github.com/Izarias), [Iago](https://github.com/Paxxaglia), [Bruno](https://github.com/brunocva), [Luana](https://github.com/LuaMedeiros), [Larissa](https://github.com/SkywalkerSupreme)|
-| [Validação das Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega4/validacaoHistoriasUsuario) |[Iago](https://github.com/Paxxaglia)|-|
+| [Validação das Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega4/validacaoHistoriasUsuario) |[Iago](https://github.com/Paxxaglia)|[Bruno](https://github.com/brunocva)|
 | [NFR Framework](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega4/NFR) |[Larissa](https://github.com/SkywalkerSupreme)|[Luana](https://github.com/LuaMedeiros), [Pedro](https://github.com/Izarias)|
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)

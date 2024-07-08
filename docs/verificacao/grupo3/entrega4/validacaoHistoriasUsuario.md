@@ -50,23 +50,31 @@ Tabela 2: Tabela de inspeção
 
 | Número | Pergunta de inspeção                                                                                      | Sim/não/incompleto |
 |--------|---------------------------------------------------------------------------------------------------|----------|
-| 1      | O entrevistador fez uma preparação adequada antes da entrevista?                                  |          |
-| 2      | O objetivo da entrevista foi claramente explicado aos participantes no início?                    |          |
-| 3      | As perguntas foram formuladas de maneira clara e objetiva?                                        |          |
-| 4      | O ambiente da entrevista foi adequado e sem distrações?                                           |          |
-| 5      | O entrevistador utilizou técnicas apropriadas (como perguntas abertas e fechadas) para obter as informações necessárias? |          |
-| 6      | A comunicação entre o entrevistador e os entrevistados foi clara e eficaz?                        |          |
-| 7      | O entrevistador explorou detalhes e exemplos específicos para esclarecer pontos importantes?      |          |
-| 8      | O tempo da entrevista foi gerido de forma eficiente, cobrindo todos os pontos necessários sem pressa ou prolongamentos desnecessários? |          |
-| 9     | As respostas e insights foram devidamente registrados durante a entrevista?                       |          |
-| 10     | O entrevistador incentivou os entrevistados a esclarecer dúvidas durante a entrevista?            |          |
-| 11     | Os participantes foram encorajados a fornecer feedback sobre a própria entrevista?                |          |
-| 12     | O entrevistador manteve a objetividade e neutralidade, evitando influenciar as respostas dos entrevistados? |          |
-| 13     | Houve uma revisão das notas da entrevista com os entrevistados para validação das informações coletadas? |          |
+| 1      | O entrevistador fez uma preparação adequada antes da entrevista?                                  | Sim         |
+| 2      | O objetivo da entrevista foi claramente explicado aos participantes no início?                    |  Sim        |
+| 3      | As perguntas foram formuladas de maneira clara e objetiva?                                        |   Sim      |
+| 4      | O ambiente da entrevista foi adequado e sem distrações?                                           |  Sim        |
+| 5      | O entrevistador utilizou técnicas apropriadas (como perguntas abertas e fechadas) para obter as informações necessárias? |  Sim        |
+| 6      | A comunicação entre o entrevistador e os entrevistados foi clara e eficaz?                        |  Sim       |
+| 7      | O entrevistador explorou detalhes e exemplos específicos para esclarecer pontos importantes?      |    Sim      |
+| 8      | O tempo da entrevista foi gerido de forma eficiente, cobrindo todos os pontos necessários sem pressa ou prolongamentos desnecessários? |  Sim        |
+| 9     | As respostas e insights foram devidamente registrados durante a entrevista?                       |   Não     |
+| 10     | O entrevistador incentivou os entrevistados a esclarecer dúvidas durante a entrevista?            |     Sim    |
+| 11     | Os participantes foram encorajados a fornecer feedback sobre a própria entrevista?                |    Sim      |
+| 12     | O entrevistador manteve a objetividade e neutralidade, evitando influenciar as respostas dos entrevistados? | Sim         |
+| 13     | Houve uma revisão das notas da entrevista com os entrevistados para validação das informações coletadas? |    Sim      |
 
 <br>
 
+<b>Autor:</b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+
+## Vídeo da inspeção
+
+https://youtu.be/19K2d6wxAik
+
 ## Conclusão
+
+O artefato está bem completo, necessitanto apenas relatar os insights das entrevistas.
 
 ## Bibliografia
 
