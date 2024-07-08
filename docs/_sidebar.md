@@ -99,7 +99,7 @@
     * Priorização
       - [First Things First](verificacao/grupo3/entrega2/priorizacao/FirstThingsFirst.md) 
       - [In or Out](verificacao/grupo3/entrega2/priorizacao/InOrOut.md) 
-    - [100$](verificacao/grupo3/entrega2/priorizacao/100$.md)
+    - [100$](verificacao/grupo3/entrega2/elicitacao/100$.md)
   * Entrega 3
     - [Cenários](verificacao/grupo3/entrega3/cenarios.md)
     - [Léxicos](verificacao/grupo3/entrega3/lexicos.md)
