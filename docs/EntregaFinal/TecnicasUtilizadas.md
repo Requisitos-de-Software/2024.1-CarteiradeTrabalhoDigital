@@ -30,6 +30,9 @@ Abaixo está a tabela 1 com as técnicas usadas, os participantes que usaram a t
 | Técnicas | Participantes | Rastreabilidade |
 | - | - | - |
 | Rich Picture | [Pedro Izarias](https://github.com/Izarias) | [Rich Picture](/planejamento/rich_picture) |
+| Personas | [Pedro Izarias](https://github.com/Izarias) | [Personas](/Elicitacao/Personas/TodasPersonas) |
+| Análise de Documentos | [Larissa Stéfane](https://github.com/SkywalkerSupreme) | [Elicitação por análise de documento](/Elicitacao/TecnicasElicitacao/Execucao/AnaliseDocumentos) |
+| Encenação Adaptada | [Larissa Stéfane](https://github.com/SkywalkerSupreme) | [Elicitação por Encenação Adptadada](/Elicitacao/TecnicasElicitacao/Execucao/EncenacaoAdaptada) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
