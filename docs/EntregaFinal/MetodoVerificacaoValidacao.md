@@ -16,6 +16,21 @@ Este artefato tem o objetivo de sumarizar todas as verificações e validações
 
 ## Metodologia
 
+Para a verificação dos artefatos do projeto, utilizamos o método de inspeção. Segundo Sommerville (2011), a inspeção é um processo de revisão formal em que um ou mais membros do grupo analisam detalhadamente o artefato em busca de defeitos, comparando-o com uma lista de verificação pré-estabelecida.
+
+No nosso caso, a verificação foi realizada da seguinte maneira:
+
+1. Um integrante do grupo elaborou uma lista de verificação específica para cada artefato.
+2. Outro integrante do grupo utilizou essa lista para revisar o artefato, registrando o processo em vídeo.
+3. Os resultados das inspeções foram documentados e utilizados para corrigir possíveis defeitos identificados.
+
+Para a validação dos artefatos, focamos nos protótipos de alta fidelidade das funcionalidades do aplicativo Carteira de Trabalho Digital. De acordo com Nielsen (1993), a validação através de testes de usabilidade é essencial para garantir que o produto final atenda às necessidades e expectativas dos usuários finais.
+
+O processo de validação foi conduzido da seguinte forma:
+
+1. Selecionamos um usuário que se enquadrava no perfil do usuário do aplicativo.
+2. O usuário realizou um teste de usabilidade, que foi gravado em vídeo.
+3. Após o teste, o usuário respondeu a uma lista de perguntas sobre o protótipo, fornecendo feedback detalhado.
 
 ## Verificações
 
