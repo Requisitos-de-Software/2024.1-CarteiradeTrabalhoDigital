@@ -20,12 +20,13 @@ Este artefato tem o objetivo de sumarizar todas as verificações e validações
 
 ### Grupo 02
 
-- Tabela 01: Verificação da etapa 01
+#### Tabela 01: Verificação da etapa 01
 
 |Artefato|Criador da Lista|Verificado por|
 |-|-|-|
 |Planejamento|Pedro|iago|
 
+Fonte: [Pedro Izarias](github.com/Izarias)
 
 ## Validações
 
