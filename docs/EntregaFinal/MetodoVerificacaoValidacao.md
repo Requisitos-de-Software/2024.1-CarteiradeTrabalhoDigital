@@ -95,7 +95,7 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 |[Reuniões](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Organiza%C3%A7%C3%A3o/atas)|[Breno](https://github.com/brenoalexandre0)|[Caio](https://github.com/caiomesvie)|
 | [HeatMap](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega1/VerificacaoHeatmap)|[Bruno](https://github.com/brunocva)|-|
 |[Cronograma](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega1/cronograma)|[Breno](https://github.com/brenoalexandre0)|[Caio](https://github.com/caiomesvie)|
-|[Ferramentas Utilizadas](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega1/Ferramentas)|[Caio](https://github.com/caiomesvie)|-|
+|[Ferramentas Utilizadas](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega1/Ferramentas)|[Caio](https://github.com/caiomesvie)|[Bruno Araújo](https://github.com/brunocva)|
 |[Rich Picture](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega1/verificacaoRichPicture)|[Iago](https://github.com/Paxxaglia)|[Pedro](https://github.com/Izarias)|
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
