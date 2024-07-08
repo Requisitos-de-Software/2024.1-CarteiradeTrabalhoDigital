@@ -104,7 +104,7 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
-| [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/elicita%C3%A7%C3%A3o/PerfilUsuario) |[Larissa](https://github.com/SkywalkerSupreme)|-|
+| [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/elicita%C3%A7%C3%A3o/PerfilUsuario) |[Larissa](https://github.com/SkywalkerSupreme)|Bruno](https://github.com/brunocva)|
 | [Personas](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/elicita%C3%A7%C3%A3o/Personas) |[Pedro](https://github.com/Izarias)|[Bruno](https://github.com/brunocva)|
 | [Análise de Documentos](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/elicita%C3%A7%C3%A3o/An%C3%A1liseDocumentos) |[Larissa](https://github.com/SkywalkerSupreme)|[Pedro](https://github.com/Izarias)|
 | [Questionário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/elicita%C3%A7%C3%A3o/Questionario) |[Larissa](https://github.com/SkywalkerSupreme)|-|
