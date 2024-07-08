@@ -24,7 +24,7 @@ Este artefato tem o objetivo de sumarizar todas as verificações e validações
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
-|[Rich Picture]()|-|-|
+|[Rich Picture](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega1/richPicture)|-|-|
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
@@ -32,14 +32,14 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
-| [Perfil de Usuário]()|-|-|
-| [Personas]() |-|-|
-| [Análise de Documentos]() |-|-|
-| [Brainstorm]() |-|-|
-| [Observação]() |-|-|
-| [Questionários]() |-|-|
-|  [First things First]() |-|-|
-| [In or Out]() |-|-|
+| [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/perfilUsu%C3%A1rio)|-|-|
+| [Personas](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/personas) |-|-|
+| [Análise de Documentos](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/analiseDocumentos) |-|-|
+| [Brainstorm](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/brainstorm) |-|-|
+| [Observação](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/observacao) |-|-|
+| [Questionários](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/questionarios) |-|-|
+|  [First things First](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/priorizacao/FirstThingsFirst) |-|-|
+| [In or Out](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/priorizacao/InOrOut) |-|-|
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
@@ -47,14 +47,14 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
-| [Cenários]() |-|-|
-| [Léxicos]() |-|-|
-| [Casos de Uso]() |-|-|
-| [Validação dos Casos de Uso]() |-|-|
-| [Esp. Suplementar - Confiabilidade]() |-|-|
-| [Esp. Suplementar - Suportabilidade]() |-|-|
-| [Esp. Suplementar - Usabilidade]() |-|-|
-| [Esp. Suplementar - Desempenho]() |-|-|
+| [Cenários](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/cenarios) |-|-|
+| [Léxicos](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/lexicos) |-|-|
+| [Casos de Uso](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/casosDeUso) |-|-|
+| [Validação dos Casos de Uso](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/validacaoCasosDeUso) |-|-|
+| [Esp. Suplementar - Confiabilidade](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/especSuplementar/Confiabilidade) |-|-|
+| [Esp. Suplementar - Suportabilidade](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/especSuplementar/Suportabilidade) |-|-|
+| [Esp. Suplementar - Usabilidade](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/especSuplementar/Usabilidade) |-|-|
+| [Esp. Suplementar - Desempenho](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/especSuplementar/desempenho) |-|-|
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
@@ -62,9 +62,9 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
-| [Backlog do Produto]() |-|-|
-| [ Histórias de Usuário]() |-|-|
-| [ NFR Framework]() |-|-|
+| [Backlog do Produto](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega4/backlog) |-|-|
+| [ Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega4/historiasUsuario) |-|-|
+| [ NFR Framework](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega4/NFR) |-|-|
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
