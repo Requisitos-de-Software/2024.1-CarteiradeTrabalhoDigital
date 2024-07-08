@@ -59,16 +59,10 @@
   * [Requisitos Elicitados](Elicitacao/ResquisitosCorrigidos.md)
 
   * Priorização
-      * Análise das técnicas
-          - [Metodologia de análise](Elicitacao/Priorizacao/AnaliseMetodologia.md)
-          - [Análise da Técnica do quadrante ou Três níveis](Elicitacao/Priorizacao/tecnicaClassificacao.md)
-          - [Análise da Técnica do TQM](Elicitacao/Priorizacao/tecnicaTQM.md)
-            
-      * Execução das Técnicas
-        - [Termo de consentimento](Elicitacao/Priorizacao/Execucao/TermoConsentimentoPriorizacao.md)
-        - [Quadrante ou Três Níveis](Elicitacao/Priorizacao/Execucao/QuadranteTresNiveis.md)
-        - [In or Out](Elicitacao/Priorizacao/Execucao/InOrOut.md)
-        - [MoSCoW](Elicitacao/Priorizacao/Execucao/MoSCoW.md)
+    - [Termo de consentimento](Elicitacao/Priorizacao/Execucao/TermoConsentimentoPriorizacao.md)
+    - [Quadrante ou Três Níveis](Elicitacao/Priorizacao/Execucao/QuadranteTresNiveis.md)
+    - [In or Out](Elicitacao/Priorizacao/Execucao/InOrOut.md)
+    - [MoSCoW](Elicitacao/Priorizacao/Execucao/MoSCoW.md)
 
 * Modelagem
   - [Cenários](/modelagem/cenarios.md)
