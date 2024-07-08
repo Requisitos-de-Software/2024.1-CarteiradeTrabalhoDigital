@@ -49,22 +49,6 @@ Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastre
 
 </center>
 
-## Erros da Lista
-
-A tabela a seguir mostra os erros encontrados na lista de verficação, assim como os locais e as soluções usadas.
-
-<center>
-
-<b>Tabela 1:</b> Verificação da lista de verificação para NOME.
-
-| Erro    | Explicação | Local | Solução |
-| ------- | ---------- | ----- | ------- |
-| erroTal | explicacao | local | solucao |
-
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
-
-</center>
-
 ## Inspeção
 
 <center>
