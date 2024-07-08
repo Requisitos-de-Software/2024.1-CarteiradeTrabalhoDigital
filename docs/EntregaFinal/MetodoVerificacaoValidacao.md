@@ -18,9 +18,9 @@ Este artefato tem o objetivo de sumarizar todas as verificações e validações
 
 ## Verificações
 
-### Grupo 02
+### Grupo 03
 
-#### Tabela 01: Verificação da etapa 01
+#### Tabela 01: Verificação da etapa 01 
 
 |Artefato|Criador da Lista|Verificado por|
 |-|-|-|
