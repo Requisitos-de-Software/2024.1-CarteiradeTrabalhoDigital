@@ -146,7 +146,8 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 ## Bibliografia
 
-
+1. Nielsen, J. (1993). Usability Engineering. Morgan Kaufmann.
+2. Sommerville, I. (2011). Software Engineering (9th ed.). Addison-Wesley. 
 
 ## Histórico de Versão
 
