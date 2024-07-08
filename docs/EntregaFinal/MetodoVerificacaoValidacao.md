@@ -168,4 +168,4 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 | Descrição                    | Autor | Revisor | Data       |
 |------------------------------|-------|---------|------------|
-| Criação e elaboração do documento  | Pedro Izarias | - | 07/07/2024 |
+| Criação e elaboração do documento  | Pedro Izarias | Iago Passaglia | 07/07/2024 |
