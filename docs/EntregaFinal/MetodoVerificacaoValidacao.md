@@ -79,12 +79,53 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 |[Cronograma](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega1/cronograma)|-|-|
 |[Ferramentas Utilizadas](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega1/Ferramentas)|-|-|
 |[Rich Picture](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega1/verificacaoRichPicture)|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
 
+Fonte: [Pedro Izarias](https://github.com/Izarias)
 
+#### Tabela 06: Verificação da etapa 02 
 
+|Artefato|Criador da Lista de Verificação |Verificado por|
+|-|-|-|
+| [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/elicita%C3%A7%C3%A3o/PerfilUsuario) |-|-|
+| [Personas](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/elicita%C3%A7%C3%A3o/Personas) |-|-|
+| [Análise de Documentos](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/elicita%C3%A7%C3%A3o/An%C3%A1liseDocumentos) |-|-|
+| [Encenação Adaptada]() |-|-|
+| [Questionário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/elicita%C3%A7%C3%A3o/Questionario) |-|-|
+| [Storytelling](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/elicita%C3%A7%C3%A3o/Storytelling) |-|-|
+| [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/RequisitosElicitados) |-|-|
+| [Quadrante ou Três Níveis](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/prioriza%C3%A7%C3%A3o/Quadrante) |-|-|
+| [In or Out]() |-|-|
+| [Moscow](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/prioriza%C3%A7%C3%A3o/moscow) |-|-|
+
+Fonte: [Pedro Izarias](https://github.com/Izarias)
+
+#### Tabela 07: Verificação da etapa 03 
+
+|Artefato|Criador da Lista de Verificação |Verificado por|
+|-|-|-|
+| [Cenários](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega3/Cenarios) |-|-|
+| [Léxicos](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega3/L%C3%A9xicos) |||
+| [Casos de Uso](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega3/CasosDeUso) |||
+| [Esp. Suplementar]() |||
+
+Fonte: [Pedro Izarias](https://github.com/Izarias)
+
+#### Tabela 08: Verificação da etapa 04 
+
+|Artefato|Criador da Lista de Verificação |Verificado por|
+|-|-|-|
+| [Backlog do Produto](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega4/backlog) |||
+| [Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega4/HistoriasUsu%C3%A1rios) |||
+
+Fonte: [Pedro Izarias](https://github.com/Izarias)
+
+#### Tabela 08: Verificação da etapa 06 
+
+|Artefato|Criador da Lista de Verificação |Verificado por|
+| - |-|-|
+| [BackwardFrom](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega6/Backward) |||
+| [ForwardFrom](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega6/forward) |||
+| [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega6/matriz) |||
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
