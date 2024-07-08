@@ -34,14 +34,14 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
 | [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/perfilUsu%C3%A1rio)|[Larissa](https://github.com/SkywalkerSupreme)|[Luana](https://github.com/LuaMedeiros)|
-| [Personas](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/personas) |-|-|
-| [Análise de Documentos](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/analiseDocumentos) |-|-|
-| [Brainstorm](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/brainstorm) |-|-|
-| [Observação](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/observacao) |-|-|
-| [Questionários](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/questionarios) |-|-|
-|  [First things First](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/priorizacao/FirstThingsFirst) |-|-|
-| [In or Out](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/priorizacao/InOrOut) |-|-|
-| [100$](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/100$) |||
+| [Personas](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/personas) |[Pedro](https://github.com/Izarias)|[Larissa](https://github.com/SkywalkerSupreme)|
+| [Análise de Documentos](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/analiseDocumentos) |[Larissa](https://github.com/SkywalkerSupreme)|[Iago](https://github.com/Paxxaglia)|
+| [Brainstorm](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/brainstorm) |[Breno](https://github.com/brunocva)|[Caio](https://github.com/caiomesvie)|
+| [Observação](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/observacao) | [Luana](https://github.com/LuaMedeiros) |[Breno](https://github.com/brunocva)|
+| [Questionários](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/questionarios) |[Caio](https://github.com/caiomesvie)|[Bruno](https://github.com/brunocva)|
+|  [First things First](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/priorizacao/FirstThingsFirst) |[Caio](https://github.com/caiomesvie)|[Iago](https://github.com/Paxxaglia)|
+| [In or Out](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/priorizacao/InOrOut) |[Luana](https://github.com/LuaMedeiros)|[Pedro](https://github.com/Izarias)|
+| [100$](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/100$) |[Bruno](https://github.com/brunocva)|-|
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
