@@ -40,6 +40,7 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 | [Questionários](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/questionarios) |-|-|
 |  [First things First](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/priorizacao/FirstThingsFirst) |-|-|
 | [In or Out](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/priorizacao/InOrOut) |-|-|
+| [100$](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/100$) |||
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
@@ -64,7 +65,8 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 |-|-|-|
 | [Backlog do Produto](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega4/backlog) |-|-|
 | [ Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega4/historiasUsuario) |-|-|
-| [ NFR Framework](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega4/NFR) |-|-|
+| [Validação das Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega4/validacaoHistoriasUsuario) |||
+| [NFR Framework](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega4/NFR) |-|-|
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
