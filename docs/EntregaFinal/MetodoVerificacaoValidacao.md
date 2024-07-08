@@ -89,16 +89,14 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
-| [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/elicita%C3%A7%C3%A3o/PerfilUsuario) |-|-|
-| [Personas](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/elicita%C3%A7%C3%A3o/Personas) |-|-|
-| [Análise de Documentos](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/elicita%C3%A7%C3%A3o/An%C3%A1liseDocumentos) |-|-|
-| [Encenação Adaptada]() |-|-|
-| [Questionário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/elicita%C3%A7%C3%A3o/Questionario) |-|-|
-| [Storytelling](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/elicita%C3%A7%C3%A3o/Storytelling) |-|-|
-| [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/RequisitosElicitados) |-|-|
-| [Quadrante ou Três Níveis](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/prioriza%C3%A7%C3%A3o/Quadrante) |-|-|
-| [In or Out]() |-|-|
-| [Moscow](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/prioriza%C3%A7%C3%A3o/moscow) |-|-|
+| [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/elicita%C3%A7%C3%A3o/PerfilUsuario) |[Larissa](https://github.com/SkywalkerSupreme)|-|
+| [Personas](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/elicita%C3%A7%C3%A3o/Personas) |[Pedro](https://github.com/Izarias)|[Bruno](https://github.com/brunocva)|
+| [Análise de Documentos](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/elicita%C3%A7%C3%A3o/An%C3%A1liseDocumentos) |[Larissa](https://github.com/SkywalkerSupreme)|[Pedro](https://github.com/Izarias)|
+| [Questionário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/elicita%C3%A7%C3%A3o/Questionario) |[Larissa](https://github.com/SkywalkerSupreme)|-|
+| [Storytelling](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/elicita%C3%A7%C3%A3o/Storytelling) |[Bruno](https://github.com/brunocva)|[Larissa](https://github.com/SkywalkerSupreme)|
+| [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/RequisitosElicitados) |[Pedro](https://github.com/Izarias)|[Larissa](https://github.com/SkywalkerSupreme)|
+| [Quadrante ou Três Níveis](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/prioriza%C3%A7%C3%A3o/Quadrante) |[Larissa](https://github.com/SkywalkerSupreme)|[Iago](https://github.com/Paxxaglia)|
+| [Moscow](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega2/prioriza%C3%A7%C3%A3o/moscow) |[Breno](https://github.com/brenoalexandre0)|[Caio](https://github.com/caiomesvie)|
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
@@ -149,8 +147,7 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 ## Bibliografia
 
-[Pedro](https://github.com/Izarias), [Larissa](https://github.com/SkywalkerSupreme), [Iago](https://github.com/Paxxaglia), [Caio](https://github.com/caiomesvie), [Bruno](https://github.com/brunocva),
-[Breno](https://github.com/brunocva)
+
 
 ## Histórico de Versão
 
