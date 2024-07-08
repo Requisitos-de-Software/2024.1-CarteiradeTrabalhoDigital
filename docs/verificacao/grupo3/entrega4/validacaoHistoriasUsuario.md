@@ -1,5 +1,4 @@
-# Avaliação Rich Pictures Grupo 03
-
+# Avaliação Histórias de Usuário
 ## Sumário
 1. [Introdução](#introdução)
 2. [Metodologia](#metodologia)
