@@ -45,53 +45,27 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 
 </center>
 
-## Erros da Lista
-
-A tabela a seguir mostra os erros encontrados na lista de verficação, assim como os locais e as soluções usadas.
-
-<center>
-
-<b>Tabela 1:</b> Verificação da lista de verificação para NOME.
-
-| Erro    | Explicação | Local | Solução |
-| ------- | ---------- | ----- | ------- |
-| erroTal | explicacao | local | solucao |
-
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
-
-</center>
-
 ## Inspeção
 
 <center>
 
-Tabela 2: Identificação do artefato avaliado
- 
-| Entrega | Nome | Versão | Data de desenvolvimento | Autor(es) | Revisor |
-| ------- | ---- | ------ | ----------------------- | --------- | ------- |
-| ------- | ---- | ------ | ----------------------- | --------- | ------- |
+| ID  | Pergunta da Verificação | Resposta | Observação |
+| --- | ----------------------- | -------- | ---------- |
+| 1   | A história de usuário está definida quanto a quem é o usuário-alvo? | Não | |
+| 2   | A funcionalidade desejada está descrita na história? | Sim | |
+| 3   | A motivação ou o valor da história para o usuário está explicada na história? | Sim | |
+| 4   | A história é escrita de forma sucinta, em um único cartão? | Sim | |
+| 5   | A história possui critérios de aceitação definidos? | Sim | |
+| 6   | A história é independente de outras histórias? | Sim | |
+| 7   | A descrição da história captura o objetivo do que é desejado? | Sim | |
+| 8   | A história fornece informações suficientes para estimativas de implementação? | Sim | |
+| 9   | A história foi validada com feedback dos usuários? | Não | |
+| 10  | Os critérios de aceitação são claros e mensuráveis? | Sim | |
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+<b>Autor:</b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
 
 </center>
-
-<center>
-
-Tabela 3: Inspeção do questionário
-
-| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
-| -- | ----------| ---------- | --------------- | 
-| -- | ----------| ---------- | --------------- | 
-| -- | ----------| ---------- | --------------- | 
-| -- | ----------| ---------- | --------------- | 
-
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
-
-
-### Vídeo da inspeção
-
-O vídeo a seguir a inspeção gravada sobre o artefato NOME.
-
 
 ### Erros Encontrados
 
@@ -103,11 +77,18 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArte
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
-| 1  | sugestao/sugestoes     |
+| 1  | Colocar público alvo na documentação     |
+| 8  | Colocar feedback dos usuários  |
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
 
 </center>
+
+### Vídeo da inspeção
+
+O vídeo a seguir a inspeção gravada sobre o artefato NOME.
+
+https://youtu.be/3pUUhJQI4SI
 
 
 
