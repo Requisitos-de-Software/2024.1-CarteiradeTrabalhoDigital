@@ -8,18 +8,18 @@ Tendo em vista o conceito de artefato, tudo aquilo criado pelo ser humano, aplic
 
 |Etapa|Artefato|Autores|Revisores|
 |-|-|-|-|
-| Apresentações                 | [apresentação 01](/apresentacoes/apresentacao01.md)                                               |            |             |
-| Apresentações                 | [apresentação 02](/apresentacoes/apresentacao02.md)                                               |            |             |
-| Apresentações                 | [apresentação 03](/apresentacoes/apresentacao03.md)                                               |            |             |
-| Apresentações                 | [apresentação 04](/apresentacoes/apresentacao04.md)                                               |            |             |
-| Apresentações                 | [apresentação 05](/apresentacoes/apresentacao5.md)                                                |            |             |
-| Apresentações                 | [apresentação 05.2](apresentacoes/Apresentacao5-2.md)                                             |            |             |
-| Apresentações                 | [apresentação 06](/apresentacoes/apresentacao06.md)                                               |            |             |
-| Reuniões                      | [Reunião 01](reunioes/ata01.md)                                                                   |            |             |
-| Reuniões                      | [Reunião 02](reunioes/ata02.md)                                                                   |            |             |
-| Reuniões                      | [Reunião 03](reunioes/ata03.md)                                                                   |            |             |
-| Reuniões                      | [Reunião 04](reunioes/ata04.md)                                                                   |            |             |
-| Reuniões                      | [Reunião 05](reunioes/ata05.md)                                                                   |            |             |
+| Apresentações                 | [apresentação 01](/apresentacoes/apresentacao01.md)                                               | -Caio Mesquita Vieira <br>   -Breno Alexandre Soares Garcia <br>          |   -Bruno Cunha Vasconcelos de Araújo <br>          |
+| Apresentações                 | [apresentação 02](/apresentacoes/apresentacao02.md)                                               |  -Caio Mesquita Vieira <br>   -Breno Alexandre Soares Garcia <br>           |    -Caio Mesquita Vieira <br>   -Breno Alexandre Soares Garcia <br>          |
+| Apresentações                 | [apresentação 03](/apresentacoes/apresentacao03.md)                                               |     -Caio Mesquita Vieira <br>       |     -Breno Alexandre Soares Garcia <br>        |
+| Apresentações                 | [apresentação 04](/apresentacoes/apresentacao04.md)                                               | -Caio Mesquita Vieira <br> -Breno Alexandre Soares Garcia <br>           |  -Breno Alexandre Soares Garcia <br> -Iago Passaglia Perereia <br>           |
+| Apresentações                 | [apresentação 05](/apresentacoes/apresentacao5.md)                                                |    -Iago Passaglia Perereia <br>        |      -Pedro Augusto Dourado Izarias <br>       |
+| Apresentações                 | [apresentação 05.2](apresentacoes/Apresentacao5-2.md)                                             |   -Larissa Stefane Barboza Santos <br>         |    -Pedro Augusto Dourado Izarias <br>         |
+| Apresentações                 | [apresentação 06](/apresentacoes/apresentacao06.md)                                               |    -Caio Mesquita Vieira <br>        |     -Iago Passaglia Perereia <br>        |
+| Reuniões                      | [Reunião 01](reunioes/ata01.md)                                                                   |     -Larissa Stefane Barboza Santos <br>-Iago Passaglia Perereia <br>-Breno Alexandre Soares Garcia <br>       |   -Iago Passaglia Perereia <br>-Breno Alexandre Soares Garcia <br>-Bruno Cunha Vasconcelos de Araújo <br>          |
+| Reuniões                      | [Reunião 02](reunioes/ata02.md)                                                                   |   -Larissa Stefane Barboza Santos <br>-Luana de Lima Medeiros <br>-Breno Alexandre Soares Garcia <br>         |  -Luana de Lima Medeiros <br>-Iago Passaglia Perereia <br>-Bruno Cunha Vasconcelos de Araújo <br>          |
+| Reuniões                      | [Reunião 03](reunioes/ata03.md)                                                                   |    -Iago Passaglia Perereia <br>-Breno Alexandre Soares Garcia <br>        |   -Breno Alexandre Soares Garcia <br>-Bruno Cunha Vasconcelos de Araújo <br>          |
+| Reuniões                      | [Reunião 04](reunioes/ata04.md)                                                                   |     -Bruno Cunha Vasconcelos de Araújo <br>-Larissa Stefane Barboza Santos <br>-Breno Alexandre Soares Garcia <br>       |    -Breno Alexandre Soares Garcia <br>   -Bruno Cunha Vasconcelos de Araújo <br>      |
+| Reuniões                      | [Reunião 05](reunioes/ata05.md)                                                                   |    -Breno Alexandre Soares Garcia <br>-Bruno Cunha Vasconcelos de Araújo <br>        |    -Larissa Stefane Barboza Santos <br>-Bruno Cunha Vasconcelos de Araújo <br>         |
 | Reuniões                      | [Reunião 06](reunioes/ata06.md)                                                                   |            |             |
 | Reuniões                      | [Reunião 07](reunioes/ata07.md)                                                                   |            |             |
 | Reuniões                      | [Reunião 08](reunioes/ata08.md)                                                                   |            |             |
