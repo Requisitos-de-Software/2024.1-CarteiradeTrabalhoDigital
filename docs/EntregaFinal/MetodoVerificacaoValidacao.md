@@ -25,7 +25,7 @@ Este artefato tem o objetivo de sumarizar todas as verificações e validações
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
-|[Rich Picture](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega1/richPicture)|[Iago](https://github.com/Paxxaglia)|[Pedro](https://github.com/Izarias), [Larissa](https://github.com/SkywalkerSupreme), [Iago](https://github.com/Paxxaglia), [Bruno](https://github.com/brunocva), [Breno](https://github.com/brunocva)|
+|[Rich Picture](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega1/richPicture)|[Iago](https://github.com/Paxxaglia)|[Pedro](https://github.com/Izarias), [Larissa](https://github.com/SkywalkerSupreme), [Iago](https://github.com/Paxxaglia), [Bruno](https://github.com/brunocva), [Breno](https://github.com/brenoalexandre0)|
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
@@ -36,8 +36,8 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 | [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/perfilUsu%C3%A1rio)|[Larissa](https://github.com/SkywalkerSupreme)|[Luana](https://github.com/LuaMedeiros)|
 | [Personas](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/personas) |[Pedro](https://github.com/Izarias)|[Larissa](https://github.com/SkywalkerSupreme)|
 | [Análise de Documentos](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/analiseDocumentos) |[Larissa](https://github.com/SkywalkerSupreme)|[Iago](https://github.com/Paxxaglia)|
-| [Brainstorm](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/brainstorm) |[Breno](https://github.com/brunocva)|[Caio](https://github.com/caiomesvie)|
-| [Observação](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/observacao) | [Luana](https://github.com/LuaMedeiros) |[Breno](https://github.com/brunocva)|
+| [Brainstorm](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/brainstorm) |[Breno](https://github.com/brenoalexandre0)|[Caio](https://github.com/caiomesvie)|
+| [Observação](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/observacao) | [Luana](https://github.com/LuaMedeiros) |[Breno](https://github.com/brenoalexandre0)|
 | [Questionários](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/questionarios) |[Caio](https://github.com/caiomesvie)|[Bruno](https://github.com/brunocva)|
 |  [First things First](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/priorizacao/FirstThingsFirst) |[Caio](https://github.com/caiomesvie)|[Iago](https://github.com/Paxxaglia)|
 | [In or Out](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/priorizacao/InOrOut) |[Luana](https://github.com/LuaMedeiros)|[Pedro](https://github.com/Izarias)|
@@ -49,14 +49,14 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
-| [Cenários](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/cenarios) |-|-|
-| [Léxicos](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/lexicos) |-|-|
-| [Casos de Uso](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/casosDeUso) |-|-|
-| [Validação dos Casos de Uso](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/validacaoCasosDeUso) |-|-|
-| [Esp. Suplementar - Confiabilidade](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/especSuplementar/Confiabilidade) |-|-|
-| [Esp. Suplementar - Suportabilidade](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/especSuplementar/Suportabilidade) |-|-|
-| [Esp. Suplementar - Usabilidade](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/especSuplementar/Usabilidade) |-|-|
-| [Esp. Suplementar - Desempenho](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/especSuplementar/desempenho) |-|-|
+| [Cenários](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/cenarios) |[Larissa](https://github.com/SkywalkerSupreme)|[Iago](https://github.com/Paxxaglia)|[Pedro](https://github.com/Izarias), [Larissa](https://github.com/SkywalkerSupreme), [Iago](https://github.com/Paxxaglia), [Bruno](https://github.com/brunocva), [Breno](https://github.com/brenoalexandre0), [Caio](https://github.com/caiomesvie)|
+| [Léxicos](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/lexicos) |[Pedro](https://github.com/Izarias)|[Bruno](https://github.com/brunocva)|
+| [Casos de Uso](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/casosDeUso) |[Iago](https://github.com/Paxxaglia)|[Iago](https://github.com/Paxxaglia)|[Pedro](https://github.com/Izarias), [Larissa](https://github.com/SkywalkerSupreme), [Iago](https://github.com/Paxxaglia), [Bruno](https://github.com/brunocva), [Breno](https://github.com/brenoalexandre0), [Caio](https://github.com/caiomesvie)|
+| [Validação dos Casos de Uso](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/validacaoCasosDeUso) |[Breno](https://github.com/brenoalexandre0)|[Pedro](https://github.com/Izarias)|
+| [Esp. Suplementar - Confiabilidade](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/especSuplementar/Confiabilidade) |[Luana](https://github.com/LuaMedeiros)|[Larissa](https://github.com/SkywalkerSupreme)|
+| [Esp. Suplementar - Suportabilidade](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/especSuplementar/Suportabilidade) |[Caio](https://github.com/caiomesvie)|[Pedro](https://github.com/Izarias)|
+| [Esp. Suplementar - Usabilidade](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/especSuplementar/Usabilidade) |[Larissa](https://github.com/SkywalkerSupreme)|[Breno](https://github.com/brenoalexandre0)|
+| [Esp. Suplementar - Desempenho](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega3/especSuplementar/desempenho) |[Iago](https://github.com/Paxxaglia)|[Iago](https://github.com/Paxxaglia)|
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
