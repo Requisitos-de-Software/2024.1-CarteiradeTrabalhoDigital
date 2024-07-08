@@ -77,11 +77,11 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
-|[Reuniões](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Organiza%C3%A7%C3%A3o/atas)|-|-|
-| [HeatMap](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega1/VerificacaoHeatmap)|-|-|
-|[Cronograma](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega1/cronograma)|-|-|
-|[Ferramentas Utilizadas](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega1/Ferramentas)|-|-|
-|[Rich Picture](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega1/verificacaoRichPicture)|-|-|
+|[Reuniões](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Organiza%C3%A7%C3%A3o/atas)|[Breno](https://github.com/brenoalexandre0)|[Caio](https://github.com/caiomesvie)|
+| [HeatMap](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega1/VerificacaoHeatmap)|[Bruno](https://github.com/brunocva)|-|
+|[Cronograma](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega1/cronograma)|[Breno](https://github.com/brenoalexandre0)|[Caio](https://github.com/caiomesvie)|
+|[Ferramentas Utilizadas](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega1/Ferramentas)|[Caio](https://github.com/caiomesvie)|-|
+|[Rich Picture](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega1/verificacaoRichPicture)|[Iago](https://github.com/Paxxaglia)|[Pedro](https://github.com/Izarias)|
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
