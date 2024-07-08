@@ -23,4 +23,4 @@ Na Figura 1, é possível observar os principais dados da persona Ana Clara:
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação da Persona | Pedro Augusto | - | 15/04/2024 |
+| 1.0 | Criação da Persona | Pedro Augusto | Bruno Araújo | 15/04/2024 |
