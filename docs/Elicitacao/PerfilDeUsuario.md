@@ -81,7 +81,7 @@ De acordo com a figura 4, 1 usuário acessa o CTD diariamente, 1 usuário acessa
 Após a análise das respostas, definiu-se o seguinte Perfil de Usuário para o aplicativo:
 
 - **Gênero:** Todos os gêneros.
-- **Idade:** Entre 18 e 65 anos.
+- **Idade:** A idade mínima é de 16 anos, a máxima não tem prazo legal.
 - **Experiência:** Diversificada, com uma parcela significativa de usuários com ensino superior completo e alguns com outro tipo de escolaridade.
 - **Atitudes:** Diversificadas, com uma tendência para uma boa aceitação da tecnologia, mas com uma parcela significativa de usuários que acessam raramente ou nunca acessaram o aplicativo.
 - **Tarefas primárias:** Consulta de informações e, em menor medida, atualização de dados pessoais.
