@@ -62,9 +62,29 @@ A tabela a seguir mostra os erros encontrados na lista de verficação, assim co
 
 <b>Tabela 1:</b> Verificação da lista de verificação para NOME.
 
-| Erro    | Explicação | Local | Solução |
-| ------- | ---------- | ----- | ------- |
-| erroTal | explicacao | local | solucao |
+| ID  | Pergunta da Verificação | Resposta | Observação |
+| --- | ----------------------- | -------- | ---------- |
+| 1   | Apresenta o intervalo de faixa etária dos usuários no geral? | | Deve apresentar a faixa etária dos usuários indicando as frequências ou porcentagens. |
+| 2   | Apresenta qual intervalo de idades é mais frequente? | | Deve indicar qual faixa etária é mais comum. |
+| 3   | Especifica o gênero dos usuários com uma estipulação de porcentagem? | | Deve incluir informações sobre o gênero e a frequência deles em relação aos usuários. |
+| 4   | Descreve a localização geográfica (país, cidade) dos usuários? | | Deve indicar qual é a localização geográfica com maior frequência que os usuários residem. |
+| 5   | Indica o nível de escolaridade dos usuários? | | Deve apresentar o nível de escolaridade dos usuários, por exemplo, Ensino Médio, Ensino Superior, entre outros. |
+| 6   | Inclui informações sobre o nível de alfabetismo dos usuários? | | Deve detalhar o quão bem o usuário lê e se ele tem experiência com textos complexos. |
+| 7   | Apresenta a forma de aprendizado do usuário? | | Indica como é a forma de aprendizado do usuário, ou seja, se prefere aprender com outras pessoas ou com manuais ou se prefere aprender fazendo sozinho. |
+| 8   | Inclui informações sobre a ocupação ou profissão dos usuários? | | Deve detalhar qual é o estilo de ocupação que os usuários possuem. |
+| 9   | Indica a experiência no cargo que ocupa? | | Deve apresentar a experiência no cargo atual, por exemplo, tempo de trabalho e suas responsabilidades. |
+| 10  | Descreve a experiência dos usuários com tecnologia (leigo, intermediário, especialista)? | | Deve especificar o nível de experiência tecnológica e o nível de alfabetismo computacional. |
+| 11  | Detalha a atitude dos usuários em relação à tecnologia (tecnófilos, tecnófobos)? | | Descreve a atitude dos usuários em relação à tecnologia, ou seja, indicar quais meios eletrônicos utiliza e se sente estimulado a utilizar. |
+| 12  | Descreve a frequência de uso da tecnologia pelos usuários? | | Deve apresentar a frequência de uso da tecnologia e a experiência com produtos concorrentes e outros produtos específicos do domínio, hábitos de uso, preferências e descontentamentos. |
+| 13  | Inclui informações sobre os principais objetivos e tarefas dos usuários ao utilizar o produto? | | Deve descrever os objetivos e tarefas principais realizadas pelos usuários. |
+| 14  | Indica os comportamentos dos usuários em relação às suas atitudes e valores? | | Deve indicar se o usuário costuma assumir riscos e explorar novas formas de fazer o mesmo trabalho ou se ele evita novas experiências, preferindo caminhos já percorridos e testados ou se prefere que alguém lhes mostre cada passo de uma nova tarefa sendo aprendida. |
+| 15  | Indica o tipo de aprendizado do usuário? | | Deve indicar se o usuário prefere um estilo de aprendizado visual, auditivo ou outro. |
+| 16  | Inclui informações sobre necessidades especiais (deficiência visual, auditiva, motora)? | | Deve descrever quais as possíveis necessidades especiais dos usuários com alguma deficiência. |
+| 17  | Descreve as preferências de interface dos usuários (tamanho de fonte, contraste de cores)? | | Deve listar preferências dos usuários de acordo com o seu perfil. Por exemplo, se a maior parte dos usuários são idosos, ele prefere que a fonte utilizada seja grande. |
+| 18  | Indica quais são os idiomas que os usuários falam? | | Deve listar quais idiomas o usuário conhece e utiliza fluentemente. |
+| 19  | Indica quais são as classes de jargões que os usuários utilizam no cotidiano? | | Deve indicar se os usuários utilizam algum jargão profissional particular ou da sua atividade ou de algum grupo social relevante para o seu projeto. |
+| 20  | Inclui informações sobre os principais objetivos e tarefas dos usuários ao utilizar o produto? | | Deve descrever os objetivos e as tarefas principais dos usuários de acordo com as suas expectativas. |
+
 
 <b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
 
@@ -75,31 +95,35 @@ A tabela a seguir mostra os erros encontrados na lista de verficação, assim co
 <center>
 
 Tabela 2: Identificação do artefato avaliado
- 
-| Entrega | Nome | Versão | Data de desenvolvimento | Autor(es) | Revisor |
-| ------- | ---- | ------ | ----------------------- | --------- | ------- |
-| ------- | ---- | ------ | ----------------------- | --------- | ------- |
+| ID  | Pergunta da Verificação                                               | Resposta | Observação |
+| --- | --------------------------------------------------------------------- | -------- | ---------- |
+| 1   | Apresenta o intervalo de faixa etária dos usuários no geral?          |    Sim      |            |
+| 2   | Apresenta qual intervalo de idades é mais frequente?                  |   Sim       |            |
+| 3   | Especifica o gênero dos usuários com uma estipulação de porcentagem?  |    Sim      |            |
+| 4   | Descreve a localização geográfica (país, cidade) dos usuários?        |   Não       |            |
+| 5   | Indica o nível de escolaridade dos usuários?                         |     Sim     |            |
+| 6   | Inclui informações sobre o nível de alfabetismo dos usuários?         |  Sim        |            |
+| 7   | Apresenta a forma de aprendizado do usuário?                          |   Não       |            |
+| 8   | Inclui informações sobre a ocupação ou profissão dos usuários?        |    Não      |            |
+| 9   | Indica a experiência no cargo que ocupa?                              |   Não       |            |
+| 10  | Descreve a experiência dos usuários com tecnologia (leigo, intermediário, especialista)? |   Não       |            |
+| 11  | Detalha a atitude dos usuários em relação à tecnologia (tecnófilos, tecnófobos)? |   Não       |            |
+| 12  | Descreve a frequência de uso da tecnologia pelos usuários?            |   Não       |            |
+| 13  | Inclui informações sobre os principais objetivos e tarefas dos usuários ao utilizar o produto? |    Não      |            |
+| 14  | Indica os comportamentos dos usuários em relação às suas atitudes e valores? |    Não      |            |
+| 15  | Indica o tipo de aprendizado do usuário?                              |  Não        |            |
+| 16  | Inclui informações sobre necessidades especiais (deficiência visual, auditiva, motora)? |   Não       |            |
+| 17  | Descreve as preferências de interface dos usuários (tamanho de fonte, contraste de cores)? |   Não       |            |
+| 18  | Indica quais são os idiomas que os usuários falam?                    |   Não       |            |
+| 19  | Indica quais são as classes de jargões que os usuários utilizam no cotidiano? | Não         |            |
+| 20  | Inclui informações sobre os principais objetivos e tarefas dos usuários ao utilizar o produto? |   Não       |            |
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+<b>Autor:</b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+
 
 </center>
 
 <center>
-
-Tabela 3: Inspeção do questionário
-
-| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
-| -- | ----------| ---------- | --------------- | 
-| -- | ----------| ---------- | --------------- | 
-| -- | ----------| ---------- | --------------- | 
-| -- | ----------| ---------- | --------------- | 
-
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
-
-</center>
-
-## Vídeo da Inspeção 
-
 
 ## Erros Encontrados
 
@@ -111,11 +135,15 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArte
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
-| 1  | sugestao/sugestoes     |
+| 4, 6 em diante  | Fazer uma coleta de dados mais abrangente.   |
 
 <b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
 
 </center>
+
+## Vídeo de inspeção
+
+https://youtu.be/FIGfymr-rIk
 
 ## Referências Bibliográficas
 
