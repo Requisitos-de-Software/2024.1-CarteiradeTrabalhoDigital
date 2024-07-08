@@ -104,9 +104,9 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
-| [Cenários](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega3/Cenarios) |-|-|
-| [Léxicos](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega3/L%C3%A9xicos) |||
-| [Casos de Uso](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega3/CasosDeUso) |||
+| [Cenários](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega3/Cenarios) |[Larissa](https://github.com/SkywalkerSupreme)|[Bruno](https://github.com/brunocva)|
+| [Léxicos](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega3/L%C3%A9xicos) |[Pedro](https://github.com/Izarias)|[Larissa](https://github.com/SkywalkerSupreme)|
+| [Casos de Uso](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/entrega3/CasosDeUso) |[Iago](https://github.com/Paxxaglia)|[Pedro](https://github.com/Izarias)|
 | [Esp. Suplementar]() |||
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
