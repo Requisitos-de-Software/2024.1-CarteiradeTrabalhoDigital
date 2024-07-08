@@ -137,12 +137,12 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 | Funcionalidade | Autor |
 | - |-|
-| [Meus Contratos de Trabalho](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Valida%C3%A7%C3%A3oPrototipo) ||
-| [Canal de Denúncias](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Valida%C3%A7%C3%A3oPrototipo) ||
-|[Mudança de Status](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Valida%C3%A7%C3%A3oPrototipo)||
-|[Alterar Dados do usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Valida%C3%A7%C3%A3oPrototipo)||
-|[Seguro Desemprego](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Valida%C3%A7%C3%A3oPrototipo)||
-|[Manual do Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Valida%C3%A7%C3%A3oPrototipo)||
+| [Meus Contratos de Trabalho](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Valida%C3%A7%C3%A3oPrototipo) |[Pedro](https://github.com/Izarias)|
+| [Canal de Denúncias](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Valida%C3%A7%C3%A3oPrototipo) |[Larissa](https://github.com/SkywalkerSupreme)|
+|[Mudança de Status](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Valida%C3%A7%C3%A3oPrototipo)|[Iago](https://github.com/Paxxaglia)|
+|[Alterar Dados do usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Valida%C3%A7%C3%A3oPrototipo)|[Caio](https://github.com/caiomesvie)|
+|[Seguro Desemprego](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Valida%C3%A7%C3%A3oPrototipo)|[Bruno](https://github.com/brunocva)|
+|[Manual do Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Valida%C3%A7%C3%A3oPrototipo)|[Breno](https://github.com/brunocva)|
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
