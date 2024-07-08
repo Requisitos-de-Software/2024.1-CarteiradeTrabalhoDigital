@@ -5,9 +5,7 @@ O cronograma da equipe visa organizar todas as tarefas que serão realizadas de 
 projeto presentes no plano de ensino da disciplina de Requisitos de Software para o primeiro semestre de 2024. Os cronogramas executados serão 
 atualizados com o tempo.
 
-## Entrega 1 - Planejamento do Projeto
-
-### Planejado
+## Planejamento do Projeto
 
 | *Atividade*                        | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ---------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
@@ -62,6 +60,63 @@ atualizados com o tempo.
 | Pós-rastreabilidade: Forward-form         | 11/06/2024 | 17/06/2024 | A definir          | A definir        | 18/06/2024 | 24/06/2024 |
 | Gravar apresentação                       | 17/06/2024 | 17/06/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 18/06/2024 | 24/06/2024 |
 | Correção pós apresentação                 | 18/06/2024 | 24/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 18/06/2024 | 24/06/2024 |
+
+## Execução do Projeto
+
+| *Atividade*                       | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
+| --------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
+| Selecionar app                    | 26/03/2024 | 28/03/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Caio | 29/03/2024 - 29/03/2024 |
+| Documentar Equipe                 | 26/03/2024 | 28/03/2024 | Larissa            | Luana            | 29/03/2024 - 29/03/2024 |
+| Realização do cronograma          | 28/03/2024 | 30/03/2024 | Breno              | Larissa          | 29/03/2024 - 29/03/2024 |
+| Implementar Git Page              | 26/03/2024 | 29/03/2024 | Caio               | Breno            | 29/03/2024 - 29/03/2024 |
+| Selecionar ferramentas do projeto | 26/03/2024 | 28/03/2024 | Larissa e Luana    | Bruno            | 29/03/2024 - 29/03/2024 |
+| Criação do Rich Picture           | 29/03/2024 | 30/03/2024 | Pedro              | Iago             | 30/03/2024 - 30/03/2024 |
+| Gravar apresentação               | 30/03/2024 | 30/03/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 30/03/2024 - 31/03/2024 |
+| Correção pós apresentação         | 30/03/2024 | 31/03/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 01/04/2024 - 01/04/2024 |
+| Correções e pendências após a entrega 1   | 01/04/2024 | 05/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 05/04/2024 - 07/04/2024 |
+| Criação do templete de analise das tecnicas de elicitação | 11/04/2024 | 11/04/2024 | Larissa Stéfane    | Bruno Araújo | 13/04/2024 - 13/04/2024 |
+| Criação do templete de analise das tecnicas de priorização | 11/04/2024 | 11/04/2024 | Larissa Stéfane   | Bruno Araújo | 13/04/2024 - 13/04/2024 |
+| Definição do perfil do usuário            | 14/04/2024 | 14/04/2024 | Bruno e Iago | Bruno e Iago | 14/04/2024 - 14/04/2024 |
+| Estudo sobre as técnicas de elicitação    | 11/04/2024 | 15/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 14/04/2024 - 15/04/2024 |
+| Estudo sobre as técnicas de priorização   | 11/04/2024 | 15/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 14/04/2024 - 15/04/2024 |
+| Definir técnicas de elicitação que serão usadas| 11/04/2024 | 11/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 11/04/2024 - 11/04/2024 |
+| Aplicação da técnica de elicitação: Questionário | 14/04/2024 | 16/04/2024 | Breno e Larissa |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 14/04/2024 - 16/04/2024 |
+| Aplicação da técnica de elicitação: Storytelling | 14/04/2024 | 16/04/2024 |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 14/04/2024 - 16/04/2024 |
+| Criação do documento da execução da técnica de elicitação: Storytelling | 17/04/2024 | 17/04/2024 | Luana e Larissa | Bruno Araújo | 17/04/2024 - 18/04/2024 |
+| Aplicação da técnica de elicitação: Análise de documentos | 14/04/2024 | 16/04/2024 | Larissa |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 14/04/2024 - 16/04/2024 |
+| Aplicação da técnica de elicitação: Introspecção | 14/04/2024 | 16/04/2024 | Breno e Caio |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 14/04/2024 - 16/04/2024 |
+| Aplicação da técnica de priorização: Quadrantes  | 14/04/2024 | 16/04/2024 | Larissa  |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 14/04/2024 - 16/04/2024 |
+| Aplicação da técnica de priorização: MoSCoW | 14/04/2024 | 16/04/2024 | Caio |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 14/04/2024 - 16/04/2024 |
+| Aplicação da técnica de priorização: First Thing First | 14/04/2024 | 16/04/2024 | Caio |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 14/04/2024 - 16/04/2024 |
+| Definição e criação de personas                     | 14/04/2024 | 15/04/2024 | Pedro e Larissa | Caio | 15/04/2024 - 16/04/2024 |
+| Estudo sobre as técnicas de priorização             | 11/04/2024 | 14/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 12/04/2024 - 14/04/2024 |
+| Definir técnicas de priorização que serão usadas    | 14/04/2024 | 14/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 14/04/2024 - 16/04/2024 |
+| Descrever a participação do cliente e/ou persona no processo de priorização | 14/04/2024 | 16/04/2024 | Caio e Larissa | Bruno e Breno| 16/04/2024 - 16/04/2024 |
+| Ajustes finais da entrega 2                         | 16/04/2024 | 17/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 16/04/2024 - 16/04/2024 |
+| Gravar apresentação               | 17/04/2024 | 17/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 17/01/2024-17/04/2024  |
+| Correção pós apresentação         | 18/04/2024 | 19/04/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 20/05/2024-26/05/2024 |
+| Correções e pendências após a entrega 2            | 18/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 20/05/2024 - 26/05/2024 |
+| Criação da estrutura da página                     | 10/05/2024 | 18/05/2024 | Caio                                             | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 19/05/2024 - 19/05/2024 |
+| Modelagem de Requisitos: Cenários                  | 20/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 20/05/2024 - 26/05/2024 | 
+| Modelagem de Requisitos: Léxico                    | 20/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 20/05/2024 - 26/05/2024 | 
+| Modelagem de Requisitos: Use Case                  | 20/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 20/05/2024 - 26/05/2024 | 
+| Modelagem de Requisitos: Especificação Suplementar | 20/04/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 20/05/2024 - 26/05/2024 | 
+| Gravar apresentação                                | 19/05/2024 | 19/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 19/05/2024 - 19/05/2024 |
+| Correção pós apresentação                          | 20/05/2024 | 26/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 20/05/2024 - 26/05/2024 |
+| Modelagem de requisitos: Backlog               | 25/05/2024 | 27/05/2024 | Bruno, Caio e Larissa                            | Bruno, Caio, Larissa e Pedro                     | 26/05/2024 - 27/05/2024 |
+| Entrevista com a Product Owner                 | 26/05/2024 | 26/05/2024 | Caio Mesquita                                    | Breno Alexandre                                  | 27/05/2024 - 27/05/2024 |
+| Modelagem de requisitos: Histórias de usuários | 26/05/2024 | 27/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Caio e Iago                                      | 26/05/2024 - 27/05/2024 |
+| NFR: Framework                                 | 26/05/2024 | 27/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro       | Bruno, Iago e Pedro                              | 26/05/2024 - 27/05/2024 |
+| Preenchimento do cronograma pra etapa 4        | 27/05/2024 | 27/05/2024 | Breno Alexandre                                  | Caio Mesquita                                    | 26/05/2024 - 26/05/2024 |
+| Gravar apresentação                            | 27/05/2024 | 27/05/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 27/05/2024 - 27/05/2024 |
+| Documento de apresentação da etapa 4           | 27/05/2024 | 27/05/2024 | Caio Mesquita                                    | Luana Medeiros                                   | 27/05/2024 - 27/05/2024 |
+| Reunião 10                                | 06/06/2024 | 06/06/2024 | Breno, Caio, Iago, Larissa, Luana e Pedro | Breno | 06/06/2024 - 06/06/2024 |
+| Ata 10                                    | 06/06/2024 | 06/06/2024 | Breno e Larissa | Breno e Bruno | 06/06/2024 - 09/06/2024 |
+| Planejamento da confecção das listas de verificação e das avaliações | 09/06/2024 | 09/06/2024 | Caio Mesquita | Breno Alexandre | 09/06/2024 - 09/06/2024 |
+| Verificação e Avaliação do Grupo 03 | 10/05/2024 | 10/06/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 10/06/2024 - 10/06/2024  |
+| Artefato dos vídeos de avaliações | 10/06/2024 | 10/06/2024 | Iago Passaglia | Breno, Pedro e Larissa | 10/06/2024 - 10/06/2024 |
+| Gravar apresentação                       | 10/06/2024 | 10/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro |10/06/2024 - 10/06/2024  |
+| ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 
 ## Histórico de versão
 
