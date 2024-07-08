@@ -71,9 +71,21 @@ A tabela a seguir mostra os erros encontrados na lista de verficação, assim co
 
 Tabela 2: Identificação do artefato avaliado
  
-| Entrega | Nome | Versão | Data de desenvolvimento | Autor(es) | Revisor |
-| ------- | ---- | ------ | ----------------------- | --------- | ------- |
-| ------- | ---- | ------ | ----------------------- | --------- | ------- |
+| ID  | Pergunta da Verificação | Resposta | Observação |
+| --- | ----------------------- | -------- | ---------- |
+| 1   | O título do cenário representa explicitamente o tema? | Sim | |
+| 2   | O objetivo do cenário está claramente definido? | Sim | |
+| 3   | O contexto do cenário está bem descrito, incluindo as pré-condições, o local e o tempo? | Incomnpleto | |
+| 4   | Os recursos envolvidos no cenário estão identificados? | Sim | |
+| 5   | Os atores envolvidos no cenário estão definidos? | Incompleto|  |
+| 7   | As ações dos atores estão descritas de forma observável? | Sim | |
+| 8   | O cenário mostra o que as pessoas tentam fazer com o aplicativo e quais são os procedimentos adotados na situação? | Sim | |
+| 9   | O ambiente ou contexto do cenário está detalhado? | Sim | |
+| 10  | O cenário está escrito em linguagem natural simples? | Sim | |
+| 11  | Há a descrição do que o sistema e os atores esperam quando o cenário se finalizar? | Sim| |
+| 12  | Cada cenário descreve apenas um dos caminhos descritos em um caso de uso? | Sim | |
+
+<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -84,36 +96,19 @@ Tabela 2: Identificação do artefato avaliado
 Tabela 3: Inspeção do questionário
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
-| -- | ----------| ---------- | --------------- | 
-| -- | ----------| ---------- | --------------- | 
-| -- | ----------| ---------- | --------------- | 
-| -- | ----------| ---------- | --------------- | 
+| 3   | O contexto do cenário está bem descrito, incluindo as pré-condições, o local e o tempo? | Incompleto | Completar as informações | 
+| 5   | Os atores envolvidos no cenário estão definidos? | Incompleto| Falta especificar melhor |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 
+### Conclusão
+
+O artefato está em padrão as boas práticas, contudo, precisa de algumas melhorias descritas na tabela 3.
+
 ### Vídeo da inspeção
 
 https://youtu.be/blvvG6440fk
-
-
-### Erros Encontrados
-
-A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArtefato.
-
-<center>
-
-<b>Tabela 4:</b> Sugestões de melhoria para NOME.
-
-| ID |  Sugestões de melhoria | 
-| -- | ---------------------- |
-| 1  | sugestao/sugestoes     |
-
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
-
-</center>
-
-
 
 
 ## Referências Bibliográficas
