@@ -51,7 +51,7 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 
 | ID  | Pergunta da Verificação | Resposta | Observação |
 | --- | ----------------------- | -------- | ---------- |
-| 1   | A história de usuário está definida quanto a quem é o usuário-alvo? | Não | |
+| 1   | A história de usuário está definida quanto a quem é o usuário-alvo? | Não | Não está nesse documento. |
 | 2   | A funcionalidade desejada está descrita na história? | Sim | |
 | 3   | A motivação ou o valor da história para o usuário está explicada na história? | Sim | |
 | 4   | A história é escrita de forma sucinta, em um único cartão? | Sim | |
@@ -59,7 +59,7 @@ A tabela 1 apresenta a lista de verificação para as histórias de usuário ela
 | 6   | A história é independente de outras histórias? | Sim | |
 | 7   | A descrição da história captura o objetivo do que é desejado? | Sim | |
 | 8   | A história fornece informações suficientes para estimativas de implementação? | Sim | |
-| 9   | A história foi validada com feedback dos usuários? | Não | |
+| 9   | A história foi validada com feedback dos usuários? | Não | Faltou o feedback. |
 | 10  | Os critérios de aceitação são claros e mensuráveis? | Sim | |
 
 
