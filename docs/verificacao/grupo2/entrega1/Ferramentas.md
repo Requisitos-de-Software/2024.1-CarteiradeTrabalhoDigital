@@ -53,12 +53,12 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato NOME.
 
 | ID  | Pergunta | Resposta | Observação |
 | --- | -------- | -------- | ---------- |
-| 01  | Há uma lista com as ferramentas que serão utilizadas? | | |
-| 02  | Há a explicação do porquê cada ferramenta está sendo utilizada? | | |
-| 03  | Há um resumo da funcionalidade de cada ferramenta? | | |
-| 04  | Há uma maneira de acessar cada ferramenta citada? | | |
-| 05  | Todas as ferramentas estão referenciadas nas referências bibliográficas? | | |
-| 06  | Todos os links estão funcionais? | | |
+| 01  | Há uma lista com as ferramentas que serão utilizadas? | Sim | |
+| 02  | Há a explicação do porquê cada ferramenta está sendo utilizada? | Sim | |
+| 03  | Há um resumo da funcionalidade de cada ferramenta? | Sim | |
+| 04  | Há uma maneira de acessar cada ferramenta citada? | Sim | |
+| 05  | Todas as ferramentas estão referenciadas nas referências bibliográficas? | Sim | |
+| 06  | Todos os links estão funcionais? | Sim | |
 
 <b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
 
@@ -84,17 +84,17 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato nomeArte
 
 ### Vídeo da inspeção
 
-O vídeo a seguir a inspeção gravada sobre o artefato NOME.
+O vídeo a seguir a inspeção gravada sobre o artefato Ferramentas.
 
 <center>
 
 <b>Vídeo 1:</b> Gravação da inspeção de NOME.
 
-<iframe width="400" height="800" src="" title="Inspeção de NOME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="400" height="800" src="" title="https://youtu.be/mtOq3rSVapc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-É possível acessar o vídeo por meio deste [link]().
+É possível acessar o vídeo por meio deste [link](https://youtu.be/mtOq3rSVapc).
 
-<b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/brunocva">Nome</a>.
 
 </center>
 
@@ -104,4 +104,4 @@ O vídeo a seguir a inspeção gravada sobre o artefato NOME.
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do artefato                 | Caio Mesquita      | nome            | 30/07/2024 |
+| 1.0    | Criação do artefato                 | Caio Mesquita      | Bruno Araújo         | 30/07/2024 |
