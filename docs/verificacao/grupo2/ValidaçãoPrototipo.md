@@ -1,4 +1,4 @@
-# Planejamento das Listas de Verificação e Inspeção
+# Validação dos Protótipos
 
 ## Sumário
 * [Introdução](#Introdução)
