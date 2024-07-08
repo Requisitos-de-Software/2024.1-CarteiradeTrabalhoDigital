@@ -1,4 +1,4 @@
-# Elicitação por Encenação Adptadad
+# Elicitação por Encenação Adptadada
 ## Sumário
 * [Introdução](#Introdução)
 * [Cronograma](#Cronograma)
