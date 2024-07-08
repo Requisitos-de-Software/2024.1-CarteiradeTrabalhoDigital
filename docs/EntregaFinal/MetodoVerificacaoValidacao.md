@@ -20,7 +20,7 @@ Este artefato tem o objetivo de sumarizar todas as verificações e validações
 
 ### Grupo 03
 
-#### Tabela 01: Verificação da etapa 01 
+#### Tabela 01: Verificação da etapa 01 do grupo 03
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
@@ -28,7 +28,7 @@ Este artefato tem o objetivo de sumarizar todas as verificações e validações
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
-#### Tabela 02: Verificação da etapa 02
+#### Tabela 02: Verificação da etapa 02 do grupo 03
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
@@ -44,7 +44,7 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
-#### Tabela 03: Verificação da etapa 03
+#### Tabela 03: Verificação da etapa 03 do grupo 03
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
@@ -59,7 +59,7 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
-#### Tabela 04: Verificação da etapa 04
+#### Tabela 04: Verificação da etapa 04 do grupo 03
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
@@ -72,7 +72,7 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 ### Grupo 02
 
-#### Tabela 05: Verificação da etapa 01 
+#### Tabela 05: Verificação da etapa 01 do grupo 02
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
@@ -84,7 +84,7 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
-#### Tabela 06: Verificação da etapa 02 
+#### Tabela 06: Verificação da etapa 02 do grupo 02
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
@@ -101,7 +101,7 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
-#### Tabela 07: Verificação da etapa 03 
+#### Tabela 07: Verificação da etapa 03 do grupo 02
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
@@ -112,7 +112,7 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
-#### Tabela 08: Verificação da etapa 04 
+#### Tabela 08: Verificação da etapa 04 do grupo 02
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
@@ -121,7 +121,7 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
-#### Tabela 08: Verificação da etapa 06 
+#### Tabela 09: Verificação da etapa 06 do grupo 02
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 | - |-|-|
@@ -133,6 +133,18 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 ## Validações
 
+#### Tabela 08: Validações dos protótipos de alta fidelidade
+
+| Funcionalidade | Autor |
+| - |-|
+| [Meus Contratos de Trabalho](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Valida%C3%A7%C3%A3oPrototipo) ||
+| [Canal de Denúncias](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Valida%C3%A7%C3%A3oPrototipo) ||
+|[Mudança de Status](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Valida%C3%A7%C3%A3oPrototipo)||
+|[Alterar Dados do usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Valida%C3%A7%C3%A3oPrototipo)||
+|[Seguro Desemprego](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Valida%C3%A7%C3%A3oPrototipo)||
+|[Manual do Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Valida%C3%A7%C3%A3oPrototipo)||
+
+Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 ## Histórico de Versão
 
