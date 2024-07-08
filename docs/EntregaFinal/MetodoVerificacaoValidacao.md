@@ -11,11 +11,20 @@
 
 ## Introdução
 
+Este artefato tem o objetivo de sumarizar todas as verificações e validações feitas ao longo do projeto, tanto para o nosso próprio grupo, referente ao aplicativo Carteira de Trabalho Digital, quanto para o Grupo 03. Essas etapas tiveram importância fundamental para melhora geral dos trabalhos dos dois grupos e este documento visa organizar de maneira progressiva em formato de tabelas, todas essas etapas e seus respectivos autores.
 
 ## Metodologia
 
 
 ## Verificações
+
+### Grupo 02
+
+- Etapa 01 
+
+|Artefato|Criador da Lista|Verificado por|
+|-|-|-|
+|Planejamento|Pedro|iago|
 
 
 ## Validações
