@@ -125,7 +125,7 @@
   * Organização
     - [Apresentações](verificacao/grupo2/Organização/apresentações.md)
     - [Reuniões](verificacao/grupo2/Organização/atas.md)
-  * Planajemanto
+  * Planejamento
     - [Heatmap](verificacao/grupo2/entrega1/VerificacaoHeatmap.md)
     - [Cronograma](verificacao/grupo2/entrega1/cronograma.md)
     - [Ferramentas utilizadas](verificacao/grupo2/entrega1/Ferramentas.md)  
