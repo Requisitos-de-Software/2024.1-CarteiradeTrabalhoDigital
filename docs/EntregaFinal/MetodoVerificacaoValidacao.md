@@ -4,6 +4,8 @@
 
 - [Introdução](#introdução)
 - [Metodologia](#Metodologia)
+- [Verificações](#Verificações)
+- [Validações](#Validações)
 - [Histórico de Versão](#histórico-de-versão)
 
 
@@ -13,6 +15,10 @@
 ## Metodologia
 
 
+## Verificações
+
+
+## Validações
 
 
 ## Histórico de Versão
