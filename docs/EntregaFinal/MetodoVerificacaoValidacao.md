@@ -25,7 +25,8 @@ Este artefato tem o objetivo de sumarizar todas as verificações e validações
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
-|[Rich Picture](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega1/richPicture)|-|-|
+|[Rich Picture](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega1/richPicture)|[Iago](https://github.com/Paxxaglia)|[Pedro](https://github.com/Izarias), [Larissa](https://github.com/SkywalkerSupreme), [Iago](https://github.com/Paxxaglia), [Bruno](https://github.com/brunocva),
+[Breno](https://github.com/brunocva)|
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
@@ -149,6 +150,8 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 ## Bibliografia
 
+[Pedro](https://github.com/Izarias), [Larissa](https://github.com/SkywalkerSupreme), [Iago](https://github.com/Paxxaglia), [Caio](https://github.com/caiomesvie), [Bruno](https://github.com/brunocva),
+[Breno](https://github.com/brunocva)
 
 ## Histórico de Versão
 
