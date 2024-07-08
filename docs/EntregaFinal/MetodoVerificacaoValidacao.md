@@ -6,6 +6,7 @@
 - [Metodologia](#Metodologia)
 - [Verificações](#Verificações)
 - [Validações](#Validações)
+- [Bibliografia](#Bibliografia)
 - [Histórico de Versão](#histórico-de-versão)
 
 
@@ -145,6 +146,9 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 |[Manual do Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo2/Valida%C3%A7%C3%A3oPrototipo)|[Breno](https://github.com/brunocva)|
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
+
+## Bibliografia
+
 
 ## Histórico de Versão
 
