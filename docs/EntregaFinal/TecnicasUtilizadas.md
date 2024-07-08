@@ -21,25 +21,19 @@ Através de uma análise dos artefatos criados, será documentado em uma tabela 
 
 ## Técnicas Utilizadas
 
-Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a técnica e a rastreabilidade.
+Abaixo está a tabela 1 com as técnicas usadas, os participantes que usaram a técnica e a rastreabilidade.
 
-<details>
-
-<summary><b>Framework DECIDE</b></summary>
-<br>
 <center>
 
-<b>Tabela 1:</b> Técnica utilizada no projeto: Framework DECIDE.
+<b>Tabela 1:</b> Técnicas utilizadas no projeto.
 
-| Participantes | Rastreabilidade |
-| - | - |
-| [
+| Técnicas | Participantes | Rastreabilidade |
+| - | - | - |
+| Rich Picture | [Pedro Izarias](https://github.com/Izarias) | [Rich Picture](/planejamento/rich_picture) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
 </center>
-
-</details>
 
 
 ## Histórico de Versão
