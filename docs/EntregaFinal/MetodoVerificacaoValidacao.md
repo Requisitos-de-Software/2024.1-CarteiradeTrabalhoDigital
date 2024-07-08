@@ -33,7 +33,7 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 |Artefato|Criador da Lista de Verificação |Verificado por|
 |-|-|-|
-| [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/perfilUsu%C3%A1rio)|[Larissa](https://github.com/SkywalkerSupreme)|[Luana](https://github.com/LuaMederios)|
+| [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/perfilUsu%C3%A1rio)|[Larissa](https://github.com/SkywalkerSupreme)|[Luana](https://github.com/LuaMedeiros)|
 | [Personas](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/personas) |-|-|
 | [Análise de Documentos](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/analiseDocumentos) |-|-|
 | [Brainstorm](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/verificacao/grupo3/entrega2/elicitacao/brainstorm) |-|-|
