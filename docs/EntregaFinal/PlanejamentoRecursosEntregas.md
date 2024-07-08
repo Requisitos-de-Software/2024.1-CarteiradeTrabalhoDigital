@@ -6,6 +6,8 @@ O cronograma da equipe visa organizar todas as tarefas que foram realizadas ao l
 
 ## Planejamento do Projeto
 
+Tabela 1: Lista de atividades planejadas
+
 | *Atividade*                        | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ---------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 | Selecionar app                     | 26/03/2024 | 28/03/2024 |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| Caio             | 29/03/2024 - 29/03/2024 |
@@ -60,7 +62,11 @@ O cronograma da equipe visa organizar todas as tarefas que foram realizadas ao l
 | Gravar apresentação                       | 17/06/2024 | 17/06/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 18/06/2024 | 24/06/2024 |
 | Correção pós apresentação                 | 18/06/2024 | 24/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 18/06/2024 | 24/06/2024 |
 
+Fonte: [Pedro Izarias](https://github.com/Izarias)
+
 ## Execução do Projeto
+
+Tabela 2: Lista de atividades executadas
 
 | *Atividade*                       | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | --------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
@@ -116,6 +122,8 @@ O cronograma da equipe visa organizar todas as tarefas que foram realizadas ao l
 | Artefato dos vídeos de avaliações | 10/06/2024 | 10/06/2024 | Iago Passaglia | Breno, Pedro e Larissa | 10/06/2024 - 10/06/2024 |
 | Gravar apresentação                       | 10/06/2024 | 10/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro |10/06/2024 - 10/06/2024  |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
+
+Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 ## Histórico de versão
 
