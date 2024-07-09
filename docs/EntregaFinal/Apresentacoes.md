@@ -211,16 +211,16 @@ Fonte: [Iago Passaglia](https://www.youtube.com/embed/olP18-WL2Os)
 
 <details>
 
-<summary size="20"><b> Apresentação 7 </b></summary>
+<summary size="20"><b> Apresentação Final </b></summary>
 
 
-**Vídeo 8: Apresentação 7**
+**Vídeo 8: Apresentação Final**
 
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/bZZ3QX5WwNE" title="Apresentação final - Grupo 2 Requisitos - Carteira de Trabalho Digital" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-VIDEO!
 <br>
 
-Fonte: []()
+Fonte: [Iago Passaglia](https://www.youtube.com/watch?v=bZZ3QX5WwNE)
 
 
 **Tabela 8: Participantes**
@@ -230,6 +230,7 @@ Fonte: []()
 |----------------|
 | Breno Alexandre  |
 | Bruno Araujo  |
+| Caio Mesquita |
 | Iago Passaglia |
 | Larissa Stéfane |
 | Luana Medeiros |
