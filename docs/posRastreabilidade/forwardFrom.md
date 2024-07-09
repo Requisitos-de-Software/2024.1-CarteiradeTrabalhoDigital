@@ -3553,10 +3553,6 @@ A tabela 217 mostra os elos do requisito RNF25.
 </details>
 
 
-## Referências Bibliográficas
-
-1. 
-
 ## Histórico de Versão
 
 | Versão | Alteração                               | Responsável     | Revisor         | Data       |
@@ -3567,3 +3563,4 @@ A tabela 217 mostra os elos do requisito RNF25.
 | 1.3    | Preenchimento de dados do RF15 até RF21 | Luana Medeiros  | Iago Passaglia | 24/06/2024 |
 | 1.4    | Preenchimento de dados do RNF 09 até RNF 15 | Bruno Araújo |  Iago Passaglia | 24/06/2024 |
 | 1.5    | Atualização de dados do RF15 até RF21   | Luana Medeiros  |  -             | 05/07/2024 |
+| 1.6    | Preenchimento de dados do RF22 até RF28  | Pedro Izarias  |  Iago Passaglia             | 05/07/2024 |
