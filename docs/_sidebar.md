@@ -165,6 +165,7 @@
   - [Método de Verificações e Validações](EntregaFinal/MetodoVerificacaoValidacao.md)
   - [Ferramentas Utilizadas](EntregaFinal/FerramentasUtilizadas.md)
   - [Apresentações](EntregaFinal/Apresentacoes.md)
+  - [Facilidades e Dificuldades](EntregaFinal/FacilidadesDificuldades.md)
 
 
  

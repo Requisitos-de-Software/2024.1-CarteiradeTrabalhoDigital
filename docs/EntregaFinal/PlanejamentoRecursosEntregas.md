@@ -126,7 +126,15 @@ Tabela 2: Lista de atividades executadas
 | Verificação e Avaliação do Grupo 03 | 10/05/2024 | 10/06/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 10/06/2024 - 10/06/2024  |
 | Artefato dos vídeos de avaliações | 10/06/2024 | 10/06/2024 | Iago Passaglia | Breno, Pedro e Larissa | 10/06/2024 - 10/06/2024 |
 | Gravar apresentação                       | 10/06/2024 | 10/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro |10/06/2024 - 10/06/2024  |
-| ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
+| Correções e pendências após a entrega 6  | 18/06/2024 | 01/07/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|24/06/2024 | 01/07/2024 |
+| Verificação e validação requisitos: Grupo 02 |18/06/2024 | 08/07/2024 |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 24/06/2024 | 01/07/2024  |
+| Gravar apresentação                       |01/07/2024 | 01/07/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 24/06/2024 | 01/07/2024 |
+| Correção pós apresentação                 | 01/07/2024 | 08/07/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 24/06/2024 | 01/07/2024 |
+| Correções e pendências após a entrega 5.1 | 11/06/2024 | 24/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 18/06/2024 | 24/06/2024|
+| Pós-rastreabilidade: Backward-form        | 11/06/2024 | 24/06/2024 | Pedro, Iago, Caio, Luana, Larissa, Breno     | Pedro, Iago, Caio, Luana, Larissa, Breno        |18/06/2024 | 24/06/2024 |
+| Pós-rastreabilidade: Forward-form         | 11/06/2024 | 17/06/2024 | Pedro, Iago, Caio, Luana, Larissa, Breno          | Pedro, Iago, Caio, Luana, Larissa, Breno        | 18/06/2024 | 24/06/2024 |
+| Gravar apresentação                       | 17/06/2024 | 17/06/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 18/06/2024 | 24/06/2024 |
+| Correção pós apresentação                 | 18/06/2024 | 08/07/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 18/06/2024 | 08/07/2024 |
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
 
@@ -134,4 +142,4 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 | Versão | Alteração                                                         | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do documento                                              | Pedro Izarias |  - | 08/07/2024 |
+| 1.0    | Criação do documento                                              | Pedro Izarias |  Caio Mesquita | 08/07/2024 |

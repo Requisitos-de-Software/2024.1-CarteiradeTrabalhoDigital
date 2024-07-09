@@ -24,8 +24,11 @@ A equipe enfrentou dificuldades em realizar reuniões remotas devido às discrep
 
 #### Facilidades
 
+O grupo manteve boa comunicação e flexibilidade em distribuir tarefas e marcar reuniões, o aplicativo foi escolhido por mim por se tratar de um instrumento muito importante de desburocratização na minha visão. Foi muito bom também ter um membro no grupo que fez uma matéria com o professor André e também uma monitora disponível para auxiliar o grupo.
+
 #### Dificuldades
 
+Apesar da flexibilidade com reuniões ter sido um ponto positivo, acabou por causar alguns transtornos, principalmente por conta da ausência de alguns membros nas reuniões, a distribuição de tarefas acabou por ser gerar desigual também. Outra dificuldade foi o alinhamento com a organização dos artefatos e tarefas.
 
 ### Caio Mesquita
 
@@ -57,10 +60,10 @@ O projeto também apresentou diversos desafios, especialmente na gestão do temp
 ### Luana Medeiros
 
 #### Facilidades
-
+Ao longo do semestre, a integração com a equipe e o uso de ferramentas colaborativas online, como o GitHub, foram pontos positivos que facilitaram o trabalho. A estrutura pré-existente e a padronização dos artefatos também contribuíram para a eficiência no desenvolvimento do projeto. Além disso, a ajuda da monitora foi essencial para resolver dúvidas e garantir que todos os requisitos fossem atendidos corretamente.
 
 #### Dificuldades
-
+Enfrentei alguns desafios durante o semestre, especialmente relacionados à gestão de tempo e comunicação dentro da equipe. Conciliar os prazos do projeto com outras atividades acadêmicas foi bastante difícil, e muitas vezes tive que reorganizar minhas prioridades para cumprir todas as entregas. A falta de alinhamento nas agendas dos membros da equipe tornou a realização de reuniões um desafio, afetando a distribuição equitativa das tarefas. A comunicação dentro do grupo também apresentou problemas, resultando em alguns mal-entendidos e atrasos que impactaram o andamento do projeto.
 
 ### Pedro Izarias
 
