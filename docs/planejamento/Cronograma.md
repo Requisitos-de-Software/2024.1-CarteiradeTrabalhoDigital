@@ -246,6 +246,12 @@ Na Tabela 12, está explicitado o cronograma executado das atividades da parte d
 
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
+| Correções e pendências após a entrega 6  | 18/06/2024 | 01/07/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|24/06/2024 | 01/07/2024 |
+| Verificação e validação requisitos: Grupo 02 |18/06/2024 | 08/07/2024 |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 24/06/2024 | 01/07/2024  |
+| Gravar apresentação                       |01/07/2024 | 01/07/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 24/06/2024 | 01/07/2024 |
+| Correção pós apresentação                 | 01/07/2024 | 08/07/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 24/06/2024 | 01/07/2024 |
+
+<font size="3"><p style="text-align: center">Fonte: [Pedro Izarias](https://github.com/Izarias)</p></font>
 
 ## Entrega 6 - Pós-Rastreabilidade
 
@@ -268,12 +274,19 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sexta en
 
 ### Executado
 
-Na Tabela 14, está explicitado o cronograma executado das atividades da parte dois da quinta entrega.
+Na Tabela 14, está explicitado o cronograma executado das atividades da sexta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 14</b> - Pós-Rastreabilidade</p></font>
 
 | *Atividade*                               | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
+| Correções e pendências após a entrega 5.1 | 11/06/2024 | 24/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 18/06/2024 | 24/06/2024|
+| Pós-rastreabilidade: Backward-form        | 11/06/2024 | 24/06/2024 | Pedro, Iago, Caio, Luana, Larissa, Breno     | Pedro, Iago, Caio, Luana, Larissa, Breno        |18/06/2024 | 24/06/2024 |
+| Pós-rastreabilidade: Forward-form         | 11/06/2024 | 17/06/2024 | Pedro, Iago, Caio, Luana, Larissa, Breno          | Pedro, Iago, Caio, Luana, Larissa, Breno        | 18/06/2024 | 24/06/2024 |
+| Gravar apresentação                       | 17/06/2024 | 17/06/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 18/06/2024 | 24/06/2024 |
+| Correção pós apresentação                 | 18/06/2024 | 08/07/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 18/06/2024 | 08/07/2024 |
+
+<font size="3"><p style="text-align: center">Fonte: [Pedro Izarias](https://github.com/Izarias)</p></font>
 
 ## Histórico de versão
 
