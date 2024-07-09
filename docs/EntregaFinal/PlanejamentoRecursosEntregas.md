@@ -61,7 +61,6 @@ Tabela 1: Lista de atividades planejadas
 | Verificação e validação requisitos: Grupo 02 |18/06/2024 | 24/06/2024 |Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 24/06/2024 | 01/07/2024  |
 | Gravar apresentação                       |24/06/2024 | 24/06/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 24/06/2024 | 01/07/2024 |
 | Correção pós apresentação                 | 24/06/2024 | 01/07/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 24/06/2024 | 01/07/2024 |
-| ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 | Correções e pendências após a entrega 5.1 | 11/06/2024 | 17/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro|Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro| 18/06/2024 | 24/06/2024|
 | Pós-rastreabilidade: Backward-form        | 11/06/2024 | 17/06/2024 | A definir          | A definir        |18/06/2024 | 24/06/2024 |
 | Pós-rastreabilidade: Forward-form         | 11/06/2024 | 17/06/2024 | A definir          | A definir        | 18/06/2024 | 24/06/2024 |
