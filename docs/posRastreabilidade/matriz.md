@@ -97,3 +97,4 @@ A matriz de rastreabilidade desenvolvida para o projeto da Carteira Digital de T
 | 1.4 |  Adição dos RF 15 ao 21. | Luana Medeiros |  ---  |  24/06/2024  |
 | 1.5 |  Adição dos RnF 16 ao 24. |Caio Mesquita | Luana Medeiros|  24/06/2024  |
 | 1.6 |  Adição dos RnFs 1 a 8. | Breno Alexandre | Luana Medeiros |  24/06/2024  |
+| 1.7 |  Adição dos RF 22 ao 28. | Pedro Izarias |  Luana Medeiros |  23/06/2024  |
