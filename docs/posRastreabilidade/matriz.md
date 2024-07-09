@@ -58,7 +58,7 @@ Após a análise de rastreabilidade, organizamos as informações na Tabela 1, f
 |         RNF06        | A interface do usuário deve estar em conformidade com os manuais de interface gov.br                                                            | Análise de Documentos | Parcialmente | NFR Framework | RNF05, RNF07,  RNF12, RNF14                                                                        | 
 |         RNF07        | A interface do sistema deve incluir todos os elementos básicos de design do Padrão Digital de Governo                                           | Análise de Documentos | Parcialmente | NFR Framework | RNF05, RNF06,  RNF12, RNF14                                                                        | 
 |         RNF08        | O sistema deve implementar autenticação multifator, criptografia AES-256, controle de acesso baseado em funções, e logs de auditoria detalhados | Análise de Documentos | Sim          | NFR Framework | RF01, RF02, RF03, RF04, RF10, RF17, RNF09                                                          | 
-| -------------------- | ------------------------------------------------- | --------------------------------------- | ------------- | --------------------------- | ---------------------------------- |
+| --- | --- | --- | --- | --- | --- |
 |         RNF09        | Conformidade com a LGPD                           | Análise de Documentos                   | Incompleto    | Documentação de Conformidade| RF03, RF04, RNF14, RNF18           |
 |         RNF10        | Suporte a Ferramentas de Acessibilidade           | Análise de Documentos                   | Incompleto    | Relatório de Acessibilidade | RF05, RNF18                        |
 |         RNF11        | Integração com Processos Governamentais           | Análise de Documentos e Storytelling    | Incompleto    | API de Integração           | RF06, RNF12                        |
@@ -97,3 +97,4 @@ A matriz de rastreabilidade desenvolvida para o projeto da Carteira Digital de T
 | 1.4 |  Adição dos RF 15 ao 21. | Luana Medeiros |  ---  |  24/06/2024  |
 | 1.5 |  Adição dos RnF 16 ao 24. |Caio Mesquita | Luana Medeiros|  24/06/2024  |
 | 1.6 |  Adição dos RnFs 1 a 8. | Breno Alexandre | Luana Medeiros |  24/06/2024  |
+| 1.7 |  Adição dos RF 22 ao 28. | Pedro Izarias |  Luana Medeiros |  23/06/2024  |
