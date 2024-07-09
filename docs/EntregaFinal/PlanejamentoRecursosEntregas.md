@@ -142,4 +142,4 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 | Versão | Alteração                                                         | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do documento                                              | Pedro Izarias |  - | 08/07/2024 |
+| 1.0    | Criação do documento                                              | Pedro Izarias |  Caio Mesquita | 08/07/2024 |
