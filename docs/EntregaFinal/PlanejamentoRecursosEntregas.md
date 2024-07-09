@@ -1,10 +1,18 @@
-# Cronograma
+# Planejamento dos Recursos e das Entregas
 
 ## Introdução
 
-O cronograma da equipe visa organizar todas as tarefas que foram realizadas ao longo do projeto de Requisitos de Software durante o semestre 2024.1 pelo grupo 2 referente ao aplicativo Carteira de Trabalho Digital. O Artefato foi dividido em planejamento do projeto, onde temos uma tabela com todas as tarefas, datas, responsáveis, revisores e períodos de revisão das atividades do projeto. Posteriormente temos o tópico de Execução do projeto, onde há os mesmos tópicos porém referentes ás atividades executadas durante o semestre.
+Este documento tem como objetivo detalhar o planejamento, os recursos e as entregas do projeto Carteira de Trabalho Digital desenvolvido para a disciplina de Requisitos de Software. A elaboração deste planejamento é essencial para garantir que todas as etapas do projeto sejam devidamente organizadas e executadas, assegurando a qualidade e a entrega pontual dos artefatos previstos.
+O planejamento detalhado inclui a definição das atividades, seu início e fim, responsáveis e revisores. A intenção é proporcionar uma visão clara e abrangente do projeto, permitindo uma visualização efetiva e a identificação de possíveis desvios ou problemas.
+
+## Metodologia
+
+O Documento de Planejamento dos recursos e das entregas se baseia no [cronograma](https://github.com/Requisitos-de-Software/2024.1-CarteiradeTrabalhoDigital/blob/main/docs/planejamento/Cronograma.md) utilizado ao longo do projeto. A metodologia adotada para o desenvolvimento do projeto Carteira de Trabalho Digital segue um modelo de planejamento e gestão de projetos, onde as atividades foram divididas em entregas e detalhadas em uma tabela. Cada tarefa possui uma descrição clara, datas de início e término, responsável e revisores, o que permite um acompanhamento sistemático e facilita a comunicação entre os membros da equipe. 
+Essa abordagem metodológica visou garantir que o projeto fosse conduzido de maneira eficiente e eficaz, proporcionando uma base sólida para o acompanhamento e a avaliação contínua do progresso, bem como da qualidade das entregas.
 
 ## Planejamento do Projeto
+
+Tabela 1: Lista de atividades planejadas
 
 | *Atividade*                        | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ---------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
@@ -60,7 +68,11 @@ O cronograma da equipe visa organizar todas as tarefas que foram realizadas ao l
 | Gravar apresentação                       | 17/06/2024 | 17/06/2024| Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 18/06/2024 | 24/06/2024 |
 | Correção pós apresentação                 | 18/06/2024 | 24/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | 18/06/2024 | 24/06/2024 |
 
+Fonte: [Pedro Izarias](https://github.com/Izarias)
+
 ## Execução do Projeto
+
+Tabela 2: Lista de atividades executadas
 
 | *Atividade*                       | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | --------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
@@ -116,6 +128,8 @@ O cronograma da equipe visa organizar todas as tarefas que foram realizadas ao l
 | Artefato dos vídeos de avaliações | 10/06/2024 | 10/06/2024 | Iago Passaglia | Breno, Pedro e Larissa | 10/06/2024 - 10/06/2024 |
 | Gravar apresentação                       | 10/06/2024 | 10/06/2024 | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro |10/06/2024 - 10/06/2024  |
 | ----------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
+
+Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 ## Histórico de versão
 
