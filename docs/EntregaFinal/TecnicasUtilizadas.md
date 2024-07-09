@@ -38,7 +38,9 @@ Abaixo está a tabela 1 com as técnicas usadas, os participantes que usaram a t
 | Classificação por Quadrantes ou Three Level Scale | [Breno](https://github.com/brenoalexandre0) e [Larissa](https://github.com/SkywalkerSupreme) | [Técnica de Priorização da Classificação por Quadrantes ou Three Level Scale](/Elicitacao/Priorizacao/Execucao/QuadranteTresNiveis) |
 | In or Out | [Caio Mesquita](https://github.com/caiomesvie) | [Técnica de Priorização In or Out](/Elicitacao/Priorizacao/Execucao/InOrOut) |
 | MoSCoW | [Caio Mesquita](https://github.com/caiomesvie) | [Técnica de Priorização MoSCoW](/Elicitacao/Priorizacao/Execucao/MoSCoW) |
-| Cenários | [Breno](https://github.com/brenoalexandre0), [Bruno](https://github.com/brunocva), [Caio](https://github.com/caiomesvie), [Iago](https://github.com/Paxxaglia), [Larissa](https://github.com/SkywalkerSupreme), [Luana](https://github.com/LuaMedeiros) e [Pedro](https://github.com/Izarias) | [Cenários](/modelagem/cenarios) |
+| Cartões de Especificação e Softgoal Interdependency Graph (SIG) | [Breno](https://github.com/brenoalexandre0), [Larissa](https://github.com/SkywalkerSupreme) e [Pedro](https://github.com/Izarias) | [NFR Framework](/modelagemAgil/NFR) |
+| Backward-From | [Breno](https://github.com/brenoalexandre0), [Bruno](https://github.com/brunocva), [Caio](https://github.com/caiomesvie), [Iago](https://github.com/Paxxaglia), [Larissa](https://github.com/SkywalkerSupreme), [Luana](https://github.com/LuaMedeiros) e [Pedro](https://github.com/Izarias) | [Rastreabilidade Backward From](/posRastreabilidade/backwardFrom) |
+| Forward-From | [Breno](https://github.com/brenoalexandre0), [Bruno](https://github.com/brunocva), [Larissa](https://github.com/SkywalkerSupreme) e [Luana](https://github.com/LuaMedeiros) | [Rastreabilidade Forward From](/posRastreabilidade/forwardFrom) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
